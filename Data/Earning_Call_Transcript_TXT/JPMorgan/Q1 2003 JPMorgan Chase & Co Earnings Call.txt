@@ -1,0 +1,300 @@
+9,100 words
+16 April 2003
+11:00 AM
+FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+ (c) CCBN and FDCH e-Media. All Rights Reserved. 
+
+ OPERATOR: Good morning ladies and gentleman, and welcome to the JP Morgan Chase First Quarter 2003 results conference call. Hosted by Marc Shapiro Vice Chairman of Finance and Risk Management. 
+
+ As a reminder, today's conference call may contain statements that are forward looking within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon current beliefs and expectations of JP Morgan Chase's management and are subject to significant risks and uncertainties. Actual results may differ from these set forth in the forward-looking statements. Such risks and uncertainties are described in the annual report on Form 10-K for the year ended December 31st, 2002, of JP Morgan Chase and company filed with the Securities & Exchange Commission and available at Securities & Exchange Commission's Internet site at www.sec.gov to which reference is hereby made. 
+
+ It is my pleasure to turn the call over to your host, Mr. Shapiro. Sir, you may begin. 
+
+ MARC SHAPIRO, HEAD, FINANCE, RISK MANAGEMENT, AND ADMINISTRATION, JP MORGAN CHASE: Thank you very much and we appreciate all of you joining us on this quarterly conference call discussing our earnings. As has been our custom, Dina Dublon will give you a brief run through of the numbers highlighting the items that we think are important. I'll make a few comments, and then I'll be joined by several of my colleagues in responding to your questions. Dina would you like to proceed. 
+
+ DINA DUBLON, CFO, JP MORGAN CHASE: Yes, good morning to all of you on the line. It's really nice to be here with some good news. We had, on slide 1. We had a strong rebound in investment banking results, illustrating the power of positive operating leverage. Income capital revenue reached the highest level in three years. 
+
+ Commercial credit improved meaningfully from the trough. We achieved top 3 status in global M and A, global equity and equity link and global debt. 
+
+ Chase financial services our retail business had 28% return on equity, driven by the continuation of the refinancing boom with low interest rates, record applications, and wide spreads. 
+
+ JP Morgan Partners is still generating a loss due to limited exit opportunities and a high level of write-downs. We are cautious about the remainder of the year, as the economic uncertainty is high. 
+
+ I'm on slide 2. In the past two years, we have had large differences between reported and operating results, driven primarily by the cost of executing the merger and late last year, the litigation reserves. First quarter earnings per share of 69 cents is 21% higher than our operating results last year, but 44% higher than reported EPS. For the rest of our presentation, the comparisons are to prior period's operating results. 
+
+ And on slide 3, earnings for the quarter were $1.4b, return on equity 13%. Compared to the first quarter last year, revenues were up 12%, and expenses were up 9%. The positive spread is more pronounced relative to quarter 4, 12% versus 12% in revenues versus 1% expense [grow]. 
+
+ Commercial credit costs declined from both periods last year, consumer credit costs were up consistent with the growth in consumer loans. 
+
+ I'm on slide 4, looking at the drivers of revenue growth. The largest contributors are the investment bank and Chase Financial Services. $1b revenue growth between the two businesses compared to either the fourth quarter or the first quarter last year. J.P. Morgan Partners revenues are $200m more negative than quarter 4 about the comparable to the first quarter last year. 
+
+ I want also to highlight other which is the residual undistributed corporate center. It has a large negative revenues and a large negative bottom line caused by internal transfer pricing policies, test rates to us and booking certain charges at corporate. We are committed to reducing the number this year. 
+
+ On slide five, operating expenses, total non-interest expense is about flat to the fourth quarter, and 9% higher than the first quarter last year. Compensation expense is significantly higher, mostly because we have about $300m hiring [incentive] for improved revenues. In addition, for the quarter, we have $100m, and for the full year, about $400m more from expensing the compensation value of options, and from the reversal of stock grants with performance triggers. 
+
+ Non-compensation expenses are flat to down, despite higher occupancy cost of $75m versus the first quarter last year. Non-compensation expenses this quarter are about $100m lower the ID of investment bank and about $100m higher in Chase Financial Services. 
+
+ We continue to incur a high level of restructuring costs which are included in our operating expenses. For the quarter, it was $170m lower than the $500 million incurred in the fourth quarter, but still very high. 
+
+ Included in the restructuring lines are $80m of real estate charges, as we have contracted the labor force, we have a high level of unoccupied space, and with a deteriorating market, we are recognizing a loss. For the full year, we are looking at restructuring costs of over $400m, including the potential for further real estate charges of the same magnitude that we saw this quarter. 
+
+ For the full year, we are on plan for slightly higher expenses than we had in full year 2002. Except that higher revenues will obviously drive higher incentive compensation. 
+
+ I'm on slide 6. Total commercial credit exposures which include contingencies, loans and counterparty exposure was $406b. 82% of that exposure is investment grade. 
+
+ I want to note that non-investment grade exposure is down $25 billion, or 25% in the last 15 months. 
+
+ On the left of the slide, criticized exposure, which is a subset of non-investment grade rated CCC or lower were down $2b from year end to $14.3 billion. We had $800m reduction in criticized merchant energy exposures to $1.4 billion, and we [won't] see more improvement in the second quarter in the this category. I also want to note a continuing reduction across all industries down to $7.5b from almost $10b, $9.8b, 15 months ago. 
+
+ So the pipeline for problem credit is down. Yet we remain cautious about credit. We are not expecting a recovery yet, given economic uncertainty. 
+
+ I want to note that criticized exposures are down $2b from just last quarter but still up $2 billion from last year. I also want to remind you all that we will be discussing the evolution of credit in the investment bank on May 7th from 10:00 to noon, so please join us. 
+
+ The implications of the lower pipeline in problem assets are beginning to show up in nonperforming assets, nonperforming assets are down 8% in the quarter. 
+
+ I'm on slide 7. Except for the surety settlement, we have not seen a decline in nonperforming assets for two and a half years. 
+
+ Total credit cost of $1.2b include $1.1 billion relating to loans, and $.1b was added to the allowance for lending related commitment. 
+
+ Commercial credit costs were lower than prior periods, and as I have noted, consumer credit costs stayed essentially flat to the fourth quarter, but were up over the year consistent with the growth in managed consumer loans. 
+
+ I'm moving to slide 8 on capital. The tier 1 ratio increased to 8.4%, with assets staying fairly flat, and retained earnings growing. Our dividends payout was 50%, in a quarter that still has a loss at J.P. Morgan Partners, slow client flows in the investment bank, and no leverage yet from any stock market recovery. 
+
+ My point is, with [care and] dividends some the payout ratio of potential earnings of the firm is much lower than 50%. We continue to manage the balance sheet tightly, deleveraging relative to commercial credit and private equity. Both asset classes will continue to decline. 
+
+ In the third quarter, we will have to consolidate potentially $25b of assets in variable interest entities, based on scene 46. We continue to evaluate restructuring opportunities for those vehicles. 
+
+ As we will be discussing on May 7th, we are revising our approach to allocation of capital for credit risks, taking a more market-sensitive approach in our internal pricing. This will lead to a significant increase in the attribution of capital to credit risk. We are also revising our approach to operational risk and business risk. Generally, revisiting all aspects of our capital allocation to businesses. This may impact this segment's ROE. We are targeting the second quarter for completion and will restate for such changes. 
+
+ I'm moving to slide 9, the investment bank results. Investment bank's earnings were up significantly from quarter 4, and up over 20% from quarter 1 last year. The return on equity rebounded to 20%. Though the return on equity level may get restated for changes in capital allocation, the extent of the rebound will not. As you see in the pie chart on the right, fixed income capital markets represent about half of the $4b investment bank revenues, and is up 27% versus the prior quarter. 
+
+ Financial revenues in global treasury were up 5%. On a total return basis, which includes unrealized gains and losses on both assets and liabilities, treasury produced record results, up about 15% from both prior periods. We also had a good rebounding equities, with revenues up 126% over fourth quarter, driven by strength in equity derivatives and convertibles. 
+
+ We have positioned our equity business to produce positive earnings in this environment. It was achieved in the first quarter, despite the very slow market. In all of our trading areas, we capitalized on a good fixed income environment with lower interest rates, a steep youth curve, tighter credit spread and higher volatility. 
+
+ We had increased client flows in cash and derivative markets, boding well for sustainability. And we had risk positions that worked out well, not outsized risk positions. The average value at risk in the quarter was $54m, versus $67m in prior quarters. 
+
+ Investment banking fees were [inaudible] 4% versus the fourth quarter with continued weakness in advisory equity underwriting and loan syndications, offset some loss by strength in high grade and high yield underwriting. The investment bank pipeline remains weak but has become a less reliable indicator for some debt and equity deals. 
+
+ Positive operating leverage was evident, compensation costs were up reflecting higher incentives, non-compensation expenses were down, over 80% of our announced expense reduction initiatives are complete. The savings in the first quarter more than offset increases in accounting for stock-based compensation, increases in occupancy and pension expenses. Headcount is down 17% over the last 12 months. Credit cost of $246m are down from both prior periods. 
+
+ I'm on slide 10, investment bank lead table, and we do have a strong story to tell from those tables. We more than doubled our market share in U.S. equity and equity linked issues to 15%, taking the number one spot for the quarter. We all know that volumes are very low here. We are, therefore, focused on the direction of the move, and overall profitability. We maintain our leadership positions in fixed income with U.S. investment grade at No. 2 and global loan syndications at No. 1, with pressure on our market share given the increasing trend of issuers to share the lead position. And we improved our position in global announced M&E to No. 3, increasing our market share to 19%. 
+
+ I want to highlight three recent deals. We were book runner to news corporation on a $500m bond issue, book runner on a $1.5b convert and advisor to news on a purchase of DirectTV from GM Hughes. We acted as advisor to Constellation Brands on its acquisition of an DRL Harvey an Australia Company. And we were book runner and administrative agent on a $2b financing package. In the past four years we have executed seven debt and equity deals for the company. We acted as joint book runner on a $1.15b convert offering for Walt Disney Company last week. This is JPM's second book run for Disney following a 2002 joint book run of $1.75b dual Tranche(ph) offering of senior notes. J.P.M. has had a long relationship with all these companies. The deals illustrate the business model as work, our global reach and investment banking expertise. 
+
+ Let me move to slide 11, Chase Financial Services. It has had the second highest quarter ever with earnings of $700m and return on equity of 28%. Revenues were up 11% from the fourth quarter and over 20% from first quarter last year. Driven by record volumes in our mortgage business and increased volumes in card and auto finance. Next, hedging gains on mortgage servicing rights were less than $100m, but a swing of close to $200m from the prior period. Lower interest rates and the steep curve helped consumer lending businesses especially mortgage, with increased volumes and lower funding costs. While deposits grew at our regional bank and our middle market business, the value of these deposits decreased with the lower interest rates. Expenses grew 13% over first quarter last year. Credit costs were up 21%, again, consistent with the increased managed consumer loans. High mortgage application volumes in March and early April indicate continued trends into second quarter, though income will most likely be lower than the extraordinary results this quarter. We expect production volumes to moderate in the second half of the year, trending to lower mortgage earnings, about half of results this quarter. Overall, Chase Financial Services is at peak profitability at 28%, which we expect will eventually decline to more sustainable 20% return on equity. 
+
+ Moving to slide 12, J.P. Morgan Partners. We had losses of $230m, which are comparable to last quarter, higher than quarter 4. The direct portfolio represents 75% of the $8b invested in private equity. We saw reduced opportunity for selling and delay in some deals, bringing realized gains down by approximately $100m. The write-downs of $175m are in line with prior quarters. Loss on third party funds from adjustment to NAD are running high. We generally view investments in third party funds as non-core to our private investing business and will explore opportunities to divest. Reductions here will be the primary driver for the targeted reduction of exposure to the asset class. Given the unfriendly environment for private equity, we expect total private equity losses for the year to be higher than we had previously anticipated. Potentially, approaching last year's levels. The swing to positive results will need to wait for the equity market and M&A environment to turn. 
+
+ I'm on slide 13. And let me briefly review the other two businesses. Treasury and security services earnings of $147m were up very slightly from prior quarters. Revenues were flat, and expenses were down 1%. Income growth in treasury services and to a lesser extent institutional trusts was upset by revenue and income declines in investor services. Investor services continues to be adversely affected by difficult markets. We have reduced custody fees foreign exchange revenues and securities lending activity. The group's return on equity was 19%, and the overhead ratio improved marginally. Investment management and private banking had earnings of $64m and a very low return on equity. Revenues were down 16%, versus quarter 1, and the expenses were down 2%, bringing the pretax margin from 22% to 11%. Revenues are flat to the fourth quarter, and bottom line significantly up on a sequential basis. Over half of the revenue drop from quarter 1 last year can be attributed to lower global equity valuations, with the S & P down 26% year over year. Our U.S. core equity performance was poor last year and has expected has led to net outflow. For the quarter performance was above benchmark but it will take time to stem outflow. Assets under management were $495b at the end of the quarter, down 4% from year end and 16% from the first quarter last year. The Private Bank continued to see lower investor activities and revenues were down in brokerage custody and lending. Credit costs in the Private Bank are trending significantly lower. Maintaining the breadth of product and global progress in a depressed market has resulted in margin compression. 
+
+ I'm on slide 14, and to summarize, we are pleased with first quarter results. Rebound in capital markets improved credit continued exceptional strength in retail, as well as the loss at J.P. Morgan partners are characterized a quarter. Our near term outlook is cautious. It's cautious because we still have low client activity in investment banking, we have an improving commercial credit picture, but we remain at cyclical high. We have delayed gain realization at J.P. Morgan Partners and consumer lending profits are at a key, and will eventually decline. Results this quarter, however, increased the visibility of the upside. First quarter results are much improved, but do not yet reflect the impact from the same factors, from the turn around in client activity, cyclical improvement in credit, or rising equity markets. These factors overwhelmed any potential slow downs in retail. Thank you all very much, and we will open it up for questions. 
+
+ MARC SHAPIRO: I'll make a few comments first. Just stepping back from the quarterly numbers and looking at it on a longer-term basis, we have said that our strategy is to be a diversified financial services firm with leadership positions in each of our businesses, and to provide our clients with integrated solutions. I think the strength of that model is beginning to be shown. Diversified, we've had great results from our consumer businesses, our businesses there are quite large. Sometimes it is usually because we don't have a large branch footprint that this is not a big business. But our mortgage credit card and auto finance businesses are among the largest in the country, and all are producing great results. Our middle market and retail -- and branch business are large where they exist, and generally, enjoy very high market shares. So this is a growing business, that has produced significant results to this company. 
+
+ Integrated is important because it is quite clear in the marketplace that clients want integrated solutions. It is not an accident that over any recent period of time, those companies, those financial services companies that offer integrated solutions are gaining market share relative to narrower competitors. It is significant I think that this quarter J.P. Morgan ranks in the top 3 worldwide in M&A advice, debt underwriting and equity underwriting. This is a model that will work and will produce superior returns. One thing that has hurt returns has been our credit exposure, and people wonder if you can execute this strategy without taking on a great deal of risk in credit. In my mind, there is no question that we can do that. We have a portfolio that is overwhelmingly investment grade, now up to 82% from 77% just 15 months ago. Our mistake as we look at it was too much concentration in single industry or single names. And we have taken action to sharply limit exposures to single industries or single names. I do believe that we can continue to operate with lower credit cost, and with credit cost that have cyclical highs are lower than their previous highs. 
+
+ Overall, I believe that this strategy does mean that we have significant upside leverage in our results. Dina pointed out the specific reasons why this will happen. We don't know when it will happen and we are not necessarily forecasting it to happen soon, given the uncertainties in the market environment. But we do know that sooner or later it will happen, and that we will be able to deliver the results from the franchise that we have put together. With that, I'd like to open it up to questions, and also, to invite some of my colleagues to join me in responding to your questions. Don Layton and David Coulter and Jeff Walker are here along with several of their colleagues who will respond to questions. Open it up for questions now. 
+
+ OPERATOR: The floor is open for questions. You may press 1 followed by 4 on your touch tone phone. We request you pick up your handsets to provide optimum sound quality. Our first question is coming from Henry McVey of Morgan Stanley. 
+
+ HENRY MCVEY, ANALYST, MORGAN STANLEY: Good morning, just two questions. One, can you address just give us more specifics on the VAR, I looked at the -- when I look at the BS your ending for the year for trading receivables was $229b, ending for the first quarter was $243m but your average was $246b. What was the peak of the trading assets and how does that relate to the VAR numbers you gave us? 
+
+ DINA DUBLON: The VAR number does not relate to the level of assets. We had higher average trading inventories, I guess, throughout the quarter. But there is no direct correlation between just the asset level and the value at risk. 
+
+ HENRY MCVEY: What was the peak trading? 
+
+ DINA DUBLON: What was the peak VAR for the quarter? 
+
+ HENRY MCVEY: The trading assets I'm trying to get. Your ending was low, your average was high and then your ending was low again and I'm trying to get how high it went during the quarter? 
+
+ DINA DUBLON: I don't know. If I had to pick a number, somewhere in the quarter it had $30b or $40b higher than where we ended. But I don't have a number as to which day it peaked at. 
+
+ HENRY MCVEY: One more question. On the charge-offs, obviously Mark you gave good commentary on the commercial credit. I was trying to get a feel was there anything unusual in terms of reversals on the commercial side or is that a good run rate we should think about going forward? 
+
+ MARC SHAPIRO: I think it's hard to think about run rates in a world where you get very lumpy charges. I think we have had several situations work out in such a way that was better than the provisions we had taken against those loans. In other words, the eventual workout of the loans was a better result than what we had provided for. I don't know that that's a trend that will continue. But I think it is a good indication of the conservatism with which we approach the process. We do know that we have had a reduction in the area that we were worried about the most going into the quarter, that was the merchant energy area, and we do know that we will have a further reduction in that area in the second quarter from actions that have already happened in April. We are very cautious, though, given the general environment in the economy, as to what else could happen. 
+
+ HENRY MCVEY: So I'll take that there may have been some reversals but the goal is to, you don't know? I mean, were there reversals or were there not? 
+
+ MARC SHAPIRO: There were certain situations where we had provided more than we needed to provide. But we don't comment on, you know, individual situations. 
+
+ HENRY MCVEY: All right. Thank you. 
+
+ OPERATOR: Our next question is coming from Mike Mayo from Prudential. 
+
+ MIKE MAYO, ANALYST, PRUDENTIAL: Hi. The trading, what kind of profit margin should we assign to that? In other words, you could almost guess that half your pretax earnings are from trading, is that correct? And in any event, it is such a big amount, can you give us some more detail on which areas the trading did well, by geography, activity, if you could just drill down a little bit more. 
+
+ MARC SHAPIRO: Let me just say, you could not say that half of our pretax profits were from trading, because the consumer business alone was almost half of our pretax profits. 
+
+ MIKE MAYO: How much was that, then? What were pretax earnings just from trading? 
+
+ MARC SHAPIRO: We don't break out the expense numbers that are associated with it. But I'm just saying it couldn't be as large as you ascribe to it looking at the other businesses that have nothing to do with trading. In terms of looking at our overall trading, I think David Coulter do you want to comment on that? 
+
+ DAVE COULTER, HEAD, INVESTMENT BANK, INVESTMENT MANAGEMENT, AND PRIVATE BANKING, JP MORGAN CHASE: Yeah, I'll make a few comments, Marc. The good news for us in the quarter was looking across products on a global basis we had a very strong performance across the board. I guess areas I'd highlight is very strong performance in European credit and rates, very strong performance in the emerging markets, had good rebound in equities, in the equity derivatives area. We were disappointed in our performance last year in equity derivatives. And I guess finally in the pure proprietary positioning in treasury area, we also saw good performance. So it was a strong quarter, in the sense that most of our results went in a positive direction. Now, you wouldn't certainly wouldn't draw a straight line through that for the rest of the year. But I think one -- and it was favorable environment, with rates in general trending down, and some volatility around that. So that says strong overall. Now, I think one positive to keep in mind going forward is a fair chunk of our business is client flow. In addition to pure trading activity. And if we look at something like our credit business, vis-a-vis the first quarter of last year, our client revenues are up about 30% from the first quarter of last year. If we look at our rates business, our client revenues are up about 13% from the first quarter last year. And I think that is a good thing to keep in mind vis-a-vis the sort of long-term trend lines of the size of this business for us. 
+
+ MIKE MAYO: What percent would be proprietary versus client flow when you look at all tradings? 
+
+ DAVE COULTER: It -- this will be just approximate, but I'd say somewhere between 60 and 65%. Bill Winters and Steve Black are in the room; they may have a slightly different number. If they disagree feel free to speak up gentlemen. 
+
+ STEVE BLACK, INVESTMENT BANK, JP MORGAN CHASE: I would agree with the number. I think the important thing to consider in our trading income line is that there are three pieces that are sometimes difficult to distinguish. There's discrete proprietary trading which is relatively small. There is risk taking associated with our client business and then there's the client value itself that comes from the transaction with the client. And certainly the second two categories are somewhat fungible. We are -- we're taking risk as part of our client market making business. It is difficult to attribute risk piece to client piece they go together. But certainly the two categories client related, client value and risk taking, Dave's 60% to 65% is probably about right, perhaps a bit low. 
+
+ MIKE MAYO: Thank you. 
+
+ OPERATOR: Our next question is coming from John Coffey from Citigroup. 
+
+ JOHN COFFEY, ANALYST, CITIGROUP: On the VAR, did you say that your average daily VAR to $54m and if so, why did you decide to reduce it? 
+
+ MARC SHAPIRO: Our VAR is a result of what happens when thousands of traders around the world make decisions. We have limits on individual traders and we have limits on aggregate VAR that would cause it not to go over certain amounts. But rarely is our VAR result from a top-down decision that we're going to take a position. It's really a result of a number of trading positions across the firm. 
+
+ STEVE BLACK: Just to add a little bit of color, I think we clearly did not consciously reduce our risk. And even those thousands of traders, there wasn't a reduction in risk. What there was an increase in the diversification benefit that we got from trading strategies that were spread across a broader range of products, asset classes, and geographies. That was the primary contributor to the lower average [volume] in the quarter. 
+
+ JOHN COFFEY: You did intentionally increase the diversification? 
+
+ UNIDENTIFIED: That wasn't intentional either. That was the byproduct of I think a conscious strategy we have had across the market businesses, proprietary or not, to develop our risk taking skills wherever we have a strong client franchise. And I think what we're seeing is some of the benefit of a conscious decision to broaden out our capabilities but there is no specific target to increasing diversification per se. 
+
+ JOHN COFFEY: Okay. Then a clarification. Dina was talking about real estate related charges in the restructuring costs on page 5. Is the $80m part of the $171 listed on page 5, or is that hidden somewhere else in the expenses? 
+
+ DINA DUBLON: Yes. 
+
+ MARC SHAPIRO: It's part of the $171. 
+
+ JOHN COFFEY: Okay. And then so the guidance for the full Year, 500 total, includes also real estate related charges? 
+
+ DINA DUBLON: Yeah, and the guidance was $400m total rather than $500m total, but yes. 
+
+ JOHN COFFEY: Okay, well thank you. 
+
+ OPERATOR: Our next question is coming from Andy Collins from U.S. Bancorp Piper Jaffray. 
+
+ ANDY COLLINS, ANALYST, U.S. BANCORP PIPER JAFFRAY: Private equity losses approaching last year's levels, I wonder if you could clarify perhaps by industry and also private versus public and second question is secondary market pricing in terms of the credit business, how much are you selling, how much are you hedging? Against that $14.3b total criticized exposure. Thank you. 
+
+ MARC SHAPIRO: Well, to answer the first question I don't think we could break it out that way. I think that the reason that our expectations have gone down is, the way the market is operating, with virtually no IPO market and with a level of M&A activity down. The opportunity for exits is simply much lower than we would have anticipated going into the year. Our write-offs probably are about the same level, although they may be a little bit higher on the fund side as we seek to dispose of some of those assets. But I don't think we could predict by industries unless, Jeff, Jeff Walker is here also unless you have some other opinion on that. 
+
+ JEFF WALKER, JP MORGAN PARTNERS, JP MORGAN CHASE: You look at it and you see the IPO market still fairly slow. And we don't see that coming back any time soon. Looking at our portfolio. You look across the entire private equity industry and we can see through the funds we are invested in as well. There are no realizations occurring and so the corporate M&A market is slow as well. That is the determination of our realized gain line which is the key variable in our forecast throughout the rest of the year. 
+
+ ANDY COLLINS: Thank you. And on the secondary markets? 
+
+ MARC SHAPIRO: I'm going to let Don McCree who is our Senior Credit Officer respond to that. 
+
+ DON MCCREE, SENIOR CREDIT OFFICER, JP MORGAN CHASE: The 14.3 reflects hedges already in the criticized book. As it relates to additional actions against that portfolio, we would further mitigate the risk on an opportunistic basis, although realistically, where levels are in terms of spreads and where the assets in our market is he you won't see much secondary mitigation on an ongoing basis. The real path to reduction is via the traditional work-out process. 
+
+ ANDY COLLINS: Thank you. 
+
+ OPERATOR: Next question is coming from Richard Strauss from Deutsche Banc. 
+
+ RICHARD STRAUSS, ANALYST, DEUTSCHE BANC: Thank you. Just looking at the criticized and I'm sorry the investment grade and non-investment grade exposures, when you reclassify that, that's your reclassification is that correct? 
+
+ MARC SHAPIRO: That is our internal reclassification which is roughly consistent with public ratings but does not exactly duplicate public ratings. 
+
+ RICHARD STRAUSS: And if we look at these criticized performing, because it rooks like they actually went up in Telecom and cable, what is your experience, like what is the percentage that we should think about when we look at something called criticized performing in terms of that actually going to nonperforming? 
+
+ MARC SHAPIRO: Don, you want to respond to that? 
+
+ DON MCCREE: I'm not sure you can extrapolate a specific percentage. We are seeing fewer of our criticized performing loans migrate to the nonperforming status, certainly over the current quarter, you could call that a six month trend but it is hard to come up with specific overall portfolio percentages there. 
+
+ MARC SHAPIRO: What we said in the third quarter, in a troubled area like telecom, you get to a point where sort of if it hasn't gone bad by now it's not going to go bad. I'm not saying we're at that point entirely for all of these credits but that means that the likelihood of a criticized performing loan going nonperforming today is much lower than it was a year ago, simply because of the point in the cycle we're at and if it hasn't already happened by now in an industry where there is no outside sources of liquidity, presumably the company has some staying power. But it's hard to predict by each individual segment. 
+
+ RICHARD STRAUSS: And in the equities business in the last few months, in the left, was there a philosophical difference or was there a change that was about to take place, has there been a strategic change in terms of, you know, perhaps how you view the cash business versus the arbitrage businesses, should -- what should we read into the -- any of this? 
+
+ MARC SHAPIRO: Dave Coulter you want to respond to that? 
+
+ DAVE COULTER: I think Steve Black is in the room. Why don't we get it directly in the horse's mouth here. 
+
+ STEVE BLACK: First of all I'm not going to respond relative to an individual. I will respond relative to what we tried to do last October, September/October, which was to take a look at what we thought the environment was going to look like in 2003, which we expected to be not better, but not worse, and then right-sized the resources and the expense base to what we thought that revenue stream would be for 2003. Also, thinking that there was some places like derivatives where we simply did not do a good job, where we felt we could do a better job even without a better environment. And we right-sized in that September/October time frame, we took out 20 +% of our headcount which took us down to 2,000, a little over $1b in the cost base over the last two years and what you're seeing I think is a result of even in this difficult environment, that expense base is the right expense base. And frankly, I think we've been able to focus on the market and the customers while some of our competitors have been focusing on what we focus on last September/October. So no change in overall strategy other than paying as much attention to profitability and less attention to trying to build out a [inaudible] opening to be all things to all people cross the globe. 
+
+ DAVE COULTER: Richard, I would add one thing. This is Dave Coulter. I think Steve and team has done a great job, we have faced these questions for the last few quarters. But when you look at the size and scope of our equity business, be it in the convertible side which certainly was the game in the first quarter or the derivative side or the cash business, as an institutional player in this, capital market side or the underwriting side we feel pretty good about how this business is positioned right now, and we feel especially good about our ability to win deals for those clients where we have broad, deep relationships. And to play a lead role in the transactions. And I think the first quarter felt pretty good from that standpoint. 
+
+ RICHARD STRAUSS: Great, thank you. 
+
+ STEVE BLACK: One thing I would add, I think it's important to note, we had very good performance in convertibles and derivatives. We had flat performance in cash, in what was clearly a very difficult environment, where most major accounts would tell you their commission payouts are 40% lower than where they were a year ago, and where the volumes are actually down. So we are -- are picking up market share in the cash side of the business, although it's not reflected in an increase in the revenue stream. 
+
+ OPERATOR: Our next question is coming from Walter Scully(ph) of Putnam Investments. 
+
+ WALTER SCULLY, ANALYST, PUTNAM INVESTMENTS: I had a question just about the capital reallocation. I don't know if it's better for Mark or Dana. Couple of questions, why are you doing it what was the catalyst of doing this, the second part is do you think your V1 total capital changes or if you are just moving around the pieces and the third is you kind of highlighted that there's greater risk in commercial lending, I think you're implying that maybe you thought before, just how much of a change might that have on the ROE, are we talking about a small change, like 100 basis points or are we talking about 500 basis points of ROE? 
+
+ DINA DUBLON: Let me hopefully address all the sub-questions you had. Why are we doing it. We do quite regularly, we visit various aspects of our capital allocation, and we find them. We have had a more focused effort around our approach to credit risk management, which has led us to a very different approach on the capital allocation, the internal pricing of those loans in the company. As I mentioned earlier, making it more market-sensitive and generally resulting in an increase in the capital allocation for credit. Separately from that exercise, we have been probably, since the beginning of the merger, I would say, but more than one year, been revisiting our overall approach to operational risk capital. So it's a parallel process, not necessarily one linked to the other. But we have taken an approach of being much more -- put putting it a little bit in quotes but being more scientific about operational risk capital and very much with the [inaudible] approach in mind which has a real encouragement for a more scientific and more fact-based approach to allocation of capital in the regulatory framework. So those are the two major frame works we have been focused on over the last few months. All these things are coming together. Our assessment of where we are today is that it does not change the overall need for capital in the company, if you look at our disclosures, we have the significant amount relative to economic risk measurement of capital. We have a significant amount of access capital based on those methodologies. It will change on the margin, the allocation of capital across businesses, as we are reassessing the components of risk. So it might change, and you know, I'm not giving you a number, because we don't have that work completed. It will change the segment return on equity. It does not, in terms of where we stand today, change an overall assessment of our need for capital in the firm. 
+
+ WALTER SCULLY: Do you think there would be any business actions that come out of it, or is it just really changing the disclosure? 
+
+ DINA DUBLON: Definitely, there are business actions. We are, you know, for us, the capital allocation is very much the linkage between risk measurement and financial return. So it won't change, hopefully behavior as well. That is part of the overall approach to revised approach to credit risk management that Mark has alluded to earlier, which has a much tighter control of industry, as well as issuer concentration, in addition to making it more market sensitive. So yes, we do hope it will change behavior internally. I don't think it's necessarily a dramatic change, but it is part of an evolution we have had in terms of our approach to commercial credit of making it more market-sensitive and over time, reducing our reliance on the credit product. 
+
+ DAVE COULTER: You know, this is Coulter again. Let me add one business comment if I could. The bank loan asset continues to be a very important asset class for us, and we think that will be the case going forward. But certainly the market's changing and the evolution of the CDS marketplace and the impact on pricing signals is something you have to take into account. And so Dina's going to have a session on May 7th to talk in detail about some of our views here. But we think we need to stay on the front end of intellectual capital in terms of that evolving asset class and how it's priced and how you think about capital allocation, and we're going to do that, at the same time it continues to be a quite important asset class for us. 
+
+ WALTER SCULLY: Thank you. 
+
+ OPERATOR: Our next question is coming from Brock Vandervliet of Lehman Brothers. 
+
+ BROCK VANDERVLIET, ANALYST, LEHMAN BROTHERS: Thank you very much. I wanted to shift gears a little bit to the consumer business, if you could talk about the credit card trends, there seem to be a decoupling this quarter where charges are up somewhat delinquencies are up, could you speak to that? 
+
+ MARC SHAPIRO: Tom Ketchum is here and I'd like to have him do that. 
+
+ TOM KETCHUM, TECHNOLOGY COUNCIL, JP MORGAN CHASE: I'm not sure there is any material decoupling. Our basic posture is the credit card balances are rising, so naturally you will have charges that will go up with them. But the way the charges work is delinquencies occur and you charge off after 180 days so you do have just some of the leads and lags. Beyond that our view is that the credit quality is stable, and there's no material trend here. 
+
+ MARC SHAPIRO: I think the one thing that has led to that a little bit, Brock, also is the increase in bankruptcies which seems to happen every time Congress considers passing a new bankruptcy bill, you tend to get a little bit of a spike and we saw some of that in the first quarter. 
+
+ BROCK VANDERVLIET: Okay. And as a follow-up, if you could talk about Chase auto finance, the receivables growth has been a little steep in the last year. How comfortable are you continuing to grow that portfolio? 
+
+ MARC SHAPIRO: You are correct, the growth has been quite good. It has been more gain in market share than a question of a rising market. Our auto business is a high-end credit quality, it is not a sub-prime specialist and does not do material sub-prime, and all the indicators there are again consistent with stable credit picture, so we're very comfortable with that. We're considered one of the highest quality portfolios in the industry. 
+
+ DAVE COULTER: Just a comment there also. You know, many, many -- several years ago this was a difficult business and many banks chose to get out of this business. We looked at it very hard, and decided to stay in the business, because we thought we had a better model, in terms of lower credit risk model, and because we thought that with reduced competition, it would become a better business. That has proven to be a very good decision. And the business growth that we're seeing is because there is a lot of refinancing and new car activity, but also because we are gaining significant market share as some of our financial competitors have dropped out and as some of the captives are having more trouble growing their portfolio. 
+
+ TOM KETCHUM: Actually, they had the portion of that portfolio that is leasing continues to shrink. The residual risk associated with our leases is mostly insured but we're continuing consciously looking to originate much more on the loan side than on the fee side. 
+
+ BROCK VANDERVLIET: Okay. Thank you. 
+
+ OPERATOR: Our next question is coming from Reilly Tierney of Fox, Pitt Kelton. 
+
+ REILLY TIERNEY, ANALYST, FOX, PITT KELTON: I have a couple of questions. One, obviously the trading performance was tremendous this quarter. And you know, I guess you guys have always told us that the normal kind of quarterly run rate is probably 1.2 to 1.5 and it's 1.9 this quarter. Your securities gains this quarter are higher than average because of the MSR hedging gains. A lot of this stuff is obviously questionable in terms of sustainability. Do you feel comfortable that the environment right now remains accommodative to these continued kind of results, or would you expect a downturn next quarter, would you expect these numbers to be lower the rest of the year? That's my first question. 
+
+ MARC SHAPIRO: I think we've always felt that with regard to trading that the first quarter is seasonally high. That's been a general trend over many years. Number 2, we had very favorable interest rate environment in the first quarter and many firms were able to take advantage of that. It is unlikely that that will be repeated in quarters to come. With regard to mortgages, it was not so much the gains in hedging, there were some, smaller in some other quarters, but it was the huge amount of origination activity, the gain on sail of origination and the profits in the warehouse that we would not expect to repeat because we do expect that originations will decline as interest rates stabilize or even go up. So I think all of those are reasons that we are cautious about the outlook for the remainder of the year. Nonetheless, we feel we've made some progress in several areas that makes us feel better about it. But we do remain cautious about the outlook. 
+
+ REILLY TIERNEY: I also have a second question about the drop in the NPAs which obviously was very positive this quarter. Were there any loan sales out of or some distressed loan sales during the quarter that helped bring that down? It seemed like a pretty tremendous improvement just for one quarter sequentially in this still pretty difficult credit environment. And also as you move to this capital allocation process where you're going to put market inputs or market pricing inputs into your capital allocation process, have you also considered marking to market loan portfolios going forward, or are you putting in place systems that would enable you to mark to market loan, move sort of away from the typical credit reserving that commercial banks do? 
+
+ MARC SHAPIRO: To answer the second question, we do not think it's appropriate to change our accounting to a mark to market. And would not expect to change our reserving policy to a mark to market. We do track for internal purposes and evaluation and risk monitoring, measures of mark to market. Although there is some market in trading loans, it is still not a deep market, or liquid market, relative to the size of most people's portfolio. With regard to our activity, most of the decrease in nonperforming assets came from either repayments, satisfactory workout of the company or recapitalization of the company, or charge-off. We did have some sales, but they were not material to the overall results. Also, just to correct, one other statement that we had made, with regard to the exposures that we list either total criticized exposures or the exposures that we list on page 23 in the total industries, those are not net of hedges. On the criticized exposure, we actually don't have a lot of hedges against that exposure because they're at a point where it's either very difficult or very expensive to buy those hedges. We do have some hedges against the investment grade and the non-criticized portfolio as shown on page 23, and our total hedges against the accrual loan exposure as set out in our annual report are around $30b. 
+
+ REILLY TIERNEY: Thank you very much. 
+
+ OPERATOR: Our next question is coming from Jim Mitchell of Putnam Lovell. 
+
+ JIM MITCHELL, ANALYST, PUTNAM LOVELL: Good morning, can you hear me? 
+
+ MARC SHAPIRO: Yes. 
+
+ JIM MITCHELL: My question was just to get back to the trading securities games part, obviously there has been a big move up in security gains. Can you break down how much is asset management versus proprietary positioning and the increase over the last few quarters has been more in the proprietary side, is that just added capital to that business or just taking advantage of current environment? 
+
+ MARC SHAPIRO: We've run Global Treasury in a very consistent way for the last decade. We've run it as a profit center. We set up a -- an index of -- which they need to invest to match the liabilities. And then we give them some variability around that index to take positions. They've been very successful over a very long period of time in doing that. The financial results which we track total return as well as financial results, the two are largely in sync the quarter. So I would say it was a result of some good decisions within very carefully prescribed limits, and the realization of those decisions. 
+
+ JIM MITCHELL: Okay. But would you expect this to be sort of unusual environment for gains? 
+
+ MARC SHAPIRO: Certainly. The sharp decline in interest rates produces an unusual environment for gains. We've had gains fairly consistently over a long period of time but I think they're difficult to predict from quarter to quarter. 
+
+ DINA DUBLON: I would also add that during the quarter, we moved from a position where we had to view about declining in rates into towards the end of the quarter with reaching more of a neutral position. 
+
+ JIM MITCHELL: Okay. 
+
+ DINA DUBLON: Relative to move in interest rates and will produce a certain level of gain realization. 
+
+ JIM MITCHELL: Right exactly. Thank you very much. 
+
+ OPERATOR: Our next question is coming from David Wilder of Bear Stearns. 
+
+ DAVID WILDER, ANALYST, BEAR STEARNS: My question was about the decline in nonperforming loans and you answered it. Thank you. 
+
+ OPERATOR: We show no further questions at this time. I'd like to turn the floor back over to our speakers. 
+
+ MARC SHAPIRO: Okay. Thank you very much for attending. We do feel obviously much better about this quarter than we have some others. We appreciate those of you who have continued to have confidence in the ultimate realization of the value of this company. We certainly have that confidence. And we look forward to continuing results for the remainder of this year. Thank you very much. 
+
+ OPERATOR: Thank you. This does conclude today's teleconference. You may disconnect your lines at this time and have a wonderful day. 
+
+ [CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+
+ In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+
+ THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. Copyright 2003, CCBN, Inc. All Rights Reserved.] 
+
+ [Copyright: Content copyright 2003 CCBN, Inc. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2003 FDCH e-Media, Inc. (f/k/a Federal Document Clearing House, Inc.) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon CCBN's or FDCH e-Media's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from CCBN and FDCH e-Media so long as they provide conspicuous attribution to CCBN and FDCH e-Media as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.] 
+
+Document fndw000020030417dz4g00008
+

@@ -1,0 +1,1128 @@
+Q4 2011 JPMorgan Chase & Co. Earnings Conference Call - Final
+16,384 words
+13 January 2012
+CQ FD Disclosure
+FNDW
+English
+©2012 by CQ Transcriptions, LLC. All rights reserved.
+Presentation
+OPERATOR: Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's fourth-quarter 2011 earnings
+conference call. This call is being recorded. Your lines will be muted throughout the duration of the conference.
+We will now go to the live presentation. Please stand by. At this time I would like to turn the call over to JPMorgan
+Chase's Chairman and CEO, Jamie Dimon, and Chief Financial Officer, Doug Braunstein. Mr. Braunstein, please
+go ahead.
+DOUG BRAUNSTEIN, CFO, JPMORGAN CHASE & CO.: Thanks, operator. I'm going to take you through the
+earnings presentation that is available on our website. We will take questions after we walk through the
+presentation; and remember the disclaimer in the back of the presentation.
+So if you turn to page 1, for the quarter we generated net income of $3.7 billion, $0.90 per share on revenues of
+$22.2 billion. Return on tangible common equity for the quarter was 11%.
+For the full year, we generated record net income of $19 billion; that is up 9% over last year. $4.48 per share,
+which was also a record per share, on revenues of a little under $100 billion. Return on tangible common equity
+for the year was approximately 15%.
+There are a few significant items in the quarter. We highlight them up front. I'm going to discuss each of them in
+the businesses.
+So as you see, we ended the quarter on a Tier 1 Common basis of $123 billion, strong Basel I/Basel III ratios of
+10% and 7.9%, respectively. For the full year we increased our Basel III ratio by approximately 90 basis points,
+and that is after the repurchase of $9 billion of our stock this year.
+As we noted last quarter, we continue to see year-on-year loan growth across many of the businesses. Total loan
+balances across the Company were up $31 billion year-on-year. And if you exclude the impact of the $30 billion in
+runoff in our home lending portfolio, predominantly WaMu-related, the year-over-year growth is $60 billion with
+the run rate of 9% year-over-year.
+Just to highlight some of the specifics, small business loans were up 52%; middle market loans up 17%; trade
+finance loans up 73%. We also saw our Card outstanding growth this quarter and solid mortgage originations.
+Deposit growth also continued in the quarter.
+Liability balances ended the year at $1.1 trillion. That is up $200 billion or 21% year-on-year.
+I have covered much of the data on page 2 and 3, so if you turn right to the Investment Bank on page 4, you see
+circled net income of $720 million. That is on revenue of $4.4 billion. We highlighted on page 1, the first significant
+item impacted the IB results this quarter; that is a $570 million DVA loss on a pretax basis. That reduced our
+reported EPS for the quarter by $0.09 a share.
+That is largely the result of the Firm's tightening credit spreads this quarter. We have consistently said we don't
+consider these gains or losses to be part of the underlying operating performance of the business. But when it is
+material to the results, we are going to identify that number as a significant item.
+Page 1 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+If you exclude DVA, revenue for the IB in the quarter was $4.9 billion. That is up 10% quarter-on-quarter. It is still
+down 21% year-on-year. Net income, ex-DVA, was $1.1 billion this quarter.
+So if you go into the particulars, IB fees of $1.1 billion this quarter are down almost 40% year-on-year; up
+modestly quarter-on quarter, primarily driven by the low industry-wide volumes that we talked about last quarter.
+We did maintain our number-one ranking for global IB fees this year. We also generated record loan syndication
+fees this year, which is again part of that loan story we talked about. You can find league table results in the back,
+in the appendix on page 20.
+Fixed Income Markets, revenues of $2.6 billion, ex-DVA. That is down 9% year-on-year, 6% quarter-on-quarter.
+Here we continued to see solid client revenue across most of our products in Fixed Income.
+Equity Markets revenue was $0.8 billion. That is ex-DVA, down 26% year-on-year, 23% quarter-on-quarter. That
+has primarily been driven by lower market volume.
+I would add we had some consistent results again this quarter in our prime services business. So the volume
+impact was largely in our cash and our derivatives business.
+We recognized negative revenues of $31 million in the Credit Portfolio, largely driven by the DVA losses. That is
+offset by the NII on fees in retained loans. And then we had a small net CVA gain this quarter.
+Credit costs in the quarter of $272 million, that largely reflected some name-specific charge-offs.
+And then on the expense side you see $3 billion in expenses, down a little under 30% year-on-year. That is driven
+by lower comp and lower non-comp expenses.
+The comp-to-revenue ratio for the year we reported was 34%. If you exclude DVA the comp-to-revenue ratio was
+36%; and that is largely at the lower end of our prior guidance of 35% to 40% for the year.
+So, with that, I'm going to actually skip page 5 as we'll drill down into the specifics of CBB on page 6. You see
+circled net income of $800 million; that is down 16% year-on-year. Revenues of $4.3 billion.
+Revenues are down $365 million quarter-on-quarter. That largely reflects the impact of Durbin this quarter.
+Year-on-year, revenues are down 2%, and that was an increase in deposit-related fees that partially offset the
+impact of Durbin this quarter.
+We continue to see very positive growth in a number of the fundamental measures we keep track of for the
+business year-on-year. Total deposits were up $25 billion; 260 new branch builds during the course of 2011. 246
+CPC, Chase Private Client, branches opened this year. And we added 3,800 new sales staff -- bankers,
+salesmen, mortgage brokers -- during the course of the year.
+Expenses up 6% year on year, primarily driven by that investment spend I just talked about. Also, I want to
+remind you the impact of both the rate environment and the regulatory environment on 2012 earnings. We expect
+spread compression likely to have a negative impact on earnings next year of about $400 million, plus or minus,
+as deposit margins are going to continue to decline in 2012. On the Durbin Amendment, we have said it will
+reduce earnings by $600 million, plus or minus, on an annualized basis in the course of 2012.
+If you skip -- move to page 7, Mortgage Production and Servicing, a loss for the business at $260 million this
+quarter; and that compares to net income of $330 million in the prior year. Production-related revenues, that is at
+the top of the page, and if you exclude repurchases was $1.1 billion; that is down 20% year-on-year.
+Originations of $39 billion are down 24% year-on-year, but up actually slightly quarter-on-quarter. We
+experienced some lower margin in that business. I would also add activity this quarter was largely driven by
+refinancing.
+Repurchase losses in the quarter you see were $390 million. That is slightly higher in the quarter based on
+acceleration of the timing of certain claims with the Agencies. We do continue to expect for next year $350 million,
+plus or minus, per quarter in repurchase losses, and that is largely in line with our prior guidance.
+I will remind everyone, our total repurchase reserves remain at $3.6 billion; $3.2 billion in this division.
+Servicing-related revenue, in the middle of the page, of $1.1 billion is down 9% year on year. That is largely a
+decline in our service portfolio, and that was partially offset by a reduction in the amortization of the MSR asset.
+Page 2 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+Servicing expense you see in the middle, $925 million in the quarter. It remains very elevated as a function of
+default costs, which represent about 75% of that total number. We would expect that number to remain high
+certainly through the first half of 2012.
+We did record an MSR risk-management loss of a little under $400 million this quarter, $377 million. The results
+really are a combination of reduction of the MSR asset of $830 million; that is based on valuation adjustments and
+rate. And that was offset by a $460 million gain from hedging the asset. For those interested in the MSR, I'd point
+you to a detail in the financial supplement in the footnotes.
+Page 8, Real Estate Portfolios. A modest net loss in the quarter. That compared to a net loss of a little over $800
+million in the prior year. Revenues, same story as we have been talking about; down 20% year-on-year,
+consistent with the reduction in the NII from the portfolio runoff, and as we said was $700 million a year, and
+remember balances were down $30 billion year-on-year.
+We'd expect to see balances continue to decline somewhere in the 10% to 15% range again in 2012. And that
+would have the result of reducing NII next year by $500 million plus or minus. But remember, that reduction will
+also free up capital at the Company level.
+Expenses up 5% year on year, and that continues to be consistent with the overall increase in servicing costs that
+I talked about in mortgage servicing.
+I want to cover Credit on page 9, so if you turn to 9 you see circled net charge-offs at $877 million. That is again a
+marginal improvement versus the prior quarter.
+We experienced improvement this quarter in our early-stage delinquencies. You can see those charts on page 19
+in the appendix. We saw the improvement both in our NCI and our PCI portfolios.
+Again, we have experienced a consistent improving level of net charge-offs for several quarters in the NCI
+portfolio. So the result of those factors is a net release of $230 million in our home lending portfolio, and there are
+two components to that reserve change.
+First, in NCI, we took a $1 billion reduction in reserves, primarily due to the improvement in our outlook for losses,
+particularly in home equity and subprime. And reminder now, current reserve levels for the portfolio are at $8.7
+billion.
+The PCI portfolio we actually added $770 million to reserves. And that, remember, is a lifetime loss estimate.
+While we have seen improvement in the delinquencies in the portfolio, they weren't as significant as we'd
+expected in our lifetime loss estimates, primarily driven by default frequencies relative to modeled expectations.
+So we therefore increased reserves. Reserves in the portfolio now are $5.7 billion.
+But if you step back from all of this, given the improvement in credit performance, you will see over on the right
+we are revising our quarterly loss guidance to $900 million, plus or minus. That is down from the $1.2 billion we
+had in the prior quarter, and that is for 2012.
+If you turn to page 10, Card Services & Auto, circled consolidated net income for the business of $1.1 billion. That
+is on revenues of $4.8 billion.
+We continue to see the trend that we've talked about all year. Credit costs down again this quarter. You see the
+details on the Chase portfolio at the bottom of the page.
+3.93% net charge-off rate; that is again below our through-the-cycle target. 30-plus-day delinquencies declined to
+2.54%; that is 112 basis points below the prior year.
+Just a quick note here, we are going to report Chase and WaMu portfolios as a single portfolio in 2012. For the
+combined portfolio, which ended 2011 at a net charge-off rate of 4.33%, we would expect Q1 rate to be 4.50%
+plus or minus. It tends to be slightly elevated versus the year-end, just literally as a function of seasonality. But
+the absolute numbers should be consistent.
+As we highlighted on page 1, we did release $500 million in loan loss reserves this quarter in our Card business.
+If you add that to the home lending actions, the combined release across Consumer was $730 million. That had a
+positive impact on EPS of $0.11 a share.
+Back to Card, though, total reserves in Card will end the year at $7 billion. That is 5.3% of our outstandings.
+Page 3 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+The final note I would say on Card is, on a sales volume basis, it continued to be very solid results for the Chase
+portfolio, up 9% year-on-year, 14% if you exclude the impact of the Kohl's portfolio sale that we had. And part of
+these increases are really being driven by our new products -- Sapphire, Freedom, Ink -- where sales growth is
+actually higher than the average.
+The result of all of that is we continue to think we picked up close to 180 basis points of market share in the Visa
+and the MasterCard systems.
+Page 11, the Commercial Bank. You see circled net income of $640 million. That's on record revenues of $1.7
+billion. Full-year revenues of $6.4 billion, $2.4 billion in net income, are both record performance for the business.
+The revenue growth and the earnings continue to be driven by that same story of loan growth and liability
+balances. Six consecutive quarters of loan growth balances. You see EOP balances of $112 billion circled; that is
+up 13%.
+Middle Market balances continued strong growth. They are up 17% year-on-year. That is the seventh consecutive
+quarter of growth.
+We also had record liability balances just slightly under $200 billion, up 35% or $52 billion year-on-year. So our
+customers are very well capitalized today.
+And then the overhead ratio continues to be very strong. Credit story continues to be strong. The result is really
+excellent performance in our Commercial Bank this year.
+Treasury & Securities Services on page 12. Our revenues are up 6% year-on-year. In part, we had stronger
+growth in our TS business. But you do see circled net income down 18% quarter-on-quarter of $250 million, really
+driven by two factors.
+We had some expense increases this quarter, driven by exiting some unprofitable business we had. Also, credit
+costs increased this quarter; and that is related to some of those name-specific charge-offs that I talked about in
+the Investment Bank; we have a share of credit expenses between those two businesses.
+We did, though, continue to see some real favorable trends in the quarter for the business. Liability balances up
+42%, over $100 billion. I talked about trade loans up front.
+Then international revenue growth, which is a big, strategic push for us, grew 16% year-on-year. For the year,
+international represented 55% of the total revenues for this business; that is up from 49% last year, so very good
+performance there.
+Asset Management on page 13, they had a weaker quarter and that was largely driven by market conditions.
+Revenues at $2.3 billion are down 13% year-on-year, relatively flat quarter-on-quarter. But the fourth quarter
+tends to be higher than normal, and we had lower performance fees this quarter.
+For the year, however, we did generate $9.5 billion of revenue, and that was a record revenue number for this
+business. It does reflect the positive long-term flows that we have seen throughout the year and a little better
+markets on average than 2010.
+It was our 11th consecutive quarter of positive long-term flows. We had $53 billion for the year. We also did
+experience some significant inflows in our liquidity products this quarter.
+Expenses, while down year-on-year and quarter-on-quarter for this quarter, were up 15% for the full year. We
+added 1,000 people to this business, 700 of which are front office personnel -- bankers, salespeople, brokers.
+While we expect that to improve future performance, it clearly had a depressing impact on margins this quarter.
+Page 14, Private Equity and Corporate. Private Equity experienced a loss of $90 million. That is primarily due to
+market valuations and a lack of monetization opportunities in the quarter.
+Corporate, you see net income of a little over $300 million. That includes $528 million of an increase in a litigation
+reserve. That was one of our significant items that reduced EPS $0.08 a share this quarter. The increase in
+reserves was predominantly for mortgage-related matters.
+Then you see to the right we do expect Corporate excluding Private Equity and significant items to be a $200
+million plus or minus net income number each quarter in 2012. That is really a result of the positioning of the
+portfolio as well as some of the RWA implications of Basel III and what we can hold in the portfolio.
+Page 4 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+I believe I have covered all the items on pages 15 and 16. So with that, operator, if you wouldn't mind, why don't
+you open it up for questions?
+Questions and Answers
+OPERATOR: (Operator Instructions) John McDonald, Sanford Bernstein.
+JOHN MCDONALD, ANALYST, SANFORD C. BERNSTEIN: Yes. I was wondering if you could talk a little bit
+about managing expenses in a tough environment. If the revenue environment remains tough, do you have plans
+to push expenses down company-wide in 2012?
+And then maybe also just in the Investment Bank, do you see the comp ratio moving lower amid all the regulatory
+changes and the industry pullback? Or do you expect 35% to 40% again in 2012? Thanks.
+JAMIE DIMON, CHAIRMAN, CEO, JPMORGAN CHASE & CO.: Want to give it a shot and I will (technical
+difficulty).
+DOUG BRAUNSTEIN: Yes. On the expense front, I think we are constantly working to try and manage the
+expenses. As you saw, expenses, John, were down in the quarter versus year-over-year. We are going to
+continue to manage it, and that is what we are expecting of all of our businesses.
+On the comp-to-revenue side in the Investment Bank, we think we paid appropriately, given the performance of
+the Investment Bank. And I think we are going to expect it to return at appropriate levels based on that payout.
+But we are going to constantly be aware of what is going on in the market. So we will see where the markets end
+for 2011 for everyone.
+JAMIE DIMON: We basically expect our overhead -- i.e., non-IB comp -- to be about flat next year. Remember
+that's after a lot of investments too, so it is not -- I think we have pretty good expense control.
+The other thing I want to say about IB comp -- no, I think you will see it stay around those numbers, but there is
+an awful lot of pressure. We are getting an awful lot of pressure for our bankers and traders to increase our
+payout ratio to about what newspapers and media have, which is a little bit higher.
+JOHN MCDONALD: The thing that you expect to be flat next year, Jamie, is your core overhead SG&A-type
+ex-litigation reserves?
+JAMIE DIMON: Well, yes, so if you look at the overhead -- which I forgot, it was like almost $50 billion a year -and that is ex-IB comp and things, if we have a litigation or something like that, to be essentially flat. So that's -the way you should think about that is we're making huge investments. And if we have opportunities to market or
+grow stuff, we change it all the time.
+JOHN MCDONALD: Okay. Then on the net interest margin, Doug, it was up a bit this quarter. Looks like maybe
+some of the trading funding cost moved lower. Can you just talk about what drove that? And what kind of outlook
+do you have for the NIM in 2012?
+DOUG BRAUNSTEIN: Yes, in NIM, John, it was really -- for the quarter, it was really a mix issue in part. We had
+lower cash. We had some redeployment in Treasury, and we also had some lower rates on the deposit
+businesses. So that is what we saw.
+I would say for the outlook for the first quarter, we expect to see some downward pressure on NIM in the first
+quarter. That will be as we continue this mix in our portfolio on the loan side, greater growth on the wholesale
+side, and some runoff in the consumer side. We will also see a little lower yielding loans that we add on.
+And the other piece I would say is we got a lower yield in investment securities -- I think expected in this rate
+environment.
+JOHN MCDONALD: Okay. Just as a follow-up, what kind of regulatory event is necessary for you to be able to
+redeem the $10 billion in TruPS that you have talked about? And when do you anticipate that might happen?
+DOUG BRAUNSTEIN: Well, we talked about that. I think clarification on the Basel III rules, we would expect will
+be the regulatory event. We were hopeful that that will happen sometime in the first quarter, but that is really up to
+the regulators.
+JOHN MCDONALD: Okay, thanks.
+Page 5 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+OPERATOR: Glenn Schorr, Nomura.
+GLENN SCHORR, ANALYST, NOMURA SECURITIES: The other day, Jamie, you mentioned housing at or near
+a bottom. It's a little involved question, but curious to see, A) what you are seeing to give you that feeling? And
+then B) what needs to happen?
+In other words, I get that affordability metrics are okay; but there is a lot of inventory out there, underwriting
+standards are too tight, there is lack of agency securitization market. Just curious if you can expand on that.
+JAMIE DIMON: Yes, so let me answer the first part. I think what you need to see is employment. That is what you
+need to see. Because employment in our opinion will drive household formation.
+But if you look at the other factors, okay? We are destroying more homes than we built in the last several years.
+We have added 10 million Americans. We're going to add 3 million Americans every year for the next 10 years;
+that is 30 million Americans who need 13 million dwellings or something like that.
+Household formation has been half what it normally is, and most economists tell us that is going to come back
+with job creation. And the so-called shadow inventory is coming down, not going up. So for all the chatter about it,
+it is very high.
+Rental -- in half the markets in America it is now cheaper to rent than to buy -- it is cheaper to buy than to rent.
+Housing is at all-time affordability. And my guess is that mortgage underwriting will loosen, not tighten.
+So if you put all those things together, you're going to have a turn at one point. Look, I don't know if it's three
+months, six months, nine months, but it's getting closer.
+GLENN SCHORR: In the past when we were going the other way, you were kind enough to give us some
+sensitivities around what happens if housing goes down X%. Not sure you have gotten that optimistic to calculate
+it; but how sensitive is the whole balance sheet and earnings to that improvement?
+JAMIE DIMON: It was much more sensitive to it going down, because we have to take capital losses, than going
+up, where we don't get appreciation. So to me if you have housing get better, our charge-offs will just start to
+rapidly go down.
+GLENN SCHORR: Got you.
+JAMIE DIMON: And you'll see real improvement in the mortgage portfolio, and then we won't need all the
+reserves. So you get both of those things.
+GLENN SCHORR: Right, right.
+JAMIE DIMON: We also would have hopefully active mortgage markets and a healthy economy, and that would
+be great.
+GLENN SCHORR: I hear you. Another question is on -- Capital Markets related. As we all sit here and struggle
+between determining the cyclical versus secular pressure, how do you go about sizing the IB?
+And most specifically, between the capital charges and potential Volcker changes, how do you think about the
+inventory businesses -- which you are so good in and big in -- as we sit here and wait for the rules?
+JAMIE DIMON: I'm going to put Volcker aside, okay? Because that really hasn't been written yet. There are a lot
+of things coming out about it.
+You can come up with a scenario which is not good. I should remind everybody on the phone, but we -- the
+United States has the widest and deepest and most transparent capital markets in the world. You should repeat
+that over and over, particularly when you go to Washington. The widest, deepest, and the most liquid -- i.e., for
+buyers and sellers, very narrow spreads.
+That is a very good thing. Okay? The beneficiaries of very narrow spreads are the investors of the world.
+So if you create -- if you lose liquidity, you lose market makers, you are going to -- it is going to cost retirees,
+pensioners, firemen, retired military, more money to invest their money. So we need those things, and I think
+we've got to be very careful we don't destroy that as we try to limit what I -- a fair limit they want to put on
+proprietary trading.
+Page 6 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+So at the end of the day, I think we will deal with that later. But beyond that I think it's -- secular is permanent?
+Which one is it -- nor not permanent.
+I think the trading -- think of the trading this way. Because we have 16,000 clients around the world. The amount
+of money they are going to need to invest in the next 10 years is going to double.
+So I think you have underlying growth, the same kind of underlying growth you had in the 2000s, '90s, the '80s,
+the '70s, the '60s. And of course spreads will change and products will change and competition will change.
+That's pretty good.
+So we are going to be in the business. We make markets actively for people. We are very good at it.
+And those institutions, 16,000, which include pension plans and governments and corporations, those are
+required services. You need to have people making markets in that so people can move securities.
+So you are starting to see a lot of people understand that. The volumes itself in the marketplace obviously go up
+or down pretty dramatically not just by quarter, but sometimes by day.
+GLENN SCHORR: Last one. I just saw a quick quote earlier that you felt the pressures are increasing in Europe. I
+think there's a lot of people that feel like some of the liquidity metrics that have been put in place are a good thing.
+If you could just comment on that, that would be super.
+JAMIE DIMON: (multiple speakers) I don't know what liquidity metrics you are talking about, but I think what I am
+saying is that I think what the ECB did was a very, very powerful thing. Okay? Which is extending the collateral
+and three-year funding. So powerful, in fact, I think you could probably make the statement it eliminates bank
+liquidity or funding problems for at least next year. That is a pretty powerful statement.
+That was the biggest single risk of an uncontrollable surprise right there. So if that is taken off the table, that is a
+good thing.
+Now, the banks still have to increase capital; so therefore they are still reducing RWA -- i.e., by not rolling things
+over. You can see them signing aircraft loans, trade finance, but they're not participating much in revolvers. There
+are certain conduits they are not doing any more.
+So you see them, but that is now just to create capital, not because they have a funding crisis.
+So look, I think Europe is trying mightily to solve its problems. I still think like the likely outcome is they will muddle
+through. But the longer you wait the higher you run a risk of something disorderly that you can't really control. So I
+think the ECB took off the worst outcome -- i.e., a bank failure.
+GLENN SCHORR: All right. Thank you for all that.
+JAMIE DIMON: The other thing I would say, and it is quite obvious -- I just got back from Berlin yesterday. That
+regulatory policy is completely contradictory to government objectives. They should start talking to each other a
+little bit.
+OPERATOR: Betsy Graseck, Morgan Stanley.
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Hi, good morning. Couple of questions. One, on the IB; can
+we just talk a little bit about how you are thinking about bidding for some of the assets that might be coming out of
+Europe? I guess I am trying to understand where you are most interested in adding to your footprint.
+JAMIE DIMON: Yes, so this is -- first of all, most of the assets we have are just -- I'm going to call ordinary course
+of business, to maintain our trading books and credit for clients. So are we going to be aggressively bidding for
+assets from overseas? No.
+We have done some. You see that in the portfolio; it was up $10 billion. Some of that came out of Europe.
+But again, going back to contradictory policy, most of us want to get our capital up and therefore we are not going
+to do it.
+BETSY GRASECK: Well, because last quarter -JAMIE DIMON: And that is the outcome of all these rules. You know? And that is life.
+Page 7 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+BETSY GRASECK: Yes, but since last quarter you talked on the conference call about the fact that capital rules
+weren't really that clear. They obviously became a little bit clearer between now and then.
+JAMIE DIMON: Right, but they are clearer bad. I will give you a very specific example, because there was one
+security we looked at that if you look at we believe would have had a 10% cash return. It really required very little
+-- some economic capital.
+Basel III statutory requirement was 1,200% capital. That is an 8% pretax return, 5.5% after-tax. We are not going
+to do it.
+That's all. That's life. Not a big deal for us. It is not great for the recovery of the global market.
+BETSY GRASECK: Got it.
+JAMIE DIMON: Because remember, that is not just one security. That filters through what people are doing
+everywhere.
+BETSY GRASECK: So, but then on the flip side, interest in low RWA assets, relatively high?
+JAMIE DIMON: Right, yes, well, listen. We are still -- we are doing RWA in the budgets at a very detailed level
+and LCR and all that. So, yes, we're going to have to manage; we're going to manage at a -- really micromanage
+RWA.
+So, yes, there are assets we're going to put on that we think will have very good RWA returns and we'll probably
+be much more sensitive to that for now than we would be in the past.
+BETSY GRASECK: Okay. Can we talk a little bit about headcount? Because you are one of the few companies
+where headcount is growing.
+JAMIE DIMON: Yes.
+BETSY GRASECK: Revenue environment is still on the tougher side given the rate environment. Can you give us
+a sense as to how much longer or what your expectations are for headcount?
+In addition to that, just where your reinvestment spending is, and do you have to pull back at all at this stage?
+Yes? No?
+JAMIE DIMON: No, we are not pulling back. The overhead number I think we already mentioned, the $50 billion,
+is I believe going to be pretty consistent so far for next year.
+The headcount, let me just put in three things. We always gain efficiencies, which you don't see, in tech, ops,
+overhead, a whole bunch of stuff. And we have added -- and we break it out -- you've got to do it by business. But
+branches, so we have added 3,000 salespeople in branches in Consumer; some of that is the new branches,
+some of it is in existing branches.
+We are adding private bankers. We are adding branches overseas. We opened 20 branches overseas, mostly for
+TS&S. So all those things add people.
+But the biggest add, which we will not be adding any more, was to handle default. So there is -- I forgot the total
+number. We have added 15,000 people the last two years, maybe more, just to handle default.
+DOUG BRAUNSTEIN: In mortgage.
+JAMIE DIMON: In mortgage. That number has probably peaked and I think you will see it coming down over the
+next couple years.
+BETSY GRASECK: Are you talking about people dealing with OREO?
+JAMIE DIMON: No, no, no. Not OREO. Well, also OREO; but it's 15,000 to 20,000 just to deal with default
+servicing, OREO, foreclosed assets, and all that kind of stuff.
+BETSY GRASECK: So when we are modeling --?
+JAMIE DIMON: So those numbers will -- I think it is now running
+Page 8 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+DOUG BRAUNSTEIN: Yes, we get -- that is the $925 million in servicing expense in that business.
+JAMIE DIMON: Of which two-thirds is default now, and that default number is going to come down over the next
+couple years, and the headcount related to that too.
+BETSY GRASECK: Right. So that's tied to transaction volume in housing and how you get done bringing down
+your OREO and the delinquencies.
+So my last question just has to do with the outlook for home prices and transactions. I am just asking -- I know the
+question was already asked, but I wanted to ask in conjunction to the PCI impairment that you took and the
+reduction in the portfolio there.
+JAMIE DIMON: Just to keep it simple, we are still assuming another point or two percent drop across-the-board in
+home prices. We do it by region and stuff like that. If they dropped another -DOUG BRAUNSTEIN: Yes, so if they dropped another 8 -- remember we said last quarter 10% -- 8% more and
+you get $1.5 billion incremental impact in PCI reserves.
+JAMIE DIMON: All things being equal.
+BETSY GRASECK: Right. But you had made a change in your PCI reserves this quarter.
+DOUG BRAUNSTEIN: That is forecasting lifetime losses, yes.
+BETSY GRASECK: Okay, all right. Great.
+DOUG BRAUNSTEIN: Remember those little adjustments change that quite a bit.
+BETSY GRASECK: Okay, so your outlook hasn't -- this doesn't reflect --?
+DOUG BRAUNSTEIN: No, no.
+JAMIE DIMON: No, my guess -- I go the other way. We have almost $9 billion of reserves for mortgages. We
+have got $3 billion in reserves for repurchase. Charge-offs are coming down.
+It is more likely than not we are going to have excess reserves, and this will be reversing at one point. To me it
+will be when the economy gets stronger.
+BETSY GRASECK: All right, great. Thanks.
+OPERATOR: Richard Ramsden, Goldman Sachs.
+RICHARD RAMSDEN, ANALYST, GOLDMAN SACHS: Okay. Good morning. So I've got a couple of questions. If
+we could get back to the LTRO, a couple of questions.
+The first is, does this in any way change your willingness to engage in interbank transactions? I.e., compared to
+where we were a month ago, are you more willing to engage in transactions with European banks? Or would you
+say it is unchanged?
+JAMIE DIMON: Again, when I talk about contradictory regulatory policy, when I was in Berlin they were
+complaining that no banks were lending to other banks. Well, of course not.
+If you look at the -- the banks are being penalized for lending to banks. The G-SIFI charge specifically penalizing
+lending to banks. And the FDIC charge of 10 basis points is on interbank lending.
+There will be no interbank lending ever again.
+Now, maybe that is the wise policy in the future; that is perfectly reasonable. It is not reasonable now, but that is
+what we did.
+RICHARD RAMSDEN: The second thing, linked to this, do you think this will change the (multiple speakers)?
+JAMIE DIMON: But one point, we do finance banks. We do have some credit out to banks, and we do do some
+secured funding. So we do deal with banks. That is very different than interbank placing, where they get
+unsecured short-term funds.
+Page 9 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+RICHARD RAMSDEN: The second thing is, do you think this will meaningfully change the speed of delevering of
+assets coming out of Europe, as a result of European banks having such a significant amount of three-year
+funding?
+JAMIE DIMON: I think it reduces the pressure on them. But they have this 9% capital target they have to do by
+June. So I think -- you've got to ask them. I think that is what is pushing them to shed risk-weighted assets, to get
+to that 9%.
+Most of them are not going to issue equity -- nor would I if I were them.
+RICHARD RAMSDEN: Okay. Then my last question is -JAMIE DIMON: But I would say we have not seen a huge -- a mean some people were expecting this wall of
+sales, this wave of sales. We have not seen that.
+We see a more orderly, particularly in trade finance, aircraft, some CMBS and some RMBS, some conduit-related
+business, but it is not a wave. It is just a kind of orderly movement of assets from one -- some banks to others.
+RICHARD RAMSDEN: Okay. Then back in early December you talked about the possibility of getting Basel III
+compliant early, i.e., at the end of 2012, which was a change to what I think you have said before.
+JAMIE DIMON: Yes.
+RICHARD RAMSDEN: Can you just give us an update both in terms of your thinking on that and, second, what
+benefits you think you would get to getting Basel III compliant early?
+JAMIE DIMON: I think what I said originally -- I know we flip-flopped on this a little. But originally we said there is
+no reason to get there early. And then at your conference I said maybe 9% by the end of 2012.
+We are going to drive it up. Okay? We have just put in CCAR. The Fed is giving out more guidance that they
+would like to see people -- the way I am going to word it -- is like make real progress on getting to the -- well for
+us, getting to the 9.5%, of course by 2018.
+We are going to do that. So it may not be quite 9%, because we do like our stock and we don't mind buying back
+stock. But I just think you're going to have people getting there quicker rather than slower.
+RICHARD RAMSDEN: Okay, thanks.
+JAMIE DIMON: People want to get out of the yoke of this thing at one point. I mean, we have got to get this
+behind us.
+The good news about the CCAR in my opinion is it should, I hope, definitively get rid of this capital issue once and
+for all. If banks can demonstrate that at 13% unemployment, a market down 50%, home prices down 20%, a
+catastrophe in the US market sales and trading, a catastrophe in European credit in sales and trading, and with
+all that you are still way above Basel 1.5? It makes two points -- we've got plenty of capital and we don't need
+more.
+We are going to -- I think that point is going to be quite openly and blatantly when people release the results of
+the CCAR.
+RICHARD RAMSDEN: Okay. Thanks a lot.
+OPERATOR: Ed Najarian, ISI Group.
+ED NAJARIAN, ANALYST, ISI GROUP: Yes, good morning. You talked -- we have talked a little bit about some
+of the potential impact or the strong loan growth impact that you have gotten from some of the euro deleveraging.
+But I guess I was just trying -- looking at the very strong commercial loan, growth wholesale loan growth, and
+trying to get some idea of how much of that was coming excluding any euro impact. You know, just from core
+customers either using more on working capital lines or investing in capital expenditures. And what is your outlook
+for that continuing?
+JAMIE DIMON: Commercial Bank is 100% US and has nothing to do with European banks. From what we can
+see, it is continuing and it is very broad-based in terms of clientele, etc. It is not utilization; it is actually just new
+lines of credit for the most part.
+Page 10 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+I think in the Investment Bank, the loan portfolio went up $10 billion. That was about half -DOUG BRAUNSTEIN: Some of that is -JAMIE DIMON: They have got half of that related to -DOUG BRAUNSTEIN: Conduits and -JAMIE DIMON: Coming out of Europe.
+DOUG BRAUNSTEIN: That's right.
+ED NAJARIAN: So it sounds like you see a lot of momentum there, just on the core commercial side, continuing
+this year.
+JAMIE DIMON: Yes, yes.
+ED NAJARIAN: Nevertheless, you are saying -- maybe you are gaining share in terms of lines of credit, but you
+are saying you are not seeing an uptick in utilization on the lines of credit?
+JAMIE DIMON: Modest uptick in utilization. But the reason we don't really know is -- remember we had a lot of
+bankers particularly in Florida and California, which is new to us. So we know -- and we have got I think it is $2
+billion of total loans came out of those areas. So we know some of our growth is -- with new area stuff obviously
+you have some market share issues as opposed to --.
+But I think when other banks report, you're going to see good loan growth numbers in commercial banking in the
+US. Again, if you look at our numbers, small business up 52%. Trade finance up 73%. Investment Banking -- they
+are all -- we are starting to see pretty good growth.
+ED NAJARIAN: That is not any sort of just one-quarter bounceback or two-quarter bounceback kind of thing? It
+might decelerate a little bit I guess; but it is something that you feel real good, pretty good about in terms of
+momentum into '12?
+JAMIE DIMON: The Commercial Bank it's been for six quarters now.
+DOUG BRAUNSTEIN: Six quarters, seven quarters in Middle Market. So this is really a trend we have been
+seeing.
+And by the way, same thing on the small business side. Right? We have just -JAMIE DIMON: It was a little slow this quarter.
+DOUG BRAUNSTEIN: A little, yes, but it has been up significantly across the businesses all year.
+ED NAJARIAN: So, other than the recovery of the business cycle in general, do you put any of that into this idea
+that -- you hear some -- you read some of these stories about the re-industrialization of the United States and
+more manufacturing facilities going into the United States than before, and more decisions being made that
+maybe we shouldn't put that plant in China or Mexico, but we can eliminate the shipping cost back and we will put
+it in the United States. Is (multiple speakers) something like that going on?
+JAMIE DIMON: We are not macroeconomists. Okay? If you want to know about that, you should figure that out
+yourself.
+ED NAJARIAN: Okay. All right. Thanks.
+OPERATOR: Mike Mayo, CLSA.
+MIKE MAYO, ANALYST, CLSA: Yes, first I would like to follow up on the last question. When you look at
+wholesale loan growth, it was up 37% annualized in the fourth quarter. So it just seems as though there must be
+some sort of re-intermediation by your Bank from the Capital Markets back to traditional banking. How can 37%
+annualized loan growth be sustainable? So my question is -JAMIE DIMON: It's not. It's not. A big chunk of that -- if you take the Investment Bank loans, which I think that
+went from $60 billion to $70 billion or something like that.
+Page 11 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+DOUG BRAUNSTEIN: Right.
+JAMIE DIMON: That bounces all over the place. That includes bridge loans and it does include like $5 billion or
+$6 billion of conduits we put in there. We don't expect to see that kind of loan growth every quarter in that
+portfolio.
+MIKE MAYO: Well, it is still 20% annualized loan growth, so I am just trying to understand the flight-to-quality
+benefit. Are people moving business out of the Capital Markets back to the banks?
+DOUG BRAUNSTEIN: I would say, though, Mike, the other piece (multiple speakers)
+JAMIE DIMON: No, they are not.
+DOUG BRAUNSTEIN: No, but we had record syndicated loan fees, so there is a lot of that activity going on; but
+you also saw a lot of activity in the Capital Markets. So people I think are doing both.
+And we did see some real fundamental growth in the Investment Bank in terms of year-over-year stuff. But
+quarter-over-quarter, I wouldn't draw a conclusion from that.
+JAMIE DIMON: The wholesale line you're looking at is the consolidated wholesale, right?
+MIKE MAYO: Right.
+JAMIE DIMON: Which I don't -- and does that include (multiple speakers)?
+DOUG BRAUNSTEIN: That is TSS and that includes -JAMIE DIMON: That includes trade financing, and it was up a lot.
+DOUG BRAUNSTEIN: And it's in CB. CB and I think actually AM is also included in that number. I mean, we did
+see growth across every single one of those businesses quarter-on-quarter.
+MIKE MAYO: Well, still the more general question, the impact from Capital Markets to traditional banking. I mean
+look at non-interest-bearing deposits, they were up $40 billion in three months. That is a 50% annualized growth
+rate.
+So it seems like something is happening in terms of people moving at least their money to you, if not wholesale
+loans for reasons (multiple speakers).
+JAMIE DIMON: Right. The wholesale loans, no. Other then we have mentioned $5 billion -- maybe it was a little
+bit more -- relating to European loans that we bought, or conduits. I don't expect that to continue. It might.
+So that is not a flight to quality. That is just other people who are trying to get rid of their assets. There is no
+question in the liability side particularly in large corporates -- with TSS, you're right, it was up 100 and -DOUG BRAUNSTEIN: $100 billion year-over-year.
+JAMIE DIMON: More than $100 billion year-over-year. My guess is a lot of that was flight to quality. It is very hard
+for us to distinguish because some of this is big money sitting there. Companies are flush with cash and their
+cash balances are growing. Some are new accounts.
+So we estimate that a chunk of that might be that, but we don't make a lot of money on that. So, the part -whatever you would call the flight to quality or something like that, we are making very little on it. We almost do
+that more to accommodate the client.
+MIKE MAYO: Then one last unrelated question. It seems like RFS keeps having negative operating leverage. I
+know you are investing a lot and I am sure we will hear about this at Investor Day, but it seems like an awful big
+branch build strategy that is not paying off yet. And it's during a period of when deposits aren't worth as much in a
+low rate environment. So does that really make sense?
+JAMIE DIMON: You have three completely different things. So, obviously, our operating leverage has gotten
+worse because of regulations, Durbin, etc. That is a fact. That is number one.
+
+Page 12 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+Number two, we open branches. And I said we are modifying that, because a lot of these changes do affect
+branch profitability. But to the extent that we can open a branch and get a very good return, we're going to
+continue to do it.
+Remember, a lot of this is in California, Florida where there is a huge benefit to clustering -- i.e., increasing your
+market share inside local markets. So we're going to modify it, the size of the branch, location, type of product
+services. But we're going to continue to open branches as long as we think every time you open a branch you are
+getting a very good return.
+And the third one was --?
+MIKE MAYO: Just a low rate environment, and the deposits aren't worth as much.
+JAMIE DIMON: This is a very important thing. We have decided -- and you may decide differently and think we're
+wrong. But we have decided that the value of the deposits is more and we are not going to treat it like they are
+very low for the sake of our business.
+The value of the deposit will come back and we will regret having not continued growing our business as normal.
+And the profits will go up, because eventually margins will go back to more normal type of things over time.
+That is a decision we made -- open to comment or criticism. But as of now, unless someone can prove otherwise,
+that is what we are going to do.
+MIKE MAYO: All right, thanks.
+JAMIE DIMON: You're welcome.
+OPERATOR: Jason Goldberg, Barclays Capital.
+JASON GOLDBERG, ANALYST, BARCLAYS CAPITAL: Thank you. Good morning. When you look at 2011,
+obviously first-half trading result is significantly stronger than the second half. I guess typically we have seen a
+seasonal uptick particularly in the first quarter of the year over the last several years.
+I realize we are very early into the quarter, but just, I guess, given all the macro factors out there, is there anything
+that leads to you believe that seasonality won't reoccur? Or just how are you thinking about that?
+JAMIE DIMON: You know, honestly, your guess is as good as ours. Look, we have had a pretty good start so far,
+but it's only so many trading days. Look, we could be surprised on the upside, the downside; who knows?
+JASON GOLDBERG: Got it. Then in the release, you point to a fourth-quarter ROE that was modestly
+disappointing. When you think about that, is that -- I guess do you mean driven by the macro factors? Or are
+there are specific areas that you think underperformed given the macro environment?
+JAMIE DIMON: Well, it was 11% return on tangible common equity, and we would like to be closer to 15%. So
+that is all we meant.
+A big part of the difference is there is still a huge drag for mortgage. I mean you're talking about several billion
+dollars a year, just from mortgage alone. That drag is going down, but it is still a negative. Eventually, that will
+disappear.
+JASON GOLDBERG: Got it. Then just lastly on the third-quarter call you talked a lot about this capital confusion. I
+guess earlier in this week you talked about you wanted to buy back equal to or more stock in 2012 versus the $9
+billion you did in 2011, and then raise the dividend.
+So I guess first two parts. I guess, one, do you -- I guess still can you provide more clarity on that front? Then
+secondly, it seemed like your comments were more leaning towards buybacks and dividends than maybe they did
+previously. Just maybe comment on that.
+JAMIE DIMON: Okay. Dividends, first of all, dividend is a small decision from a capital standpoint. So whether we
+raise it a little bit here or there is not going to be material.
+We still -- we started the dividend again. We would like to increase it a little bit every year. That is a Board
+decision.
+Page 13 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+When the stock is very cheap and particularly below tangible book value, I like to buy a lot back. Which, of
+course, we can't do by the time we are allowed to buy a lot of stock back, I'm sure it is going to be a much higher
+price. And then we may change our decision about that. So you can get a little frustration in my -- about how we
+have had to do our capital buyback.
+But we are getting more clarity from the Fed. The Fed has asked for these stress tests. The stress tests -- all the
+banks have put in their CCAR, and we are going to tell you what that is when we get it back.
+But I am not going to change the statement I made at the Goldman conference, which was we hope to be able to
+do a little more than we did in 2011.
+JASON GOLDBERG: Great. Thank you.
+JAMIE DIMON: You're welcome.
+OPERATOR: Guy Moszkowski, Bank of AmericaMerrill Lynch.
+GUY MOSZKOWSKI, ANALYST, BOFA MERRILL LYNCH: Thanks. Good morning. I think I picked up when you
+were talking about RFS that you had some offset from the Durbin impact from increased deposit related fees. Can
+you give us a little bit more color on --?
+JAMIE DIMON: No, no, no. Unrelated. It just says that deposit-related fees were up a little bit. Don't look at it as
+an offset to Durbin.
+DOUG BRAUNSTEIN: Yes, that was year-over-year.
+JAMIE DIMON: It's a factual statement.
+DOUG BRAUNSTEIN: Year-over-year, Guy.
+GUY MOSZKOWSKI: Got it. Okay. Wanted to ask a little bit about liquidity coverage and the ratios. The Fed has
+indicated that the US banks are going to have to undergo a liquidity stress test on a regular basis. You have
+mentioned that you are concerned -JAMIE DIMON: Just so you know, most banks I know have always put themselves through liquidity stress tests.
+So that you should do. I mean that is just a normal course of thing.
+It is just they are going to get more involved in how it is designed and stuff like that. And we believe that we
+should be able to handle a lot of stress in liquidity. I don't think (multiple speakers)
+GUY MOSZKOWSKI: Fair enough. I mean it's just that you have mentioned when looking at the Basel liquidity
+rules that have been proposed that it bothers you that they don't credit some of the advantages that US banks
+have, like the guarantees on agency securities and the access to the Fed window.
+I was just wondering if you believe that you have been heard on those things, that the Fed will take those things
+appropriately into account.
+JAMIE DIMON: So, the LCR -- and you guys have all seen this -- has huge amount of detail behind it. We are in
+favor of good detail.
+And they got a lot of comments. Why are Ginnie Maes at a 15% discount? How come equities aren't in there?
+How come Goldman isn't in there? How come the liquid assets?
+And they got a lot of comments that the drawdown on deposits is too high. Millions of comments. They have
+acknowledged some of those comments. Let them come back, and when we get the final stuff we will tell you.
+GUY MOSZKOWSKI: So the fact you deployed liquidity in the (multiple speakers)
+JAMIE DIMON: Some of the stuff in the LCR was absurd. Okay? So hopefully they will be responsive at least to
+the absurd parts.
+GUY MOSZKOWSKI: So, the fact that you mentioned that you deployed liquidity during the quarter, and that was
+one of the things that helped with the net interest margin, that is not that you are feeling more comfortable with
+this or with what the Fed is saying? It is just that it is too --?
+Page 14 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: No, no, no. That's normal balance sheet management.
+GUY MOSZKOWSKI: Got it. From what you know of the Fed liquidity rules, if they were in fact -- if they were
+implementing their stress test right now, do you think you would be compliant with what they are looking for?
+JAMIE DIMON: I don't know yet. But, Guy, I don't think it is going to be material to us any which way. There's
+really -- if we have to make some adjustments, we will make some adjustments.
+GUY MOSZKOWSKI: Fair enough. Final question that I have is on the non-credit-impaired portfolio and the
+reserve release there. The mortgage delinquency trends that we can see did continue to improve. But it seems
+like the improvement is at a moderating pace.
+JAMIE DIMON: Right.
+GUY MOSZKOWSKI: So, I was hoping maybe you could give us a little bit more color on what drove the decision
+to release.
+And I guess a longer-term question would be how to think about (multiple speakers). Sorry, go ahead.
+JAMIE DIMON: It's very simple, okay? You see the numbers. They moderated. And maybe there will be a little
+improvement going forward.
+What made us change our mind is the accountant said we had to. I would have left the reserves up if it was solely
+up to me.
+GUY MOSZKOWSKI: Got it. So in other words, if we were transitioning already into an expected loss versus say
+a current incurred loss reserve model, you might not have done it?
+JAMIE DIMON: Look, that's another question. I like having a strong -- look, eventually we have $9 billion reserves
+we don't need, okay? So just until we get through all this uncertainty, I would rather just have them up.
+But basically the numbers have gotten too good over time to leave up that amount of reserves.
+DOUG BRAUNSTEIN: Guy, you -JAMIE DIMON: Under current accounting. There is going to be a change in accounting, but that is not -- we will
+worry about that when we get there.
+DOUG BRAUNSTEIN: Guy, if you just do the math and you say 8.77, you multiply it by 4, so call it 3.6, we still
+after that have $8.7 billion worth of reserves up for that portfolio.
+JAMIE DIMON: But one of the things in the stress test, not just for us but for a lot of banks, is the portfolios are
+smaller. They've got a lot more reserves up, and a lot of the bad stuff has run through.
+So loss rates won't go up as much. I am talking about in a real stress test -- and you won't need to add as much
+to reserves, from where we were a couple years ago.
+GUY MOSZKOWSKI: Yes, that is entirely fair.
+JAMIE DIMON: Right.
+GUY MOSZKOWSKI: Thanks very much for the color. Appreciate it.
+OPERATOR: Matt O'Connor, Deutsche Bank.
+MATT O'CONNOR, ANALYST, DEUTSCHE BANK: Following up on the earlier comment that the NIM percent
+might be down a little bit in the first quarter, if we think about the net interest income dollars, should we see
+continued growth off of this level?
+DOUG BRAUNSTEIN: Yes, I mean -- it should be flat to up. Again, that is a function of deposits and it's a function
+of loans, and we expect both of those to continue the trend if the world stays the same.
+JAMIE DIMON: By the way, I just got a note that one of the newspapers out there thinks that we haven't done a
+full disclosure on Europe. The reason we didn't add a European theme is pretty much like it was last quarter. Not
+much has changed, so -- if anyone is interested.
+Page 15 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+MATT O'CONNOR: Okay. Then just a flat to up comment, is that for the first quarter, or just --? I mean if you are
+growing loans consistently throughout next year, it seems like you could have an upward trajectory throughout the
+year.
+DOUG BRAUNSTEIN: Matt, if that is the case, we should have an upward trajectory throughout the year.
+MATT O'CONNOR: Okay.
+DOUG BRAUNSTEIN: Now remember, again, one other thing. That is net loan growth. We did tell you we are
+going to have portfolio runoff in home lending, so that is going to impact NII on an absolute dollar basis by about
+$500 million. So, the mix will change; but if trends continue where they are, yes.
+MATT O'CONNOR: Okay. Then a separate topic. Mortgage putback continues to grab some headlines here. Can
+you just clarify and remind us what portions the FDIC is covering related to WaMu?
+I think there was some debate whether the private label was covered; the GSE is covered. Could you just clarify
+that for us?
+JAMIE DIMON: I think you are confusing two things. The GSE putback number, that is the $350 million that we
+had, those numbers are basically timing difference. Just, there was like $3 billion of reserves; we don't expect a
+real change in that.
+Some of that, there were pieces of that that were settled relating to WaMu. I forgot which one, it was Fannie or
+Freddie.
+MATT O'CONNOR: Okay.
+DOUG BRAUNSTEIN: And that number, that number, Matt, that is a fixed dollar amount and we are working
+through that and would expect to be through that in 2012.
+Then on the private label side, there is not confusion on our part. We do not believe we have repurchase liability
+for the private label claims from WaMu.
+MATT O'CONNOR: Then from the outside, though, how do we know what the verdict on that is? What should we
+be following?
+DOUG BRAUNSTEIN: That is going to be -- that is going to work its way out in the courts.
+JAMIE DIMON: Litigation. We put up a lot of those reserves for litigation.
+MATT O'CONNOR: Okay. Then just lastly, sticking with the litigation theme, the merchant suit against Visa,
+MasterCard, and the banks, there is the court date scheduled for September. It seems like there will be potentially
+some sort of settlement.
+Any thoughts you have on how it might impact credit card interchange or an upfront settlement charge?
+JAMIE DIMON: We have no comment on that.
+MATT O'CONNOR: Okay, thank you.
+OPERATOR: Matt Burnell, Wells Fargo Securities.
+MATT BURNELL, ANALYST, WELLS FARGO SECURITIES: Good morning. Jamie, I just wanted to follow up on
+a comment I thought you made in terms of capital, in terms of perhaps not aggressively trying to move toward the
+9% Basel III number by the end of 2012. Is that your current thinking?
+JAMIE DIMON: I'm sorry. What's the question?
+MATT BURNELL: I am just wondering if you're -- if what you said before focused on maybe not trying to
+aggressively reset 9% Basel III Tier 1 Common number by the end of this year?
+JAMIE DIMON: You know, look, I don't want to give you quite a number yet. But it may not be 9%, but it will be
+8.5% or something like that. We are going to make a lot of progress towards getting to the 9.5%.
+MATT BURNELL: Okay.
+Page 16 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: And my guess is we will be at the 9%. And maybe get to 9.5% right away, because it wouldn't be
+that hard to do if we wanted to do it.
+I don't think it would be good policy, but it's helping an economic recovery. And my guess is we will be at 9.5% by
+the end of 2013.
+MATT BURNELL: Okay. That's fair. Then just following up on your comment on the no material change in your
+European exposures. I am just curious if you have any thoughts on some of the commentary that the regulators
+have made about potentially seeking greater clarity across the US banks in terms of their disclosure, and whether
+or not that might change some of the disclosure that comes out of the regulators as well.
+JAMIE DIMON: No, I think you -- I think we already disclosed a lot of what they -- what the SEC said people were
+going to disclose. Right? There is very little to add.
+So for us it is not a lot different than what we showed. I think other people didn't show that kind of detail. You're
+going to get more detail.
+DOUG BRAUNSTEIN: But, Matt, you should expect to see the slide that Jamie put up at a conference in
+December. That will be in our filings.
+MATT BURNELL: Okay, great.
+JAMIE DIMON: With a little more detail.
+DOUG BRAUNSTEIN: With a little more detail, and we may add some additional countries to that. But that is the
+level of the disclosure we are expecting for others to have as well.
+MATT BURNELL: That would be helpful. Then just one final question on the Investment Bank. It looked like Asian
+revenues were down about 47% quarter-over-quarter, even though loans were up about 14%.
+Was there anything going on there? Was there anything particularly, especially this quarter or last quarter, that
+drove that decline?
+DOUG BRAUNSTEIN: No, there really wasn't. I mean the capital markets are a big part, equity in particular, of
+our Asian business; and those were very challenging in the quarter.
+If you look at ex-DVA, which actually had an impact there, it was a little smaller decline. And year-over-year
+revenues internationally for the Bank were up a couple of billion dollars and a much larger percentage, almost
+24% of the total revenue, up from about 21%.
+MATT BURNELL: Has your outlook for Asian contribution to overall IB revenues in 2012 changed materially over
+the last quarter or so?
+DOUG BRAUNSTEIN: I don't think our outlook has changed. But again, it's going to be in part a function of the
+markets and how open they are for business.
+MATT BURNELL: Sure.
+DOUG BRAUNSTEIN: Pipeline is great. What you can execute on -- that is why pipeline is so deceptive, because
+what you can actually execute is a different question.
+MATT BURNELL: And that is Asian pipeline or overall Investment Banking?
+JAMIE DIMON: Overall.
+DOUG BRAUNSTEIN: Unfortunately the pipeline gets bigger as you can't execute and the stuff gets delayed.
+MATT BURNELL: Sure, sure.
+JAMIE DIMON: But we are not building Asia for next quarter. We are covering a lot of clients and the volumes will
+go up or down, and we are going to build there, we have opened branches there. We are building a Global
+Corporate Bank there. We are covering more clients there.
+That is going to continue. The volumes themselves will be volatile.
+Page 17 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+MATT BURNELL: Okay. Thank you very much.
+OPERATOR: Gerard Cassidy, RBC.
+GERARD CASSIDY, ANALYST, RBC CAPITAL MARKETS: Thank you. Good morning. Can you give us some
+color on your branch expansion strategy? I know you outlined it last February. You will probably update it for us
+on this February.
+But then you changed it in the third quarter. Where does it stand now in terms of branches?
+JAMIE DIMON: It's exactly what I said in the third quarter. There is a page that you can go get from that
+presentation I made at Goldman.
+It is about 175 branches, and we are looking at things like size and technology and locations. But we're still going
+to be opening branches particularly in California and Florida, where we need more share.
+There is nothing mystical about it. We have to adjust it. Some of the regulatory changes made certain branches
+less profitable, etc. That's all.
+GERARD CASSIDY: Is there a possibility -- since your deposit market share doesn't exceed 10% of the total US
+deposits, which would prevent somebody from buying another bank, but the too-big-to-fail doctrine seems to be
+weighing on your bank and a few others. Do you think you could -- if M&A comes back, could you guys buy
+depositories in the US?
+JAMIE DIMON: First of all, we had to get rid of the too-big-to-fail thing, because I think companies had to be
+allowed to fail. And therefore I think we need to help show people that resolution is real.
+So you're going to see us be making a little bit of effort on that. How can you dismantle a big bank in a way that
+doesn't damage the taxpayer or the economy in any material way?
+We are still under the 10% cap. Look, I think it would probably be a political firestorm if we tried to buy someone
+in the United States. If we thought it was really, really good for shareholders, we would want to do it; and we
+would be willing to have a little mud on our face.
+But, we need regulatory approval. So if we can't get regulatory approval, then we are not going to try.
+The United States is still -- counter to all this chatter about too-big-to-fail, the United States is the least
+consolidated banking market in the world and there are still too many banks. And unfortunately, some of the -- all
+of these regulatory things are tougher on smaller banks than bigger banks. So you are going to see a lot of them
+wanting to sell or merge.
+GERARD CASSIDY: Then finally on your outlook for Durbin, the $600 million, the impact, is that the incremental
+impact from the fourth quarter? Or is that the total impact that is already reflected in the run rate in the fourth
+quarter?
+JAMIE DIMON: It is reflected in the run rate in the fourth quarter.
+GERARD CASSIDY: Thank you.
+OPERATOR: Andrew Marquardt, Evercore Partners.
+ANDREW MARQUARDT, ANALYST, EVERCORE PARTNERS: Thanks, guys. Just wanted to circle back on
+Guy's question earlier on asset quality. Just wanted to understand how we should think about remaining credit
+leverage as things seem to be turning. Credit Card has been a big driver in terms of the reserve release nearer
+term, but that seems like it is going to start moving higher in terms of losses.
+How do we think about the degree of reserve release that might be able to come out?
+JAMIE DIMON: I think in Credit Card we are near the end of reserve release if that is what you are referring to.
+(multiple speakers) Credit is very good and hopefully it will stay good. It may get a little better, but I think we are
+near the end.
+In terms of mortgage, I think we already mentioned of the $9 billion, one day you won't need all that. But we need
+far more improvement in charge-offs, delinquencies, all that before that reserve will come down.
+Page 18 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+DOUG BRAUNSTEIN: Jamie, I would add on the repurchase reserve front, I have got 3.6 there. That is another
+number that over time should come down materially.
+ANDREW MARQUARDT: Got it. Thank you. Then on commercial wholesale, should we expect incremental build
+for the growth that you are seeing? Or how should we think about that?
+JAMIE DIMON: Yes, but just call it steady-state now in most of the wholesale areas. Strong reserves, but
+steady-state. If we grow, you're going to have a little build, yes -- all things being equal, which they are not. But
+yes.
+ANDREW MARQUARDT: Okay, thanks. Then just a question. In the Investment Banking detail you had
+mentioned that part of the Credit Portfolio results of the loss of $31 million this quarter were due to the DVA
+losses. But they were offset by NII and some fees; but also CVA. How much was the CVA this quarter?
+JAMIE DIMON: Net CVA was very small. So at a steady-state that line called Credit Portfolio would be a couple
+hundred million dollar positive. But of course if you look at it, it bounces all over the place because of CVA and
+DVA effects.
+ANDREW MARQUARDT: Great, thank you.
+OPERATOR: Brennan Hawken, UBS.
+BRENNAN HAWKEN, ANALYST, UBS: Hi, guys. Most of my questions have been touched on. Just a quick one
+here. On the $569 million headwind from the change in MSR valuation, can you discuss the impact that HARP 2.0
+had on that?
+JAMIE DIMON: Not much. It was a little bit. There were a lot of things in there, okay? Home prices, paydown
+rates, how we look at -- what kind of required returns we need on the MSR itself. The option-adjusted return.
+So there were large model updates with a lot of pluses and minuses.
+BRENNAN HAWKEN: Okay, thanks.
+OPERATOR: James Mitchell, Buckingham Research.
+JAMES MITCHELL, ANALYST, BUCKINGHAM RESEARCH: Hey, good morning. Maybe a follow-up on the
+market share story out of Europe, as the banks -- you've mentioned quite a bit about lending and trade finance.
+Have you seen anything yet as we hear about some of the European banks pulling out of -- whether it is trading
+or investment banking? Have you seen any impact or benefit there in market share? Or what do you expect in
+2012? Any pickups?
+JAMIE DIMON: Well, what I have seen -- not really, okay? There have been more announcements than actions.
+JAMES MITCHELL: Right.
+JAMIE DIMON: Today I guess it was RBS who said M&A and equity is going to stay in Fixed Income, so we
+haven't really seen it. Maybe if I went and walked -- ask the traders; they may have seen a little bit.
+But eventually you are going to -- there will be some people exiting some of the things and those who remain will
+probably pick up a little share because of it.
+JAMES MITCHELL: Right, and just one other question. On the long-term debt, it was down $17 billion in the
+quarter after being pretty stable for the prior three. Is that just a function of the markets weren't conducive to
+rolling over debt? Or are you looking to actively reduce that over time?
+JAMIE DIMON: No, it is just a function of our own funding needs.
+JAMES MITCHELL: So should we expect that to go down, or is it just going to bounce around with your balance
+sheet?
+JAMIE DIMON: I think you should not really expect it to go down.
+JAMES MITCHELL: Okay. All right. Thanks. Bye.
+OPERATOR: Moshe Orenbuch, Credit Suisse.
+Page 19 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+MOSHE ORENBUCH, ANALYST, CREDIT SUISSE: Great. Thanks. Jamie, you talked about the regulatory
+response being different once you get to 9.5%. Could you talk a little bit about how you would see that
+relationship once you got to the level that you thought they -- that you should be at?
+JAMIE DIMON: Yes, I guess my point is I think a lot of people want to get past all this, and go back to --. Look, we
+should always have stress tests and liquidity and stuff like that. But when the rules are known, you should -- we
+shouldn't be guessing about what we want to retain in capital and how fast you want to get there and what the
+requirements are and what the phase-in is.
+So all that uncertainty should be eliminated. Here are the rules that banks have lived by. That's all.
+MOSHE ORENBUCH: Okay. Just on the mortgage front, given we've had yet another one of these ideas that the
+settlement with the AGs is imminent, could you talk a little bit about how you see things developing then?
+Could that be a trigger for some of that reserve release that you are talking about? Or what would it take do you
+think (multiple speakers)?
+JAMIE DIMON: Unrelated, okay? So it is still imminent. It would be nice to get it done, but there are still open
+issues and we have been working mightily to try to get it done, because I think it would be better.
+I think it would be good for the mortgage markets to move on. I think that anything that can get resolved is better
+for the mortgage markets.
+But it has nothing to do with the reserves, though it will affect numbers. We will have to account for whatever the
+agreement is, and we have already done some of that. So there will be some adjustment because of it. But it
+won't really affect reserves that much.
+MOSHE ORENBUCH: Right. I guess getting your (multiple speakers)
+JAMIE DIMON: I should mention, it is embedded in the reserves.
+MOSHE ORENBUCH: Right.
+JAMIE DIMON: But it probably will have no major net effect.
+MOSHE ORENBUCH: Got it. Given your relative optimism on housing, are there things that could be done to help
+the down payment piece? Because that seems to be just the last piece that is really hard to bring to the table.
+JAMIE DIMON: I don't -- look, if it were up to me, I think that someone in authority should convene all the people
+involved in mortgage businesses and -- because this could be fixed.
+It's three years after the crisis. There are virtually no RMBS. We don't know the skin in the game rules.
+Foreclosure is being up held up everywhere, which is damaging the economy.
+I mean, you can blame the banks; most of that is the economy. These things could be fixed. You could have
+much more mortgage markets.
+Underwriting is still tight. I think underwriting will probably loosen over time. It is tight for a whole bunch of different
+reasons.
+And obviously GSE policy is critical, as is HARP 2 and all these things. But there is no one really in charge of all
+this. It is just kind of sitting there.
+MOSHE ORENBUCH: No one is coordinating it.
+JAMIE DIMON: Right. If someone (multiple speakers) together and made some good decisions, I think you would
+have a much more rapid recovery in housing.
+MOSHE ORENBUCH: Right. Thanks very much.
+OPERATOR: Richard Bove, Rochdale Securities.
+RICHARD BOVE, ANALYST, ROCHDALE SECURITIES: Hi. In looking what's going on in Europe, it is really hard
+to understand how these European banks will ever meet the Basel III requirements in the short run. So I am
+Page 20 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+wondering if there is a real possibility that this is going to be pushed out in the United States also a year or two
+years, and whether definitions are going to be changed to make it a lot easier to deal with these rules.
+In other words, I simply cannot conceive of how this thing can go into effect in Europe. I am wondering how it
+could go into effect in the United States if it doesn't go into effect in Europe.
+JAMIE DIMON: Let me add to your confusion here a second. Okay? We are running Basel I, Basel II, Basel 2.5,
+and Basel III. Remember, the European Banks are already on, in effect, Basel 2.5. So they just have to go from
+2.5 to III, where the American banks had to go from I to III.
+So when they say they've got to get 9%, it is not Tier 1 Common -- it is Tier 1 Core, which is slightly different -- by
+June of 2012, that is an accelerated getting there ready. They have already got I would say most of Basel III in
+that. Maybe I am a little wrong on that, but I think most of Basel III is already incorporated in Basel 2.5.
+But it has put a lot of pressure on these banks in Europe, who -- look they in the past have overleveraged, there is
+too much unsecured funding. But they operated under that scheme for a long time, sanctioned by the states.
+This is why I say it is completely pro-cyclical what is being caused in Europe right now. So, will it change? I don't
+know. Will that change what American regulators want to do? I don't think so.
+RICHARD BOVE: The risk-weighted asset definitions seem to be a lot different in Europe than they are here.
+Companies like Credit Suisse have a 20% to risk-weighted assets to total asset ratio. In addition to which in
+looking at liquidity, is Nestle really a worse credit than Greece? Doesn't all of that stuff have to be resolved before
+they go forward with any implementation of Basel III?
+JAMIE DIMON: Yes, but I've got to leave that to them. We have got to run our business here, and I do think it
+causes a lot of confusion. If you speak to banks in Europe, they are -- they think a lot will get done now. And they
+know it is pro-cyclical, and they think some of this stuff is silly. But let them tell you what they need to do about it.
+RICHARD BOVE: Okay. Thanks.
+OPERATOR: Ron Mandle, GIC.
+RON MANDLE, ANALYST, GIC: Hi, thanks. I was just wondering about the tax rate in the quarter. The rate
+seemed considerably lower than you have had in earlier quarters or the full year, if there was something we
+should know about there.
+JAMIE DIMON: Yes, it was true-ups.
+DOUG BRAUNSTEIN: Ron, it was just some true-ups, some state and local benefits. And you should expect low
+30%s for 2012.
+JAMIE DIMON: I just mentioned about Europe, by the way, because like I said I was in Berlin yesterday, and that
+-- it is quite clear when you speak to like the ECB, and they did the three-year funding, there why aren't banks
+making loans and buying sovereign debt? So it's got this huge arbitrage. You can earn 4%, 5%, 6%, and finance
+it at 1%.
+But if you ask the banks, they are saying -- I can't buy sovereign debt because I am already being criticized
+heavily by other regulators about my sovereign debt, my quota. I've got to get all those numbers down.
+So over there it is quite clear that regulatory policy, government policy, Central Bank policy, it is not coordinated.
+And it's making the situation worse, not better.
+RON MANDLE: Yes, thanks, Jamie. I guess -JAMIE DIMON: Basically there's no one in charge of the global financial system. If you looked at the
+inconsistencies and the countercyclical things we are doing and the pro-cyclical, it's crazy. It's not the way to get a
+recovery going.
+And I don't expect it to change, by the way. So we're just going to run our business as best we can.
+RON MANDLE: Yes, well, Jamie, I guess in that regard, I was just wondering. The ECB seems to be constantly
+using its collateral standards; what are the risks that you might worry about in that regard as they keep using their
+standards to provide liquidity as the banks have to meet the requirements that you referred to?
+Page 21 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Well, look, I think the ECB did the right thing. Because when the banks are -- when everybody is
+questioning the sovereign debt and everybody is questioning unsecured debt and everybody is questioning
+wholesale debt, and everybody is questioning -- the banks had to get funding. What is the ECB supposed to do?
+Let them not get funding?
+RON MANDLE: No, I agree with you. They are doing the right thing so far, but that brings its own risks possibly at
+some point down the road. I guess that is what I am wondering about.
+JAMIE DIMON: Look, I have been very consistent. I think we are shooting ourselves in the foot everywhere
+around the world.
+I don't know how to say it. I have said it 100 times. I am not complaining. JPMorgan will be fine, but that is what
+we are doing.
+No one is really in charge in putting these things together and realizing the negative effect it is causing. We can
+get through it all; it is just going to take it -- it's going to make it more painful and slower.
+We all want jobs. This is not job creating.
+RON MANDLE: Thank you.
+OPERATOR: Chris Kotowski, Oppenheimer & Co.
+CHRIS KOTOWSKI, ANALYST, OPPENHEIMER: Oh, my goodness. After Jamie's exegesis on regulators, my
+questions are going to seem so mundane. But you gave us some nice disclosure on the breakout of the Mortgage
+Servicing expense between core and the default expense. I am looking at the $3.8 billion default-related expense.
+Is there a way to gain what that number would be if mortgage -- when delinquency rates ultimately return to 50 or
+100 basis points?
+JAMIE DIMON: The default fees will be close to zero.
+DOUG BRAUNSTEIN: Chris, the ongoing servicing number is, call it a couple hundred million bucks a quarter.
+JAMIE DIMON: That will stay.
+DOUG BRAUNSTEIN: That will stay.
+CHRIS KOTOWSKI: Right, okay.
+JAMIE DIMON: I think someone put a slide out somewhere else that actually showed what it will remain. So it will
+come down quite a bit, but not all the way.
+CHRIS KOTOWSKI: All right. Then just a clarification on your dividend buybacks -- share buybacks. Last March
+you announced a $15 billion multiyear repurchase program of which $8 billion was for '11. That was subsequently
+bumped up to $9 billion. Theoretically, $6 billion remains.
+Do you have clearance to do that in the early part of this year, or do you have to wait for the CCAR?
+JAMIE DIMON: No, the CCAR will allow us to -- we're going to be told what we can buy back in terms of stock or
+not. We have applied, so we will get a response on March 15th. So you will know on March 15th what we know.
+Forget what is open.
+DOUG BRAUNSTEIN: Yes, that is a Board authorization; and obviously we'll -CHRIS KOTOWSKI: Not Fed. That is the Board, not Fed?
+DOUG BRAUNSTEIN: Right. That is a Board authorization. We will adjust it to whatever we are announcing in
+March.
+CHRIS KOTOWSKI: All right. Then I'd just turn it back to Jamie to see if has any -- wants to share any other
+thoughts about the regulators.
+
+Page 22 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Well, please, don't take words -- I'm not talking about the regulators. I'm talking about the
+inconsistent policy between certain regulatory policies, certain government policy, and the so-called objective to
+get the economies of the world going again. They are inconsistent.
+CHRIS KOTOWSKI: Fair enough.
+CHRIS KOTOWSKI: You guys should write about that. They are inconsistent and it's too bad.
+CHRIS KOTOWSKI: Right. I'm done. Thank you.
+OPERATOR: Nancy Bush, NAB Research LLC.
+NANCY BUSH, ANALYST, NAB RESEARCH, LLC: Morning. A little bit about regulatory inconsistency. Jamie,
+would you just speak to the Fed's sort of White Paper on the mortgage market that came out a couple weeks
+ago? And then Governor Rankin came out and blasted the mortgage servicers and said that principal writedowns
+remain on the table etc. etc.
+Where is -- what is going on with the Fed?
+JAMIE DIMON: Look, I don't know. Look, everyone wants to get the mortgage market healthier. I think the Fed in
+that White Paper also showed that costs are higher than they should be. The mortgage costs. If you reduced the
+mortgage costs, the spreads over 10 years and stuff like that could be -- I forgot the number -- 30 or 40 basis
+points cheaper.
+And I agree with them. That is not going to happen where -- you can't foreclose on homes. It is not going to
+happen if you don't have RMBS. So it is more of a -- you need a holistic approach to get it all done.
+So I am not -- I think the Fed is right that there should be a holistic approach. We put in the press release that we
+have offered 1.2 million mortgage modifications. Okay? And that we have actually completed 400,000, and that
+we are making 765,000 mortgages a year.
+So with all due respect, we are making mortgages all day long. We are signing to the GSEs we want to be in the
+business.
+On the servicing side mistakes were made. They are being fixed. We are paying for them, and we should. We
+should pay for the mistakes we made.
+But let's keep the mortgage market active. You did see Ally say they are not going to do mortgages in
+Massachusetts anymore because of certain litigation there and stuff like that. That is not a good thing.
+NANCY BUSH: My second question would be -- you mentioned share repurchase quite a bit in your comments
+(multiple speakers).
+JAMIE DIMON: I also don't agree that somehow principal forgiveness would be the end-all, the be-all. Okay?
+There are 75 million homes. 25 million don't have mortgages. Of the 45 million or so with mortgages, 4 million of
+those mortgages are having problems, and we are working through those.
+Those who can't afford to stay in their home, the loans in effect are being written off and forgiven. Okay?
+Millions of mods are being offered; all of the banks are doing it as aggressively as they can. And all the banks
+have geared up to try to handle just the raw amount of defaults and stuff like that.
+We support HARP 1, we support HARP 2, we supported HAMP, and we're doing our own mortgage modifications
+on top of that.
+NANCY BUSH: Okay, thanks.
+JAMIE DIMON: I think -- and we want to see a recovery in the housing markets. We would do anything we can to
+get a recovery in the housing markets.
+NANCY BUSH: Well, did you regard the White Paper as helpful or -- I mean, the commentary that came after it
+seemed distinctly unhelpful to me.
+
+Page 23 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Look, I don't remember the commentary that came after it. I think some of the things in the White
+Paper were interesting. If I was the powers that be -- I have already said this -- I would convene all the people
+involved in the business. I would close the door. I would stay there until we resolved a bunch of these issues so
+we could have a more healthy mortgage market.
+I think if you had RMBS, if you finished skin in the game, if you change reps and warranties, if we made -- if we
+figured out how you can deal with seconds and firsts, you could fix all this -- if someone was in charge. No one is
+in charge.
+NANCY BUSH: Okay. I want to ask about -- you have mentioned share repurchase several times today. But not -you haven't mentioned dividends so much.
+I mean is this -- do you see extraordinary situation right now in your stock price, where this year dividend would
+take a backseat to share repurchase, because of the stock price?
+JAMIE DIMON: Look, I don't know. The Board -- when we started them -- I am very consistent -- said we hoped to
+do a little bit of increase every year. That is what we hope to do. When the Board talks about it, they are going to
+decide what that number is.
+NANCY BUSH: Okay.
+JAMIE DIMON: I don't think it is that critical to our Company. You are talking about small numbers relative to all
+these other things.
+NANCY BUSH: Okay, thank you.
+OPERATOR: Brian Foran, Nomura. It seems that question has been withdrawn. Christopher Wheeler.
+CHRISTOPHER WHEELER, ANALYST, MEDIOBANCA: Yes, good morning. It's Chris Wheeler with Mediobanca
+here. A question on risk-weighted assets under Basel III, if I might. I think if I remember rightly you were talking
+about uplift of about $180 billion from Basel I to Basel III.
+Of that $180 billion, I wonder if you could give me some flavor as to -- of actual mitigation, sorry. How much of
+that mitigation has already been achieved? Because obviously we can't see that given you are still reporting on
+Basel I.
+Perhaps a flavor for what the nominal asset value is behind that. And then also, perhaps what timetable you set
+yourselves in terms of running that off as you move towards, obviously, getting there sooner rather than later?
+Then finally, perhaps, how much of that is going to be active and how much of that is going to be passive
+mitigation?
+DOUG BRAUNSTEIN: Okay. So the numbers today are about $300 billion in uplift, and what we said is we are
+going to bring that number down. It's really going to be two things.
+One is, we just have natural portfolio run-off across the businesses and that is going to reduce RWA. And the
+second -JAMIE DIMON: Without doing anything.
+DOUG BRAUNSTEIN: And the second is there is just model implementation. And that is again with just literally
+inputting the data that is required in order to have a somewhat different treatment than the standard.
+That is going to just take time. We are going to do that over the next two years, and you will see that roll through
+the numbers over the next two years.
+JAMIE DIMON: And it's normal modeling. It is nothing special. It is normal modeling that was expected at Basel III
+that we just hadn't built yet.
+CHRISTOPHER WHEELER: But sorry, I am getting kind of confused here. You're saying $300 billion of uplift is
+your expectation?
+DOUG BRAUNSTEIN: No, there is $300 billion of difference today. The Basel I numbers -JAMIE DIMON: Just start with Basel III. Basel III is $1.5 trillion. It is going to come down how much?
+Page 24 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+DOUG BRAUNSTEIN: It will come down over time another $100-ish-billion.
+JAMIE DIMON: Right, and part of this model was run off.
+CHRISTOPHER WHEELER: You are saying virtually none of that is going to be active? It is by model, and it is by
+--?
+JAMIE DIMON: Then we will actively do stuff, too. Believe me, we will very actively do stuff. It's just not (multiple
+speakers)
+CHRISTOPHER WHEELER: Sorry, go on.
+JAMIE DIMON: Go on.
+CHRISTOPHER WHEELER: What is it on? Give me a rough idea what the nominal is behind that? Because that
+is one of these leading factors here. You touched on that earlier.
+JAMIE DIMON: Behind which one?
+CHRISTOPHER WHEELER: The nominal behind that $100 billion of run-off of risk-weighted assets. You were
+talking earlier about 1000% uplifts on some of the RWAs or some of the assets you were looking at earlier. I
+wondered what the nominal was behind that $100 billion of mitigation.
+JAMIE DIMON: Okay, let's do this again. We're going to do it the last time.
+There are -- we are running off -- is it $100 billion of RWA? Where there's loans or high RWA assets that we are
+not going to regenerate again, that are going to run off the books, there is nothing we need to do. That includes
+high RWA loans. It includes all these mortgages loans that's running off.
+Then there are models which we are just building which are normal modeling and stuff like that that we're allowed
+to put into Basel III, which will do another whole chunk of reduction in RWA. Do you have the chart right there?
+DOUG BRAUNSTEIN: The total of those two is about $100 billion.
+JAMIE DIMON: Okay. $100 billion.
+CHRISTOPHER WHEELER: Okay, so the -DOUG BRAUNSTEIN: I don't know the exact -- we can get back to you on the exact nominal dollar amount. But a
+lot of it is in the mortgage portfolio, so it is pretty close to that number.
+CHRISTOPHER WHEELER: Okay. Okay. That's much clearer. Thank you so much.
+OPERATOR: Brian Foran, Nomura.
+BRIAN FORAN, ANALYST, NOMURA SECURITIES: I apologize. I don't have a question. I don't know why that
+keeps happening.
+JAMIE DIMON: Okay.
+DOUG BRAUNSTEIN: Great.
+JAMIE DIMON: Folks, thank you for spending some time with us, and we will talk to you soon.
+OPERATOR: Thank you for participating in today's conference call. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web
+site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current
+expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any
+forward-looking statement based on a number of important factors and risks, which are more specifically identified
+in the companies' most recent SEC filings. Although the companies may indicate and believe that the
+assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove
+Page 25 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the
+forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE
+APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN
+ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN
+THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON
+FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE
+INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S
+SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+Document FNDW000020120127e81d001b9
+
+Page 26 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+

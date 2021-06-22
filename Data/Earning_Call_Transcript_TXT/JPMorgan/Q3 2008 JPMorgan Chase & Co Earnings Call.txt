@@ -1,0 +1,735 @@
+Q3 2008 JPMorgan Chase & Co. Earnings Conference Call - Final
+12,583 words
+15 October 2008
+Voxant FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+Copyright 2008 by ASC Partners, LLC. All rights reserved.
+OPERATOR: Good morning, ladies and gentlemen. Welcome to the JPMorgan Chase third quarter 2008
+earnings call. Today's call is being recorded. Today's presentation may contain forward-looking statements within
+the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current
+beliefs and expectations of JPMorgan Chase's Management and are subject to significant risks and uncertainties.
+Actual results may differ from those set forth in the forward-looking statements.
+Factors that could cause JPMorgan Chase's actual results to differ materially from those described in the
+forward-looking statements can be found in JPMorgan Chase's current report on Form 8-K, dated September 26,
+2008, its quarterly reports on Form 10-Q for the quarters ended June 30, 2008 and March 31st, 2008, and its
+annual report on Form 10-K for the year ended December 31st, 2007, each of which has been filed with the
+Securities and Exchange Commission and is available on JPMorgan Chase's website, www.jpmchase.com, and
+on the Securities and Exchange Commission's website. JPMorgan Chase does not undertake to update
+forward-looking statements to reflect the impact of circumstances or events that may arise after the date of the
+forward-looking statements. Today's presentation may also include references to non-GAAP financial measures
+and you should refer to the information contained in the written slides accompanying this presentation for
+information about their calculation. These slides are available on JPMorgan Chase's website. (OPERATOR
+INSTRUCTIONS) Your line will be muted for the duration of the call. We will now go live to the presentation. Will
+you hear silence for a moment. Please stand by. At this time I would like to turn the call over to JPMorgan
+Chase's Chairman and Chief Executive Officer, Jamie Dimon, and Chief Financial Officer, Michael Cavanagh. Mr.
+Cavanagh, please go ahead.
+MICHAEL CAVANAGH, CHIEF FINANCIAL OFFICER, JPMORGAN CHASE & CO.: Good morning, everybody.
+Thanks for joining Jamie and I. Start with a long preamble there. So we are going to go through, as usual, a slide
+presentation that is available on our website as the operator just described. So if you have it that in front of you I
+hope, let me first, like I did last quarter with Bear Stearns, just describe up front the impact in the quarter of the
+Washington Mutual transaction that closed during the quarter, to clear that up before we start talking about what
+went on in the JPMorgan businesses for the full quarter. The first point I'd make on page 1 is the italicized
+comment up top that the numbers -- it's only been less than three weeks since we announced and closed the
+Washington Mutual transaction -- so take the numbers that I'll talk about here on this page related to Washington
+Mutual as our best estimates at this stage and do expect us to be working on future refinements if and as needed.
+But with that, if you go into the table you see that we reported firm-wide net income including Washington Mutual
+impact of $527 million or $0.11 per share. Then you see the WaMu-related merger items, which you are going to
+see in our Corporate segment for the quarter. A conforming loan loss reserve adjustment of $1.221 billion, a little
+higher than what we said on the WaMu call a couple weeks back. And then an extraordinary gain of $581 million,
+which is actually zero at the time of the call. Those two together are at about $0.18 negative. To bring you down
+to result before WaMu of $1.167 billion, or about $0.28 per share.
+Moving now to some of the bullets at the bottom, just to give you a sense for what's coming in the future,
+merger-related items ongoing from this point forward, so in the fourth quarter and beyond, will again be booked in
+Corporate the same way you are going to see what happened with the non-operating results of Bear Stearns.
+That's going to include whatever merger costs there are that flow in the future. We are giving you an estimate that
+that could be after tax about $100 million plus or minus in the fourth quarter and cumulatively as much as $500
+million plus or minus over the next several years. In addition, the refinements that I talked about to the purchase
+accounting, to the extent that they occur, are going to run through P&L, and that's related to the fact that there's a
+negative goodwill situation and for the accounting aficionados, you can follow up after the call on what all that
+Page 1 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+means. But any refinements will run through P&L, but we will count them in this merger related items line that
+we'll show you and talk about in the Corporate segment. Lastly, beginning next quarter, we'll obviously show the
+ongoing operating results as appropriate in our relevant business segments, Retail, Card Services and
+Commercial Banking. And we'll be spending time to improve and refine the reporting methodology we have to
+capture all the details we want to give you. Just a high-level comment on the earnings impact, we still feel
+comfortable that about a $0.50 incremental EPS for 2009 is a reasonable expectation. And as far as the fourth
+quarter goes, you can pretty much expect our best guess would be a pro rata portion of that $0.10, $0.12 of EPS
+in the fourth quarter or so related to WaMu.
+Moving along to slide two, I won't comment on the first several items on the page here because we are going to
+hit them in the businesses, but just some firm-wide items down toward the middle of the page. You see the overall
+results include -- and now this is JPMorgan Chase away from Washington Mutual, after-tax items that include a
+slightly larger benefit from reduction of deferred tax liabilities and what I talked about on the WaMu call a couple
+weeks ago. It's $927 million after-tax. It's spread across our business units, the bulk of it in the Investment Bank.
+And then the next two items, auction rate and Fannie and Freddie write-downs, you're going to see in our
+Corporate segment. On credit reserves, firm-wide, we increased credit reserves through the P&L by $1.3 billion in
+the quarter, bringing the total to $15.3 billion of loan loss allowance and that's strong coverage ratios that you'll
+see here. I will show you a final slide that gives that you that across the full firm. And that's before Washington
+Mutual again. As you know, in addition, we brought over and then added to the reserves Washington Mutual had
+for its non-marked portfolios to the tune of $4.5 billion added to the $15.3 billion that we had. Lastly, we maintain
+very strong Tier 1 capital, $112 billion or 8.9% Tier 1 ratio on the back of the successful capital raise of $11.5
+billion of common equity that we did a couple weeks ago.
+I am going to skip now slide three and go right to getting into the results for Investment Bank on slide four. So
+here you see the Investment Bank had $882 million of net income on pretax income of $16 million. So that's really
+the flow-through of the deferred tax liability benefit that I talked about on the prior page, largely going to the
+investment bank. If you now work down the P&L for the business, $4 billion of overall revenues, pieces of that
+included $1.6 billion of Investment Banking fee revenues up 20% year-over-year. And you will see on the next
+slide that we continue to be leading market share across the league tables as well as the top, this $1.6 billion for
+the year-to-date equivalent is actually the top fee earner on the street. So feel very good about the Investment
+Banking key franchise. Moving along to Fixed Income markets, you see we had on the revenue side total of $815
+million of revenues. That includes $2.6 billion of write-downs related to our mortgage positions that we've been
+talking about before, as well as a $1 billion related to leverage lending, and I will show a slide on each of those.
+Won't go into that in more detail right now. And then underlying that in Fixed Income, it was very strong results in
+a bunch of other areas. Record results in rates and currencies, credit trading very strong emerging markets and
+commodities. On the Equity Market side, you see $1.650 billion of revenues, up strongly year-over-year, and
+that's on strong client revenue and on the trading side.
+And then lastly you see Credit Portfolio down a lot from a year ago. That's really related to derivative receivables,
+the widening of our counter-party credit spreads obviously driving the values lower there and the negative
+revenues, which in large part, offset the benefit that you see in the bullet in Fixed Income Markets and equity
+markets related to the benefit we get on our own credit spread widening. On the credit cost line you see $234
+million of credit costs. Actually the preponderance of that is additions to loan loss allowance. Only $13 million of
+actual charge-offs in the quarter. That brings the allowance for loan losses in the Investment Bank to $2.7 billion
+for the 3.85% reserves to loans ratio. And then the last point I will make here is you see at the bottom the end of
+period equity, $33 billion. I will comment on the back of how we arrived that it, but we really spent time in the
+quarter looking to refine our capital allocation methodologies to our businesses, and you can think of this as a
+common equity equivalent to the Investment Bank.
+Moving along to slide five, I'm going to skip it, but you won't go through it here but you can see for yourself the
+strong rankings we have in the league tables and the fee side. So moving to slide six, I will just quickly comment
+on the legacy leverage lending positions. So you see we had net markdowns, as I said of, $1 billion for the
+quarter. That brings our gross markdowns to $3.8 billion on the remaining $12.9 billion of commitments that we
+have, or a 29% markdown to a carrying value on the balance sheet of $9.1 billion. And that is a reduction of $3.4
+billion or 21% from last quarter. Moving on to slide seven, you see on the mortgage-related side, same numbers
+we have been showing you in prior periods. I will start on the table. If you go to the left, you see the bottom line of
+the table, $33 billion of mortgage exposure across the products shown here, both residential and commercial,
+reduced by $14.4 billion to end this past quarter at $18.6 billion for the investment bank. If you look at the first
+bullet below the table, that reduction in two parts, $2.6 billion of write-downs, as I talked about in the P&L, running
+through the P&L, as well as $11.8 billion worth of sales, including $4.3 of which was moved over for -- to our
+corporate investment portfolio which is a real buyer of these type of assets.
+Page 2 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+I will skip going through the details because you can read them for yourself of what comprises the different
+buckets that we have on the page. You see in the next couple bullets. But obviously we feel well marked here.
+But when you go down to the final bullet, just to explain how we think about remaining $18.6 billion, we would
+think about that in two ways. There's a natural level of inventory that you need to support the ongoing trading and
+client activity in normal times. That could be anywhere from $12 billion to $15 billion and so you see $12 billion
+right now of that would be assets of that very nature that you would expect to be business as usual and flowing in
+and out the door. On top of that, though, we do have $6.6 billion worth of remaining positions from what we have
+been through, obviously marked down, and we're just going to manage that on a mark-to-market basis in a
+liquidating portfolio in the Investment Bank under Bill and Steve, but leave our trading debt focused on facilitating
+client business and put that in the hands of a special team to deal with.
+Moving on to Retail now on slide eight, you see again the main drivers as we always go through of what's going
+on in the P&L. So you see the growth in the branch stats, checking accounts up 10%, you can read for yourself
+the growth in branches and ATMs, et cetera. Average deposits up 2% year-over-year, flattish versus last quarter,
+but do feel good about the strength of this franchise. Mortgages obviously originations on the mortgage loan side
+down some. Most of what we're originating is conforming to government guarantee standards there and holding
+the market share gains that we've had there. Home equity originations down 77% year-over-year. When you
+translate that on slide nine into the P&L for the Retail business, we end up with the $4.9 billion worth of revenue in
+the Retail business overall which is up 16% year-over-year. It drops down to $247 million of net income, which is
+down from the year-ago and prior quarter, and the big reason for that is credit. So you see credit costs circled
+there of $1.678 billion. Obviously, charge-offs are higher and you can see the charge-off rate overall down below
+at 244 basis points, up from prior year and prior quarter. But also included in that $1.7 billion of credit costs is
+$450 million of additions to loan loss reserves, part of the firm-wide $1.3 billion increase. In addition, we added
+$250 million of loan loss reserves related to prime mortgages held in corporate. So I am going to show you a
+couple of slides in a second on what's going on in the major portfolios.
+Lastly, at the bottom of the page, same thing as the Investment Bank. You see the equity allocated to the
+business taking into account the WaMu acquisition, increasing from $17 billion to $25 billion in the quarter.
+Moving on to slide 11, I'll talk -- 10 rather, I'll talk you through the same slides we've seen before on our major
+residential portfolios. So slide 10 is home equity. I'll just take you to the upper right box, the key stats. Focus on
+the net charge-off dollar line. So you see $663 million of net charge-offs, up from $511 million last quarter. And I
+will just take you right down to our outlook from here on this is that we had talked about last quarter the pace of
+deterioration slowing off of what we had given to you earlier in the year. It has slowed but nonetheless it continues
+to deteriorate, so our best outlook for the near term is that quarterly losses, that $663 million, could trend as high
+as $725 million per quarter to $800 million a quarter over next several quarters or so. When you move on to
+subprime, a little more severe degradation, so you see $192 million of net charge-offs last quarter going up to
+$273 million. And our outlook again, down at the bottom bullet, could be as high as $375 million to $425 million
+over the coming quarters by early '09. And here was the major component of our $450 million reserve increase in
+the Retail business that was related to subprime.
+On slide 12, prime mortgage, remember, remember I said earlier that we have -- we carry some of the balances
+here in our retail business but many in the Corporate segment, in the investment portfolio. Overall, the charge-offs
+on this portfolio of $177 million in the quarter or 1.51%, that's going to trend as high as $300 million by early '09.
+And just to remind people, we talked about this last quarter, the increase in prime, we've -- just to clarify a bit, this
+portfolio we have, mix drives a lot of what's going on here. You see that 80% of our losses in the quarter came
+from California and Florida, which represented 37% of the portfolio. The more important, I think, portion of why
+the charge-off rates are higher than you might expect is that this is not a well-balanced portfolio by vintage. So of
+the $47 billion you see in balances, about 50% are '06-'07 vintages which drive 90% plus of the losses related to
+this portfolio. Moving on to card, slide 13, here you see we had profits of $292 million in the quarter, down
+substantially from a year ago. Main driver again credit costs, $2.2 billion, up substantially from the prior year.
+Charge-off rate of 5%. Pretty much on what we had previously expected up from 4.98% last quarter but essential
+flat. In addition, on top of charge-offs we added $250 million to the allowance for loan loss reserves in the quarter.
+On the revenue side, we had outstandings grow by 6% from a year ago to about $158 billion and charge volume
+growth of 5%. When you translate that into -- it's modest revenue growth, basically flat to the year ago. And lastly,
+same point at the bottom, $15 billion of capital. And I will just tell you that's with a view to where the business is
+going to go once Card securitization has come on balance sheet and we're under Basel II, so a good number for
+capital allocation to the card business. Moving on to Commercial Bank on slide 14, here we had profits of $312
+million, up 21% from a year ago, and that's on record revenue, so the $1.125 billion is up 11% from the prior year.
+That's on the back of loan growth of 18% from a year ago and deposit or liability balances up 13% from a year
+ago. And that revenue growth is really coming across all products in the business. Here credit costs of $126
+million. Actually, again, very modest charge-offs. You see the 22-basis-point net charge-off rate in the quarter, so
+Page 3 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+all in all, below normalized levels for credit costs, and as we'll comment later, expect this to worsen. It will worsen
+from these levels, given the economy, but so far so good for this business.
+On slide 15, Treasury Security Services, you see profits of $406 million, up from the year-ago. Again, liability
+balances up 10% helping translate revenues up 12% from a year ago, including two segments here, Treasury
+Services, the cash management businesses, and Security Services, the custody business. On the Treasury
+Services side, the 897 of revenues were a record quarterly revenue level. WSS benefited from the market we're
+in, but obviously faces challenges as the market has come off in what we've seen in this month so far. Overall
+liability balances you see of $260 billion. Moving on to Asset Management, $351 million worth of net income,
+down from a year ago and down from last quarter. Story here again, as I mentioned with Treasury and Security
+Services, is market levels impact this, so our assets under management are down by $133 billion solely due to
+market declines. On the other side of that over the past 12 months, we've continued to have inflows, $123 billion
+for the past year and $46 billion in for the quarter helping offset some of that. Nonetheless it translates into
+revenues down 11%, given lower market level effect as well as performance fees.
+Finally, moving on the P&L to Corporate, slide 17, I will just walk through the pieces here. Private Equity, we have
+been talking about weaker conditions for liquidations and valuations on Private Equity, so we've got it this quarter.
+Negative revenues on unrealized losses of $206 million translates into after-tax losses of $164 million. Moving
+down a row you see Corporate, $1.64 billion negative. So this is where you see in the bullets to the bottom right,
+inside that number, some of the big items are the write-down of the Fannie and Freddie preferred securities that
+we owned, $642 million after tax. Also, the $400 million pretax estimated charge related to auction-rate security
+settlement, $248 million after tax. And lastly I commented earlier, the prime loans that we hold in Corporate, the
+$250 million increase in loan loss allowance as well as actual charge-offs in the quarter, translate into $234
+million of after-tax costs all running through that $1.64 billion negative for Corporate. Outlook for there continues
+to be $50 to $100 million negative in the quarter, but you are going to have volatility around the investment
+portfolio as well as the credit costs related to that prime portfolio. And then the last piece is a $735 million after tax
+of merger-related items. This, as I said earlier, is where we are going to continue to show you the impact in future
+quarters of Washington Mutual and Bear Stearns related items. So here for the quarter, you see the $1.2 billion
+conforming loan loss reserve for WaMu as well as the $600 million extraordinary gain, as well as about $95
+million after tax of Bear Stearns merger related costs, kind of in line with what we had expected.
+Moving on to capital, so slide 18, you see the firm-wide view of capital obviously came in a bit better than what we
+talked about a couple weeks ago on the Washington Mutual call. So you see about five rows down, Tier 1 capital
+ratio, this is a Basel I basis, 8.9% for the quarter. Again, that includes taking on the Washington Mutual balance
+sheet and the $11.5 billion of common equity we raised and closed in the quarter. And again that's on a Basel I
+basis. On a Basel II basis, our best estimate is that there's substantial, maybe 100 basis point spread between
+the two to the positive, going to Basel II. And then just the points down at the bottom, the capital allocation and
+funding costs. So capital allocation we spent a lot of time in this environment and thinking about what's going on
+in our industry, making sure we have capital allocated properly in the businesses, so we have people making
+good decisions as our industry obviously faces a lot of different challenges. And what we did in trying to arrive at
+that is to take a couple of things into mind. Two of those are that Basel II will be in effect for us January of 2010 or
+thereabouts, as well as the off balance sheet accounting rules that bring on, in particular, the credit card off
+balance sheet securitization. So we tried to take a forward view of where we're going as we thought about
+allocating capital to the businesses. And then the final point is that obviously with credit spreads where they are,
+the cost of money, the cost of goods sold in our company period is obviously much, much higher, and we've been
+regularly passing through higher cost of money to our businesses so they can again make good economic
+decisions for the shareholders on a day-to-day basis.
+Moving on to slide 19 now, I will just recap the numbers or let you read them yourselves. These are just refreshes
+of the pages we showed you the night of the WaMu announcement. That top table on page 19 just shows you the
+$31 billion of tangible assets acquired from WaMu as booked on their books net of our write-downs and purchase
+accounting and the consideration we paid gets you to the estimated after-tax gain of $581 million for the quarter
+as well as the conforming loan loss reserve adjustments you see at the bottom. I will make the same caveat on
+this page, that these are our best estimates as we sit here now and to expect some future refinements to these
+numbers if necessary. One last slide on WaMu is page 20. Think of this as a preamble to the disclosure we are
+going to be giving you in future quarters, which really goes to the loan balances and the reserves associated with
+those, since obviously we took a lot of loans and marked them down. Just want you to understand how it's going
+to flow through our numbers. So over to the left you see the first three columns. This is JPMorgan stand-alone
+before WaMu. You see our loan balances in the first blue row. If you follow your eye across there, the next
+column is loan loss allowance, $14.5 billion related to loan coverage. And that's 2.72% loan loss reserve
+coverage.
+Page 4 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+When you move to the middle, you see WaMu but first I will point you over to the side. Remember that we took
+$78 billion -- rather, $108 billion worth of WaMu loans that are credit impaired, the bad stuff. We wrote that down
+by the $30 billion to get to the $78 billion carrying value on our books now related to these loans for a mark-down
+of just around 28%. What remains then is in the middle of the page under the green column for Washington
+Mutual loan balances, the remainder, the good stuff that wasn't marked down is $131 billion that needs normal
+loan loss reserves against it. So including the additional conforming loan accounting entry we booked, we have
+$4.5 billion of loan loss reserve related to the Washington Mutual loans that have reserves. And then those two
+sets of columns add over to JPMorgan consolidated. So again, there's things moving through these numbers that
+we are going to be very clear when we get to our fourth quarter results on how it flows through the numbers.
+Washington Mutual integration on page 21, we'll just say that it's progressing well. Important point is that the
+deposit base is really stabilizing and growing since September 30th with positive net inflows on seven out of the
+past nine days.
+And then finally, our outlook, I think I've hit all the comments here. I'll just say one or two things in addition, that
+really across retail, really across all the businesses, you see our comment that you can generally be expecting
+higher credit costs and the worse economic conditions get, the more likely it is -- or it is likely if economic
+conditions worsen, that we'll continue adding to our loan loss reserves in coming quarters. But in Card in
+particular, if you see down there on the left side of page 22, you can expect losses of the 5% or so range in the
+fourth quarter, which is in line with what we've previously said. But given what we're seeing in the economy, it's
+reasonable at this stage to up the expectations for losses in Card for 2009. So we say here that you can expect
+something more to the tune of 6% loan losses at the beginning of the year growing to something more like 7% at
+the end of the year, but again highly dependent upon the economy. In Asset Management and TSS are subject to
+the market conditions, and Corporate, the [net quarterly loss of] $50 to $100 million I already described. In
+Washington Mutual, the $0.50 of EPS incremental next year with a pro rata piece of that coming in the fourth
+quarter as I said earlier. One other item is Paymentech gains from the dissolution of our merchant services
+business with First Data. That will be an after-tax gain, assuming it goes through in early November on schedule,
+of $800 million so after tax, but obviously given expectations for loan loss reserving we'll see -- don't expect that
+to be dropping to the bottom line is what I'd say. So with that, let me wrap that up and Jamie and I can take some
+questions.
+JAMIE DIMON, CEO, JPMORGAN CHASE & CO.: So let me just give a couple of overall comments before we
+take some questions. Obviously, we necessarily need to be prepared for a bad environment. We don't know what
+the environment is going to be. Mike took you through all the credit numbers. If you look at them, other than home
+lending, which we think is far worse than we would have expected, we're actually not that bad, non-performers,
+delinquencies in Card, et cetera, but when you see this kind of unemployment, this contained of uncertainty, the
+reduced consumer spend, we are getting braced for increasing loan loss reserves going forward. So it's
+reasonable as a shareholder if you'll expect that trade results can be very tough forward, that charge-offs are
+going to be going up, that loan losses will be added at least the next couple quarters. But we're going into an
+environment with an extremely strong balance sheet, 8.9% Tier 1 before the government's addition to that, very
+strong loan losses or leading among the strongest in the industry, which probably will be strengthened going
+forward. And I think of note when you go through this press release, there is real growth. In some areas it's in
+market share like investment banking and mortgages, even though it's a tough business, in other areas it's really
+broad growth in deposits and loans and you see that in TSS, the Private Bank, and the Commercial Bank, so we
+feel pretty good about it. Even in the Card business where we have kind of low expectations for spend, our spend
+is up 5%, and from what we know Visa numbers are more like zero. So we seem to be gaining a little bit of share
+there too.
+I want to point out in the Investment Bank, one of the things -- if you back out losses, which we don't think you
+should do, but the trading results were pretty good. But another way to view that is based on what we just went
+through in September, and obviously for the whole quarter, but September in particular, you've got to feel pretty
+good with the violent swings in volatility that we were able to manage through that process across all of our
+products globally and not be highly surprised. That goes from the Lehman bankruptcy to the AIG issues to swings
+in certain securities of 25% in a day. And you can imagine what it's like to manage through that process. And I
+think for our people here, I think it's very important to note it was an unbelievable thing to watch the people
+accomplish the WaMu acquisition, managing the portfolios, a lot of these same people were dealing with clients
+on mortgages and issues trying to do the right thing for clients every day. So it makes you really proud to watch
+what the people here are able to accomplish and I think it also portends very well what can be accomplished in
+the future.
+I will also mention on the Treasury package, because I know it's in the back of your minds, we were presented
+with a package from the government and this is the way that JPMorgan saw it. The United States Government is
+trying to do some very powerful things to fix the situation. And a lot of people can come up with a whole bunch of
+Page 5 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+different programs, but they had one, and I think what they're doing in this package, plus all the prior things that
+have been done, is very powerful and you will start to see some effect. So we really saw this as doing something
+which is very good for the system. It is equally true if you said, well, they're asymmetric benefits for -- it could be a
+negative for JPMorgan versus competition. That may very well be true, but we did not think that JPMorgan should
+be selfish or parochial and try to stop what's good for the system, because it might be mildly bad for us relative to
+some of our competitors. So we hope it will work. There's $25 billion of capital. If it comes in the door, we hope to
+find ways to be able to use it to benefit our shareholders and to continue to be there for our clients. I do want to
+point out that we are there for our clients. Commercial loans are up 18%. The Investment Banking loans are way
+up, and a lot of the things we do every day, we are trying to do the best we can to be in business for our clients,
+even in some categories where if you ask the question if you borrow at today's marginal cost and lent out at
+today's yields in home equity/auto, you are probably losing money. But we still try to stay in business in the right
+way for people who walk into our branches or deal with our bankers. So we will stop there and open the floor to
+any questions you all may have.
+OPERATOR: (OPERATOR INSTRUCTIONS) We request that each participant ask only one question and one
+follow-up. We'll pause just a moment to assemble our Q&A. We'll go first to John McDonald with Sanford
+Bernstein.
+JOHN MCDONALD, ANALYST, SANFORD BERNSTEIN: Good morning. Was wondering in the equity trading,
+could you comment on share gains in prime brokerage and also the contribution of the Bear Stearns business this
+quarter versus last quarter?
+JAMIE DIMON: We've had some gain in prime broker, and I'm going to say if you look at total balance has been
+able to go something like 25% over the quarter. So Bear is performing the way we expect, but I don't remember
+the specific numbers of what it did in the equity.
+MICHAEL CAVANAGH: It's definitely an improvement in P&L over the last quarter but not yet -- I would still say
+we're tracking towards the incremental profits we expected to get by end of '09. Health in the business, but not a
+dramatic change in P&L just yet.
+JOHN MCDONALD: So it's not yet a net positive, but should be still towards the $250 million per quarter by the
+end of next year?
+MICHAEL CAVANAGH: Yes.
+JAMIE DIMON: A small net positive, but not a big net positive.
+JOHN MCDONALD: In the credit card business, the margin was up quarter to quarter. Was wondering if the
+prime LIBOR spread was something that started to hurt towards the end of the quarter and you expect that to
+impact you more going forward.
+JAMIE DIMON: That number alone, if it stays where it is today, could cost us $100 million a month in that
+business. We don't expect it to stay there. And obviously there are actions we can take that can reduce that over
+time.
+MICHAEL CAVANAGH: And you are right, it wasn't a significant factor in the third quarter.
+JOHN MCDONALD: Okay. And final thing on Card, any changes towards the end of the quarter in payment rates
+and behavior as the market fell apart in terms of just revolve and payment rates?
+MICHAEL CAVANAGH: So spend numbers dropped from a year ago and they're now running on the consumer
+side plus 3, 4, 5% a week. I think the industry is closer -- at least we know the Visa number is around 0. Payment
+rates came down a little bit, which you expect to see in an environment like this. Obviously losses are kind of
+trending upward in a nice steady fashion like we told you toexpect.
+JOHN MCDONALD: Jamie, one question on the government's plan with the preferred. Do you expect them to be
+restrictive on how banks deploy the capital or pretty much free reign for the banks to use their discretion subject
+to -- ?
+JAMIE DIMON: It's a non voting preferred, so we don't expect the government to get involved in our business. But
+it is clear that the government would like us use the capital to facilitate clients to make loans and stuff like that,
+and we want to do that, too, so I think we have a common interest in this.
+OPERATOR: We go next to Guy Moszkowski with Merrill Lynch.
+Page 6 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+GUY MOSZKOWSKI, ANALYST, MERRILL LYNCH: Good morning. I just wanted to follow up on the use of the
+government capital. Would you think it's reasonably leveragable, especially given the availability of the debt
+guarantee, or is the government actually, do you think expecting, to you maintain Tier 1 close to 12%?
+JAMIE DIMON: Again, I don't think the government is telling us what to do with the capital. When you say
+leveragable, I think you can use it. We fully expect to use some of it to do a good job for our shareholders. The
+government guarantee on the debt side just makes it easier for banks to roll over their liabilities and some banks
+are having trouble doing that. JPMorgan was not.
+GUY MOSZKOWSKI: Right, but presumably given that will you be receiving an injection of $25 billion of Tier 1
+capital, if you leveraged it even a few times over, and use the fact that you can borrow at basically Treasury plus
+75 bps, given the 75 basis point cost of the guarantee, it would seem like it could actually be an interesting
+opportunity or am I looking at it wrong?
+JAMIE DIMON: I think if you are a bank that's filling a hole, obviously you can't do that. If you are a bank that is
+not filling a hole, obviously you can do some of that. But we just got it. We haven't even got it yet, so we're just
+sitting here making sure we do it right. And obviously it will relate to the environment you see going ahead. It's
+very important for us, just like I think it's very important for the government, that all of these institutions be able to
+weather whatever happens coming forward.
+GUY MOSZKOWSKI: And do you plan to use the TARP asset sale facility to reduce some of those mortgage
+exposures that you talked about?
+JAMIE DIMON: Look, I don't think it's highly relevant to us, honestly. We're down to smaller numbers now, and so
+the answer is probably not, but we'll see how the details come out and figure out then. But I think the TARP
+facility, when it comes out, may very well help the market and that will help anyone who wants to trade those
+markets, because you will have real prices, real discovery and real ability to how you manage your own assets
+and capital.
+GUY MOSZKOWSKI: Fair point. Finally, just to follow up on Bear Stearns, given what you paid for the company
+versus the book value that they stated at the time of the merger and the fact that you didn't record an
+extraordinary gain there, you would essential be carrying maybe $10 billion of reserves. And you talked about a
+variety of things that those were set up for, but largely it would be for securities valuation. And I was just
+wondering, have you burned through all those reserves that it point, and would some of the securities losses that
+you showed this quarter have been from the Bear Stearns portfolio or do you still have some of those valuation
+reserves available?
+JAMIE DIMON: I think we've been clear right from the beginning, there were no valuation reserves ever in the
+Bear Stearns deal. All those assets came over and were marked.
+MICHAEL CAVANAGH: Fair value.
+JAMIE DIMON: At fair value. There were reserves for litigation, severance, a whole bunch of stuff like that, but
+they were our best estimate. There's nothing left over from Bear Stearns. If you said what would your losses have
+been in mortgages this quarter had you not done the Bear Stearns deal, my guess is about 40% of that came
+from Bear Stearns.
+GUY MOSZKOWSKI: Terrific. That's exactly what I wanted to know. Thank you so much.
+OPERATOR: We go next to Mike Mayo with Deutsche Bank.
+MIKE MAYO, ANALYST, DEUTSCHE BANK: Good morning. So when do you get the $25 billion in preferred?
+JAMIE DIMON: I don't know. I think the paperwork is not finished on that. And obviously, we are going to read
+that very carefully.
+MIKE MAYO: And would you be willing to use that $25 billion for new acquisitions?
+JAMIE DIMON: I would be willing to use it for anything that made sense to JPMorgan shareholders.
+MIKE MAYO: And Bear Stearns, how much of the Fed's backup has been eaten into?
+JAMIE DIMON: There's no Fed backup. The Fed is financing $30 billion of assets and we're taking the first $1.1
+billion or whatever the number is of loss there. Again, we've been very consistent. We think the Fed is going to
+Page 7 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+get all their money back and we expect to get a little bit of our first loss note back, too. But I don't know. They're
+managing that. It's up to them and it depends how they manage it over time. They make their own reports, by the
+way, what they think the market value of that is and the last report I saw said about -MIKE MAYO: About what it started at.
+JAMIE DIMON: It's about what it started at. And it's obviously bounced all over the place in the last month.
+MIKE MAYO: And have you made any changes to mark-to-market accounting. I guess there's been a lot of noise
+the SEC. And there's an IASB proposal for European banks that would allow them to move assets from fair value
+accounting to more loan type accounting. Any views on all this? Any changes ahead or any changes already
+made?
+JAMIE DIMON: We have made no changes to our accounting. I think what the SEC guideline sent out is that, in a
+market where there's no trading, that you've got to use your judgment and models and stuff like that. We've made
+no change in ours. I think the European banks -- we are already allowed if we want to move from a trading
+account to a health and maturity account. We took you all through that last time. We did do that with a little bit of
+stuff. We put up a lot more reserves, not less, when we did that. As a matter of fact, we wanted more reserves. I
+think they said the banks can do that themselves in Europe now.
+MIKE MAYO: And then, last question. As far as your outlook, you mentioned the Lehman bankruptcy risks
+remain, and I guess that relates to CDS, but can you elaborate and how important are these risks?
+JAMIE DIMON: We think we are going to be fine in those risks, but we just want to point it out. There's really two
+things, to simplify a little bit. One is trading, honestly all of us thought that if you ever saw a -- we used to call it the
+major dealer exit, that it would be very tough on trading. It was but I think it was -- I think the street was able to get
+through that rather quickly and easily. But there are still some open issues relating to that, but not big. And the
+second is we were a huge financing tri-party agent and we have collateral against that and some of that collateral
+we have to liquidate, some of that belongs to some other people. We think that will all sort out.
+MIKE MAYO: Thank you.
+OPERATOR: We go next to Betsy Graseck with Morgan Stanley.
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Good morning. Could you talk a little bit about the Card
+business? We realize that the house had passed some legislation that potentially will make its way to the Senate
+in the beginning of the year and you've got the Fed regulators looking at a proposal (inaudible) common period.
+What are you doing in the Card business to prepare yourself for the potential that these regulations -- or
+legislation changes?
+JAMIE DIMON: So first of all, keep in mind that we already had eliminated double cycle billing and we had
+already eliminated off-us pricing, this is where we price -- that we changed your pricing because of FICO score
+changes or something like that. So two of the biggest things that people complain about, we already don't do. So
+put them to the side. And that cost us money. I forgot the number. We disclosed here at one point, it took like
+$300 or $400 million -MICHAEL CAVANAGH: $700 million, going back about a year, three-quarters or a year.
+JAMIE DIMON: So the other stuff, and there's a whole bunch of stuff out there. I would put in the category of it
+could be significant, so any one change on its own could be hundreds of millions of dollars, or something like that
+in total they could be well over $1 billion. But there are actions that would take place that would that would change
+a lot of that. So for example, if you can't reprice certain loans, you are not going to make certain types of loans. If
+you have to have people pay off teaser rate loans last on a series of loans, we're not going to make teaser rate
+loans. So a lot of that stuff I think competitively it will cause kind of changes in profits in the short run, but not in
+the long run. It will change your prices. If you cannot price for risk, you are going to charge everybody else more.
+That's what's going to happen. So -BETSY GRASECK: And I know in your proposal -- I mean in your comments to the Fed, you indicated that the
+industry or your portfolio in particular would be smaller. Can you give us any sense of the degree to which you
+think you might need to pull back on outstandings.
+
+Page 8 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: We already have, but honestly, some of the fees or outstandings we were going to pull back on
+weren't that profitable anyway. So we're going to run the business for profit. If outstandings go down $10 billion,
+so be it.
+BETSY GRASECK: Okay. And then, when you did the WaMu announcement, you indicated a slide where you
+had your home lending loss severity expectations based on current estimates, deeper recession, severer
+recession. Based on what you were saying earlier, it seems like you might be triangulating more towards a
+deeper recession in your outlook. Is that fair to say or not?
+MICHAEL CAVANAGH: Our outlook is kind of what we see with a little twist that we expect it to get worse. And so
+we don't really know but I think, Betsy, you know us, we have to be prepared that it gets a lot worse. And we are.
+BETSY GRASECK: Okay. Thanks.
+OPERATOR: We'll go next to Jeff Hart with Sandler O'Neill.
+JEFFERY HART, ANALYST, SANDLER O'NEILL: Good morning. In the mortgage related exposures in the
+Investment Bank, you showed a decline. I think you said $4.3 billion of it went into Corporate.
+MICHAEL CAVANAGH: Correct.
+JEFFERY HART: Of the total decline going back beyond just the third quarter, how much has gone into
+Corporate? Do you know?
+JAMIE DIMON: Nothing other than that.
+MICHAEL CAVANAGH: Just that piece.
+JAMIE DIMON: Let me explain. So Corporate has a $100 billion portfolio, and that portfolio is for interest rate
+exposures, for collateral reasons, to manage the balance sheet of the company. We are moving some of that
+portfolio slowly and carefully into higher yielding assets. Because remember, we're here for shareholders. And
+some of these assets we think are going to give great returns to shareholders over time. So it's not any great
+rush, but those assets will include a little bit of AAA CLO, a little bit of bank preferred, a little bit of Alt-A, a little bit
+of CMBS. And we're not going to do it ad hoc, we're just going to do it over time. So those that they move were
+the same type of assets they were buying. And they were moved to fair value, so there's no benefit.
+JEFFERY HART: And as we've done book, are they marked to market?
+JAMIE DIMON: Yes, most of those will continue to be marked to market in the treasury portfolio. So you will see a
+little more volatility in Corporate, because more of the assets there are being held in a trading portfolio, because
+they have -- for a whole bunch of reasons they have to be, but again, like we said, we are here for shareholder
+results. And if we have to take a little bit more risk to do a good thing for shareholders, we're willing to take a little
+more volatility.
+JEFFERY HART: Okay. And I know there's no way to normalize trading revenues, but if we kind of back out the
+big markdowns, the $3.6 billion in the quarter, trading revenues looked really, really good.
+JAMIE DIMON: They were really, really good.
+JEFFERY HART: Is that kind of, "wow, that was fantastic, we'll never see that again"? I'm just surprised given
+how much volatility there was in the quarter.
+JAMIE DIMON: Honestly, it was an exceptional performance. Some areas I think the rising tide lifted all boats, so
+I think you'll see a lot of trading desks in certain currencies and certain rates where the rising tide lifted all boats.
+In other areas, our people just did an exceptional job. Emerging markets, we were hedged for downturns on the
+equity side. We were prepared and positioned for markets going down, so we benefited from that. And we're not
+taking big bets on it, but it was a pretty good performance. Again, we don't expect that to repeat, though.
+JEFFERY HART: Okay. And then finally, from a deposit standpoint, almost $970 billion on the balance sheet is
+more than at least I was expecting combining you guys with Washington Mutual and factoring in some growth to
+that. That can you talk at all about -- are you gaining more market share there? Is there any pricing pressure
+changes in the deposit side?
+
+Page 9 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: We think in the market share side on the wholesale side, yes. You see that in TSS. We think in
+Private Bank the answer would be yes. Retail, the answer is no. Part of the reason, we weren't competing
+aggressively for funds, nor are we in areas where you had this big flight to quality. So I think if you were in
+California or Florida and you were strong, you had a big inflow. We weren't in California and Florida, so we
+weren't the beneficiary of flight to quality in California and Florida -- but we think we're probably gaining a little bit
+of share. I think deposits in the last month are up $100 billion in total. That number may be off a little bit, but it's a
+huge number.
+JEFFERY HART: Okay, thank you.
+OPERATOR: We'll go next to Meredith Whitney with Oppenheimer.
+MEREDITH WHITNEY, ANALYST, OPPENHEIMER: Good morning. I have a few questions that are all
+interrelated. You didn't quantify how many of your businesses are impacted by the prime/LIBOR inversion and I
+just want to be clear in terms of the decline in originations on your mortgage portfolio, was that more credit based
+or in terms of tightening underwriting standards or prime/LIBOR challenge?
+JAMIE DIMON: Let me step back. Prime/LIBOR has a huge negative effect we took on Card. It's got a modest
+beneficial affect across other businesses, so that's not a big deal and it doesn't affect -- directly affect the
+origination business. The origination business, and I think it's true for a lot of people in the industry, Meredith, that
+people have gone back to old fashioned 80% LTV, real verified income, more disciplined appraisals, and then in
+some areas they won't even go to 85% LTV because of expected home decreases, so we are not at 80% in
+California, Nevada, or Florida.
+MICHAEL CAVANAGH: 65 is the max.
+JAMIE DIMON: We're at 65%. So that's why it's down. I think it's true for us and everybody else. Almost
+everything being originated is eligible for Fannie Mae, Freddie Mac, or FHA. So therefore you have this great
+reduction for us and other people in origination. Obviously the quality of that stuff is going to be much higher.
+MEREDITH WHITNEY: Okay. My follow-up is -- and thank you for that -- my follow-up is, given the fact that the
+industry is pulling back credit across the board, is that sort of a "chicken and egg" question, are you seeing areas
+where you've pulled back credit deteriorating much further? Obviously the sand states are experiencing the most
+credit deterioration, but have you given a test example of pulling back credit in one area and seeing all your
+competitors and that being a catalyst for deteriorating -- chronic increase in deteriorating credit?
+JAMIE DIMON: No, I think the answer is probably yes, but we'll never really know. And so if everyone pulls credit
+out of California, obviously it will accelerate the depreciation of homes in California and make it harder and scarier
+for people to provide credit. Let me just make a general comment about a crisis like this. One of the things that
+happens, which I think the government is focusing on, is there are a lot of individual actors. I am talking about you
+as investors, banks as providers of credit, individuals, small businesses, large businesses, all start to take actions
+that are rational for them as an individual or corporation, but in total, can cause exactly what you are talking
+about. And that's one of the things that the government is trying to reverse. It's not just the banks. It's the
+individuals who invest in banks, it's people who provide capital to other financial institutions who are pulling it out
+or moving their money back overseas. And so you do see a little bit of that, and they are trying to arrest that. That
+is the one thing that's got people most scared and they are trying to stop it. Like I said before, I think what the
+government is doing is pretty powerful medicine. I say the governments around the world is pretty powerful
+medicine, and I think will you start to see some beneficial effect of that in the next couple weeks.
+MEREDITH WHITNEY: Okay. If you really believed that, you'd be gunning credit card lines, right, because you'd
+believe that the inversion would abate on prime LIBOR.
+JAMIE DIMON: We're not big speculators, but we are buying slightly more risky assets and we're growing our
+businesses everywhere, so we're not panicking. Credit cards were up, credit card receivables are up. We are not
+pulling out of California. We're still going there. We're still marketing. Obviously we try and modify what's going
+on, but we are not going to say, "yahoo, this is over", and extend credit like we did without fear. If you are not
+fearful, you're crazy.
+MEREDITH WHITNEY: I'm fearful.
+JAMIE DIMON: We know you are. We're waiting for you to reverse your position.
+OPERATOR: We go next to William Tanona with Goldman Sachs.
+Page 10 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+WILLIAM TANONA, ANALYST, GOLDMAN SACHS: Good morning, guys. Some of the other investment banks
+provided some pretty good color in terms of where they have certain assets marked within their investment bank.
+And I just wonder if you guys would be willing to provide that same level of detail across prime, alt-A, subprime,
+CMBS. You give the exposure reductions, but we don't really know where those things are marked.
+JAMIE DIMON: So leverage loans we did, and I'll give you some numbers now. Ready? Prime loans is not really
+applicable. Securities are marked in the high 50s. Alt-A performing loans about mid 70s, non-performing loans,
+40s. That's loans. Alt-A securities, high 20s. Subprime mid-30s. CMBS loans mid-80s. Securities mid-70s, that's
+all we are going to give you because it's competitive information.
+WILLIAM TANONA: Okay, that's extremely helpful. And then in terms of the Retail Financial Services, just getting
+a better understanding, again, if I look at kind of the charge-off rates for the loans: prime loans that are in Retail
+Financial Services, it looks like it's about 96 basis points this quarter versus the charge-offs for Corporate, which
+are about 30 basis points, about one-third. Just trying to understand the differences between those prime
+mortgages held in RFS versus Corporate.
+JAMIE DIMON: It's mostly vintage, Bill.
+WILLIAM TANONA: That's strictly it.
+JAMIE DIMON: We may change our reporting of that and combine so we don't cause this confusion going
+forward. One of this things I should mention -- Mike mentioned it, it's when we look at the mortgage business, by
+the way, that we kind of looked at the $12 billion ongoing, it's trading, moving, that's what we need to do to
+service clients, properly marked, you shouldn't see huge -- obviously risk in trading but it should be back to more
+normal kind of risk. And there's $6 billion, it's marked, but put it in as kind of liquidating, very hard to trade. There's
+certain residuals you can't trade at all. And it's marked down to we're going to get -- I would believe we are going
+to get very substantial returns from 10 to 20%, (inaudible) as we liquidate it using fairly bad assumptions. So we
+don't like it, but it's not that big a deal any more.
+WILLIAM TANONA: Okay. Then just finally, the commentary in terms of your outlook, you talked about basically
+expecting or having lower expectations for earnings within the Investment Banking results. Is that just -- is that
+relative to this quarter or is that just in general what we should be expecting?
+JAMIE DIMON: I just think you should be very cautious. I'm guessing what the environment is going to be. So this
+crisis isn't over, so we are just guessing, like you can guess on your own. We don't know anything that you don't
+know. We are just guessing that it still can be pretty tough out there for awhile. You might have some more
+markdowns that -- Mike had mentioned that we have really healthy loan losses, $77 billion of loans I think the
+number is. We have almost 4% up against that. That's historically high, but it's very idiosyncratic. If one big
+company fails, that could be a huge loss for us, so we're just prepared for it to be a little tougher in the Investment
+Bank. We hope to make some money, but we are not going to count on it for now.
+MICHAEL CAVANAGH: The guidance is not different than what we said last quarter.
+JAMIE DIMON: I wouldn't be shocked if we make a lot of money one of these quarters either, by the way.
+WILLIAM TANONA: Understood. Thanks.
+OPERATOR: We'll go next to James Mitchell with Buckingham Research.
+JAMES MITCHELL, ANALYST, BUCKINGHAM RESEARCH: Good morning. Just a couple of follow-up
+questions. One, just in the mortgage market with the TARP, are you seeing any impact on stabilizing pricing
+there, which could help maybe reduce the risk of write-downs going forward?
+JAMIE DIMON: A little bit, a little bit in alt-A, maybe a little bit in some of the CMBS stuff. Remember, TARP
+hasn't started yet, just the -JAMES MITCHELL: Anticipation.
+JAMIE DIMON: -- just the anticipation might cause some of that. Surprisingly we haven't really seen anything in
+agencies. CMBS, which spreads are still damn near the highs and we think those are probably very good buys. I
+would expect one day, we're going to wake up, those snap in dramatically. And then we'll probably be mad at
+ourselves we didn't buy more.
+
+Page 11 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+MICHAEL CAVANAGH: And then the buying that was announced last weekend by the agencies monthly, $20
+billion each, is going to be helpful as well.
+JAMES MITCHELL: Fair enough, so -JAMIE DIMON: Listen, we wrote off the Fannie Mae and Freddie Mac preferreds, down to $0.05 or something like
+that, whatever they are, I think we'll get real value for that back one day too. I just think it could be years from
+now.
+JAMES MITCHELL: Right. Maybe that dovetails into the securities gains that you had this quarter. Was that
+realized in the available for sale portfolio or was it marked to market in your corporate trading book? Or is it
+hedges? Where were those gains?
+JAMIE DIMON: It was realized in the AFS portfolio. There was some trading losses in there that -MICHAEL CAVANAGH: Some trading losses on some non-interest rate products and just changing coupon
+trades in some of the mortgages on there that were realized gains.
+JAMES MITCHELL: Okay, fair enough. Thanks a lot.
+OPERATOR: we go next to Glenn Schorr with UBS.
+GLENN SCHORR, ANALYST, UBS: Thanks. First a quick one on the FDIC's temporary liquidity guarantee
+program. Do you know round about how much you have coming due through June 30th and is there any reason
+why you wouldn't max out on that issuance?
+JAMIE DIMON: I don't have the number handy, Glenn, and we haven't really talked through it exactly.
+MICHAEL CAVANAGH: It would be a lot of money.
+JAMIE DIMON: Remember, it includes -- the way we understand it, it includes CP, promissory notes, maturing
+debt, all unsecured, holding company and bank, so it's a pretty big number. And it's 125% of that.
+GLENN SCHORR: It seems like well worth it, not that your balance sheet was in that rough of a spot, it just
+seems like -JAMIE DIMON: So you guys basically want to take all the money, leverage it up and go for it.
+GLENN SCHORR: I don't know. Hunker down in the bunkers sounds pretty good to me these days. On the
+balance sheet, on slide four, you saw other assets double from $90 billion to $180 billion. Is that anything in
+particular?
+MICHAEL CAVANAGH: You mean the supplement, Glenn?
+GLENN SCHORR: Correct. Yes.
+MICHAEL CAVANAGH: I think -- let me come back to you on. That it may just be all the cash that's coming in,
+going into -JAMIE DIMON: I don't think cash. It's probably WaMu related.
+MICHAEL CAVANAGH: It's got to be WaMu.
+JAMIE DIMON: We'll get back to you.
+GLENN SCHORR: Then -JAMIE DIMON: We're liquidating loans up in there.
+GLENN SCHORR: And then just the last one is, I could be way early in asking this question, but what are the
+signs you do look for in terms of when the boosting of the reserves stops? Because you are at obviously
+extremely high levels, as you pointed out, on the loan loss reserve. Is it the pace of increase on the loan
+delinquencies, unemployment, and charge-offs?
+
+Page 12 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: I think the second you see a levelization of charge-offs, with some certainty going forward, that
+you don't need any additions to reserves. Keep going until all the questions are asked.
+GLENN SCHORR: I'm good. Thanks.
+OPERATOR: We go next to Ron Mandle with GIC.
+RON MANDLE, ANALYST, GIC: Hi, thanks. On the treasury program, if you think of what a longer term -- there's
+some incentives to buy back the preferred stock that the treasury is taking, the number of warrants, the higher
+coupon, I'm wondering if you could maybe elaborate on how you think about you may want to issue stock to buy
+back the preferred, and also just maybe how many warrants you think are going to be issued under the program.
+JAMIE DIMON: Okay. So once you -- once we decide to go in the program I was thinking, can we have $50
+billion? So think of it this way. Obviously by the time you get to 9%, you will probably want to have paid it off. And
+the warrants are equal to the value you are getting. So in our case, they are going to get warrants, the way it's
+currently written, 10-year warrants on $3.75 billion of stock. And those warrants are worth -- you can estimate at
+$1.2 billion, whatever you come up with, which is an additional cost on the $25 billion. So it's 5%, plus the way I
+look at it, a year, plus another 5% for the full term. You just monetize the cost of the warrants, so it's not bad
+money that way. There is a way if you refinance it sooner, and you've got to refinance it with real Tier 1 capital,
+that you can eliminate half the warrants, and we'll deal with that in due course. That to me becomes purely a
+financial decision, to do that or not do that, but the government made this part of it not an unattractive thing so
+that people can get the capital, use the capital, and hopefully do some good with the capital.
+RON MANDLE: I didn't follow the part about the warrants. How many warrants or warrants for how many shares?
+JAMIE DIMON: It's not the shares. It's warrants for $3.75 billion worth of stock.
+RON MANDLE: Right.
+JAMIE DIMON: You could do your own share calculation. The market value of those warrants would be
+something like $1.2 billion or $1.3 billion. You can use your own model.
+MICHAEL CAVANAGH: The strike is based on a trailing 20-day price.
+JAMIE DIMON: Use your own model. I'm simply saying, think of that, it's only -- of the whole $25 billion, it's
+another 5%, maybe 6%. So if you spread it over the first five years, of the 5% of money, your money is costing
+you 6.5%. It's still cheaper than most companies can raise money at today. And it's real Tier 1, so it's very cheap
+Tier 1. So to that extent, it's not a bad economic transaction.
+RON MANDLE: And then you could even reduce the warrants, as you mentioned.
+JAMIE DIMON: There is a way to reduce them at one point, but you could argue that's a lot of people that won't
+want to, because that's cheaper capital than you could otherwise get, if they think they can do something with it.
+RON MANDLE: And so on your balance sheet, this is additional Tier 1 capital? I don't think I was following that.
+JAMIE DIMON: It's all Tier 1 capital, yes.
+RON MANDLE: Not the preferred part, the warrants part.
+JAMIE DIMON: The warrants are not Tier 1 capital. They are just a dilution on the balance sheet, I think.
+MICHAEL CAVANAGH: $25 billion on top of $112 billion in Tier 1 capital we currently have.
+RON MANDLE: Then the other part of the FDIC program, besides the debt guarantee, was the checking account
+guarantee? Are you going to opt into that and if so what will the cost be?
+JAMIE DIMON: I think what they said is 10 basis points in that. And think of that as an operating account
+guarantee. I think the real point of that wasn't for JPMorgan, it's for really smaller community banks and stuff who
+do a lot of business, small business, middle market, and they don't want those people to be afraid that their
+operating accounts are at risk.
+RON MANDLE: Right. And then -- but a 10-basis-point cost?
+JAMIE DIMON: It doesn't mean anything to us, Ron, either way, whether we do it or don't.
+Page 13 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+RON MANDLE: Very good. Thank you.
+OPERATOR: We'll go next to Nancy Bush with NAB Research LLC.
+NANCY BUSH, ANALYST, NAB RESEARCH: Good morning. Jamie, this is sort of a philosophical question that
+may require more foresight than you've got right now, but this treasury program that was announced yesterday I
+think came as a bit of a surprise to everybody. It seems to have been done with a few days thought and mostly as
+a result of what happened in Europe. But what is your feeling about how this has changed the dynamics for
+capital raising? Is it going to make it more expensive for the banking industry to raise capital beyond this period of
+Treasury investment? Can you just give me your philosophical thoughts about it?
+JAMIE DIMON: Nancy, I don't really think so. And I think that one day everything will have normalized again. It
+might be three years out or five years out. I think what they really wanted to do -- and I don't know how long they
+worked on this, so I wouldn't assume it was just three days. I do think they had to do something relative to the rest
+of the world. If you were in their shoes, you would look and it and say, if the rest of the world is guaranteeing
+deposits and the United States is not, the rest of the world -- you might create other consequences. But I agree
+with you, making policy on the run is a very hard thing to do and always has these huge unintended
+consequences, which is really hard to forecast or have any foresight on at all. But I think one day it will normalize
+and it will make raising capital for banks more expensive for banks. We'll go back to a more normal world and
+people will probably spend a lot more attention on credit, which they should.
+NANCY BUSH: And just -- you have been a huge beneficiary of basically institutional failures in this environment.
+Is it your sense that this treasury program will slow that process? Is it intended to slow the process? Is it intended
+to prop up banks that should probably fail? Is that one of the unintended consequences?
+JAMIE DIMON: I think that one of the consequences is that this program obviously helps the weaker more than it
+helps the strong. And I think I mentioned at the beginning that, if you don't want to be parochial and selfish, as
+long as it's really materially helping the system, we all should be in favor of it. We can sit around the table and
+argue all day long, we would have been better off, and it's true -- you're not better off if the system goes down.
+But I don't think the intent on the treasury, I think they're very conscious of -- they don't intend to hold up failing
+banks. And you haven't seen them do that. What you have seen them do is be pretty aggressive to try to get
+failing banks in the hands of good owners. So they are going to have, throughout this program, the devil will be in
+the details how they manage it. We'll all be looking at how they really manage it going forward. And we'll be
+second guessing them, too, at one point.
+NANCY BUSH: Thank you.
+OPERATOR: Mr. Dimon and Mr. Cavanagh there are no further questions at this point.
+JAMIE DIMON: Thank you very much. We'll talk to you soon.
+MICHAEL CAVANAGH: Thanks, everybody.
+OPERATOR: And that does conclude today's conference. Thank you for your participation. Have a good day.
+Disclaimer - The information contained in this transcript is current only as of the date the presentation was made.
+JPMorgan Chase does not undertake to update any information contained in this presentation to reflect the
+impact of circumstances or events that may arise after the date of this presentation. Accordingly, the information
+contained in this presentation may be superseded by more current information.
+Please refer to JPMorgan Chase's more current filings with the Securities and Exchange Commission, which are
+available elsewhere on this website.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web
+site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current
+expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any
+forward-looking statement based on a number of important factors and risks, which are more specifically identified
+in the companies' most recent SEC filings. Although the companies may indicate and believe that the
+assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove
+inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the
+forward-looking statements will be realized.
+Page 14 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE
+APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN
+ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN
+THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON
+FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE
+INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S
+SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+Document FNDW000020081029e4af0018l
+
+Page 15 of 15 © 2020 Factiva, Inc. All rights reserved.
+
+

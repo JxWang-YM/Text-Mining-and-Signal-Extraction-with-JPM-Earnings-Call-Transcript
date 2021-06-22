@@ -1,0 +1,772 @@
+Q2 2015 JPMorgan Chase & Co Earnings Call - Final
+12,069 words
+14 July 2015
+CQ FD Disclosure
+FNDW
+English
+© 2015 by CQ-Roll Call, Inc. All rights reserved.
+Presentation
+OPERATOR: Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's second-quarter earnings call.
+This call is being recorded. (Operator Instructions) We will now go live to the presentation. Please stand by.
+At this time I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon, and Chief
+Financial Officer, Marianne Lake. Ms. Lake, please go ahead.
+MARIANNE LAKE, CFO, JPMORGAN CHASE & CO.: Thank you and good morning, everyone. I'm going to take
+you through the earnings presentation. It's available on our website and please, if you could, refer to the
+disclaimer regarding forward-looking statements at the back of the presentation.
+So starting off on page 1, firm different delivered strong performance this quarter: net income of $6.3 billion, EPS
+of $1.54, and a return on tangible common equity of 14% on revenue of $24.5 billion. The quarter's performance
+was characterized by strong underlying fundamentals across each of our businesses. With stable NIM and NII,
+good growth in fee drivers as well as strong IBCs, good expense discipline with adjusted expenses flat quarter on
+quarter at $14.2 billion, and an adjusted overhead ratio of 58%, and low levels of charge-offs and call loans up
+12% year on year.
+We also made significant progress on our balance sheet and we've delivered on our non-operating deposit
+commitment.
+While there were no significant items this quarter, there were some small items that are worth calling out. On the
+positive side, we had consumer loan loss reserves releases of a little over $300 million as well as a little under
+$300 million of a benefit in DDA/SEA and wider spreads. Against that we saw reserve builds across wholesale of
+$250 million, of which approximately $140 million related to oil and gas, as well as firm-wide legal expense of a
+little less than $300 million. If you take those for items and net them, together they contributed zero to net income.
+So finally included in the result is $330 million of a benefit from tax discrete items. If you adjust for all of those, our
+net income is strong at $6 billion.
+Skipping over page 2 and on to page 3, we continued to make progress against our capital targets with the firm's
+advanced fully phased-in CET1 ratio reaching 11%, up 35 basis points quarter on quarter, and standardized fully
+phased-in was 11.2%. The improvement to both ratios was driven by net capital generation along with an overall
+reduction to risk-weighted assets, primarily from lower risk across market and counterparty credit as well as some
+data enhancements with loan growth offsetting runoff.
+We continue to build Tier 1 capital, adding $3.4 billion of preferred stock this quarter, and we returned $2.6 billion
+of net capital to shareholders, including $1 billion of net repurchases and dividends of $0.44 a share. Preferred
+issuance, together with a reduction in average assets, drove the firms SLR to reach 6%.
+For more details on our balance sheet reduction, turn to page 4.
+The last quarter I told you that you should expect us to make meaningful progress on our balance sheet in this
+quarter and we did just that. Year-to-date our balance sheet is down over $120 billion on a spot basis, driven by a
+reduction of over $100 billion of non-operating deposits across our wholesale businesses, partially offset by
+Page 1 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+continued growth in consumer deposits. We also saw a $36 billion reduction in trading assets and secured
+financing as we continue to make progress simplifying our balance sheet.
+On the previous page you may have seen that HQLA was down $82 billion this quarter, primarily reflecting those
+lower levels of cash. However, the firm remains LCR compliant given the significant outflow assumptions that was
+associated with those deposits.
+In addition, the reduction in deposits together with strong core loan growth resulted in an improved loan-to-deposit
+ratio, up 5% since year-end. These balance sheets actions translate into relatively flat NIM, up 2 basis points
+quarter on quarter and NII. Quarter on quarter, the reduction in cash drove a 4 basis point improvement that was
+partially offset by lower yields, and as I said, firm NII was flat.
+Turning to page 5 and consumer and community banking, the performance for the combined consumer
+businesses was characterized by sequential revenue growth on stronger fee revenue and positive operating
+leverage, generating $2.5 billion of net income, an ROE of 19%, and an overhead ratio of 56%. Revenue of $11
+billion was down 4% year on year, driven by mortgage, but up 3% quarter on quarter on seasonally higher credit
+and debit sales volume as well as higher MSR revenue.
+Our focus on customer experience continues to drive growth broadly and we have 19% core loan growth driven
+by mortgage. Also, our active mobile customer base is up 22% to over 21 million customers. We are the largest
+and fastest-growing among major US banks, reflecting our strategic objective to have a best-in-class mobile
+offering.
+We remain focused on our commitment to reduce expenses by $2 billion in 2017 relative to 2014, while
+continuing to self-fund investment in the business. In the first half of this year expenses were down approximately
+$0.5 billion versus the same period last year and our headcount down roughly 6,000 year to date.
+Moving to consumer and business banking on page 6, CBB generated net income of $831 million, flat quarter on
+quarter and down 8% year on year with an ROE of 28%. Net interest income was flat sequentially with modest
+spread compression offset by deposit growth and NIR was up 7% seasonally and 2% year on year on continued
+strong client investment and debit revenue.
+Expenses were up 1% year on year, largely due to increased legal costs. Excluding these, expenses were down
+2% due to continued improvements in branch efficiency. We continue to see robust performance across our
+drivers with attrition well below industry averages, average deposit balances up 9%, or $41 billion year on year,
+and we are pleased to see that 30% of this growth is driven by our investments in business banking and CPC and
+new builds.
+Client investment assets were a record, up 8% or $16 billion, and in business banking average loan balances
+were up 6% with loan originations flat against a record last year and in a highly competitive environment.
+Stepping back and looking forward to the second half, our NII is stable and will increase when rates rise.
+Non-interest revenue is growing solidly and expenses will decrease, so we expect positive operating leverage.
+Mortgage banking on page 7. Mortgage net income was $584 million for the quarter. Originations were $29 billion,
+up 19% quarter on quarter on seasonal increases in the purchase market. We continued to execute our strategy
+of adding high-quality loans to our balance sheet, totaling $19 billion this quarter and the origination pipeline
+continues to look strong.
+Total revenue increased sequentially, primarily driven by higher MSR revenue, but as you can see, you look at
+our non-interest revenue it's down $500 million year on year. We still expect non-interest revenue to be down
+about $1 billion for the full year in line with previous guidance.
+Expenses of $1.1 billion were down $200 million, or 15%, year on year and down 9% quarter on quarter despite
+higher volumes as we continued to manage down our costs. On credit we continued to see improvements in
+home prices and delinquencies, and as a result we released $300 million of NCI reserves this quarter. And you
+can see our charge-off rate was 21 basis points.
+Moving on to page 8, card commerce solutions and auto. Overall net income of $1.1 billion, up 30% year on year,
+and an ROE of 23%. Revenue of $4.7 billion was up 3% year on year on card sales volume and auto loan and
+lease growth, partially offset by spread compression. Card revenue rate for the quarter at 12.4% was up quarter
+on quarter seasonally.
+Page 2 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+Expense was down 4% year on year driven by lower legal expense with the recent settlement regarding debt sale
+and collection practices having previously been reserved. And in card we saw core loan growth of 3% and sales
+growth of 7%, with delinquency rates and charge-offs remaining low.
+Commerce solutions continued to experience strong growth with volumes up 12% year on year, driven by
+continued strong spend and the addition of new merchants. We've recently signed several new strategic clients
+including Chevron, Cinemark, Gap Inc., Marriott, and Rite Aid. Together they represent an incremental 5% to our
+volume and the majority have signed up for ChaseNet.
+Lastly in auto, results continue to reflect steady growth in new vehicle sales and stable used-car values. We saw
+average loan and lease balances up 8% year on year and the pipeline is healthy.
+Moving to page 9 and the corporate and investment bank. Before I dig into the numbers, we did make some
+reporting changes this quarter. If you look at the top of the table, investment banking fees is now named
+investment banking revenue and principally this now incorporates the revenue share with the commercial bank
+here in this line, rather than in the market revenues where it was previously being reported.
+Additionally, trade finance revenue, which was previously reported in treasury services, is now being reported in
+lending.
+So digging into the numbers, CIB reported net income of $2.3 billion on revenue of $8.7 billion and an ROE of
+14%, reflecting a strong result in a mixed environment. In banking, IB revenue of $1.7 billion is up 4% year on
+year. This quarter we continued to rank number one in global IB fees with 8.2% wallet share and widening the
+gap to number two. We ranked number one in fees in North America and EMEA and gained share, improving to
+number two, in Asia.
+Another strong quarter for advisory, up 17% year on year as activity levels remained high. We maintained our
+number-two ranking and grew share by over by over 100 basis points from last quarter. Equity underwriting fees
+were down 5% from a strong prior year for IPOs in EMEA with lower wallet share as we gave back some of the
+outsized share gain we had in the first quarter. This quarter we ranked number two globally with strong
+performance in the US on acquisition finance and follow-ons.
+Debt underwriting up 1% and we maintained our number-one ranking with strength in high grade also on the back
+of the healthy M&A market. Treasury services was down 2% year on year on lower net interest income and the
+lending item of $302 million was down 32% year on year, primarily driven by losses on restructured securities.
+Given the reporting changes we've made, going forward we should expect for treasury services revenues would
+be about $875 million, plus or minus, per quarter and lending approximately $350 million. And that is given the
+trade finance transfer.
+Moving on to markets, revenue of $4.5 billion was down 1% year on year, excluding business simplification and
+the gain in the prior year on the IPO of Markit, which we previously disclosed, but with strong relative performance
+in rates and in equity markets. Fixed income revenue was $2.9 billion, down 10% year on year similarly adjusted.
+In macro products the quarter was dominated by EMEA with a bond selloff and economic and political
+uncertainty, including Greece. This uncertainty slowed the momentum we saw in the first quarter and kept clients
+on the sidelines in currencies and emerging markets, but drove strong performance in rates.
+Credit and securitized products were down on a continuation of general weakness in the market. And as I
+mentioned, equity markets had another strong quarter, up 27% year on year on revenue of $1.6 billion with strong
+performance in all three regions relative to last year and outperformance in Asia, particularly China and Hong
+Kong, on the back of client interest, first to participate in the rally and later to hedge.
+Looking forward, business simplification would drive a 9% decline year on year in third-quarter markets revenues
+with a corresponding decline in expenses. And as I look into the third quarter in analyst models, I see relative to
+our markets results this quarter you have revenues in markets going up sequentially. We are fully expecting to
+see normal seasonal declines in the third-quarter markets revenues.
+Security service revenues of $1 billion was in line with guidance, up seasonally on the European dividend season.
+And moving on to expense, total expense was down 15% year on year at $5.1 billion and an overhead ratio of
+59% as we successfully executed the expense reduction associated with business simplification and with lower
+legal expense. Compensation expense down 4% year on year comped a revenue ratio for the second quarter of
+30%, flat year on year.
+Page 3 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+Moving on to the commercial bank. In commercial banking the underlying businesses continued to perform well
+with strong loan growth, up $6 billion dollars quarter on quarter and record end-of-period loan balances, with good
+credit fundamentals and no non-performing loans. We also saw continued momentum in IB revenue off of a
+record last quarter, which was driven by a large transaction. However, we added $187 million to reserves in the
+quarter, reflecting select downgrades including oil and gas. Despite this, BAU credit performance at the portfolio,
+as I said, remains very strong.
+This drove net income of $525 million on revenue of $1.7 billion and an ROE of 14%. Revenue was flat year on
+year, driven by continued spread compression in loans and deposits partially offset by growth in loans, and flat
+sequentially despite the record investment banking performance in the first quarter. Expenses were up 4% year
+on year on increased control-related staffing and down slightly quarter on quarter. For the rest of the year for each
+quarter we expect expenses to remain around $720 million.
+Loan balances increased 12% year on year and 4% quarter on quarter. C&I loans grew 3% sequentially, in line
+with the industry, with middle-market growth being somewhat challenged by strong competition but with more
+strength in corporate client banking driven by short-term financing activity and new facilities for our existing client
+base. CRE loans grew 5% and continued to exceed the industry on strong activity in both commercial term
+lending, which had record originations in the quarter, and in real estate banking.
+Moving on to page 11 and asset management. Net income of $451 million on revenue of $3.2 billion reflected
+solid growth, up 6% year on year and 6% quarter on quarter, driven by continued net long-term inflows marking
+the 25th consecutive quarter at $13 billion with strength in North America and multi-asset flows; driving record
+AUMs of $1.8 trillion, up 4% year on year, and client assets of $2.4 trillion. In addition, we had record loan
+balances which were up 9% year on year.
+Expense of $2.4 billion was up 17% year on year, primarily driven by legal expense and to a lesser extent the
+impact of moving assets to held-for-sale. Adjusting for those two items, expense would have been up more in line
+with revenue and margins in line with our targets. Lastly, we reported strong investment performance with 78% of
+mutual fund AUM ranked in the first or second quartiles over five years.
+Turning to page 12 and corporate, treasury and CIO reported a net loss of a little over $100 million and other
+corporate reported net income of $552 million, which included a benefit on discrete tax items I previously
+mentioned. So on page 13 is our outlook page. Any guidance that I was going to give I've made through the
+presentation. The page is here for your reference.
+So to wrap up, strong reported and strong underlying results this quarter across our businesses in an
+environment that continues to remain somewhat challenging with double-digit core loan growth, with broad-based
+strength in our underlying drivers, and with continued execution and excellent progress against our capital, our
+balance sheet, and expense commitments.
+So with that, operator, we will open up the line now for Q&A.
+Questions and Answers
+OPERATOR: Erika Najarian, Bank of America.
+ERIKA NAJARIAN, ANALYST, BOFA MERRILL LYNCH: My first question is the capital progress has currently
+been solid this quarter; last week, however, there seems to have been more support in the Fed in terms of
+including the SIFI surcharge in the CCAR test. And I guess the question is in two parts: one, what do you think
+the chances are of the -- any or all of the CCAR surcharge or the CET1 surcharge to be included in CCAR; and
+two, what are the next steps in terms of business model adjustments, if that did pass?
+MARIANNE LAKE: So to -- obviously we don't have any particular insight. I think the comments you're referring to
+were comments about the support for evaluating the possible inclusion of some or all [of it]. And so really it hasn't
+changed relative to previous comments and the door has clearly been left open for that, but we have no further
+information. And so far it's evaluating the possible inclusion of some or all of the surcharge, so we're just going to
+have to I suppose and see.
+Meanwhile, as you know, we are -- and by the way, if it happens for us it would happen for everyone. We have
+shown you before -- not that that's a good outcome, but we've shown you before that we think that regardless the
+competitive peers set that we have is going to cluster at or around similar capital levels. And so if everybody has
+to increase their minimum, it is going to be a similar position for everyone.
+Page 4 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+Meanwhile, we are continuing to execute on everything that we've already told you we are going to do to optimize
+our capital. Our commitment is to go to firmly within the 4.5% bucket for the surcharge, and if we believe we can
+do it and it's economic and it's not going to hurt our clients, we may go further. So we will respond when we see
+the rules and we are not going to stop continuing to do the best we can to optimize our returns based on scarce
+resources.
+ERIKA NAJARIAN: Got it. And just the second question is you've clearly made also progress in terms of your
+deposit mix. As we potentially anticipate a rising rate environment for the back half of the year, given what the
+regulators have done in terms of saying, okay, here are the good deposits, here are the not-so-good deposits,
+how should we expect the pace and magnitude of retail deposit repricing or pass-through if the Fed does raise
+rates in the second half of this year?
+MARIANNE LAKE: We actually haven't really changed our point of view since the investor day and previously
+about the fact that we are expecting retail deposit -- and there are other people who have slightly differing views.
+But we are expecting retail deposits to reprice higher and faster in this cycle than in previous rising rate cycles,
+given the competition for good, high-quality, LCR-compliant retail deposits; given the advancements in mobile
+banking; given the awareness in the general environment around low rates and the desire to participate in rising
+rates. So when we think about our sensitivity and our reprice, we model it in assumption that it's going to be
+higher, somewhat higher.
+OPERATOR: Mike Mayo, CLSA.
+MIKE MAYO, ANALYST, CLSA: I see your markets revenue are down 1% year over year the way you look at
+this, but I'm trying to reconcile that with Jamie's comments two months ago at a New York conference where you
+said there is repricing in rates derivatives, prime brokerage, clearing, and trade finance. I'm guessing it's just risk
+off.
+Can you shed more light on what type of repricing you are seeing with any specific examples, because the
+transparency for us on the outside is pretty weak?
+JAMIE DIMON, CHAIRMAN & CEO, JPMORGAN CHASE & CO.: Obviously, when you talk about trading, when
+you have two months to go in a quarter you don't know the exact number and repricing is a complex issue. I'll give
+you some very specific things and then I'll tell you why it's hard to figure out exactly what shows up.
+Clearing, we've definitely seen people start to charge for clearing and effectively charge the balance sheet 25, 50
+basis points. It's a small business so I don't think it's going to dramatically affect those lines. Prime broker, we've
+seen similar type of thing.
+Repo, it seems that people are charging pretty much for repo. We need to get a return on it. Exotic derivatives,
+which are again very small, are being repriced to, I would say, full capital and liquidity. Muni credit has probably
+been repriced a little bit. Again, it's a small market.
+If you go to credit and trading, so credit we've really not seen any repricing effectively in commercial credit.
+You've seen a little bit in mortgage to make up for the extra costs in mortgage. You've seen a little bit in auto; it
+got more aggressive, not less aggressive. So trade finance you've seen a little bit of repricing, and I know these
+are not all trading numbers.
+What you don't see, Mike, is that in a lot of cases, while you may have repriced a little bit, you're also shedding
+business so that you have -- as you are protecting your margins by -- because of AML costs you are going to not
+do certain types of business anymore. In FHA the lifetime cost of servicing, you cut back on FHA volumes, etc. So
+you're protecting your margins, but you're actually shrinking your revenues in some cases. That's happening a
+little bit in clearing and prime broker and stuff like that; you want your best clients.
+In other categories clients are -- like deposits, we haven't seen repricing effectively, I don't think, in non-operating
+deposits. On the other hand, some clients are saying let's restructure our relationship; it makes more sense for
+you, JPMorgan. I'm willing to give you other business which is not credit sensitive, etc.
+It's kind of a whole of the amount of things taking place in there, but the goal is to get a proper return on your
+capital, not necessarily to show revenue growth in that line item. It's very easy to show revenue growth.
+MIKE MAYO: And just one follow-up. When you say (multiple speakers)?
+
+Page 5 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Mostly what you see in trading is just volume related and spread related, etc. Even in trading,
+spreads are narrow but breadth is also very low, which means spreads get gap out pretty quickly, which
+eventually could be good for trading. So it's unclear (multiple speakers).
+MIKE MAYO: When you say a little repricing, is it bigger than a breadbox? Are we talking about basis points or
+1% or 5%? What are you talking about here?
+JAMIE DIMON: I'm talking about basis points, 20 basis points, 15 basis points, 10 basis points. That's all you
+need in some of these things to get an adequate return on capital as we currently look at capital.
+OPERATOR: Betsy Graseck, Morgan Stanley.
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Question on the deposit shrinkage. You obviously finished
+the program you announced at investor day. Just wondering if you're going to take it further; what the impact on
+revenues has been. And do you expect that the full benefit to NIM is already in 2Q or -- in the 2Q numbers or we
+are going to see more benefit in 3Q from the actions you took?
+MARIANNE LAKE: So what I said, and hopefully it was clear, is that we actually exceeded our commitment. We
+actually shrunk our non-operating deposits by more than $100 billion and not just through our consumer deposits,
+but we are also able to grow wholesale operating deposits. So we had a good mix shift both in consumer versus
+wholesale, but also within wholesale and so we feel really great about that.
+There are two priorities after that. The first is protecting that position and making sure that we are able to not have
+inflows of those deposits as the industry continues to absorb them. But the second is we will likely look to
+potentially push a little farther, but it gets harder and harder each margin, the next $5 billion or $10 billion, as you
+get more and more closely aligned to operating accounts and operating business. And we've always said that we
+want to do this for the right reasons, for capital efficiency, but not do it in a way that's going to materially harm our
+clients. So that's the lens.
+JAMIE DIMON: The [product] has also been made in the Level III assets: derivative receivables, certain balance
+sheet items, RWA. So the effort to optimize the balance sheet for G-SIFI, etc., is not going to stop; that we are
+going to continue to do.
+MARIANNE LAKE: But you know what, I don't anticipate us launching another and announcing another program.
+We've already done a little better. We will continue to try and do a little better.
+In terms of revenue impact, not very much right now, as you might very well know, because you can see that the
+balance is much more on a spot basis that on an average basis. But the equation looking forward will be much
+the same math we said at investor day, approximately 25 basis points revenue on approximately $100 billion
+average for a half a year, but there would be some expense benefits on FDIC costs, etc. So not a very big
+number.
+I think that was the question?
+BETSY GRASECK: Yes, and the NIM benefit should flow into 3Q as well?
+MARIANNE LAKE: A little bit, yes.
+OPERATOR: John McDonald, Sanford Bernstein.
+JOHN MCDONALD, ANALYST, SANFORD C. BERNSTEIN & CO.: Marianne, was wondering if could remind us
+about the timing of your expense reduction targets in the consumer and investment bank. Specifically, if you hit
+the $57 billion in adjusted expenses for 2015, how much of the ultimate cost saves does that $57 billion target for
+this year incorporate? How much would you have achieved already in 2015 and any thoughts on the trajectory for
+remaining saves after this year?
+MARIANNE LAKE: Yes, so let me do this in two parts, and I'm going to start with the consumer businesses,
+where the commitment is actually a couple of years old and we are sort of well, well on our way to delivering
+against that -- the commitment $2 billion dollars in 2017 versus 2014. It's not exactly linear, but you can consider
+it to flow through time.
+And if you look at the CCB page on whatever page that is, I think we show that for the first half of the year our
+expenses are down over the first half of last year by $0.5 billion. So that gives you a sense for how we are
+Page 6 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+tracking. On the CIB, obviously the commitment is somewhat newer; at investor day this year $2.8 billion in 2017
+versus 2014.
+I would characterize that in two parts. $1.5 billion is business simplification. The majority of business simplification
+-- not all, but the majority -- will come out of our run rate in 2015. And you've already seen that in the first and
+second quarter when you've seen the $300 million, $400 million expense reductions in each of the quarters on
+business simplification.
+The other $1.3 billion, which is all the reductions in technology and operations and headcount, is going to be
+things. We are working on it actively -- we have programs, we have people -- but it's going to be more of a 2016
+and 2017 benefit. If I was to look at the first half of 2015 versus the first half of 2014, take the $500 billion in
+consumer and business simplification in the CIB space -- that's probably the right way to size it, about a quarter
+so far this year.
+JOHN MCDONALD: A quarter of the total?
+MARIANNE LAKE: Yes.
+JOHN MCDONALD: Okay, great. Then a quick follow-up is on RWA. Any update to your year-end RWA targets
+and thoughts about how we should think about potential RWA levels longer term?
+MARIANNE LAKE: RWA, advance RWA is down $36 billion, $37 billion; [one five three six]. We said a little
+greater than $1.5 trillion. We are still on track to be $1.5 trillion or a little greater, $1.5 trillion advanced at the end
+of the year. Standardized right now is at $1.5 trillion, $1.5 trillion, so pretty close to $1.5 trillion against the target
+at the end of the year of $1.55 trillion.
+That's a little better, but obviously on the standardized you have some upward pressure as we continue to grow
+those really great loans that we are growing. If you look to our investor day targets, we are still hoping to maintain
+the discipline around both of those at approximately $1.5 trillion through time.
+OPERATOR: Matt Burnell, Wells Fargo.
+MATT BURNELL, ANALYST, WELLS FARGO SECURITIES: I'm just curious in terms of your core loan growth;
+you mentioned that that's up about 12% year over year. Can you give us a sense as to where that's growing the
+strongest and where you're seeing a bit more weakness? Within the core loan growth, specifically.
+MARIANNE LAKE: Of course. I'll do it in three parts. First of all, it is growing pretty solidly or strongly, so either
+in-line or in many cases better than the industry across most of the product categories. The one that's growing the
+most strongly because of the way we are portfolioing loans is mortgage, so that's driving some of that
+outperformance. And the one that is most challenging, but still growing, is middle market. Fiercely competitive;
+everybody is chasing that sector.
+But you can go through the businesses. We had 6% loan growth, 8% loan and lease growth in auto; 6% business
+banking; 19% core in consumer; 4% in commercial, so 3% core in card. So it's solid to strong pretty much across
+the board; most competitive in middle-market and flattered by portfolio and mortgages.
+MATT BURNELL: Okay, Marianne, and for my follow-up I noticed I guess you were quoted in an earlier meeting
+today suggesting that there could be further provisions for the oil and gas portfolio. There's been some media
+reports prior to this week about regulators potentially looking a bit more carefully at your portfolio as well as a
+number of other banks.
+Can you give us a little more color as to how you are thinking about the potential trends there and any comment
+you might want to give in terms of where the regulators are focusing?
+MARIANNE LAKE: What I said earlier is not inconsistent; it's entirely consistent with what we said last quarter.
+We built reserves modestly for oil and gas last quarter on the back of the spring redetermination of borrowing
+base. We feel another modest reserve this quarter.
+And we said we don't -- we might expect more reserves in the second half of the year. There's another
+redetermination cycle in the fall and it's I'm not going to say likely, but it's possible we will be selectively
+downgrading some clients. If none of that is out of our expectations, it's completely normal levels considering the
+cycle and how we think about the credits, we are still very happy.
+And we are not going to make any comments on regulators.
+Page 7 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Those reserves do not mean we're going to have losses.
+MARIANNE LAKE: Correct. We are reserving for downgrades; doesn't necessarily mean that they are going to be
+cash losses.
+OPERATOR: Ken Usdin, Jefferies.
+KEN USDIN, ANALYST, JEFFERIES: Marianne, just wanted to follow up on that last point. Your commentary
+about credit, for the second half, is in line, you're $4 billion plus and you've got $1 billion of charge-offs this
+quarter again. So on that point just one question about where you continue to see underling improvements. Card
+obviously is still above your guidance, but can you give us some of the thoughts about where any existing
+improvement can come from?
+MARIANNE LAKE: So credit, like charge-offs, have been very benign across the whole sales base. They have
+reverted to somewhat more normal levels in auto, so I'm not expecting there to be a big step changes in the
+underlying charge-offs in the wholesale space. We continue to see improvements at a slower pace in mortgage,
+but at 21 basis points we are sort of getting down there.
+And card, while it is slightly above -- 2.6% above our 2.5% is also pretty much getting there. It's one of the
+reasons why we've said expect the second half to look like the first half in terms of order of magnitude and expect
+net-net low for long.
+KEN USDIN: And then to your point about not expecting to be much loss from the energy provisioning and that
+we could see energy provisioning, plus this quarter you had a nice $300 million release from the NCI portfolio, is
+this kind of it for reserve release and can you talk about your outlook there?
+MARIANNE LAKE: I would say in the non-credit -- sorry, just to clarify the comment on oil and gas; we said they
+will not necessarily translate into losses. We are not going to predict which ones will or won't.
+On the reserves, for non-credit-impaired portfolio we are continuing to see improvements in charge-offs as well as
+home prices, albeit a little bit more gradually. So I would still expect there to be more reserve releases over the
+course of the next 18 months in hundreds of millions of dollars in total; not billions any longer, of course. We have
+$1.8 billion reserved right now.
+In the post-credit-impaired space clearly that's life-of-loan model and so we will continue to evaluate that model
+against parameters that we have in it and expectations, so that will be what it is at the time. And in card we're not
+expecting any significant reserve actions.
+OPERATOR: Jim Mitchell, Buckingham Research.
+JIM MITCHELL, ANALYST, BUCKINGHAM RESEARCH GROUP: Maybe we could just ask a question on card
+fees? That's been an area where growth in card fees have been pretty flat for a while as you ramp up reward
+spending. We saw a pretty nice jump quarter over quarter; some of that is seasonal, but it was a little stronger
+than what we saw the last couple of years.
+Are we getting to a point where you are lapping some of these higher reward costs and growth in new accounts
+and we should start to see that revenue line track more closely with spending, or is this something unusual this
+quarter?
+MARIANNE LAKE: So you are absolutely right; all the underlying phenomenon are still there. We are still seeing
+spread compression, but we are seeing very strong growth in spend. We aren't quite lapped yet on new accounts
+going through the revenue rate. We will eventually be, but it's a good thing to be adding these new accounts that
+will drive strong spend in the future.
+So I would say our near-term guidance is that we are expecting our revenue rate to be at the lower end of that
+12%, 12.5% range. And, yes, over time as spread compression abates and we continue to drive strong growth
+with the quality of our products and our partnerships we would expect that to start to edge up.
+JIM MITCHELL: Okay. And on the card loan side it seemed like you saw a decent uptick this quarter. You are
+starting to get past some of the runoff and it seemed more of a core driver.
+MARIANNE LAKE: Yes. We told you we would hope to drive core loan growth in the card space low single digits
+and this quarter it was 3%.
+Page 8 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: I just want to emphasize -- Marianne mentioned it, but emphasize; Chase Paymentech, which is
+seeing really good growth, probably 50% faster than the industry, but we are also signing people with Chase
+Paymentech combined with ChaseNet. We are running real volume across it and we are signing up a lot of folks
+for that and ChasePay. So the strategy of ours is kind of coming to fruition and we hope it will be a good driver;
+happy customers and good growth for the next 10 years.
+OPERATOR: Steven Chubak, Nomura.
+STEVEN CHUBAK, ANALYST, NOMURA SECURITIES: So first question on capital. I just want to get a sense as
+to how we should be thinking about preferred issuance plans going forward now that you've met the 150 basis
+point RWA target.
+MARIANNE LAKE: Obviously we don't give you lots of details on our issuance plans. You are right; one of the
+drivers for us to issue in part, not exclusively, was it's not -- as you know, we were Tier 1 leverage constrained in
+CCAR and so as a result of issuing this we not only helped TLAP, but we help our CCAR stress capacity. And we
+are about 164 RWA. So we are not going to talk about forward issuance but we've made progress.
+STEVEN CHUBAK: Okay. And then just a follow-up regarding, Marianne, your comments about the trading
+outlook for at least in the near term, recognizing it's still very early days in the quarter. Since the very start we've
+seen, or at least we've experienced, a number of global shocks and on the regulatory front we do have the
+Volcker implementation deadline, which is looming. So taking all those factors into consideration, how should we
+be thinking about the near-term trading outlook?
+MARIANNE LAKE: So to start with Volcker, we aren't expecting Volcker to have an impact in the near-term
+trading outlook. We've been talking very consistently over an extended period of time about the fact that we've
+reshaped our business through time to be compliant in substance and in form with Volcker. And so while that was
+real reshaping of the business, the last 18 months have been really focused on getting operationally ready around
+the reporting and the metrics; it's been hard work and we are ready.
+So I don't expect it to have a direct impact on our near-term trading. Clearly over time we need to continue to
+evolve the feedback loop with regulators, but that will be entirely gradual.
+With respect to the trading, it is too early for us to say anything specific about the second quarter -- sorry, the third
+quarter -- except to say we are -- all other things equal, we would expect to see normal seasonality from the
+market. Nothing has changed that fundamentally wouldn't have us expecting normal seasonality in the third
+quarter.
+JAMIE DIMON: I just want to point out that trading, if you look at it over a long period of time, has been -- we've
+become very consistent. I think in 2014 we had no trading loss days and even this year there were only a handful
+of trading loss days. Obviously some areas are up and some are down, but our shares are high. I think we are
+doing a great job servicing clients.
+We are adopting all the new rules. Like [50%] of interest-rate swaps are on SEF today and I think it's 95% of FX
+trading by transaction is electronic. You can do a lot on your mobile phone or iPad now, so the business is
+actually doing fine. The returns on risk are very good. We used to report that, but kind of return on VAR are very
+good. It's become a much more stable business that clients need overtime.
+MARIANNE LAKE: Right. And just to add to that, I would say that we also talked about, in the period of transition
+towards a more normal economy and rising rates, you might see some shocks like this. We've weathered both the
+EMEA bond sell off and China well, and it just speaks to the strength of our risk management discipline. And we
+generally do pretty well in more difficult markets.
+OPERATOR: Paul Miller, FBR.
+PAUL MILLER, ANALYST, FBR & CO.: You guys had a very decent mortgage banking quarter in the second
+quarter with rates going up. We know that the refis have started to come down, but the purchase market has been
+stronger I think than people expected in the second quarter. What do you see going into the third and fourth
+quarter, especially with the new regulations coming out with the disclosures with (inaudible)?
+MARIANNE LAKE: So with respect to -- we saw a stronger seasonal purchase market. We actually gained a little
+share in the purchase market in the quarter and refi held up pretty well because of pipelines coming into the
+quarter. But we are expecting that to grow seasonally in purchase and in refi to pull that down to smaller levels in
+the third seasonally. And no direct impact from the disclosure requirements.
+Page 9 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Part of the quarter is the reserve takedown, so don't double count that. That may not be there
+next quarter.
+MARIANNE LAKE: Right.
+PAUL MILLER: (multiple speakers) Can you talk a little bit about the tax --? My follow-up question on the tax rate.
+Should we be modeling in 28% to 30% going forward; is that 25% just an outlier?
+MARIANNE LAKE: The way I would think about it is normal tax rate for the year is 30%, plus or minus. Just given
+the way tax reserving is it's usually biased to being fairly conservative and so, as you know, we have seen
+discrete tax gains periodically, some of them not insignificant, resulting from completion of settlements and audits
+with tax authorities. Not to say that you should necessarily model in directly 30%, but we don't predict or forecast
+the tax benefits.
+PAUL MILLER: Okay. Thank you very much.
+OPERATOR: Matt O'Connor, Deutsche Bank.
+MATT O'CONNOR, ANALYST, DEUTSCHE BANK: The equity trading has been very strong the last couple
+quarters, both for you and for others, assuming it continues the rest of this earnings season. As you step back
+and think about some of the drivers there, you mentioned some repricing; we've obviously seen some deepening
+of some markets, increased volatility. Can we think about there being potentially a long-term secular recovery in
+the equities trading, or do you think it's more just stocks are going up, just global QE, or too early to tell?
+MARIANNE LAKE: It's definitely the latter and I think it's perhaps a little too early to tell on the former.
+MATT O'CONNOR: Okay. And then just separately, what type of mortgage loans are you adding? Are these
+jumbo? Are they fixed rate?
+JAMIE DIMON: Jumbo.
+MARIANNE LAKE: Yes. So over half are jumbo, the other are conventional performing fee plus.
+MATT O'CONNOR: Okay. And I guess are you choosing to add some mortgage loans instead of securities?
+Because you've got a smaller securities book than a lot of peers and it seems like there's capacity to add there.
+MARIANNE LAKE: We have a fairly large securities portfolio and our decisions around that are in part driven by
+our overall interest-rate risk positioning, but with respect to the mortgages it's fundamentally a better execution
+decision for us. We will portfolio or loan where it makes economic sense to do it relative to distributing it, other
+than jumbo where, clearly, they will always go on our balance sheet.
+JAMIE DIMON: If you can put a jumbo on a higher ROE than a Fannie/Freddie, you would do that. And part of the
+investment portfolio is for liquidity and obviously, because non-operating deposits are down, proportions of that
+will come down too.
+OPERATOR: Glenn Schorr, Evercore ISI.
+GLENN SCHORR, ANALYST, EVERCORE ISI: I just want to follow up on the conversation in fixed income, and I
+agree with you; it seems like you weathered the whole Greece and China storm pretty well. The thought on the
+lack of liquidity in the fixed income markets gets a lot of attention. You guys have the most market share; have the
+lowest standard deviation in the business. As a liquidity provider that's a good thing for you.
+But curious on how you are thinking about preparing for what seems to be a pretty serious issue and how serious
+of an issue do you think it is in terms of the potential disruption?
+MARIANNE LAKE: There's been a lot of press and reports, including recently, on market liquidity and there are a
+number of factors playing into it. It's true that liquidity, in some cases, has dried up quite quickly when there's
+been extreme volatility and it fed on itself. But the reality is that we've talked about the fact that that was likely to
+be a phenomenon that happened more frequently as we transition to a more normal environment.
+We are very disciplined about how we trade and support our clients and generally we've been able to weather
+them very well, as has generally the community. Not that we know, but we haven't got any stories or horror stories
+around (inaudible) a bond sell-off or other things this quarter. So I think it's definitely an issue; one that we need to
+watch, one that has multiple root causes, and one that we are generally taking in our stride.
+Page 10 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: And look at the big picture and we pointed it out, the financial system -- like in the United States
+banks are much more sound. Trading books have more capital liquidity. The whole system is better off. So you
+can't look at one piece and say what will that do.
+The second is that these -- obviously there's less liquidity in the marketplace and it's a whole bunch of factors. It's
+hard to tease out exactly which one, but trading books have more capital and more liquidity. I think people are a
+little worried about potential Volcker rule violations, so they are being a little more cautious.
+There are obviously structural changes in electronic trading, HFT, and each business is slightly different. So not
+every -- I wouldn't say everyone is affected exactly the same. It's also true that the system is pretty resilient to
+what happened with the currencies and treasury, and that's a good sign.
+I think what we are going to be really cautious about is when markets aren't that good. JPMorgan is fine. We are
+not talking about whether or not JPMorgan is going to have a hard time with liquidity. We are not. The question I
+really would have is, when markets are tough, will there be a feedback from -- these violent markets, will there be
+more volume or less volume.
+Someone was quoted the other day saying markets always pull back when there are tough times; that is true. The
+question is will be harder and worse, will it feed back into the real economy. It's not will there be lack of liquidity.
+During the crisis they were two market makers out there and we were one of them and so you need them a little
+bit, but it doesn't stop markets from gapping out. We are not saying this is a terrible thing, just being very cautious
+about it. And we are always trying to be very cautious.
+MATT O'CONNOR: Speaking of cautious, the last one I have is on living wills. I know we have a little bit of time
+before we hear anything, but if you look at the comments from the previous year, what they wanted you all to
+address, it seems like there was a massive amount of progress made. I'm not sure what you can tell us, but
+curious your thoughts on progress made and then maybe timing on when we might hear regulators thoughts.
+MARIANNE LAKE: So I can tell you that obviously we took the feedback from the regulators as the industry did
+exactly as you would expect, entirely seriously; put loads of resources and effort to bear in making as much
+progress as we thought was humanly possible over the course of the period. And we feel that we made very, very
+-- I would agree with you; the industry, but JPMorgan specifically, made very, very significant progress in
+addressing the feedback between getting it and the July submission date. And obviously we feel like we have a
+credible plan.
+That's not to say that we won't continue and some of our plans, and you saw it in some other disclosures. We are
+going to continue to work very hard at simplifying our legal entity structure over the next few years and
+interconnectedness and operational resiliency and all the things -- and reporting readiness, all the things that are
+going to make it even better.
+So we think we made very, very significant progress. We think our plan is credible. We don't know exactly when
+we will get feedback, probably in the fall.
+JAMIE DIMON: And we respond to every single thing regulators raise with the huge resources to meet their
+needs. It will probably be iterative over time about they'll make more demands this year, etc. and --. By the way, I
+think there is a 50-page public part that you can actually read and it shows you. That's a 50-page summary of I
+think a 200,000 page detailed report.
+OPERATOR: Gerard Cassidy, RBC.
+GERARD CASSIDY, ANALYST, RBC CAPITAL MARKETS: Marianne, you mentioned a couple of times about
+the competitiveness in the middle-market lending space. Can you give us some color on what you are seeing,
+whether it's underwriting standards, and what kind of product type in the middle market that is most competitive?
+MARIANNE LAKE: It's very broadly competitive and we compete obviously with big banks, regional banks, and
+non-banks. It's not that we are losing loans and deals most often on price. It's normally on size of holds or
+non-bank taking whole deals or on structures, but it's very, very competitive. Everybody likes the sector for growth
+and everybody likes -- so everybody is trying to make progress.
+We are being very, very disciplined, and as a result of that, slightly lower growth than the industry average. And
+you might not always want us to always grow at the industry average. You want us to hold true to discipline.
+GERARD CASSIDY: Right.
+Page 11 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Remember, we looked at the whole relationship. I forgot the exact number, but if you look at the
+middle market relationship, I think something like half, maybe even a little bit less, of the revenues are from the
+lending.
+GERARD CASSIDY: You guys have made great progress with the penetration of the mobile banking app that
+you've created as well as online banking. You showed us that your branch count is down over 100 branches on
+year-over-year basis. What do you see for the branches as you go forward? Is that trend line likely to continue as
+you continue with the increased penetration from the mobile app?
+MARIANNE LAKE: The way I would characterize it is we had a period of time following the Wampum merger
+where we were in new markets and we didn't have the right distribution footprint where we were building. We said
+about a year and a half ago that we felt like we had the right footprint as a macro matter, about 5,600, and that
+now we are around perfecting that, which is about consolidating certain branches where it makes sense but
+building new ones where makes sense. Consolidating them together where it makes sense.
+You will see I think Gordon said approximately 150 net down in each of the next couple of years and that's
+probably still the right way to look at it, but it's really perfecting the network. Moving branches to the areas we like
+where there's a high density of affluence. And then, as you know, really looking at the nature of branches: so the
+footprint, the way we are using them, the way we are staffing them, importantly, moving them to more advice and
+less transaction, more automation.
+Definitely responsive to the evolution in customer preferences. And mobile and online is not only a fantastic
+customer experience evidenced in our experience stat, but it's also a lower cost to serve, so we are also
+improving the profitability of the very highly transactional customers. I think Gordon used the word omnichannel.
+We have a place for everything in our suite and branches are very important. We're just going to be evolving them
+to continue to meet customer needs.
+JAMIE DIMON: One add is that we are thinking about attacking a new city for the first time, like in a major way,
+because we want to see how that works out.
+OPERATOR: Chris Kotowski, Oppenheimer.
+CHRIS KOTOWSKI, ANALYST, OPPENHEIMER & CO.: I was just curious about the reduction of the
+non-operating deposits and I would have expected that to come mainly out of the corporate and investment bank.
+But when you look at the disclosures on your average asset level, it's essentially been $850 billion plus/minus
+each of the last five quarters. Where is the shrink really happening, or how do we see it?
+MARIANNE LAKE: In the non-operating deposits within the wholesale deposits, the majority is the CIB, but not
+quite two-thirds. And then you've got the commercial bank and you've got a little bit in asset management. So it is
+the majority of the number, but there are still sizable numbers, particularly in the commercial bank in the financial
+(inaudible) space.
+And then, when you look at our overall balance sheet, you see cash going down because of the deposits. You
+see securities going down, but strong loan growth offsetting, and then small reductions in trading and secured
+financing.
+CHRIS KOTOWSKI: But when I look at total assets in the CIB, it's 845 this quarter versus 846 last year. It just
+doesn't look like a whole bunch came out of there. It looks like it all came out of the --.
+MARIANNE LAKE: Are you doing year-over-year?
+JAMIE DIMON: You're starting in the wrong time period.
+MARIANNE LAKE: Are you starting at the year-end or year over year?
+CHRIS KOTOWSKI: Well, if you go linked quarter it's 865 to 845. I'm just curious; it doesn't seem to mesh up to
+--.
+JAMIE DIMON: Well, we are getting more operating deposits, too.
+MARIANNE LAKE: We talked about the deposit reduction is overachieving in non-op and improving mix in
+operating. So, trust me -- and I'm not looking at what you're looking at, so I do trust you -- but trust me that
+60%-ish of it is CIB.
+Page 12 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+CHRIS KOTOWSKI: Okay. When you see it in your public disclosures it all looks like it's coming out of corporate
+and other, which is down more than 100 linked quarter, so I was just kind of curious how it all works. Because if
+--.
+JAMIE DIMON: We will clarify off this line because (multiple speakers).
+MATT O'CONNOR: Okay. All right, thank you.
+OPERATOR: Eric Wasserstrom, Guggenheim Securities.
+ERIC WASSERSTROM, ANALYST, GUGGENHEIM SECURITIES: Thanks. My questions have been addressed,
+thank you.
+OPERATOR: Brennan Hawken, UBS.
+BRENNAN HAWKEN, ANALYST, UBS: Just following up on the markets discussion. Curious whether or not you
+have seen some of the drama around Greece impact M&A discussions in Europe this quarter and maybe an
+update on the IB backlog at this point.
+JAMIE DIMON: The M&A -- we don't think Greece has affected the M&A dialogue very much, because it's been
+very active pretty much around the world. And when I say around the world, it's also like European companies
+coming to America and American companies going to Europe, etc., and those conversations continue.
+MARIANNE LAKE: A lot to Europe, yes.
+JAMIE DIMON: A lot to Europe, yes. So Greece had no real effect on that. Greece is a very, very small percent of
+the Eurozone in total, so economically it's not a driving factor for most of the companies there. Psychologically
+maybe it's going to affect some people, but I don't see why a company that has its own ambitions is going to
+change them because of Greece.
+MARIANNE LAKE: And would just -- with respect to the backlog, I would say it's very good.
+JAMIE DIMON: We did see a tremendous amount of something that we've almost never seen before, of American
+companies financing in euro because it was cheaper to do that, even if you swap back to dollars. So you saw a lot
+of American companies going to Europe to do that.
+BRENNAN HAWKEN: Okay. Thanks for that. And then on security services, I know that you all highlighted that
+it's up quarter over quarter on the seasonal strength for the dividend season, but it was down year over year. Can
+you help us reconcile the year-over-year decline?
+MARIANNE LAKE: I think if you go back to last quarter, Brennan, and take a look at the remarks from last
+quarter, we talked about the change in presentation of some expenses versus revenues for the ADR business
+that drove a reduction, but just a classification issue. And then in addition we did lose a large client at the end of
+last year and that is having an impact. I think if you go back and look at the second quarter, hopefully that will
+make it clear.
+And so the guidance, when we did those -- when we made that presentational change and obviously we talked
+about the client exit a few quarters ago, the guidance was, given those, we would expect the revenues to run
+between $950 million seasonally. And this is obviously a strong season and, therefore, it at through $950 million
+and $1 billion seasonally and, therefore, it's at the $1 billion.
+JAMIE DIMON: So Marianne gave you all very specific guidelines, which we don't normally do, on treasury
+services, investor services, and expenses in the commercial bank because a lot of you have your models wrong.
+And Sarah finds it very frustrating that you can't get it corrected quarter after quarter, so we've said here is the
+number that is actually our best guess. So, please, put it in your third- and fourth-quarter models.
+And mortgage revenue was another one which has been ongoing to us. And what's the other one so we can just
+get it on the table whatever it is?
+OPERATOR: Nancy Bush, NAB Research.
+NANCY BUSH, ANALYST, NAB RESEARCH: Jamie, you made a comment about attacking new markets and
+that sort of tags on to what I was going to ask, which is whether there are any of the old WaMu markets where
+Page 13 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+you've not been able to expand as aggressively as you've wanted to and that you might be thinking about exiting.
+So I'm just wondering, can you just tell us how you feel about individual markets right now?
+JAMIE DIMON: Nancy, it's really important -- when we talk about these numbers, by the way, RWA and branches,
+we are not making commitments to anybody. That's our best guess knowing what we know today, but we reserve
+the right to change that on a moment's notice for whatever reason that makes sense for the Company and the
+clients.
+And so branches -- it is very important that you look at branches city by city until you have the right footprint. So if
+you remember, the old A&P which never changed its locations and it never changed sizes and it failed. Any retail
+business should always be adding in new communities, subtracting in some; having the branches to adjust to a
+new reality, whether it's getting bigger or getting smaller.
+In our case it's getting smaller, but again we are not getting smaller because we are guessing at this stuff. We are
+getting smaller because of the less need for operations and branches now. People are doing far more on mobile
+phones like that.
+So we actually do it city by city. You don't set an overall guideline and say you have to do X, Y, or Z. It's city by
+city. And so, for the most part, in the WaMu footprint, I think Florida and California for the most part, city by city
+we went in and added what we thought we should have.
+Wampum -- remember we also added on top of that small business, private banking, some middle-market, other
+businesses that WaMu wasn't even in. It was part of the expansion of those businesses, too. And so when I said
+a new city, I'm talking about what we've never really done -- I was talking about this way back to BankOne and
+the stocks when we did the merger with JPMorgan -- is going into a city de novo that we never been in. There
+you've got to look at how many branches you are going to open, how long is it going to take. And so we do want
+to do one of those and that will have nothing to do with WaMu because they are also places that WaMu wasn't.
+NANCY BUSH: Okay. Another geographic question. I get that Greece is not that important to the Eurozone and
+the events of the past couple weeks seem to have been a lot of theater, frankly. But the events in China in the last
+couple of weeks have been somewhat worrisome. Have your plans for China changed at all, given what seems to
+be a retreat from open markets there?
+JAMIE DIMON: No. I don't think there's been a retreat from open markets there either.
+Remember, we've always said about China is you got to look and plan for the long run, which we do in all
+businesses. McKinsey has a report that shows that they are going to have 25% or so of some of the Fortune 1000
+in I think it was 10 or 12 years. Enormous growth in their companies. Their companies are going overseas. Their
+companies are doing more M&A.
+We did that one unique transaction where ChemChina bought Pirelli in Italy. Obviously, when we have a unique
+network, we can help a Chinese company and an Italian company at the same time, so we are building there for
+the long run.
+As a risk management tool we've always said that the way we treat that is we will be prepared for very tough
+times and I think it's a mistake not to grow because you're going to have tough times. I have never seen an
+economy that didn't have tough times. If you went back to the United States, when J.P. Morgan was building
+JPMorgan back in 1850 and 1860, look every single time that you panic because America had a recession there
+would be no JPMorgan. So we are not going to change.
+What we've seen with the officials in China is that they are very responsive to changes, and you can argue
+whether they should have gotten that involved in the stock market. You can't manipulate stock markets. But they
+are very responsive to lending.
+They've changed their reserve policies, their RMB policies, the QFII policies, the Hong Kong Shanghai Connect.
+Not everything they do is going to work, but they still seem very committed to more and more market reform,
+more and more of taking SOE -- rationalization of SOEs and taking them public, so some market discipline there.
+Creating more of a consumer society.
+And what we've always said -- and I think they have the wherewithal to meet their short-term objectives of growth,
+but we expect that they will have bumps in the road. We expect that and we are going to look right through that.
+The fact that their -- I also remember their market went from $4 trillion value -- so it's a $10 trillion economy. It
+went from $4 trillion market value to $10 trillion; now it's back to $6 trillion. I think those are the numbers.
+Page 14 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+The American stock market has done that roundtrip a couple times itself and so the American economy is $18
+trillion. I think our stock market is $25 trillion, so there will still be huge opportunities there. If they ever completely
+reverse what they are talking about doing, you will see it in far more significant ways than them getting involved in
+the stock market.
+OPERATOR: Betsy Graseck, Morgan Stanley.
+BETSY GRASECK: Just a quick follow-up. Marianne, earlier on you were talking about deposit betas and, for a
+lot of very good reasons, expecting that deposit betas will be a little bit faster this time around. But could you
+round out the conversation as to how you are thinking about how your NIM is going to traject in a rising rate
+scenario? Because I got a few questions on whether the deposit betas being a little faster means that the NIM
+trajectory is likely to be different from last time rates rose for you guys.
+JAMIE DIMON: Marianne, you showed a NIM thing that NIM would go back to 265 to 275. And, remember, when
+we say deposit beta it is by product, by --and it's got gamma, so the first 25 basis points, the second are a
+different 25 basis points, they are different than the third 25 basis points. It's a pretty intensive analysis to try to
+get accurate; that's what we're trying to do. And it's all in that number that was presented and we don't think that's
+changed dramatically.
+As Marianne said, we are assuming that whatever happened in the last cycle, this one will be worse. In other
+words, you will gather less of the benefit from rates going up than we have in the past.
+BETSY GRASECK: Okay, because the last time rates rose your NIM didn't move up that much.
+JAMIE DIMON: Listen, there's a unique --.
+MARIANNE LAKE: Yes, (multiple speakers).
+JAMIE DIMON: It is a unique circumstance when you're at zero. There are a lot of things that happen when rates
+grow to 25 basis points that there will be -- you will pass very little of that also. And we also see that -- we will see
+that in money market funds. We will see that in some forms of deposits, etc.
+The beta gets much higher as rates go up. If I had to guess, I would say we are conservative, not aggressive.
+OPERATOR: Gerard Cassidy, RBC.
+UNIDENTIFIED PARTICIPANT: This is actually Steve dialing in for Gerard. Just two follow-ups. You had
+mentioned the credit downgrades; I believe you said oil and gas. Were there any other sectors, and if there were,
+just some figures on them?
+MARIANNE LAKE: Yes, the credit downgrades included oil and gas and we called it out just because in total oil
+and gas was $140 million of our total net $250 million reserve build. But also I said that there were select names,
+it's like a dozen names, so it's not really like there's another sector, just very discrete names.
+UNIDENTIFIED PARTICIPANT: Okay, great. Thank you. And just a second follow-up. Can you just give us your
+mortgage duration and how far you are willing to take it?
+JAMIE DIMON: No, we are not going to give you that. We disclose -- when you say mortgage duration, obviously
+we build into all of our models mortgage duration. You guys can calculate that yourself by looking at disclosures
+in the 10-K that show mortgages at 3%, 3.5%, 4%, 4.5%, etc. And obviously we can change that at will with our
+investment portfolio and things like that.
+It's all in the NIM already. So obviously we have negative convexity in our portfolio.
+OPERATOR: There are no further questions.
+MARIANNE LAKE: Thank you, everyone.
+JAMIE DIMON: Wait. Before you all go, I just want to tell you one of these days I'm not going to come in on this
+call. I'm not doing it because I want to avoid it; I don't like it. And obviously, if anything is important or really bad,
+I'm not going to ever try to avoid bad news here because we like to tell the whole truth, nothing but the truth, the
+good, bad, and ugly.
+
+Page 15 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+But Marianne has started to do such a good job that I've become unnecessary to be in all of them and I can
+obviously go do other things. So don't be surprised if one of these days I don't show up; don't read anything into it.
+Thank you for being here.
+OPERATOR: Ladies and gentlemen, this concludes today's call. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web
+site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current
+expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any
+forward-looking statement based on a number of important factors and risks, which are more specifically identified
+in the companies' most recent SEC filings. Although the companies may indicate and believe that the
+assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove
+inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the
+forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE
+APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN
+ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN
+THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON
+FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE
+INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S
+SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+Document FNDW000020150715eb7e0012x
+
+Page 16 of 16 © 2020 Factiva, Inc. All rights reserved.
+
+

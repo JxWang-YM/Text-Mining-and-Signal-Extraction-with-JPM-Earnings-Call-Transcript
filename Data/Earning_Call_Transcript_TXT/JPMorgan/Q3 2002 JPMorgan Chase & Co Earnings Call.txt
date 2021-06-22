@@ -1,0 +1,340 @@
+ 11,288 words
+16 October 2002
+11:00 AM
+Financial Disclosure Wire
+FNDW
+English
+ (c) CCBN and FDCH e-Media. All Rights Reserved. 
+
+ OPERATOR: Good morning, ladies and gentlemen, and welcome to the J.P. Morgan Chase third quarter earnings conference call. At this time, all participants have been placed on a listen-only mode and the floor will be open for questions and comments following the presentation. If you have a question, please press 1 followed by 4 on your touch-tone phone and if at any point your question has been answered, you may remove yourself from the queue by pressing the pound key. 
+
+ The conference call today may contain statements that are forward-looking within the meaning of the private securities litigation reform act of 1995. Such statements are based upon the current beliefs and expectations of J.P. Morgan Chase's management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Such risks and uncertainties are described in our quarterly reports on form 10Q for the quarters ended June 30th, 2002, and March 31st, 2002, and ended annual report on form 10K. Each filled with the securities and exchange commission available at the Securities and Exchange Commission internet site, HTTP HTTP://www.SEC.Gov. 
+
+ As a reminder, all parties that are press will be in a listen-only mode for the duration of the call. It is my pleasure to turn the floor over to your host, Mr. Bill Harrison. Sir, the floor is yours. 
+
+ WILLIAM HARRISON, JR., CHAIRMAN, CEO, J.P. MORGAN CHASE & CO.: Good morning, everyone. Thank you for joining our third quarter earnings discussion. As you are well aware of our September 17th preannouncement, third quarter earnings are very disappointing. And now that the books are closed on the quarter, we want to thor rely review our results with, provide transparency and discuss the actions we're taking to address this performance. 
+
+ Joining me today are a number of the members of the executive committee who will participate in this call and the Q&A. Making prepared remarks that follow the sequence of the call handouts that you have will be Marc Shapiro that will talk about our credit performance and Dina Dublon will go through our financial highlights and David Coulter will review the actions we're taking in our investment bank to address the market downturn. But bring turn it over to Marc, let me make a few brief comments at the outset. We are very, as you would expect, and I know you are, too, very disappointed with our financial results, not only for this quarter, but in our prior quarters. We have made some mistakes, as we've talked about before. 
+
+ In my opinion, our mistakes have been mistakes of execution and not of strategy, and in particular, our mistakes in terms of what has uniquely hurt us on the downside has been too much concentration in the telecom space and in equity and lending and we have been and continue to take actions to deal with that. On the good news front, our retail and operating service business performed very well in the quarter, and clearly the issues that are impacting our overall performance of concentrated in the wholesale banking market and the market sensitive areas, investment banking and J.P. Morgan Partners in particular. 
+
+ The mid term environment remains challenging as we all know, but we took significant actions to address credit portfolio values and investment bank, and have continued to actively assess the value in our private equity business. We are responding to how our current business mix matches up against today's environment accordingly. We've gone through very detailed scenario reviews for each line of business and have developed action plans to manage our performance. 
+
+ We're focusing on the things we can manage, doing this thoughtfully, considering the long-term impact on our strategy, our competitive position and, of course, our people. These actions that we are taking and we'll talk about this morning do not detract in any way from our commitment to our long-term strategy and the broad status capabilities we have assembled over the past five years. We like the business platform that we have created. We like the value of the diversity of the franchise, meaning the value of wholesale being the leader in wholesale and being a leader in consumer, and I think this market, with some other results you've seen, sort of highlight that issue. 
+
+ On the wholesale banking front, we continue to value the integrative model. We think that is the winning model for delivering wholesale services, and it's based on leadership positions with clients and good people, which I believe we have. The actions that David Coulter will talk about there that we have taken in investment banking do not impair our ability to execute that vision, in our opinion. 
+
+ Now, let me make a few final comments on the -- what we're announcing today. The actions in investment banking, which are significant, David Coulter will suggest. They will involve substantial additional layoffs, and this is really all about sizing our investment banking platform to reflect a very weak revenue environment that we're in that could continue for sometime. But it does not change the fundamental strategy, as I mentioned earlier, by an integrated financial platform. These actions are an important first step, but not complete as a firm-wide matter. We'll continue to look across the firm at opportunities to improve performance both to capitalize on revenue opportunities and to improve efficiency. So let me stop there and ask Marc Shapiro to comment on the credit outlook and the actions we're taking with regard to credit. Marc? 
+
+ MARC SHAPIRO, HEAD OF FIN., RISK MANAGEMENT AND ADMIN., J.P. MORGAN CHASE & CO.: Thank you, Bill. I do want to focus on the commercial credit portfolio. Dina will make the comments later about the consumer side where we've had continuing positive trends in terms of lower late fees and improving chargeoff ratios. Clearly, the issue for us right now is the commercial portfolio. One of the ways we try to address it with the investment community is being very open about where the issues are and trying to give you more data. 
+
+ As you will see in this presentation and in this supplemental material that we provided with our press release, more data about our loans and so-called credit-related assets, which include derivatives receivables and about our commitments to lend. And the ratings classifications of those commitments. If you look at our total commercial exposure on Page 3, will you find it's unchanged since the beginning of the year, about $425 billion. That's loans of about a little less than $100 billion, derivative receivables of about $85 billion and other commitments to lend. 
+
+ That portfolio is overwhelmingly an investment rate portfolio, 80% is investment grade, and the non-investment grade, though, we have had some deterioration, and to more criticize categories and also some deterioration within the criticized category into nonperforming. That shows up clearly on page 4 where you see the criticizing exposures increasing from the $12 billion at the beginning of the year to $16.7 billion today. Again, this is loans and derivatives on our balance sheet and commitments that are not on our balance sheet. The total of those criticized at $16.7 billion. What's interesting about this slide is that all of the increase, more than 100% of the increase since the first of the year, is in four categories. One of those categories is emerging markets, primarily Brazil. Certainly the change from June 30 to 9/30 is in Brazil. 
+
+ The three segments I want to talk about in more detail is telecom and related cable and merchant energy related. Those categories account for most of the increase in criticized and 80% of the increase in nonperforming loans. We have more detail and the rest of the portfolio, it would appear from these statistics and from other data that we have, is reasonably stable and in good shape. If you look at page 5, it gives more detail on telecom and related, and, again, it points out here credit-related assets and our commitment. If you would add the two together, you would get our total exposure. What's apparent here is that our exposure is down, has come down since the first of the year and has come down quite a bit since the beginning of last year. This was the largest nonfinancial component of our credit portfolio at about 6% of total exposure. Today, it's down to about 4% with the prospect that it will go lower. 
+
+ The investment grade on our assets is about half of our outstanding asset and about two-thirds of our commitment what has happened is the non-investment grade, there's been a shift to a lower category, both criticized and nonperforming. Our view, as we expressed in September, is that we've taken a harsh view of the current reality that we have dealt with most of the problems in this area. Unless we see significant deterioration among the big cap investment grade names that I think we probably have dealt with most of the issues that are in telecom. There are obviously some of significant criticized loans that could deteriorate, but in this condition, we think a lot of what is going to happen has already happened. 
+
+ When you look at cable, it's an interesting tale of two worlds, about half of our credit-related assets and two-thirds of our commitment are in the United States, and in that area, generally speaking, cable has performed very well. We have one well publicized nonperforming loan on which we don't expect any significant loss. In Europe on the other hand, we have had half of our credit-related assets and about 30% of our commitment. We've seen almost all of the cable companies deteriorate into a non-investment grade and largely criticized category. The reason for that is the European cable companies made a much larger investment in broadband technology and those investments have not proven to pay off. In many cases there, we have credit outstanding at an operating company level and a holding company level So we do not expect to see the level of losses we've had in telecom, but we do have significant problems and it has accounted for a significant part of the growth in both nonperformers and criticized. 
+
+ The third area I want to highlight is merchant energy. It's a very broad definition of any company who conducts energy trading activity and whose liquidity has been hampered by their involvement in energy trading markets. That goes all the way from those that are compensated in that business to the electric utilities which are more conventional but which have had some trading activities which have harmed their overall access to capital. There commitiment were largely investment grade, we have had on our [INAUDIBLE] loan some deteriation and we expect that we will have further deterioration [INAUDIBLE] Most of these loans, most of the companies have hard assets and the recovery situation would be much higher than the other two categories that we talked about. 
+
+ I think the question is going forward, what can we do to improve our management practices, and pointed out on page 8, we have two significant things that we added to it over the past 90 days. And really, they are much higher limits by industries and by borrower. As we said, we thought we had reduced industry concentration a great deal. We have to do so further to the point where no one industry outside of the financial area constitutes more than 3% or 4% of our portfolio. And secondly, we have to deal with issuers, even large investment grade names need to have smaller total borrowing limits and that's what we're working on over a period of time. 
+
+ With that, I would like to -- I know you have more questions, but at this time, I'd like to turn it over to Dina to give a more general review of our financial results, and then I'll be happy to answer your questions. 
+
+ DINA DUBLON, CFO, J.P. MORGAN CHASE & CO.: Thank you, Marc. Good morning to all of you. I am now on Slide 10, discussing bottom line results. There were just -- the difference between reported and operating, though, is primarily merger and related charges, which we identify as nonoperating. For the quarter, they were 430 million pre tax, about half the level of last year's third quarter. We expect about 350 million in such nonoperating charges in the fourth quarter, bringing the totals for the year to the 1.2 billion previously disclosed. On an operating basis, EPS was 16 cents a share, significantly below prior periods. Beginning in 2002, any costs associated with new actions to reduce the expense stage are included in our operating results. 
+
+ The large reduction in earnings in Slide 11 was driven by a significant increase in commercial credit costs and lower trading revenue in the investment bank as announced a month ago. Revenues were down 8% from the second quarter and down 5% from the third quarter last year. We continue to reduce expenses, but not enough to upset higher credit costs. Return on equity was 3% for the quarter. For the nine months, revenues were almost flat and expenses were down 7%. The increase in credit costs accounted for the 23% declining earnings year to date. ROE was 9% versus 11% last year. Both periods results are too low and much lower than our potential earnings capacity. Two key points we are addressing this morning are with the weakness in market businesses, the other two segments, retail and operating services are supporting the 9% and 11% return on equity for the term, and we are addressing the performance shortfall through actions in risk management and in bank businesses. 
+
+ Slide 13, credit costs. Commercial chargeoffs at 830 million, nearly tripled from the second quarter driven by names in the telecommunications and cable sectors. Managed credit card chargeoffs declined 10% to 687 million with the chargeoff ratio at 5.5%, almost 100 basis points below the 6.4% last quarter. The card business complied with the proposed guidelines with no increasing provision and, therefore, no financial impact. We have now identified 189 million in the consumer reserves against interest and fee receivables for managed delinquent accounts. We added to the reserve account a total of 570 million, equally between the reserves for loan losses and reserves for off-balance sheet commercial commitments. Nonperforming assets are at 1.1 billion, to 5.5 billion despite the 800 million in commercial chargeoffs, reflecting the deterioration [INAUDIBLE] -- loan reserves were up. Total loan loss reserves to nonperforming loans declined this quarter to 128%. We have been charging off loans, recognizing lower recovery value in the telecom sector once loans are impaired. Nonperforming cell phone credits are being carried at 30% over regional book. The more aggressive we are in charging off bad credit, the lower the reserves for the remaining book value of nonperforming loans. 
+
+ Slide 16, expenses are down 7% from both the second quarter this year and the third quarter last year. We have diverging expense trends in the wholesale expenses down 15% from a year ago, primarily from reduced compensation. In retail, expenses are up 14% from increases in volume and head count and higher marketing and amortization of the premiums in cards. 120 million of restructuring charges, those are operating restructuring charges, slowed through expenses this quarter. None were included as operating last year. The ratio in the next slide was 8.6%. We have little to no growth in liquidated assets and commercial loans are down 7%. Retained earnings were negative this quarter. 
+
+ We addressed dividends on September 17th with the board expressing its intent to continue the current dividend level provided the capital ratios remain strong and earnings prospects exceed the current dividend. This quarter, we were downgraded one notch by the rating agencies. The holding company is now the single A rating, and [INAUDIBLE] -- at the lower AA rating. We have managed our liquidity position in light of the issues facing us. At the holding company, we have sufficient cash to repay all obligations over the last 12 months without exiting the market. We have had no problem in exiting the market. We have seen spread widen on our terms as well as the subordinated notes. 
+
+ Turning to the lines of business, Slide 17, retail and middle market again posted record revenue and earnings in a very benign environment. Earnings of 800 million are almost double the level last year, driven by revenue growth of 30%. Homes financed produced record earnings. Hedging gains exceeded the write-downs in the value of MSRs by about 300 million. We also have large unrealized gains in the securities portfolio used to hedge the servicing right. With low rates and favorable spreads, we had higher production, servicing fees and interest income. In cards, earnings were up 90%, 40% excluding provision. We had full conversion of Providian to our facilities. Return on equity was 30% for the quarter and 26% for the nine months. To normalize the quarter's results, we would use pre tax income by about 250 million. 
+
+ For year-to-date, we might reduce these by about 500 million pre tax. This would still leave us with an adjusted return on equity for the quarter and year to date at the [INAUDIBLE] l high of 24% and 22%, with overhead ratios of 48% to 49%. If you normalize the results for hedging gains in mortgage, there are few other items one can normalize for in this quarter. Treasury and security services earnings were up over 20% from both last quarter and third quarter last year. We had 50 million gain on the sale of an investment in an overseas clearing firm, explaining the revenue growth of 4% to 5% from prior periods. [INAUDIBLE] upset by institutional trust and treasury services. Return on equity was 28% for the quarter and 24% year to date. The overhead ratio was down to 68%. Continued weak markets will pressure revenue growth. Returns here have remained stable and very attractive. 
+
+ Investment management and private banking on Slide 19, income of 98 million was 10% to 20% lower than prior periods, because of declining global equity values and lower investor activity. Revenue declines of 5% and 9% are in line with the industry. Compensation expense has hit bottom, so with revenue decline, the pre tax margin was 17%, down from about 20% in prior periods. Assets under management of 492 billion was down 15% from a year ago, driven equally by outflows from the institutional business and market depreciations. Assets under management, including our 45% in American Century was 524 billion. Investment performance in our U.S. institutional core equity discipline is weak. 
+
+ Performance of international investment management continues to be excellent. The outlook for the near term is negative, given the extent of market declines just in the last month. I'm on Slide 20. J.P. Morgan Partners saw more of the same this quarter. High level of write-downs and write-offs with limited gains the higher loss was driven by the public portfolio which had a book value of less than 500 million by quarter end. In the private portfolio, we had high write-downs and [INAUDIBLE]. In the near term, there are limited oportunities for exit and realized gains. Over the last year, our investments in [INAUDIBLE] has come down, diversification has improved the hard way through concentrated write-down. P&P has declined from 32% of the portfolio to 18%, industrial growth has increased from 20% to 24%. Telecom accounted for the majority of the T&T decline. Less than 400 million of telecom investments remain on our book. With the private portion at only 320 million. 
+
+ We will continue to reduce our exposure to the asset class as we are able to sell companies out of the portfolio, have a slower investment fee and by reducing our share of investments made. Turning to the investment bank on Slide 22, ID had a loss of 250 million. Expenses are down primarily incentive, but the overhead ratio is up to 68%. Severance-related charges of about 80 million are included in the operating expense line. Excluding these charges, the overhead ratio was 64%. 
+
+ For the fourth quarter, we will have about 50 million of such charges from existing programs plus 300 million in charges associated with the actions we are announcing today, depressing fourth quarter results. Year-to-date return on equity is 7%, and we are committed to improving our financial returns in the business. Slide 23 shows trading revenues at the top in total capital markets revenues at the bottom. Trading revenues of 370 million are down about 70%, reflecting losses on positions, especially in the early part of the quarter, as well as the seasonal slowdown in client flow. Income is down 40% to 50%, primarily from positions in interest rate market, in merging markets, trading revenues were higher than in the second quarter. Equities had a trading loss of 250 million coming from equity derivatives convertibles and cash securities. The bottom half of the slide provides a more complete picture of revenues in our market's businesses. 
+
+ Better reflecting the management approach and organization. The fixed income and equities line now include commission and for fixed income, it includes revenues from global credit portfolio management. We also showed the revenues in global treasury, which manages the firm's interest rate risk and investment securities activity. The 610 million of treasury revenue includes about 450 million of securities gain. The total return includes unrealized gains or losses on investment securities where the value is up, as well as unrealized gains and losses on the firm's transfer price SS and long-term liability where the value is down as rates decline. This is how we manage the business. Revenues on this basis of 1.7 billion are down from 28% from prior periods. 
+
+ In the next slide, I would like to address recurring questions about our trading results. Are we taking larger risk positions now? Are we measuring and controlling risks properly? Value at risk, or VAR, in our mark to market activities in the third quarter was comparable to value at risk in the first six months. The decline in revenues does not represent increased levels of daily trading risks, nor volatility that is in excess of what is predicted by far. The slide shows the histogram of market related revenue. In the first nine months , or 189 days, we had 25 days of negative market revenue. 16 out of these 25 days, or two-thirds were in the third quarter. The larger number of daily losses reflect the outcome of positioning. As you can see in the insect, no losses exceeded bar. 
+
+ I'm now on Slide 25. We have maintained our leadership position in syndicated lending and U.S. investment grade bonds and made progress in equities. Year-to-date market volumes for all products are down, so revenues are lower. Investment bank fees for the quarter were down over 30% from both periods. It was the worst quarter in over three years for the industry. At the end of September, the pipeline for advisory was 10% below June and 30% below last year. The pipeline for underwriting is also lower than June, primarily in equities. Our business model has been severely criticized. The effects do not point to a loss of business or a loss of confidence from clients. Market activity's down and we need to adjust to that. Credit costs are higher than we expected because we did not manage concentrations down across the board. Credit costs are, and we believe will remain, significantly lower than in previous recessions. In the long run, with proper execution, we continue to believe this will be the winning business model. 
+
+ In summary, three take-aways -- Diversification benefits are apparent but not suspicion to impact the weakness of capital markets and downturn in credit. Results have been far below our expectations. Two, maintaining our waitings and having financial flexibility is important, so we will continue to manage tightly capital and liquidity. And the action part. We can improve our risk management practices. Marc has talked with that. And we can control expenses. Dave Coulter will take you through the initiative. Dave? 
+
+ DAVE COULTER, HEAD OF INVESTMENT MANAGEMENT & PRIVATE BANKING AND INVESTMENT BANK, J.P. MORGAN CHASE & CO.: Thank you, Dina. Our outlook for I.B.outline revenue growth, Slide 28, for the remainder of this year and in 2003 is bearish. I don't think that's any different from the rest of the marketplace, but we clearly need to adjust to it. So today, we're announcing and describing a program which we've been working on for the last month or two. The punch line is it will result in 700 million of run rate saves and allow us to target for 2003 a return on equity for the investment bank in what we view as a [INAUDIBLE] of downturn of a 12% ROE and a 60% expense to revenue or overhead ratio. We don't think these kinds of reductions impact our overall strategy. We still have very strong space in the strategic framework for the investment banking business, and that relates to, first of all, recognizing economic reality and adjusting to it. 
+
+ Secondly, recognizing the strength of this client base, which is global and matches up well with our global footprint. We have an extremely strong client base, but we don't need to have to go out and get today. We have them and currently do a wide range of business with that client base. So the name of the game is how do we continue to integrate our broad product offering through the client base? We think we do that with execution and distinguishing yourself in execution in the downturn we think is key, and we think we do that by continuing to invest in world-class people, and believe that that is really the key differentiating strategy. 
+
+ I'll turn to Slide 29. We think about facing this slowdown in I.B. outlook and how we adjust to it. We really go through a set of what I regard as normal decisions. First of all, you look at products which are dragging down SBA growth today. The two key product areas are equities and credit. Marc has talked about credit, and so I'll keep my following comments to equity. You look at geography and ask yourself, how are you positioned in various geographics around the world. You look at your product delivery functions, and ask yourself, are we focused on the right sectors, and are we doing it efficiently? And at the same time you do those things, I think you cannot lose sight during a downturn of continuing to invest in areas of leadership. And we certainly view a number of our fixed income business as areas of leadership, and we don't want to starve those in a period of a slowdown. You also have to be mindful of maintaining our credibility of managing the credit portfolio and managing ratings in terms of what that does on our business. 
+
+ Slide 30 begins to describe, and I'll do this quickly at a very high level, but happy to take any follow-on questions, how we adjust to the environment. First relates to products. I mentioned the two key product areas where we have negative SBA results today. Our credit and equity. Not only do we have negative SBA results, but in part, that's due to the overall industry revenues being down 50% from 2000 and a range of regulatory changes we're faced with. We do believe we need to adjust, but we also believe we have a number of things going right for us in the equities business today. We've had, for a period of time, a very strong equity derivatives franchise. That business is not as profitable as it was in 1999 and 2000. But we are confident about its long-term profitability, and we'll continue to invest in it. We've also been able to build share in the equity convertibles business. We think that relates to the strength of our client franchise and we think that's the key for our cash equities business going forward. 
+
+ This period of change in the equities business, we are certainly going to focus more our cash equities resources. That means take expenses out of the sales and trading functions, equity capital market functions and research function. We think that really, though, relates to a push for focusing more on near-term profitability than cable rating. I want to stress that we believe we can still be very successful in the cash equities business. It relates to looking where we get business from today, that is from our existing client franchise, which we already do a light range of transactional and capital raising activity for and continuing to lever that client franchise into our cash equities activity. We've done a great job there in terms of adjusting to this environment. 
+
+ The next slide, 31, relates to improving the productivity of client coverage in origination function. Simply, this is just looking at the end-to-end process, asking how many people we need in this environment, both in the client executive and industry groups as well as the product execution groups, taking a look at sectors and trying to evaluate the wallet potential of that sector and adjusting, and that's what we're doing here. 
+
+ Slide 32 relates to footprint, focusing on Asia and Latin America. Our objective is to at least be SBA neutral in these regions in the downturn. Latin America is a little different than Asia in the sense that we don't expect a lot of near-term top-line revenue growth, so that influences us in terms of taking capital out of the region and focusing more on the advisory business. In Asia, we will be spending a lot of time on our middle and back office infrastructure and trying to shift that into low-cost operating environments. Also, in Japan, which is a negative SBA drag today, we are scaling back the business in a number of areas. I guess the most significant of which is we are reducing our presence in the domestic cash equities business in Japan. I think it's very hard to compete there and make money. We are keeping our presence, though, in terms of the equities business that relates to selling international securities in the Japan or Japanese securities into the international marketplace. 
+
+ Slide 33 just relates to operating infrastructure. Let me go through periods like this, you take a hard look at the technology queue, take a hard look at your back offices and, as I said earlier, try to put those in low-class operations, and finally make sure you're doing the same things on the support side. Slide 7 -- I'm sorry, Slide 34, just summarizes the initiatives, as I said, the top target operating overhead ratio of 60% in 2003 as well as the 12% ROE, 700 million in run rate savings, 450 million of severance and restructuring costs to get it done and head count reductions of over 2,000. I'd put a number of about 2,200 in terms of positions within the IB today. About 1,800 of those reductions will be done in the fourth quarter, and as Dina said, I think she said about 300 million of severance and restructuring costs will occur in the fourth quarter. So I'll turn it back to you. 
+
+ MARC SHAPIRO: I think at this time we're open for questions and we'll take those questions on the phone. 
+
+ OPERATOR: Thank you. The floor is now open for questions. If you do have a question, please press 1 followed by 4 on your touch-tone phone. If you are on a speakerphone, we do ask you pick up your handset to minimize background noise and if at any point your question has been answered, you may remove yourself from the queue by pressing the pound key. Our first question is from Judith Crashour of Merrill Lynch. 
+
+ JUDITH CRASHOUR, MERRILL LYNCH: Good morning, everybody. Three question, I'll just start asking them all together. First, on the investment bank restructuring, curious what your plans are for Europe and why you couldn't get all the severance charges into the fourth quarter. You know, it would seem like you've done a lot of work to identify staff cuts. Why can't you get the charges in earlier? Two, the derivatives receiveables was up 17 billion, 18 billion this quarter and curious what's driving that and the risk management efforts to make sure there's no risk there? And lastly, it looked like there was a real estate reserve of 98 million set aside. Just curious on what your view is on commercial real estate. 
+
+ DAVE COULTER: Okay. Jude, I will take the first IB-related question. In terms of Europe, although the competitive environment and the competitive results for us in Europe were pretty attractive now, we've been number one in Europe in the third quarter, they're going through the same, I think, generalized environment here as we are in the U.S., so the changes we're making in terms of the origination issues or the equities exchanges are impacting Europe I won't say --some of what we're doing, especially in the back office, in terms of moving out of high-cost locations and centralizing locations in low-cost it doesn't involve moving people around, and that is challenging in an environment where you have a lot of transactions so a lot of that will not occur until the middle of next year. When I give you the targets for '0 3, I'm taking that into account. 
+
+ MARC SHAPIRO: With regard to the other two questions, derivatives are up due to underlying changes and interest rates and particular currencies. When you have volatility and the changes in the underlying nature of the contract, and people are less more money, it tends to go up on both sides. There's no underlying change in the business or the nature of the business. Finally, with regard to real estate, we do see some increase in real estate costs. We have been in a transition from getting rid of real estate and acquiring real estate. We probably will have decreases in head count below where we thought we were, so we'll have some excess real estate, but normally speaking, just an ongoing run rate, I'll expect our occupancy expenses to go up a little bit next year. 
+
+ JUDITH CRASHOUR: Okay. So that was a proprietary real estate issue, not loans to real estate? 
+
+ MARC SHAPIRO: Oh, no, no, just our real estate occupancy. 
+
+ JUDITH CRASHOUR: Just finally, assume the saves you get, is that all going to be realized next year or is that sort of a run rate? 
+
+ MARC SHAPIRO: No, that's all going to be realized next year. 
+
+ JUDITH CRASHOUR: Okay, thank you. 
+
+ OPERATOR: Thank you. The next question is coming from Diane Glossman of UBS Warberg. 
+
+ DIANE GLOSSMAN, UBS WARBERG: Good morning, everyone. Two questions for you. One, Dave, could you talk a little bit about the comp to revenue ratio that you're currently achieving and aiming for? And, also, your comp per employee, and how important these were in setting your new target levels for head count? The other is, you mentioned both converts and the equity derivatives business as drivers for your equity effort overall. Given your relatively mid-tier position in the cash equity business, which also reaches into the relative weakness in your research business, how do you feel about the current regulatory discussions on the issue of conflicts with investment banking and how are you setting yourselves up to hopefully meet --any framework changes impacting the business going forward? 
+
+ DAVE COULTER: Okay, Diane. On the comp revenue ratios, you know, you do have to be careful of comparing us to some of the other players that don't have credit portfolios, but I'd say we're somewhat in the 48% to 52% range going forward. One of the things that certainly went into our thinking in terms of producing these run rate savings and then asking how do we achieve a 12% ROE and still hang on to the best people was that we were probably going to have to pay, although comp per employee will clearly be down in '02, we wanted to make sure that we had the resources to hang on to the people that we really needed to hang onto going through this downturn. So it factored into our thinking from the standpoint of we need to make sure we have enough on the downside and we have to free up some resources to get there probably to live to the upside. I'm giving a bit of a generalized response, but that's the way we thought about it. 
+
+ MARC SHAPIRO: Just we think about it in terms of running the business that way, but we're also making certain adjustments to try to make our numbers more comfortable to investment bank. So in a way it shows up on the financial statement, it will be lower than 48 to 50 -- 
+
+ DINA DUBLON: In fact, 32% for the quarter. 
+
+ MARC SHAPIRO: Right. It's in the 30s. What we're do something making adjustments when we talk about that type of number. 
+
+ DAVE COULTER: Okay. Final thing about research, Diane, is I guess we certainly are complying with all the new rules as they get implemented, seemingly daily. We are a part of the discussions related to how does research evolve and how do you ensure the independence of the function while controlling the touch points between the investment bank. I guess we are -- we are a low-cost player on the research side toe. I guess we think as this issue moves forward, it may move in our direction, so in that sense, it's not unfavorable. 
+
+ DIANE GLOSSMAN: Okay, thanks. 
+
+ OPERATOR: Thank you. Our next question is coming from Henry McVee of Morgan Stanley. 
+
+ HENRY MCVEE, MORGAN STANLEY: Good morning. Just a couple quick questions. It says a tax on the private equity -- let me get to this -- that a lot of -- you said the third quarter, 2002, results were driven by write-downs and write-offs on the private holdings, but when you look at the disclosures, it looks like the private holdings were flat to up, so can you help me with that? 
+
+ MARC SHAPIRO: Sure. We made new investments during the quarter. 
+
+ HENRY MCVEE: Okay. So how much did you make in new investments? 
+
+ MARC SHAPIRO: It would be around 300 million would be my guess. 
+
+ HENRY MCVEE: Okay. All right. Second thing, I was just -- you were trying to help us get to the run rate of normal, and I just wanted to make sure I have this right. The kind of one-timers during the quarter were 80 million in terms of severance, as you would add that back, and then you had 50 million gain in treasury, 67 million comp reversal, and then I think -- and then the 465 from the total return, and on the retail side, did you say 250, an does the 250, besides the mortgage part, does that also include reserve releases? 
+
+ DINA DUBLON: I'm not sure I can follow all the numbers that you concede recurring versus what I consider recurring, so I suggest that we follow up on those issues, follow up with investor relations. I did make the comment that in the consumer -- in the retail bank in total, we would normalize earnings for the quarter at about -- taking out about 250 million in revenue for the quarter and about 500 million -- a little over 500 million for year-to-date basis. That's really taking into account primarily not only, but primarily the unusual hedging gains we have had in mortgage servicing rights. 
+
+ HENRY MCVEE: Were there reserve releases on the card side? 
+
+ DINA DUBLON: No, we totalled what we had is credit costs that were comparable to charge-offs. We had an identification within the consumer business of reserves as against fees and interest on billing accounts, which is what is being proposed by the [FICA] to be one of the new elements in the reserving for cards. 
+
+ MARC SHAPIRO: I think we would have had a reserve release of about $100 million if the accounting regulations on that issue had not changed. So basically, that cost about $100 million, and as a result, our provision in consumer is about the same. 
+
+ DINA DUBLON: Right. And again, the amount identified again the [FFIC] is about $190 million. 
+
+ HENRY MCVEE: Okay. Just one final up for Marc. On the credit, which is very helpful, you went through the different areas, and at the end you kind of said on merchant energy and related, you said, you know, if you were expecting softness in one area, this would be it. What do you -- obviously, there's been a lot of noise there. Anything in particular that you want to highlight to us that made you want to say that? 
+
+ MARC SHAPIRO: No, I think in the news lately, there's nothing significant there for us. I do think that to the extent that we have an increase in non -- if we have an increase in nonperforming loans in the fourth quarter, I would expect that that would be the area that it might come from. 
+
+ HENRY MCVEE: Okay. All right, guys, thanks. 
+
+ DAVE COULTER: Marc, just to add to that, you may have said this, if we do end up with an increase in nonperforming loans in the merchant energy area, we wouldn't expect to have significant chargeoffs, because of the assets and the basic cash flows of those franchises. 
+
+ MARC SHAPIRO: That's right. 
+
+ OPERATOR: Thank you. Our next question is coming from Ron Mandel of GIC. 
+
+ RON MANDEL, GIC: Hi, folks. I was -- I had a question regarding what you were projecting in the 12% ROE and the cost cuts and so on about the outlook for commercial credit costs, for next year, for the investment bank , when I tried to put your numbers together on the back of the envelope it seemed like it was 400 million a quarter but I was wondering if you'd elaborate on that? 
+
+ DAVE COULTER: Obviously, when I say we're targeting an ROE level in 2003 of 12%, it has plain estimates for all of the components of the income statement, and I'm not going to get in the business of projecting credit losses for '03, at least in a public forum. 
+
+ RON MANDEL: Is my back of the envelope calculation in the ballpark, do you think? 
+
+ DAVE COULTER: No. 
+
+ RON MANDEL: Excuse me? 
+
+ DAVE COULTER: No. 
+
+ RON MANDEL: No? Would you elaborate? 
+
+ DAVE COULTER: No, as in "no comment." 
+
+ RON MANDEL: Oh, okay. Thanks. 
+
+ OPERATOR: Thank you. Our next question is coming from John Coffey of City Group. 
+
+ JOHN COFFEY, CITI GROUP: Yeah, I wondered if you could give us some figures on the actual head count in the investment bank as you define it, where it was, say, at the peak and where it is -- where do you expect it to be after the cut of 2,200 jobs. 
+
+ WILLIAM HARRISON, JR.: Yeah, John, I'm looking to David Sidwell, the CFO of the IB and going to have him either hand me a little note here or do them -- we have about 16,000 today, so we're talking about 2,200 positions on top of that, and, David, at the peak, it was about 25,000 at the peak, I guess, around merger time. 
+
+ RON MANDEL: Okay, you said 16,000 today? One-six? 
+
+ WILLIAM HARRISON, JR.: Yes. 
+
+ RON MANDEL: Okay. Thank you. 
+
+ OPERATOR: Thank you. Our next question is coming from Richard Strauss of Goldman Sachs. 
+
+ RICHARD STRAUSS, GOLDMAN SACHS: Okay, thank you. Marc, just looking at the telecom, it just seems that, you know, that the percentage of this that is nonperforming right now is still relatively very small, and, you know, we have a lot of noninvestment grade stuff here, and, I mean, I'm just -- why shouldn't we have a sense that there is just a lot more to come? I mean, forget energy, you know, telecom. 
+
+ MARC SHAPIRO: Well, I think when you get into a position like this, and especially when you have the liquidity impact and capital market close, the deterioration seems to happen fairly simultaneous for lots of these people. 
+
+ RICHARD STRAUSS: It doesn't seem like that's been happening now. 
+
+ MARC SHAPIRO: No, I mean a lot of it happened, I think, in the third quarter. And I think the question is whether the firms that have been able to weather it so far will continue to weather it. And you get to a point where basically you get survivors and nonsurvivors. Now, I wouldn't say that we're totally at that point, but, you know, it's unlikely that you'll have -- seems unlikely to me that you'll have a much further deterioration in this sector. You could. I think, you know, it depends on how things play out. But you do get to a point where the people that have survived are going to survive, because they have -- they're able to weather the storm -- the liquidity storm. 
+
+ RICHARD STRAUSS: Hmm. Also, can you maybe refresh my memory on what your strategy is now in JPMP, because you said to Henry that you put what seems to be a fair amount of money to work in the quarter given that DINA mentioned there were substantial write-downs in private equity. Where should we be thinking of this portfolio in terms of where you want this to be ultimately? 
+
+ MARC SHAPIRO: Where we want it to be -- 
+
+ RICHARD STRAUSS: I know where you want it to be, but in terms of putting new money to work over the course of the next couple of years. 
+
+ MARC SHAPIRO: Well, what we've said is we'd probably be investmenting about $1 billion a year. That's down from $3 billion to $4 billion a year. That's consistent with the third-party funds we have raised in terms of commitment. Some of that depends on opportunities. Our goal over time, the next three years, is to reduce the total balance sheet -- book value to about 15% of equity. Right now, it's 20% of equity. And people -- it was 37% of equity. That's what the goal is. 
+
+ RICHARD STRAUSS: Okay. And then one actually final question to Bill. You know, Bill, I would think that from your point of view, you know, if you really thought the stock was cheap that you would be aggressively buying back like you've never bought back before, and so maybe you could just give us your position on this. 
+
+ WILLIAM HARRISON, JR.: Yes. We have excess capital, we would consider doing the smart thing with that capital. 
+
+ RICHARD STRAUSS: Right. 
+
+ WILLIAM HARRISON, JR.: We don't have excess -- 
+
+ RICHARD STRAUSS: So the dividend -- the dividend is more important than buying back the shares at a price that you think is a good price? 
+
+ WILLIAM HARRISON, JR.: That's the decision we have taken, yes. 
+
+ RICHARD STRAUSS: Interesting. Okay, great, thank you. 
+
+ OPERATOR: Thank you. Our next question is coming from Mike Mayo of Prudential. 
+
+ MIKE MAYO, PRUDENTIAL: Good morning. Just a couple of questions on credit derivatives, how much did you have in credit derivative gains in trading, and since you underwrite a lot of these things, are you on the hook for some of the derivative trades? 
+
+ MARC SHAPIRO: I'm not sure what you mean by the latter question. 
+
+ MIKE MAYO: Well, let's go with the first one. Do you have any credit derivative trades gains in trading? 
+
+ MARC SHAPIRO: We have some gains in trading. I don't think it would be a very significant amount. We're hedging -- obviously, we have derivative receiveables, which if is the credit deteriorates or spreads increase, we tend to hedge that a lot with credit derivatives, so a lot of it is offsetting our receiveables. We have some offsets to our accrual exposure, which was obviously positive for the quarter, but not in a very significant amount relative to trading. 
+
+ DAVE COULTER: Marc, maybe Bill would like to make a little comment about credit markets overall and how you performed in the third quarter. 
+
+ WILLIAM HARRISON, JR.: Yeah, well, first comment on the credit derivative hedges, just to amplify Marc's comment, our derivative counterparty exposures are mark-to-market are hedges against that portfolio as well as against the accrual portfolio, and the sum of the two shows up on our trading income line and was immaterial in terms of overall contribution, which would be pretty much what you would expect. I think the just of your question, the second question was, have we taken losses on credit protection that we sold? 
+
+ MIKE MAYO: That's correct. 
+
+ WILLIAM HARRISON, JR.: And I think the short answer is, we are on the outside of our hedging tiffs, we run a market-making book that's balanced and we've had no exceptional gains or losses in that market making portfolio in the third quarter as it relates to credit derivative. Broadly, our credit trading results, both for the third quarter and for the year, have been very strong, and I think the outlook for that business continues to remain as robust as it has been because of the level of market-making activity that we're seeing being certainly at record levels and growing. 
+
+ MARC SHAPIRO: I think in general, Mike, the position of the trading book would be we are -- we have bought more trading credit protection than we have sold. 
+
+ MIKE MAYO: And just as one follow-up, the first conference call since you had the I guess the article in the "Wall Street Journal" that said you mark to market your portfolio using internal models as opposed to publicly traded market values, what percentage of, say, your balance sheet overall is mark to market using internal models as opposed to publicly traded market values? 
+
+ DAVE COULTER: I think that the number we look at is revenues. Revenues derived from models versus readily absorbable input. What we see is about 90% of our revenue in the mark to market businesses is derived from readily observeable prices. In addition to that, when you look at models, there are two types of models. One is models that are -- where there's no tradable price for the output but where all of the inputs are effectively observable prices, and the other, of course, is models where it's really hard to observe the input. That latter part is a very small percentage of what we have. Most of the models we have are based on readily observable prices and had a history of being abused. All of our models have to be accrued by an independant risk management group in addition to the group that is trading based on the model and all of the evaluations are done by independent financers. 
+
+ MIKE MAYO: All right, thank you. 
+
+ OPERATOR: Thank you. Our next question is coming from Andy Collins of U.S. Bancorp. 
+
+ ANDY COLLINS, US BANCORP: Good morning. Just a couple of quick questions on credit. I guess, Dina, you had mentioned something about in terms of your MPA page book values at 30% in terms of telecom exposure, when written down, something like that. Could you explain that a little bit more? And then, second, can you guys talk about your global bank loan exposure and characterize kind of your typical credit risk in light of the kind of deteriorating global banking market environment? 
+
+ DINA DUBLON: Well, let me pick up first still on the comments the value, my point was that we have been aggressive in taking charges against assets that are impaired in the telecom sector. We are not waiting it out to see whether the recovery will actually be 30 cents on the dollar, so that's what we think the market supports -- the impaired telephone assets to a nonperforming, so that -- 
+
+ MARC SHAPIRO: Statistically, what it means, is that the combination of the allocated reserves plus the amount charged off as a percentage of the original face value of the loan is 70%, the remaining value for which we haven't taken an income statement charge, it would be 30%. 
+
+ ANDY COLLINS: Okay, great. 
+
+ DINA DUBLON: Okay. Your second -- 
+
+ MARC SHAPIRO: I didn't understand the second question. 
+
+ DINA DUBLON: yeah, I -- 
+
+ ANDY COLLINS: Just in terms of, you have a fair amount of financial services exposure globally and I'm just kind of wondering if you could characterize what the typical credits are out there and, also, you know, perhaps by market, you know, we've seen deterioration in kind of the European banks and the Japanese banks and wondering, like, you know, how that all works together. 
+
+ DAVE COULTER: Our largest exposures are major trading counterparties, you know. And I think my recollection is that about 97% investment grade in that category. So it's overwhelming the larger trading bank -- 
+
+ ANDY COLLINS: okay, great. Thank you. 
+
+ OPERATOR: Thank you. Our next question is coming from Mike Korseeni of KBW. 
+
+ MIKE KORSEENI, KBW: Hi, how are you? A quick question for you, just related to -- I appreciated the Slide 24 on the histogram of market risks, it didn't go up in the third quarter relative to all year, given the results of the trading of the quarter, have you all done anything to change or improve your bar calculation methodologies? 
+
+ DAVE COULTER: No. The bar is not in our calculation methodologies. We took positions that turned out to be wrong and what the risk is of your position and the methodology wasn't wrong. The risk wasn't wrong, what was wrong was the position. 
+
+ MIKE KORSEENI: Okay. Thank you. 
+
+ OPERATOR: As a reminder, if you have a question, please press 1 followed by 4 on your touch-tone phones at this time. Our next question is coming from Brock Bandervent of Lehman Brothers. 
+
+ BROCK BANDERVENT, LEHMAN BROTHERS: Thanks, and good morning. Follow-up to the previous question, could you talk about the impact of your proprietary trading operation in a typical quarter and what its impact was this quarter in trading? Thanks. 
+
+ DAVE COULTER: Yeah, Brock, this is Dave Coulter, and I think you're referring to we have a unit within the IB, known as proprietary positioning. I think it is important to make the case to you, though, that we take proprietary risks in all the other parts of our trading books, via credit end rate or equities or treasury, global treasury. Our proprietary positioning business has been over the past two years a very steady performer for us, probably producing revenues to the tune of -- 75 million to 100 a quarter. They got it wrong in the third quarter after a long string of getting it right to the tune of, I guess, about 150 in the third quarter. I could be slightly off on that. I'm doing this from memory. We still have the same people managing the same type of risks. It happens, and so, I think we sort of gotten our legs back under us in that particular unit and these are difficult markets, so I'm not predicting a quick turn-around, but I think we were able to sort of bound the risks and get on with it. Bill Winters wants to make a comment here. The flip side of that is our global treasury business which, in many ways, the same kind of risks and had a blowout quarter, as you can see from the slide that DINA presented in the package. I don't know white slide it was maybe. 
+
+ DINA DUBLON: 24 maybe? 
+
+ DAVE COULTER: She broke out global treasury as part of our capital markets revenue. So I think that does reflect the kind of things that happened in large trading organizations where you do get a balancing of the risks. 
+
+ BROCK BANDERVENT: Okay, thank you. 
+
+ OPERATOR: Thank you. Our next question is coming from Johnathan Adams of Brown Brothers Harryman. 
+
+ JOHNATHAN ADAMS, BRPWN BROTHERS HARRYMAN: Good morning. Can you talk about the distribution of losses within J.P. Morgan Partners and whether you have a strategy to minimize losses in cases where there is an investment that is shaky and from an operating basis you report? 
+
+ DINA DUBLON: I'm not sure -- 
+
+ MARC SHAPIRO: Repeat the last part of the last question. 
+
+ JOHNATHAN ADAMS: What is your strategy to minimize losses in your investment -- from your investments? 
+
+ JEFFREY WALKER, HEAD OF JPMORGAN PARTNERS, J.P. MORGAN CHASE & CO.: Jeff Walker here. No comments on those. 
+
+ DAVE COULTER: Yeah, the source of the losses this quarter, three different categories, two major loss catagories, one is the mark to markets, markdown of 5 to 20%, current public portfolio. And we told you a value of 84 million or so currently, so took a share of that, and things like jet blue which went down, as well as a couple of the telecom investments, the second pool, a private investments, we took write-down in the fund portfolio as well as a couple of European telecom investments and a couple of west coast hardware equipment businesses that were affected by the continued decline in the capital expenditures of the telecom, and consumers. What are we doing to manage those losses? We're managing them by, one, being tougher on the public portfolio and getting out sooner than we probably have on average in the past. That means being off the board quicker, means probably accessing the markets when we can achieve liquidity, we're not under restrictions. We're managing the portfolio itself by hopping on those investments that we think have issues or poor performance projected buyouts and whether those changing management teams or bringing in new resources to help those companies or going in and doing some really refinancing or capitallizing our businesses to get through a poor economy. It's a variety of things we utilize and we spend full time focusing on that portfolio, protecting us as well. 
+
+ JOHNATHAN ADAMS: Thank you. 
+
+ WILLIAM HARRISON, JR.: We'll take one more question. 
+
+ OPERATOR: Thank you. Our next question is coming from Steve Iceman. 
+
+ STEVE ICEMAN, CHILTON INVESTMENT COMPANY: Hi, thank you. Two questions. Could you tell us the size of your manufactured housing portfolio as of today and what the credit trends are like there? And could you -- I might have missed this part of the call, what is the size currently of the Brazil portfolio and what's happened in the last three months? 
+
+ DINA DUBLON: Why doesn't we start with Brazil and we'll come back to manufactured housing. Brazil's total exposure is about $2 billion. The size of the loan portfolio is about $550 million. The exposure, as you know, significantly lower than what it used to be, but generally has the stable over the last three months or so. You asked about manufactured housing, and let's see if we can give you a number. Don Wilson is here as well. 
+
+ DONALD LAYTON, HEAD OF RETAIL & MIDDLE MARKET FINANCIAL SERVICES, J.P. MORGAN CHASE & CO.: I hate to say this, it's so small it's mixed in with other categories on my cheat sheet. 
+
+ STEVE ICEMAN: Last time I heard, it was only $4 billion to $5 billion. 
+
+ DAVE COULTER: I'll do this from memory, this is Dave Coulter, I think it's more in the range of two to three. We have actually been running it down. We have not seen -- the only place where you've really seen hits is because of the -- some of the problems in that market, when they go to the secondary sales, people have been realizing lower values, but we had a very explicit strategy last year to reduce our exposure to that market. 
+
+ STEVE ICEMAN: Okay, thank you. 
+
+ DAVE COULTER: Okay, Bill, you want to make some concluding comments? 
+
+ WILLIAM HARRISON, JR.: Yeah, let me just make a couple comments. One of the things that has been very disappointing to me from the third quarter results relates to, of course, our credit charges in the commercial loan area, and some of you heard me say this before, but I'm going to say it again, because it would look like to most people, certainly a lot of people who don't spend their lives looking at this stuff, that we have learned nothing as an organization on managing credit cycles, particularly in the commercial loan area, and the points I want to make is that we -- is that we have learned a lot, but we didn't go far enough, and just let me give you a couple of numbers. If you go back to 1985, on a pro forma basis, look at the banks, we had about $170 billion of commercial loans outstanding. Today, we have roughly $97 billion outstanding. During that time, our capital has more than quadrupled, all right? You go back to the -- to the '80s, you'd have seen in our wholesale platform about 60%, 65%, 70% of total revenues coming from NI. In the loan business. Today, it's 10%. The point is some number of years ago, we all knew that the loan business was not the business you wanted to be in as one of your primary assets, but we do believe it's part of an integrative financial delivery model if managed well. We have substantially reduced the exposure by design, by a vision we have for the business, but what we didn't do is we didn't go far enough, and particularly in the concentration area. You go back ten years ago to the last economic downturn, we had big concentrations, two, three, four over 20%, such as real estate at probably 33% of loans outstanding. Today, that number is 3%. Aside from financial institutions today, that Marc commented on earlier, our biggest concentration a year ago was TNT, and it was about 7%, and about 75% of that was investment grade. In hindsight, it wasn't enough. We didn't go far enough there, an that's what we have been doing for the last two, three quarters in trying to take these down even further from a concentration perspective. So, again, I just -- you've heard me say that before, I do want to state it again, because we have learned but we need to go further, and that's what we're working on. And just in terms of just a summary comment here, as we close, our focus is on producing results going forward, and realizing the value of this business franchise we've put together. We're doing this to adjusting our expense base, to reflect the economic environment we're in. We'll continue to do that in a very active way. We're taking actions to deal with these challenges, many of what we talked about today. We'll continue to stay all over the risk areas, and we're working hard to keep our people focused on the business and creating revenues. So, in summary, we're unhappy with our financial results and take full responsibility for them. We're going to continue to take actions, and most importantly, we believe in the business model and the diversity of the business model that we've put together and the inherent value that this firm can and should be able to deliver in the future. So thanks for being with us. 
+
+ OPERATOR: Thank you, ladies and gentlemen, for your participation. This does conclude this morning's call. You may disconnect your lines at this time, and have a wonderful day. 
+
+ [CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+
+ In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+
+ THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. Copyright 2002, CCBN, Inc. All Rights Reserved.] 
+
+ [Copyright: Content copyright 2002 CCBN, Inc. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2002 FDCH e-Media, Inc. (f/k/a Federal Document Clearing House, Inc.) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon CCBN's or FDCH e-Media's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from CCBN and FDCH e-Media so long as they provide conspicuous attribution to CCBN and FDCH e-Media as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.] 
+
+Document fndw000020021024dyag0039a
+

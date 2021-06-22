@@ -1,0 +1,435 @@
+9,475 words
+22 October 2003
+FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+(c) Copyright 2003 CCBN and FDCH e-Media.   
+
+OPERATOR: Good morning, ladies and gentlemen, and welcome to the JP Morgan Chase third-quarter earnings conference call. Your host for today will be Dina Dublon, Chief Financial Officer of JP Morgan Chase.   
+
+Today's conference call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current beliefs and expectations of JP Morgan Chase's management and are subject to significant risks and uncertainties. Actual results could differ materially from those set forth in the forward-looking statements. Such risks and uncertainties are described in the quarterly and annual report of JP Morgan Chase & Co. filed with and available at the Securities and Exchange Commission Internet site,   http://www.SEC.gov  to which reference is hereby made.   
+
+(OPERATOR INSTRUCTIONS).   
+
+It is now my pleasure to turn the floor over to Dina Dublon. Ma'am, you may begin.   
+
+DINA DUBLON, CFO, JP MORGAN CHASE: Thank you very much. Good morning. I am Dina Dublon. Welcome to our third-quarter investor call. I would like to welcome here to the call. I have my colleagues, senior members of senior management, David Coulter is here with us, Don Layton, Don Wilson, our Chief Risk Officer, and Don McCree and others of senior management available to answer your questions.   
+
+I am really pleased. For the third time in a row this year, we have good news. Results for the quarter and year-to-date were up significantly from last year, and I want to talk about three important dimensions for which we show improvement.   
+
+We have lowered the risk in both commercial credit and private equity. We had a strong earnings rebound much beyond the commercial credit improvement, and the third as we continue to have gains in market share across the Investment Bank, many of our operating services or deposits in the retail bank.   
+
+We have upside potential from the impact of the continuing recovery on many of the other engines of the business, including corporate finance, custody and resale businesses, and we still have the recovery of JP Morgan's partners with (inaudible).   
+
+And moving to slide two. Earnings of $1.6 billion in the quarter were up 400 percent from the weak third-quarter last year. Year-to-date earnings were up 80 percent. Relative to last year, results were driven by a strong revenue rebound, 13 percent for the quarter and 15 (ph) percent year-to-date, a much, much lower commercial credit cost.   
+
+Expenses were up at a lower pace than revenue. Compared to second-quarter, earnings were down 11 percent, driven by declining revenue but continuing improvement in credit. Earnings per share were 78 cents for the quarter, $2.35 year-to-date. Return on equity for both the quarter and the nine months was 15 (ph) percent compared to 8 percent last year.   
+
+Moving to slide three, we made significant progress this year, lowering risk in commercial credit and private equity. Commercial credit risk capital in the Investment Bank is down over 30 percent since the beginning of the year. We are actively managing the portfolio. We sold higher risk loans and commitments and put on new single named credit (inaudible) swap hedges in total for $11 billion in exposure. We continue to review single named concentration measured by capital interests or the number of names over threshold.   
+
+Loan sale, reduced marketing and increased refinancings in the public market drove the decline in commercial loan. On a comparable basis, commercial loans are down $20 billion from September last year and $14 billion, or 15 percent, in September. This is part of the long-term trend accelerated by the weak loan demand. We may see some rise in loans when demand picks up.   
+
+Same quarter (inaudible), which we adopted this quarter, adds about $11 billion to the commercial loan balance for GAAP purposes. Most of this is fully collateralized commercial paper conduit, which we expect to restructure and deconsolidate in the fourth quarter.   
+
+The private equity portfolio continues to come down at $7.8 billion at September 30. It is more diversified across industry sectors in this geography with a higher percentage invested in more mature leveraged buyouts and lower percentage indenture investments.   
+
+On slide four, the non-performing asset trend on the left shows the peak of the cycle in the third quarter last year of $5.5 billion in non-performing, nearly 50 percent higher than where we are now. The improvement is all in the commercial portfolio.   
+
+Not on the slide, the pipeline into non-performing assets, criticized exposure rated CCC or lower show the same trend -- a peak in the third-quarter last year and now quite a bit below 2001 levels. We expect the declining trend to continue, though at a slower pace.   
+
+On the right, we show total managed net charge-offs of $1.1 billion comparable to the second-quarter. Commercial charge-offs were $260 million and are still at the high-level, generally, though, for loans previously reserved for.   
+
+We reduced the allowance for credit losses by almost $400 million this quarter to $5.1 billion, resulting in total credit cost of under $700 million. Consumer credit costs were about equal to charge-offs. Commercial credit costs were negative $140 million. In other words, a benefit to the bottom line.   
+
+Problem credit has been sold or restructured, and risk rating has migrated (inaudible)-- requiring -- I emphasize -- requiring a lower allowance. The residual components of the allowance (inaudible)-- is our policy maximum of 20 percent of the total. Continuing improvements in credit quality will result in a further reduction to the commercial and the residual reserve balances, and the provisions made, therefore, remain negative.   
+
+I go to slide five. The Investment Bank earnings of $920 million for the quarter or 15 percent off a strong second-quarter, but up from a loss of the third quarter last year. Return on equity was 19 percent.   
+
+Revenues of 3.2 billion were down about $1 billion from the second-quarter and up about $700 million from the third quarter last year. For the quarter and year-to-date, we had positive operating leverage with expenses up at about half the pace -- I want to emphasize half the pace of the revenue rebound.   
+
+Trading revenues drove the (inaudible). Investment banking fees contributing to the lean quarter decline. I will come back to both.   
+
+Global treasury financial revenues of $370 million were down 40 percent from both comparable quarters as security gains were passing (inaudible). Year-to-date global treasury's financial revenues were up almost 30 percent with realized security gains exceeding $1 billion as we repositioned in advance of the rising rates. The investment portfolio is smaller and so is the contribution from net interest income.   
+
+Total return revenues were higher and up from prior periods. Total returns mark-to-market -- I put that in quotes -- both the investment security portfolio and the offsetting positions of the other side of the balance sheet.   
+
+For example, the value of deposits increased this quarter as the value of securities declined. Total return is a better measure of the economics for interest rate risk management.   
+
+Year-to-date performance for the Investment Bank was strong. Revenues were up 24 percent with expenses up 14 percent and credit costs down significantly. Earnings of $3 billion almost threefold the nine-month period last year.   
+
+Year-to-date return on equity was 20 percent. We have positioned well for risk in the first half of the year. The declines from the second-quarter still (inaudible) steeper. On a year-to-date basis, we had both strong revenue growth as well as improving credit.   
+
+And on slide six, trading revenue. Trading revenue. Trading revenue for the quarter was $1.3 billion within our normal range of $1.2 to $1.6 billion (ph). It is down 40 percent from second-quarter and more than threefold the third-quarter last year.   
+
+Client revenues were up in record in what is normally a seasonally very slow quarter for us. They had averaged $950 million per quarter since the merger. The third-quarter this year was well above the average. They are steady and a growing revenue stream. The 11 quarter trendline growth is in the high-teens.   
+
+Non-client portfolio management or risk-taking revenues were positive but well below the average, primarily due to positions taken in rate markets in Europe and Asia that performed poorly. They had averaged $500 million over the period and are more volatile. Average trading VAR for the quarter was almost $70 million, up from the second quarter with increased market volatility but down from the year ago quarter.   
+
+And on slide seven, investment banking fees were $640 million, down almost 20 percent from the second quarter and up 20 percent from the third quarter last year. They are flat on a year-to-date basis, which is better performance than most.   
+
+Debt underwriting fees of $300 million drove the decline from the second quarter in line with the decline and loans indication market volumes to a lesser extent public debt underwriting.   
+
+Equity underwriting and advisory fees drove the increase from last year. On a year-to-date basis, we gained market share in both. The arrow in the lead table chart indicates ranking changes from full year '02.   
+
+Highlights of some of them are key deals, we advised Emerson, when it recently announced $10 billion sales to GE, the largest Trans Atlantic deal this year. We served as financial adviser and lead arrangers to Ripplewood's 260 billion Yen acquisition financing on Japan Telecom, the largest ODO ever in Japan and in Asia.   
+
+We were (inaudible) coordinator and joint bookrunner (ph) of 1.3 billion euros of (inaudible). We have some pickup in equity underwriting. We are cautious. The advisory and underwriting pipeline is down from June, though generally not less reliable as an indicator. Overall the tone of conversation with clients is better.   
+
+Moving to slide eight. Chase Financial Services earnings of $460 million were down to about half the level of prior quarters. While we are disappointed with the results, the return on equity of 20 percent shows this trend of the core franchise. Year-to-date revenues and earnings were up. The business is having a very good year even when compared to the strong results in 2002. Year-to-date ROE is 31 percent.   
+
+Both the decline this quarter and the year-to-date increase were dominated by home finance. I will come back to that.   
+
+Touching on the other businesses, year-over-year growth of 1 percent in card has slowed, and higher purchase volumes were offset by lower cash advances and balanced transfers, partially due to the more mortgage boom. Cash revenues combined with higher credit costs led to lower income, down 11 percent, though up 19 percent from the second quarter.   
+
+Auto had very strong originations and a 30 percent increase in revenue from last year. Deposits are up 18 percent from a year ago, and our market share trend were positive. Total expenses at Chase Financial Services were driven by higher mortgage production volume. Overall credit quality is stable with card charge-offs down from the second quarter and up from the third quarter last year.   
+
+On slide nine, revenues in our mortgage business of $660 million were down from both prior periods. Year-to-date revenues of over $3 billion were a record, up almost 40 percent from last year. We split total revenues into operating revenues and revenues associated with hedging of servicing rights. This includes the amortization and total re-evaluation of MSRs (ph) and all related hedges, whether in trading income or fair value or in the securities portfolio.   
+
+In the quarter, we had a small net loss of $6 million MSR management, not bad performance, but about $250 million less than prior quarters. Year-to-date $300 million is still higher than the prior year. All other operating revenues were down $40 million or 6 percent from last year.   
+
+We had a significant increase in net interest income associated with higher warehouse loan balances which was offset by under-performance in hedging the pipeline in warehouse and allowing customers rate losses extensions in a rising rate environment did cost us money.   
+
+Relative to the second quarter, the large revenue drop captured a swing from gains in pipeline hedges to a loss. Originations in the quarter were a record $93 billion, more than 2.5 times last year. Application volumes have declined 40 percent to $60 billion this quarter, the same level as the third quarter of last year. Declining applications have increased by competition.   
+
+We are, again, not counting on outside gains from mortgage service hedging, but we are also not predicting a repeat of the pipeline hedging performance we had this quarter.   
+
+And on slide 10, we had good results in our other businesses. Treasury and Security Services earnings of $160 million were up 25 percent over the second quarter and down from last year. Most of the decline from last year is related to a gain on the sale of Fidel last year.   
+
+Like in prior quarters, growth in treasury services and institutional trust offset weakness in Investor Services, our custody business. For Investor Services, revenues and earnings were up on a late quarter basis. Return on equity for the business was 24 percent for the quarter and 20 percent year-to-date.   
+
+Investment management and Private Banking earnings were $85 million, up about 25 percent from both prior periods. We had year-over-year revenue growth for the first time since the merger. Net inflows in the quarter were at the highest level in almost two years driven by retail and Private Banking.   
+
+The pretax margin improved to 18 percent from 15 percent in both comparable quarters. Assets under management of about $530 million (ph) were up from the second quarter this year and for the third quarter last year.   
+
+On slide 11. JP Morgan Partners had private equity gains over $120 million this quarter. The direct portfolio had gains of $160 million, positive for the second quarter in a row. Write-downs in the private portfolio were offset by write-ups related to weak capitalization at levels higher than our book value.   
+
+The third-party funds portfolio had a loss of $40 million associated with our continuing divestitures. Year-to-date we have reduced the portfolio by almost 25 percent to $1.4 billion. About $200 million in contracted sales remained on the books until the closing in the fourth quarter. We will continue to look for opportunities to sell.   
+
+JP Morgan Partners had a $10 million bottom line this quarter, marking its first earnings since the merger, and I am taking a moment to appreciate this.   
+
+The business may be turning. Realizations are still low, but write-downs are slowing. We won't see consistently positive earnings until sales activity picks up. The M&A environment is still slow.   
+
+And on slide 12, so how does it all add up? Nine-month earnings per share of $2.35 is up 80 percent versus last year's operating EPS. Return to shareholders was almost 50 percent through September 30. The question is, what is the potential growth from here? We took advantage in the first half of the year of the unusual market opportunities in fixed-income and in mortgage, but strong results can mask the underlying growth in many of our businesses in 2004.   
+
+The third quarter does not include these above trend gains, nor does it include the high real estate and litigation costs we had earlier this year, though it does have its own of the abnormal pieces like negative commercial credit cost, which we expect to continue in the near-term.   
+
+The $2.35 we earned in the first nine months annualizes to about $3.10. For 2004, we expect to see a different mix of earnings that will count on a higher level of earnings only when we have greater confidence in this trend of the economic recovery. We have upside in investment banking fees and equity underwriting. Investment management and custody are turning or have actually turned. JP Morgan Partners has (inaudible) -- more room to grow. We have stable growth in retail businesses. We do understand that re-evaluation of the stock will take consistent execution over a longer time span.   
+
+So in summary, we have come a long way this year. We are seeing improvement in performance and the significantly lower risk profile. We are delivering value to our clients, tapping into the experience and innovation across the firm. The franchise is stronger than a year ago. It has higher market shares across most of our businesses from advisory and equity to deposits and cash management or trust services. We need consistent execution. We are very focused on how well we will sustain our performance in a challenging economic environment.   
+
+So thank you, and I would like to open it up for questions.   
+
+OPERATOR: (OPERATOR INSTRUCTIONS). Your first question is coming from Mike Mayo of Prudential. Please go ahead with your question.   
+
+MIKE MAYO, ANALYST, PRUDENTIAL SECURITIES INC.: Hi, it's Prudential Equity Group. Can you elaborate more on the trading results? It looks like they are down, and I am guessing due to less proprietary trading. How much was proprietary trading this quarter? More generally, I think it is the first time you disclosed a slide that shows proprietary trading as 34 percent of total trading. That seems perhaps double the brokerage peer group average. Can you elaborate on the risk you take there and what happened this quarter?   
+
+DINA DUBLON: I am going to pass on the question to David Coulter, who will comment on your numbers and overall (inaudible) revenue.   
+
+DAVID COULTER, VP, IMPB, INVESTMENT BANK, JP MORGAN CHASE: For ease of discussion, I will talk about the trading and trading NII line of the income statement. We also like to talk about total return revenues because that does pick up the largest -- that does give us a more complete picture of our trading overall because it includes treasury and asset and some of the commission revenue.   
+
+In terms of trading and trading NII, it does not look like it was down; it was down from the second quarter of last year of slightly over -- or second quarter of this year -- slightly over $2 billion dollars down to about 1.3.   
+
+I think the first perspective is the second quarter of this year as was the first quarter were extraordinarily strong, and we were able to take advantage of that. The proprietary opportunities in the third quarter were tougher, and frankly we did not take advantage of them. But it was a period of very volatile interest rates, and I think the business as we also controlled risk during that period of time.   
+
+I think the important point we are making and why we are breaking apart client versus non-client revenues is that underlying our very large trading business is an extraordinary client base of investors that in as long as markets could rise or fall, but as long as there is volatility, provide a very solid base of earnings to us.   
+
+Client revenue was practically all of our trading revenue in the third quarter of the year. We provided some data on the 11 quarter average, which is probably the better way to look at it. 950 in terms of client revenue over the last 11 quarters and 500 of proprietary revenue. I am not quite sure the numbers you are referring to on client versus non-client. Overall, when you look at the overall Investment Bank for the year-to-date numbers for us are about 1/3 non-client and 2/3 client for revenue.   
+
+DINA DUBLON: That does include obviously the treasury practice which is hedging overall the corporation.   
+
+DAVID COULTER: We do have a couple of other people who might like to make a comment about trading revenues and fixed-income.   
+
+MIKE MAYO: The 1/3 of proprietary trading revenues, are you comfortable with that as a range, or would you want that to be less in time?   
+
+DAVID COULTER: Total revenues -- 1/3 nonclient and 2/3 client for us.   
+
+UNIDENTIFIED: We have chosen as the terms for clients and non-clients very (inaudible). Just intensely what we do (inaudible) we trade with clients is to estimate what the client value is at the time of that transaction. We have defined this process over the years and are pretty comfortable with the aggregate value over time.   
+
+Non-client revenue is everything else. Some of that is discrete proprietary risk-taking that either comes out of this great proprietary risk-taking groups and the treasury of proprietary trading or this great proprietary risk taking upon (inaudible) consumer equity public making debt. Some of that, also though, is the gains or losses that we generate above or below what we estimate the client value to be.   
+
+On average, those have been gains, and from the third quarter, those were gains, which suggests to me, and this is certainly part of our strategy, we are (inaudible) risk takers off our market-making platform because of the client value. So the $500 million on average of non-client revenue we generate is to some degree dependent on the client revenue we generate.   
+
+What we referred to in the third quarter was for the discrete risk that we take in many given places of the Investment Bank. We do not generate gains on that discrete. Discrete risk-taking in aggregate is (inaudible) proprietary risk-taking. We did continue to retain all the client value as we estimated at the time of entering into the transaction and a little bit more. So we consider the performance to be okay, but we clearly failed to capitalize on the volatility in the third quarter in terms of our discrete risk taking.   
+
+DAVID COULTER: In terms of your direct question, are we comfortable with the mix of a 1/3, 2/3. The answer is yes, although we are also doing everything to continue to build our investor base of non-client revenue. That has been as Dina has described as client revenue -- that has been on a very nice upward track with very low volatility since the merger.   
+
+MIKE MAYO: All right, thank you.   
+
+OPERATOR: Thank you. Our next question is coming from Robert Albertson, Sandler O'Neill. Please go ahead with your question   
+
+DINA DUBLON: Hi Robert   
+
+OPERATOR: Your next question is coming from Glenn Shaw of UBS. Please go ahead with your question   
+
+GLENN SHAW, ANALYST, UBS WARBURG: Thanks very much. I guess more on the capital front. Obviously offsetting items on both sides of (inaudible) quarter, the 15 percent ROE, is that more a representative number going forward? More importantly, capital ratios I think are building nicely the last couple of quarters. Tier 1 is better. Is there a specific target you had in mind? With theoretically fixed-income being less of a capital trend on a go forward basis, where does that capital start to get allocated because that other bucket starts to grow probably?   
+
+DINA DUBLON: We feel very good about the build out in capital ratios. You know, we will be considering what the right options for us are. As I indicated earlier, when we go into 2004 and continue to build on the sustainability in earnings that we have had this past year. There was one more point you made, Glen, about the 15% ROE.   
+
+GLENN SHAW: Right.   
+
+DINA DUBLON: What I would say about the 15 percent ROE is that itis difficult for us to be producing at meaningfully higher levels than that until we see a recovery in J.P. Morgan Partners, so J.P. Morgan Partners was break-even this year but is not yet producing a return on the equity investing, you know, excluding J.P. Morgan Partners, the return for the corporation is closer to 18%. So, 18 -19%.   
+
+So 15% represents good results for the firm across the board when you look at the returns for each of the businesses, whether it's the investment bank, year-to-date at 20%, whether it's the retail bank, it's all the other businesses.   
+
+GLENN SHAW: OK. Fair enough. Following on Mike's question on the trading line, just to be clear, first and second quarter represented great opportunities to deploy firm capital, and were there just less opportunities in the third quarter, or were there some adverse actions? What I'm really just trying to get at is for the investment bank as a whole, even if you normalize credit to whatever you want to pick as normal, the ROE is somewhere in the range of 16-is percent, which is pretty good Are you comfortable with the trading number as a more normalized number?   
+
+DAVID COULTER: Glen, this is Dave Coulter again. I guess we have given some guidance that we think trading and trading NII lines for us will range somewhere between $1.2 billion and $1.6 billion per quarter. The first half of the year as you point out had volatility but clear trends, and that was a wonderful environment to take advantage of. We are at the lower end of that range in the third quarter of this year. There was plenty of volatility in the third. It was less clear where that volatility was heading, and we did not take advantage of that. I think in terms of what we expect going forward is why I continue to point to the client line.   
+
+I think the client flow we have in a market whether it's going up or down that has volatility to it puts us right around the bottom of that trading range, and I think we will have opportunities to continue to take advantage of in a -- basis. So I don't think it will be as favorable as the first half, but I still think there will be good opportunities for us.   
+
+GLENN SHAW: And the last question, the comp ratio at the investment bank following with the drop, is that a true-up for the year, is that a function of revenue mix base basically?   
+
+DINA DUBLON: Look at the comp to revenue ratio really on a full-year basis, I think we shouldn't get hung up on a particular quarter.   
+
+GLENN SHAW: OK. Fair enough. Thanks.   
+
+DINA DUBLON: Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Aaron Kadell of Blaylock & Partners. Please go ahead with your question.   
+
+AARON KADELL, ANALYST, BLAYLOCK & PARTNERS: Hello. Good morning. I was wondering if you could provide a little more color on asset management in private banking as well as treasury and security services which had pretty good results and specifically on the margin outlook for treasury and security services. Thanks.   
+
+DAVID COULTER: I'll start off with investment management in private banking. We do feel good about the results there. We feel like we're on the right leg of a V-shaped curve as markets have turned, as you've seen the results of a very good focus on expense control in that business. We saw pre-tax margins grow to 18% in the third quarter. As Dina pointed out, assets under management are up about 3% from the second quarter of the year. Importantly, assets under supervision are also up to over $700 billion.   
+
+Besides, the market improving the results in the third quarter, we had net new actual flows in assets under management in the third quarter. So we've said in the past that our target for this business in terms of pre-tax margin is 25% to 30%. We are moving in the right direction. I don't want to tell you, it's going to be an absolute straight line, but I think we're seeing pretty good dynamics in that business.   
+
+DINA DUBLON: We are looking to continue to improve in the fourth quarter.   
+
+DON LAYTON, CHASE FINANCIAL SERVICES, JP MORGAN CHASE: Yes, this is Don Layton. TSS had a good recovery quarter after a few tough quarters behind it, with earnings up nicely in and the ROE up to 24%. I don't regard this as an above trend quarter. I regard this as a returning towards normal level of earnings of this business. Primarily, Investor Services, IE, custody business has been depressed for some time between depressed market values which affects their revenues and the low level of interest rates which also affect their revenues.   
+
+The whole business is undergoing a lot of productivity efforts and efforts at expansion in terms of revenue, and it's starting to pay off, as well as some of the market values returning, although I should note net interest income is still down because interest rates are still down, so there is up side when interest rates come up. Underlying it all, though, the other two businesses are quite strong, and I will mention the already announced acquisition of the corporate trust business of Bank One, which is expected to close during the fourth quarter, and that will be another help for revenue growth for next year.   
+
+AARON KADELL: As well as expense reductions? Do you have any sense of that right now?   
+
+DON LAYTON: Well, the corporate trust versus bank, has drawn in clearly as a transaction as an overlap type transaction and the premium we were willing to pay them above the net asset value is obviously related heavily to expense overlaps, so the answer is, if you add the two up, the expenses we'll have will be considerably less than the two together, yes.   
+
+AARON KADELL: OK. Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Brock Vandervliet of Lehman Brothers. Please go ahead with your question.   
+
+BROCK VANDERVLIET, ANALYST, LEHMAN BROTHERS: Thanks. Just digging into CFS a bit, could you talk about your variable expense ratio or some way of getting at the expenses? Clearly expenses did not step down this quarter. I understand the hedging loss, but what's on target to attempt to reduce expenses given the presumed decline on the top line?   
+
+BILL WINTERS, INVESTMENT BANK, JP MORGAN CHASE: Well, unfortunately it is very hard to have a simple economic model when it's five very different businesses. Let me attempt to just provide some guidance here. First of all -   
+
+BROCK VANDERVLIET: You could actually just limit it to home finance. That would be fine.   
+
+BILL WINTERS: OK. Home finance by itself has a lot of complexity, though. Fundamentally, you have to take the risk-taking revenues or the risk-related revenues and market risk. That would be the servicing hedging results, and certainly in very volatile markets, the pipeline warehouse hedging results. They will bounce around, and so just like other areas, if it's a very good quarter, your overhead ratio will look wonderfully low, and if they have a bad quarter, it will look high. Unlike the investment bank, you can't just change the comp to dramatically offset down the expense side, so you're going to have to neutralize for that.   
+
+Remind me on that, you should look for these things to broadly be in line going up and down, but there are significant lags because revenue is not directly related in a single month or quarter to the expense associated with production and getting things through the pipeline as revenue acquisition occurred at certain time, so you can have a lag. That is what you will have this past quarter where production in what we have been closings are very high, and have expenses, but not all the revenue comes in at the closing date. When you get back to more equilibrium, you'd have-- I'd say you have more of a typical model of a fixed overhead ratio.   
+
+DINA DUBLON: I think overall, the underlying message here is as originations come down, expenses will come down and we are already managing the expenses down and have taken action with respect to a lower level of applications that we have seen in the quarter going into the fourth quarter.   
+
+BILL WINTERS: We are shrinking actual cash expenses. I do note that FASB 90 or 91 -   
+
+DINA DUBLON: Don't go there.   
+
+BILL WINTERS: Does require some capitalization accrual of these things, so there is a lag involved.   
+
+BROCK VANDERVLIET: Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Ruchi Madan of Smith Barney. Please go ahead with your question.   
+
+RUCHI MADAN, ANALYST, SALOMON SMITH BARNEY: Hello. A couple of follow-ups. First on the proprietary trading comments, I just wanted to ask, on the non-client revenues of $500 million in the past 11 quarters, how much would you say is the discrete proprietary risk-taking versus just a benefit that you get from the flow?   
+
+DON LAYTON: I don't want to evade the question, but the continuum between risks that we take related to a client transaction versus risk that we take on the back of the general information -- that we're in, and then into proprietary trading that's somewhat remote, it is a continuum, and trying to break that $500 million down into the sub places, we could take a guess, but frankly it wouldn't be particularly helpful overall. So I wouldn't hazard a number to throw out.   
+
+RUCHI MADAN: Is it typically less than half?   
+
+DON LAYTON: In the third quarter of this year, yes.   
+
+RUCHI MADAN: No, not the third quarter. The past 11 quarters. No, I would say typically the preponderance of what we call trading revenue is either directly or indirectly related to our client.   
+
+DINA DUBLON: Less than half, I think, is a good way to look at it.   
+
+RUCHI MADAN: OK. Then totally separate follow-up, in the Investment Management unit, you mentioned a few times that you've had positive flows. Can you be more specific about how much?   
+
+DON LAYTON: Hang on.   
+
+DINA DUBLON: Mid flow number is about $3 billion. It's primarily in retail and Private Banking.   
+
+DON LAYTON: Right.   
+
+RUCHI MADAN: And this that was this quarter, not year-to-date, right?   
+
+DINA DUBLON: No, that's this quarter.   
+
+DON LAYTON: At this quarter.   
+
+RUCHI MADAN: OK. Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Henry McVey of Morgan Stanley. Please go ahead with your question.   
+
+HENRY MCVEY, ANALYST, MORGAN STANLEY: Good morning. Just two questions for Dina. One is, you made a comment about, on the mortgage pipeline, that you didn't think you'd have the hedging problems again. Is that outlook on interest rates or did you change your policy? And then second, you talked about it looks like the residual is about 20%, which is I think at the high end. When were you giving the outlook on commercial credit, is this quarter, is this indicative of where we're going, or could it be better from these levels in terms of reserve releases?   
+
+DINA DUBLON: Let's go first to Don.   
+
+DON LAYTON: The thing that is transitory was the very large market disruption during the middle of the third quarter. That was a one-time event, very large both in terms of rate moves and in terms of spread. Please note we use fair value accounting for that kind of hedging, so it's a, basically a mark to market. While I will be having some examination done to make sure our hedging works well, on a year-to-date basis, the over performance outweighs the under performance, so it's not a big problem, although this is obviously a problem in the third quarter.   
+
+HENRY MCVEY: Right. I was just trying to figure, did you guys change anything or -- it says -- on the rate lock extension policy?   
+
+DON LAYTON: No, no, no.   
+
+HENRY MCVEY: OK.   
+
+DINA DUBLON: So, it's really a business -- with respect to your question on the reserves, just very briefly, really I'll repeat what I had tried to say earlier which is, with continuing improvement in commercial credit, we should continue to see negative provisions for commercial credit, and we'll need to be reversing the residual reserve because it's already at the policy maximum of 20%, so again, we have a, policy that keeps the residual reserve between 10% and 20% of the total reserve. And as we continue to reduce the allocated piece of the reserves, we will need to be reducing the unallocated piece as well.   
+
+HENRY MCVEY: OK. That's what I wanted. Thank you.   
+
+DINA DUBLON: Which we did not do this quarter.   
+
+HENRY MCVEY: Right.   
+
+DINA DUBLON: OK.   
+
+OPERATOR: Thank you. Your next question is coming from Walter Scully (ph) of platinum investments. Please go ahead with your question.   
+
+WALTER SCULLY, ANALYST, PLATINUM INVESTMENTS: I just had a question on actually acquisitions and your management team has talked about potentially doing acquisitions at some point. I just wanted to understand a little bit better why. And is it really that you see opportunities to create value out there more so than you've seen over the past year or few years, or that your goal is really to rebalance the portfolio?   
+
+DINA DUBLON: Let me make a brief comment on that. We are focused on creating value from the businesses we have, so the focus of the management team is totally on managing better on executing on what we have, and producing better returns and better risk, returns over time. We are not blind to opportunities that are out there, and in that sense, we'll be paying attention to any developments. We are not looking to do any large acquisitions.   
+
+If we were to, you know, the context for which one has such conversations is one of re-balancing the portfolio of businesses into a, into something that is less correlated to the rest of our businesses. So that's the context in which one more theoretically discusses the benefit of an acquisition in the firm, yes.   
+
+WALTER SCULLY: As we sit there now, though, would you rather just build capital or buy back some stock at some point just given that the odds of an acquisition creating a value over time seem pretty low. Do you lean one way or the other?   
+
+DINA DUBLON: We are leaning towards managing what we have as best we can, and I think we have shown this past year a total commitment to doing just that, so the leaning of management is on creating value with what we have.   
+
+WALTER SCULLY: OK. Thanks.   
+
+OPERATOR: Thank you. Your next question is coming from Andy Collins of U.S. Bancorp. Please go ahead with your question.   
+
+ANDY COLLINS, ANALYST, U.S. BANCORP PIPER JAFFREY: Most of my questions have been answered, but I (inaudible) if you could touch briefly on loan demand, syndicate loans in particular, as well as perhaps if you could touch on consumer and just more broadly middle market, that would be helpful also.   
+
+DINA DUBLON: OK. I'll have David and Don comment on that.   
+
+DAVID COULTER: And first on syndicate loans, loan demand continues to be slow. I think syndicated loans were off 30% quarter versus linked quarter. You know, we're hopeful with the pickup in the economy here. We'll begin to see some further demand, but it is definitely a step by step increase in the economy.   
+
+DON MCCREE, SENIOR CREDIT OFFICER, JP MORGAN CHASE: Let me turn to consumer middle market. Middle market, please remember we have our geographic concentration mainly in the New York area. Secondarily in Texas. These kind of loans definitely reflect the local economy, and the answer is they're not going anywhere. There is no particular strong loan demand, in fact it's slightly weak, which would affect the regional economy, mainly in the New York area.   
+
+In terms of consumer loan demand, if you think hard, the answer is, the industry is having virtually no net loan demand as included, and we are up only 1%, if you adjust for bidding, 2 or 3, and Dina mentioned it, our best understanding is that in the economy, the major source of cash to households coming in from refinancing as we do see a demand for credit card outstanding balances.   
+
+Transactional revenue card is doing fine. If you are talking the mortgage side, the demand is quite strong obviously, and not just the refi boom, but the home equity product industrywide is growing very rapidly as supplement to the cash flow. Again, I think that tends to hurt somewhat the card growth. And the auto business, we're doing great but that's largely a market share gain.   
+
+DAVID COULTER: Andy I stood have made the press release the number I gave you, the 30% link quarter decline was for the market as a whole.   
+
+ANDY COLLINS: OK. And also on syndicate loan as kind of a follow-up on that, do you think that's somewhat tied to M&A, and what do you think the net cause of the reductions are, and will we see a pickup next year if the economy is a little stronger?   
+
+DAVID COULTER: I think it is definitely tied to M&A, and DO activity. You see that activity pick up, you'll see a pick up in acquisition finance. I think it's also tied to the flows we've seen in both the high grade and high yield markets in the first half, and a large number of borrowers taking advantage of those -- to clean up their balance sheet.   
+
+DINA DUBLON: Thanks we have obviously benefited from in our --, so we have seen a reduction --, but we have seen an increase in underwriting fees.   
+
+ANDY COLLINS: OK. Great. Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from John Conti (ph) of Citigroup. Please go ahead with your question.   
+
+JOHN CONTI, ANALYST, CITIGROUP: Yes. I noticed that the corporate loss declined substantially to just about $6 million this quarter, and just wondered what was behind that. Have you reallocated those expenses? And is that loss sustainable going forward?   
+
+DINA DUBLON: Yes, it was -- we had almost no loss in the corporate sector this quarter. We had done earlier this year some further allocation of what has said in undistributed for a period of time. It's the first -- you know, last quarter we had, for example, provisions for the unallocated reserves that go through the corporate sector this quarter which will give further some things which are timing that go through the corporate sector. The number is not yet zero. We will continue to do cleanup. It's somewhat unusually too low. The probable number in terms of residual things at this point is probably running to about the $50 million negative on an ongoing basis.   
+
+JOHN CONTI: OK. Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Nancy Bush of NAB Research. Please go ahead with your question.   
+
+NANCY BUSH, ANALYST, NAB RESEARCH: Hi. Good afternoon. If you could just update us on when you expect to convert the Bank One corporate trust portfolio and what the metrics will be on your total corporate trust operation at that point?   
+
+DINA DUBLON: We'll be closing the transaction just later this quarter, and the transition of the client takes a period of time. The metrics generally speaking is the metrics we use internally, we would be looking at what our expectations (inaudible) in paying a premium, and then seeing whether we are making those expectations or not, it is a very rigorous process post acquisition to be looking back and seeing whether we have or haven't produced what has justified paying of the premium we have talked about the premium generating overall for us very high rates of return in coming up with the price.   
+
+NANCY BUSH: Have you disclosed a number on the rate of return?   
+
+DINA DUBLON: No, we have not disclosed the internal rate of return calculation.   
+
+NANCY BUSH: OK. If you could just -- one of the metrics that I was asking for was just sort of the size of the corporate trust portfolio overall assets under administration at that point?   
+
+DINA DUBLON: I don't have it off the top of my head, but that is the number that we can get back to you through the investor relations area post the call, so please feel free to call. We have disclosed the level of revenues that we are acquiring, and that will obviously be an increment of revenues going into next year.   
+
+NANCY BUSH: Great. Thanks very much.   
+
+DINA DUBLON: Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Henry McVey of Morgan Stanley. Please go ahead with your question.   
+
+HENRY MCVEY: It's answered. It was just about the corporate other. Thanks.   
+
+DINA DUBLON: Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Robert Albertson of Sandler O'Neill. Please go ahead with your question.   
+
+ROBERT ALBERTSON, ANALYST, SANDLER O'NEILL: Good morning.   
+
+DINA DUBLON: Good morning, Robert.   
+
+ROBERT ALBERTSON: The speed bump you had in late July, early August in the bond market obviously was the area, Iguess, in your non-client trading. I'm wondering if during that period, you experienced super low client flow business because they were reacting to it in the sense that actually benefit. I guess what I'm getting at is, are these two segments some what mutely offsetting at times?   
+
+Second question, debt underwriting outlook, you know, we've had a very strong market. Is it important for you, some sense that it may be winding down because the rate attraction has softened? He just wanted to know how comfortable you are with the future of that. And just fairly quickly on home finance, do you think this is the bottom in terms of what you're going to earn quarterly for the next two quarters?   
+
+DINA DUBLON: I'll ask Bill Winters to comment on the first part of your question and probably Don on the second.   
+
+BILL WINTERS: Certainly part of the reason that we had very strong client revenues in trading lines in the third quarter was what we call super normal activity around the intense volatility in the interest-free market. Although that isn't what drove that strong client quarter. I think what drove the strong client quarter was more of the sense that the interest rate cycle had turned in line with the ongoing trend that hasn't broken, which is towards the around tightening credit rate. Keep in mind our risk take something pretty well - and our clients' risk take something - across interest rate currency credit and equity, commodity prices, all of which had volatility, most of which had trends which persisted during that period even as interest rates turned.   
+
+On the debt underwriting side, we've seen decreases year on year for our at least linked quarters for the past 18 months in the high-grade securities markets. That's commercially offset by increases in the --markets -- improving economic environment, and we've seen decreases in syndicated financing as Dave Coulter mentioned earlier.   
+
+Our outlook going forward is for continuations of those trends as interest rates stabilize at this level or increase, there will be ongoing pressure on volumes in the high grade market, but if the economy improves, there will be ongoing underwriting growth in the high yield market, and in certainly in the leveraged portion of the syndicated financing market.   
+
+So on balance, we feel pretty good about the trends for debt underwriting, but the composition clearly shifts as interest rates and the economic environment changes.   
+
+DON LAYTON: One comment Robert, I guess, just to add to that, there's nothing we'd like to see better than the bridge business pickup with zero related financing out there.   
+
+BILL WINTERS: In terms of whether this is the bottom, I guess I know enough to never say something is exactly the bottom since you never know what's going to happen, but I think you can say that our view is the mortgage performance was disappointing, ie, we expect better from it in the next few quarters.   
+
+OPERATOR: Thank you. Your next question is coming from David Stumpf of AG. Edwards.   
+
+DAVID STUMPF, ANALYST, A. G. EDWARDS: Good morning. Just a couple of specific follow-ups to the mortgage area. Number one, can you give us the level of the mortgage warehouse at quarter-end? Number two, the MSR allowance at quarter-end. And then three, did any of the positive mark on the MSR this quarter fall to the bottom line, or was it all offset with hedge losses?   
+
+BILL WINTERS: The last one is easiest to answer. We have Dina's slide on the mortgage company, Chase Home Finance showed the -- I guess I'm looking at page 9, MSR hedging, that is -- in your words, that was the increase in value of the servicing offset by the hedging items as accounted. The answer is, it was totally offset.   
+
+DAVID STUMPF: OK.   
+
+DINA DUBLON: Your first question was about the level of warehouse. I think it's about $20-odd billion.   
+
+DON LAYTON: $22 billion at the end of the quarter.   
+
+DAVID STUMPF: OK. And then the MSR allowance?   
+
+DINA DUBLON: I don't know the number off the top of my head. Do you have the number here?   
+
+DON LAYTON: $1.4 billion.   
+
+DAVID STUMPF: OK. All right. And then just a quick follow follow-up to the questions on corporate other. Obviously this quarter were great performance and much better than the run rate of the last few quarters. Dina, did I understand you to say that one of the big swing factors there was the provision for the unallocated reserves, that runs through that line item?   
+
+DINA DUBLON: Generally the provision for unallocated reserves is not allocated to the line to business, so it stays in undistributed.   
+
+DAVID STUMPF: OK. And so that's one of the big swing factors there in the improvement?   
+
+DINA DUBLON: That is one of the swing factors when you look at the second to third quarter, comments I made earlier about reductions in the unallocated reserves to the extent of continuing improvement in the commercial portfolio means that the undistributed sector will have a positive running through it, going forward, which is somewhat unusual. I wouldn't count on it for a long period of time, but we do expect it for the near future.   
+
+DAVID STUMPF: OK. That's very helpful. Thank you.   
+
+OPERATOR: Thank you. Your next question is coming from Mark Paterson of NWQ Investment Management. Please go ahead with your question.   
+
+MARK PATERSON, ANALYST, NWQ INVESTMENT MANAGEMENT: Yes, I wanted to clarify a response to an earlier question related to capital. On your sheets, you show your capital in excess of required capital of about $7.3 billion. It's larger than it's been in quite a while. The risk-based capital looks stronger. And with your comments about loan demand and the commercial side still being weak and I guess certain residential activity set to slow, it seems that excess capital pace will pick up from here.   
+
+You guys, dividend payment is already pretty healthy pay out ratio wise, and you spoke about no large acquisition. Why is it that you wouldn't be resume ago buyback at this time?   
+
+DINA DUBLON: We would be considering the resumption of the buyback in the context of 04 earnings. We have been saying throughout the year that we wanted to build up our capital provision against a backdrop of the weaker economic environment. That's what we have been doing, and I, the overall trend in the firm are trends of delivering risk, whether it's in the commercial credit portfolio or whether it's in the private equity portfolio, we are levering the firm from the concentration that we had to date, and that provides a further support for us considering repurchase activity.   
+
+We do have in the fourth quarter an acquisition that is closing with the premium of about $700 million. So that is absolutely something we will be considering in the near future.   
+
+MARK PATERSON: OK. One other follow-up on the employee count that went up for the first time in a long time as well, just slightly in the investment bank, down in a couple of the other businesses, but what's your outlook for the employee count going forward?   
+
+DINA DUBLON: We are not looking for really any substantive increases for reduction in most of the investment bank whole sale areas. I mean, on the margin, we are making strategic hires, but we are not looking for an increase in the work force. In retail, we have kind of trends in different businesses. We will be looking for some reduction in the mortgage side, as Don as talked about, and otherwise in the other businesses, we are not contracting.   
+
+So I think to have different parts of the firm going through somewhat different trends. Treasury and security services is generally on the margin going up. Obviously with the acquisition and continued growth in the business. I would like at this point to wrap up the call.   
+
+Thank you all for joining in. I appreciate your interest. I would like, again, to restate the summary for the quarter and year-to-date, which is we have come a long way. We are delivering value to our client both through experience and innovation across the franchise, and we are very focused on consistent execution. Thank you very much.   
+
+OPERATOR: Thank you. This does conclude today's teleconference. You may disconnect your lines at this time, and have a nice day.   
+
+[CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.   
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.   
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. Copyright 2003, CCBN, Inc. All Rights Reserved.]   
+
+[Copyright: Content copyright 2003 CCBN, Inc. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2003 FDCH e-Media, Inc. (f/k/a Federal Document Clearing House, Inc.) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon CCBN's or FDCH e-Media's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from CCBN and FDCH e-Media so long as they provide conspicuous attribution to CCBN and FDCH e-Media as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]   
+
+Document FNDW000020031105dzam0013u
+

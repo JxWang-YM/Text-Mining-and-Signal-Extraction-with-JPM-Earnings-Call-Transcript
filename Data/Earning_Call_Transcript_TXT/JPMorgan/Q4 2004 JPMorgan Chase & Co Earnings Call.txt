@@ -1,0 +1,381 @@
+11,807 words
+19 January 2005
+FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+©oxant Inc. All rights reserved.    
+
+OPERATOR: Thank you for standing by. Good morning, ladies and gentlemen. I'd like to welcome you to the J.P. Morgan Chase fourth quarter 2004 earnings review meeting. Today's meeting may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current beliefs and expectations of J.P. Morgan Chase's management and are subject to significant risks and uncertainties. Actual results could differ materially from those set forth in the forward-looking statements.  
+
+The following factors, among others, could cause actual results to differ from those set forth in the forward-looking statements, the risk that the cost of savings and any other synergies from the merger may not be fully realized or may take longer to realize than expected and the risk that excess capital is not generated in the merger as anticipated are not utilized in an accretive manner. Additional risks and uncertainties are described in our 2003 annual report on Form 10-K and in our quarterly report Form 10-Q for the quarter ended September 30, 2004, each filed with the Securities and Exchange Commission and available at the Securities and Exchange Commission's Internet website, to which reference is hereby made.  
+
+All members of the media will be in a listen-only mode for the duration. If callers from the financial community would like to signal for a question, they can press the star or asterisk key followed by the digit 1 to be placed into our queue. Again, that is star 1 if you would like to pose a question.  
+
+At this time, I'd like to turn the conference over to Mr. Mike Cavanagh. Please go ahead, sir.  
+
+MIKE CAVANAGH, CFO, J.P. MORGAN CHASE & CO: Are we on the phone?  
+
+OPERATOR: Yes. Please go ahead.  
+
+MIKE CAVANAGH: Are we on the phone?  
+
+OPERATOR: Your line is open. Please go ahead.  
+
+MIKE CAVANAGH: Okay. Great. Well, good morning, everybody. It's Mike Cavanagh here in New York. Welcome to the people on the phone and people in the room. I got the disclaimer bringing up here for the folks that are in the room here. Slide 2 now, the agenda. What we're going do here is I'm going to quickly cover fourth quarter results, skipping a lot of the slides that are in here, but they are in here for completeness and I'll be around along with Ann Borowiec and the Investor Relations team after the call to cover any follow-up questions on the quarter.  
+
+Before we get started, I do just want to point out we got a lot of people on the phones from the Company and in the room here, especially a lot of people from finance who have done an unbelievable job killing themselves for the Company over the past couple of months and year to get us ready for today which is to help us explain our results, get ready for explaining what next year looks like, which Jamie's going do in a little bit, and really putting us in a position to really manage this place well. So I wanted to just publicly and sincerely thank everybody for all the hard effort getting us here.  
+
+Moving along now, I'm on slide number 3, the highlights for the quarter, results were mixed. We declined in results in the home finance business, results in the investment bank revenues were up on higher trading results and stronger investment banking fees, all our other businesses had improved earnings over the third quarter and we had strong private equity gains of about 506 million for the quarter. We bought back 600 million in stock in the quarter, leaving us with an estimated Tier 1 ratio of 8.7%.  
+
+Moving along to slide 4, this shows results on a GAAP basis, so remember that fourth quarter of 2003 is on a J.P. Morgan's-only basis. Results for the quarter, $1.7 billion or 46 cents after tax. Non-operating charges totalled $650 million and were after tax and were the same items that we had last quarter. Card decertification, conforming methodologies, both of those items go away after this quarter and also merger costs, which continue and just expect those to be lumpy in quarters throughout the year next year and beyond. As I leave this with operating earnings, 2.3 billion pretax or 64 cents, up from 60 cents last quarter.  
+
+From here, I'm going to shift to pro forma combined results, and just to note -- and I'm going to skip a few slides here -- just to note that we've provided for you -- for all of you and for ourselves, this quarter our supplement, our financial supplement is done on both a GAAP basis and on a pro forma combined basis to make understanding the pro forma comparisons a bit easier.  
+
+So if we skip now to slide 9, the Investment Bank's results, you see earnings of $660 million, were up 5% versus the prior quarter, but down 43% year-over-year. The big story is Investment Banking fees, up to $1.1 billion, which is our best quarter in the past 3 years. Jamie will talk about our maintenance and improvement of our lease table rankings, so I won't touch on that here, but we're very proud of the results there.  
+
+Fixed income markets results, revenues were up $415 million versus the prior quarter on stronger client and portfolio management trading results, while partially offsetting that was equity markets, portfolio management trading results were down. In the quarter, credit portfolio revenues were $348 million, up 128 versus the prior quarter. Much of that was driven based on gains on the sale of securities received in workouts in exchange for debt previously contracted.  
+
+Credit costs in the quarter were a benefit of $173 million, reflecting continued strong credit quality in the Investment Bank and the ratio of loan loss allowance to loans to clients of 3.9% as a result. Expenses for the quarter in the Investment Bank were up substantially, driven by increases in compensation costs, the comp to revenue ratio for the quarter was high at 43%, bringing the full-year ratio to 38% versus 37% from the prior year.  
+
+I'm going to skip slide 10, the aggregation of retail financial services, but you can see all the businesses there and what the earnings results were and move right along to slide 11, which is consumer and small business banking where earnings were up significantly year-over-year to $430 million. Revenues at 2.1 billion were up on higher deposits and wider spreads, continuing the story of adding bankers, adding branches, growing accounts, gaining deposits. We also in the quarter rolled out across the entire footprint, which includes the legacy Chase branches, a branch P&L and sales-based compensation, so know it's consistent practices there across the entire branch system of 2,500 branches.  
+
+Going to the next slide, really a big story in the quarter in home finance, as you see on slide 12. If you look up to the top right box, I'll take you through first a couple of significant items that effected the results of the quarter for the home finance business. First of all, we had a $95 million benefit, of which 86 million was a net release of an allowance for loan losses, which was associated with the sale of our $4 billion manufactured housing loan portfolio in December. Second, we incurred $90 million of losses on the sale of securities used for risk management of the MSR, taken due to repositioning of our hedge. And we also took 52 million of market value adjustments on a portfolio of hybrid ARM mortgages transferred to help for sale in the quarter.  
+
+So after you adjust for these items, you see we've broken down this page into the P&Ls for the 2 major businesses, prime production servicing and consumer and real estate lending, and as a result of excluding those items, or adjusting for them, you see that prime production and servicing earnings were essentially 0 in the quarter, driven by prime production volumes and revenues being down substantially year-over-year, as well as the performance of the MSR net of hedging being negative $97 million in the quarter versus positive 153 in the quarter last quarter due to adjustments in the value of the MSR asset net of its hedges. So that is the result.  
+
+After that, when you look at the MSR net of hedging line and exclude from that 93 -- $90 million of specific losses taken on repositioning the hedge, the net result was $97 million loss on the MSR net of hedging. You see how we're going from the significant item of 90 to the 187 reported, just back out that 90 and you get to 97, which is sort of core performance of the MSR net of its hedge. That's just due to just that, the change in value of the MSR net of its hedges.  
+
+On the same basis, adjusting for the hybrid ARM and manufactured housing sale, consumer real estate earnings were up substantially year-over-year basically due to growth in the retained mortgages, particularly the home equity business. That's it on the home finance side.  
+
+Moving on to card, and where there's remaining businesses, not a big story, so I'm going move through these quickly and we'll take any big questions afterwards, but here card services, profits up 30% year-over-year to 515 million with a return on outstandings of 2.45%. Really driven by average managed outstandings up 5% year-over-year to $132 billion and charge volume up 9% year-over-year to $75 billion. We also had a charge-off ratio of 524 for the quarter, which was better than the prior year, but up from the seasonally exceptionally low level of 488 last quarter, which was driven by lower bankruptcies. And also in card during the quarter, we had a very major card conversion to the TSYS platform of all of the remaining Bank One cards that hadn't already been converted to that platform, which was successful with no hitches, so very proud of that.  
+
+Moving on to slide 14, again a pretty straightforward story of year-over-year, quarter-over-quarter earnings growth in the commercial bank, primarily driven by growth in deposits and improved spread on those deposits.  
+
+Going to slide 15, Treasury & Securities Services, there was a special gain in last year's results, which when you exclude that, the earnings of Treasury & Securities Services were up 36% year-over-year, and again, primarily driven by significant growth, 30% growth in deposits to $150 billion. We also had included in that the growth due to the EFS acquisition in January of this year and then core business volume growth across a slew of products in this business. Expenses of $10 million for the -- $10 million improvement for the quarter versus the third quarter, higher than you might be expecting given the absence of some adjustments to software values last quarter driven by on-boarding of new custody and fund accounting clients and higher legal and technology costs.  
+
+Lastly, on the business side, moving to asset and wealth management, earnings of $263 million were up 30% year-over-year, pretax margin of 31% for the quarter. Assets under supervision and assets under management were up 11% and 7% year-over-year respectively, driving the 10% revenue growth year-over-year to $1.3 billion, which is really the driver of earnings here. During the quarter we also just need to note that we closed the acquisition of our 55% interest in Highbridge, the -- in mid-December, so looking forward, we're going to -- accounted for that on a minority interest basis, so just understand we'll need to adjust your model to reflect the gross-up of revenue and expenses going forward and then the accounting for the minority interest out of our expense base.  
+
+Lastly, corporate. Corporate, we've shown here at the bottom, the breakout of earnings into 3 major buckets. We're trying to improve our disclosure and ability to explain what's going on in corporate into private equity, treasury and other corporate. Jamie's going spend a little bit of time talking about the numbers on that basis. And up above, you see the numbers the same way. We shared them with you last quarter.  
+
+Big driver of the results here in the quarter were 506 million of private equity gains, no particular single large gains to mention. We also had a positive gain on a mark-to-market basis of $167 million embedded in that number and the resulted in a carrying value at the end of the quarter of $7.5 billion at year end, down 22% from last year.  
+
+Other income, the other income line here, which was worse versus the prior quarter, reflects the absence of a couple of significant gains that were included in last quarter. And importantly, on the NII line here, negative $667 million in revenues, the change there reflects the repositioning of the treasury portfolio to a level that we think is appropriate, shorten the duration and lower the size of the portfolio to around $60 billion and so this earnings level of NII in corporate is about a base level to think of moving forward, though we expect to see it start to improve gradually over time.  
+
+And from there, we're done with just a quarterly update and I'll pass it to Jamie for comments on the outlook.  
+
+JAMIE DIMON, PRESIDENT, COO, J.P. MORGAN CHASE & CO: Mike, thank you very much. Good morning, everybody. I'm going to try to give you a merger update and make a lot of statements about the future, so I'm trying to keep it as simple as possible, but like Einstein said, "Simplify as much as possible, but no more." So we have some accuracy in these numbers. I won't take you through a lot on this page, but I think the folks of this Company have done a great job and already accomplished in a short 6 months some unbelievable kind of merger-related stuff from in-sourcing all of our technology so we added like 5,000 heads on January 1st. We're doing it ourselves now. Changing all the reporting architects, expenses, P&L, budgeting, the holding company merger, TSYS card conversions and changing and conforming with with the old policies across the Company. So we're operating fully as one company at this point. I do think that's a great accomplishment.  
+
+The financial disciplines, this obviously to me is a very big deal. These are kind of like our operating disciplines. We have [inaudible] of P&L. We understand how the expense are allocated. They are allocated in what we call efficient basis. We have thorough business reviews every month. We go through it, we're looking and still dissecting how we make money at levels much deeper than we just showed you here. For example, in the prime business, where profits are way down, we weren't effected by channel. Great excruciating details, we understand the competition deeply. We've changed a little bit how we share our revenues, so we have kind of third party pricing.  
+
+We're still making some changes, so the budgets, I think we were on -- I think this is patch 5. There are a couple of them that are just going to do a patch 6 or patch 7 and we're going to do them until we get them right. Some are just more complex and I put technology in that category. I think the real benefit from doing all this kind of stuff is living with it now for the future. It's not just gaining in place, but actually living with it.  
+
+Some kind of top-side comments about this page 21 for those of you on the phone. First, I'm going make a lot of comments. I just want to say that we're not -- we're assuming a steady state economy and a modestly increasing S&P and the -- basically implied rate curve, that is not our forecast. We think the analysts should make their own forecast about that, but my comments relate to kind of a steady state and obviously, if you forecast out 3 months, it's easier to assume that true, probably a lot harder to assume it's true in the fourth quarter.  
+
+We're also planning that we'll go back to a more normalized credit cost, so it's going to add -- and we won't have benefits of taking down reserves, we might earlier in the year, but not late in the year. Obviously, it adds a lot of additional costs. We don't know when it will become more normal, but we think it's reasonable that some time by the end of this year, early next year.  
+
+Mike mentioned the lower treasury risk portfolio. We reduced the size of the portfolio and we reduced our earnings at risk. When we make the earnings at disclosure, I think it's going to show that our earnings at risk to 100-basis point increase is -- was it 200, Mike, 170? Negative. You say it's still negative and that's what it was last time you saw it. We have done extensive work to model credit card deposit, TSS, by product to get that right, so a lot of it is fine tuning to get that exactly right. And I also want to just point out in terms of NII and the portfolio, we can always add back the $30 billion and you have a lot of revenue. So I would call that the earnings in store of having a little excess capital.  
+
+Merger stage is built into play at a very detailed level, there's some of the detail there. And I think good news is, and I hope you'll see it through the rest of the presentation, we're not stopping investing in the future of the business, and, you know, the only business I would say that's materially cut back on some of the stuff it would have done on its own, innovations, product, design, et cetera, is TS&S because they are in the nexus of the conversion, but everybody else is making the proper investments to grow and I think there's more efficient use of resources. So I want to show you the expense numbers. I'll comment on where I think that's coming from.  
+
+Next page, comments on revenues. This is really -- we do -- we don't run this Company for analysts expectations or estimates, but we do look at what you all write and try and understand how you get there and what the differences are between our expectations, and Ann wants you to be very clear, she can give you more detail later, we expect lower NII than most of the analysts out there. It's the investment portfolio, it's the loan portfolio and other NII relate stuff in the Investment Bank and we did sell manufactured housing and a bunch of other assets and auto lease is run down to 8 billion from 12 billion. Obviously that's all going to drive NII down, and so we think the better way to look at NII is to look at the fourth quarter and things like treasury make it better over time, getting pretty close to a good run rate.  
+
+We kind of assume a lot of differences in models that will get 300 million of private equity gains. We don't know the number. It's very lumpy. You think that's one you should kind of count on. If it is more than that and we can and want to, we may take bond losses or AFS portfolio losses, depending on what we want to do, so we don't count more than that, nor do we think we get paid for more than that when we report them, and there obviously will be quarters there's going to be less than that because some of it is very market-driven. We don't plan to be taking treasury securities gains. Obviously, we've got the rebounds, the portfolio, et cetera, but we would be more the nature to be tax efficient and take losses if possible.  
+
+Looking at the MSR, and we spent a lot of time -- I'll comment about [inaudible] the prime business a little bit later. We don't expect MSR hedging gains. They could be losses, they could be profits, it is a very volatile asset. I'm going to make some more comments about that in a little bit. And the last bullet point is there are a whole bunch of one-time gains and losses and Ann wants to make sure you all don't double count them in revenues and expenses. She can take you through that in detail.  
+
+Expenses, again, we try to make it very simple. Look at the total Company's expenses and kind of levelize the volatility of comp. Obviously, comp is set every quarter based on the expectations that quarter, quality of earnings, quality of revenues, et cetera, but it's been about $8.8 billion. You all should say that we have said we would have $200 million of cost saves in the fourth quarter, so why is it 8.6 and we do think we got the cost saves. In fact, if you want to question, the one I look at the most is headcount. The headcount is down 6.5 thousand from basically -- from -- because of the deal over time and that's probably worth on an annualized run rate $650 million. So we're getting there in terms of the headcount.  
+
+We have had high expenses in litigation. We are deliberately spending more money in marketing. We have ramped up some of the technologies we're talking about. We made one deliberate change, I think the right change, but to put the whole Company in one cash and stock mix, for all of equity-type related compensation. That probably cost us, I think it was $100 million a year of additional GAAP expense. Obviously in the long run, it will be a wash.  
+
+So we took the 8.8 as a benchmark and go to the next page. So, again, these are not forecasts. We are giving this to you to make it easier to where how we look at it and we've been asked this question a lot of times. So you take the 35.2 billion, remember, that includes comp, we have the acquisition of Highbridge and a few other little things in there, so that will obviously add to the comp. This Does not include Cazenove, right? So the adjusted baseline, 35.5.  
+
+You can see the merger saved in addition to what we got last year, we'll get 1.5 billion this year, and spending, other than that is up 1.1 billion. So you could say that spending other than the merger saves up about 3%, it could have been more than that. We think it's stuff we have to spend and we're going to spend and very high value spending, which we're not going call it investment spending. But I kind of broke out down below some of the incrementals, not all of it, some of it, which we think is the stuff that we're going to have to do to build a company right. $600 million in technology infrastructure is probably higher than we would have thought and I'll give you pages, give you a little bit more detail in that.  
+
+RFS and retail, new branches and new sales force alone is about $300 million, so we do think that's clearly growing earnings in the future. IB, we're adding in a whole bunch of areas and we have additional technology spend that we're going have to do there. Asset and wealth management is growing in certain new markets and we'll be opening a few branches this year in private banking, et cetera, so we're starting to fund future growth, we're not going to run the Company this year as if we don't have to do it.  
+
+Merger cost of saves, we just changed the estimate from 4 plus and minus for 4 to 4.5. Again, it's a very lumpy number, it will change over time. Most of the difference here, really relates to some of these big buildings we have, what they're worth, what we can market them for, et cetera.  
+
+And headcount, looking forward, we have the 161,000 today. We're in-sourcing about 6,000. Okay. That is not just IBM, which I think was about 4,000, but we're doing our own plastics and statements and printing and so that's about 1,000, so we're going to break it out in more detail for you, but kind of the run rate will be 167,000.  
+
+The merger save this year will be 5. And we're adding back about 6 in various areas and just to give you a feel, and for that is about 2.5 thousand is the retail new stuff alone, new sales people, new branches. So obviously, we are making some sort of investments. There's additional headcount in the IB, so if you look through the businesses, and we're not going to you take through all of this, we use a lot more what I call tooth to tail, a lot more sales, coverage, banking and a lot less staff. So we're trying to become more efficient in how we run the business.  
+
+Credit, next page gives you credit. It simply shows you where we kind of think normal cycles will be. Those are kind of the 50/50 kind of numbers, the normal cycle and we think that the Investment Bank, which is really large corporate loans, will be approaching normal by the fourth quarter. Like I said, it could be some time in '06. It really depends on the cycle. Commercial banking is already at 35 basis points. Normally it would be 65. We don't think we'll get to 65 right away, but it will probably be something less than that next year. Card services is around 5 to 5.25, it's staying there.  
+
+Early signs look pretty good and we have some visibility next quarter. And I won't take you through retail. They seem to be pretty much on. The important thing here, also we have very strong loan loss reserves. We think we've got proper, detailed, diligent and conservative loan loss reserves. The balance sheet, as you know, is important to us. I think you can see it getting stronger every time you see it. I think we've finished the conforming accounting that we think are very good accounting policies. Shown loan loss reserves capital at 8.7. A lot of capital generation in spite of all the things we're doing. We bought back $7 million of stock and we are planning to buy back stock next year. We're not going tell you the exact number, but obviously we'd be generating capital depending on how we grow, plenty of capital to buy back stock and we think that's the right thing to do.  
+
+Make some comments now on each line of business. Corporate, Mike kind of mentioned it. We think this is a better way to show you all the business, which is kind of 3 P&L's, because other than that, there's a lot of ins and outs. Private equity, you could do your own estimates if you think it's 1.2 billion, page 30, 1.2 billion of kind of annualized pretax gains. Treasury, the fourth quarter number is the best number looking forward, rolling forward, it will probably get a little bit better over time.  
+
+Other corporate is all of the other corporate expenses in that essentially and allocate out, it will go up by about the $600 million technology spend next year. It's not that we're simply keeping all of that here. What we change is all allocation methodologies, the units of payment we call effective cost, that's the retained residual, but most the increase relates to corporate expense. This line will obviously bounce around a little bit. There's a lot of things that go through it, including tax-related adjustments, but we're trying to get a good handle on it. It's also going up a little bit because of real estate amnesty. People have handed back more real estate, it's a good thing we did that so we know where it is, and obviously, we'll liquidate some more of that over time.  
+
+Next page shows you what's on our plate next year. This page should both make you happy and make you nervous. It should make you happy because it is a complete set of all the things that you would do if you owned the business to get it in absolutely top notch systems operations, which we look at as our core and spine. It's the Texas conversions, which are of course multiple product sets and business lines. It's also gearing up the New York conversion, which will be a year after that. It's clearing conversions, card conversions, we're -- human resource conversions, it's the whole risk infrastructure and finance infrastructure.  
+
+The Investment Bank has its own work to do, which had started a while ago, which we're building over time. It's expanding, building and buying better data centers, both to give us a lower cost and to give us more stronger and more proficient processing power. We're refreshing the home network, needs a lot of work inside data centers around the world to make sure it's top notch. And we're consolidating lots of operating centers, call centers, check processing centers, but by the end of '05, we've been blown away to building some of the great systems and operations and this should lead to great productivity in '06 and '07. This should make you happy, it should also make you a little nervous. It's a full plate of work in tech and operations. I'll comment once more on that a little bit later.  
+
+Investment Bank, couple of quick comments with each business now. We have a strong Investment Banking pipeline going into 2005, which Mike pointed out, over $1 billion of underwriting [ph] and M&A revenue in the quarter. We feel great about that. We're focusing and building the client-driven businesses, does not mean we're cutting back our proprietary, but we're always building the client-driven businesses. I'll make a few comments about that in a second.  
+
+Credit portfolio obviously down. The recoveries of workouts is going to go down. The portfolios were the last so we will come down a little bit. And we're spending a little bit more to, I think I've pointed out, to get more efficient and build the infrastructure. We have not kind of put Cazenove in our numbers yet, but that's also a big thing in front of Investment Bank. We are very excited about the opportunities there.  
+
+Next page, page 33 gives you some of the ideas on what we're investing between controls, growth and new business in the Investment Bank. We're going try to build out our energy business a little bit, a little bit of your fixed income and FX prime brokerage, a little bit, equity derivatives in cash, take some asset backs, and mortgage backs, we think we have great opportunities there. So we're going add what we need to build up those businesses, and obviously, the control and efficiencies is something you simply have to do.  
+
+The next page shows you the progress the Company's made on building its global rankings. These are market shares, but I think it tells you that this is a world class global bank and the only point I want to make is we're going build this business relentlessly, relentlessly, desk by desk, person by person, system by system, coverage by coverage, company by company, country by country and we're not going to go in and out, up and down, and flavor of the day. And we're very optimistic about the platform that J.P. Morgan has built over the last 5 or 10 years.  
+
+Consumer small business, you should expect more of the same. We're planning on 150 new branches, 1,000 -- possibly 1,000 new sales people. We're optimistic we can grow investment sales, mortgage sales, home equity production, do a better job in credit cards, continue debit cards. We're excited about the business. We're good at it and hopefully this will continue to grow.  
+
+The only comment I'm going to make on auto is we do expect tougher margins and lower volume. That may change, but that's what we see today. And I always make the mistake of skipping some of the really healthy businesses, consumer lending is doing great and we do expect to grow that in the future. As some of you know, I focus on the negatives. Prime production, Mike mentioned it. I'll just make a few additional points. We have a new management team, which we're excited about. We think we'll be extremely good. We are not optimistic, we have now broken out prime production servicing view. We are not optimistic that the earnings will improve in '05. That does not mean they won't. Now a lot of that depends on interest rates, yield curves, our ability to manage the MSR.  
+
+The MSR, we're not planning for MSR hedging gains. I think the real comment I want to say is we're going to spend a lot of time trying to understand how we want to manage using a natural hedge of production or the MSR hedging strategies, because we want to just understand that a little bit deeper. And obviously, expenses should come down a little bit because volumes are coming down.  
+
+Card business, we do expect modest growth in spending outstandings. There is not one initiative that we think we should be taking. I'm not going mention them all for competitive purposes, but we're -- we'll be doing a lot. Lot of business areas, branding areas. We expect expenses to continue to improve as an area I think that we'll exceed our original merger estimates and we do hope to get to a roof of 3% to the end of the year. We're obviously not there now, but that's our objective.  
+
+There is one issue here, which I'll put on you notice for, is the FFVIC. If the rules have changed, which we expect in the third quarter, for minimum payments that easily could drive up delinquencies and charge-offs. We don't know exactly when it is, obviously it will be late in the year. When we know more, we'll let you know.  
+
+Asset and wealth management, we've had good growth, particularly in the fourth quarter. We're growing a little bit in private banking, private client. The investment manager institutional side, we did the Highbridge acquisition, which we're excited about, so there will be plenty of high expenses from the acquisition and we're also making investments and we plan to expand some of those businesses or start the process to expand them a little bit more aggressively in 2005. And there's a little footnote from Ann, again, that the accounting for 12-B1C is going to add about $50 million to revenues and expense. So she can explain that to you a little bit later.  
+
+You have all asked and we're finally going to give you what do you think you should be doing. And I have the word up there, I want to point out the most important word on the page, all of my partners don't agree with all of these numbers. They think I may be more ambitious than I should be. I don't think -- I think they will agree. But I put the word aspiration, because I think it's a very reasonable thing for you to say what do we think we should be doing these businesses. I'll comment on each quickly.  
+
+Investment Bank, 20% ROE through the cycle. Maybe the business has gotten tougher than that. It's a volatile business. That means 30% plus in good times. Hopefully no worse than 10% in bad times. We think we should be a superior performer in the business. There's still debates internally, we're still looking at some of the cap [ph] occasionally, I always promise Bill Wench [ph] I'll say that.  
+
+Consumer small business, our overhead ratio is 65%. Now we want to have growth, and we think it's reasonable to get this 60%. Why not less? We're just leaving ourselves a little room because we don't know fully some of the costs of operating in the metro areas, the competition's going to get tougher and we want to include paying for growth in the number, because obviously you could drive it lower if you eliminated $200 million of expense and opening all new branches. Home finance prime production, we're going take a pass. We are spending a lot of time trying to figure out channel profitability and make it a stronger business.  
+
+Home finance consumer growth lending, we expect strong profitable growth as we've had in the past. Card, probably the next target as we get to the 3 RUE [ph], 3.5 RUE, some of the better competitors are higher. Obviously there's mix issues and international issues, but we think 3.5 is a reasonable target. Commercial banking, 52% overhead with growth. While we were 51% last quarter, so obviously we don't intend to get worse. This is one area there will be some change in how we allocate expenses between TS and commercial. I'll leave that to next quarter.  
+
+TS&S, 30% pretax margin, obviously different by business, I think 4 or 5 points higher than we are today. Asset and wealth management, about 35%, Jeff Daley is here, you can ask him, but he got to 31%, so he knows that 35 -- and he knows we're not efficient, the 35 is doable. Obviously, it's different by mix and by business and when we're paying for growth and not. Private equity is 1.2 billion gains on a $7.5 billion portfolio is not aggressive, it's not ambitious, it's not conservative. It's kind of I think what you're entitled to earn over a period of time. And that big chunk of corporate expense, okay, which I think is 2.3 billion tax, kind of all the corporate in and out, we think we should improve it by $1 billion over a couple of years. Don't double count all this merger saves and stuff like that, but we think there's reasonable long-term aspiration.  
+
+We want our employees to think it's reasonable long-term aspirations because they actually have a play in 677 million shares between options and restricted stock. That's a lot of play and I'm trying to get all of my brethren here to stop thinking black shawls. Start thinking get the stock to 100. Okay. That means the $60 a share times 67 million shares is close to $40 billion. That's what we should be thinking and people have quite a play in it. Member of senior management is required to hold 75% of the stock that they get through options exercise or restricted stock grants. We think that's great.  
+
+The compensation plans and accountability is being pushed way down, so you might mention that we have new P&L's in the branches, in all the Chase branches and that's how they will be paid. And so these things are starting to take effect and we want to be -- I would love to be the best paying company for the best performance, the best performing company. And so, that's kind of the rigorous discipline to decide what is the best performance, are you really there, did you really earn it, and so we do want to be there and have great accountability. The management team, by the way, is really starting to hum and come together and have these conversations and healthy debates, so we feel very good about that.  
+
+My last slides give you a few conclusions. The financial operating disciplines in place, we're on our way to the forward balance sheet. We are going to continue to drive efficiency and accountability. It's a big deal. You can see where we accomplish some of the things that would make us an efficient company which will work for shareholders, and it gives us the ability to grow, invest and be far more competitive, and remember, the competitors don't wait for us to improve our efficiencies, so we are in a little bit of a rush. We're constantly reviewing and we'll be talking to you more about trading risk, credit risk, interest rate risk, managing and gaining return for it, which I think is maybe the most critical thing.  
+
+2005 is a complex year for us. We will not accomplish everything that I just told you. Some will do better. Some will do worse. I've never been in a company where it all just happens exactly the way we want it to. We think we'll accomplish most of it. We want to be ambitious with ourselves and start pushing pretty hard. We think that if we accomplish most of it, we will be in fabulous position for 2006, 2007 and going on.  
+
+Now, obviously, I've mention to you a lot of moving parts. We're going to go back to some of the businesses and kind of relook at some of the expectations we have, whether they are too high or too low. We also feel pretty good about the fact that most of the stuff that we looked at in the business review, we decided and have done something about manufactured housing, we sold 4 billion of assets, leasing, we're down to 8 billion already from I think it was 11 to 12 billion.  
+
+We have acquired some good properties or merged or have done joint ventures, Cazenove, Vastera, so we're not sleeping and we're not waiting. We want our teams to continue. Obviously in this merger year, they have to be things that don't effect [inaudible] that we get going there. And we -- we have a growing and complete belief that we've got very good businesses that we're going to make really hum over time.  
+
+So with that, I will stop talking and open the floor to questions or comments. I'll take some here, then I guess we'll go to the phones. Go ahead. I'll repeat it for you.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Yes, I'm somewhat interested in terms of international business, the overall returns and growth opportunities there and just how you gain position. Could you expand a little bit in how you're positioning internationally in relationship to the competition? What are some of the big opportunities internationally, maybe acquisition opportunities?  
+
+JAMIE DIMON: Right.  
+
+UNIDENTIFIED AUDIENCE MEMBER: And what are some of the risks that you might be facing over the near term.  
+
+JAMIE DIMON: I think you said -- we can obviously give you more of that in the future. Investment Bank internationally is very well positioned and if you look at the shares, they are quite -- I think they are -- they are not in the package, but they are doing great and we're going to expand there just like we are here. Private Banking as a very good platform overseas and it has the same kind of growth plans I believe that we have here. Investment management, we've got a complete global platform, we have the same kind of growth plan we have here. Most -- a lot of the other businesses, TS&S, we have one of the great platforms there and we are growing across the board. We don't have acquisition plans. We've got a lot to do. One day I think international will provide some great opportunity. If there's something that's so dramatically fabulous for us, we'll look at it. Any other questions in this room? John?  
+
+JOHN, ANALYST: Thanks. Mike alluded to some comp ratios for the Investment Bank. I was just wondering, A, how he was deriving those, and B -- well, when I calculate them on a risk-adjusted basis, I have that it went up year-over-year pro forma from 33 to 36%.  
+
+MIKE CAVANAGH: Right.  
+
+JOHN: And that the gross, not risk adjusted went from 34 to 38. Obviously a very significant increase. I was just wondering if we could discuss targets there and why they went up as much as they did.  
+
+MIKE CAVANAGH: Yeah, first thing is, there was a comp plan in place. Okay. The comp plan relates to the type of business, not just gross revenues, so some businesses, and I think is appropriate, is worth more than other revenues and, for example, credit portfolio revenues aren't taking that kind of risk, it isn't quite the same as underwriting type revenues. So part of that, I believe relates to mix and the plan that was in place. Part of it relates to, you do have a competitive situation. You have to look at how you are going compete in the world out there, and how you want to grow and what you want to keep. And part of the relation, you do add people during the course of the year and some people leave during the course of the year. And I'm not going give you a ratio for next year other than to say, you know, if we accomplish kind of our -- the number that I gave you of expense, I should have said, is the 35.1 billion, was assuming no change in comp. Now, I think if we have a good year, you should assume that the comp goes up a little bit and that would be true for the Investment Bank too. I want the Investment Bank's comp to go up. We just want it to go up for the right reasons. And we maybe sometime down the road will give you more of a guidance about that ratio.  
+
+JOHN: In talking about credit, you had Investment Bank credit normalizing to 100-basis point losses by the end of '05. I was a little surprised at that, given that non-performers continue to decline and you only had 20-basis point losses in the fourth quarter. Seems like that could stretch out considerably farther.  
+
+MIKE CAVANAGH: I thought I said that it's getting close to normal by late -- I'm more conservative than everybody else, by late '05, it may be mid '06. But the fact is it's clearly trying to get back to normal. Credit -- credit itself is getting a little bit looser out there and we've all seen these cycle many, many times.  
+
+JOHN: Are there things specifically that you see in your own portfolio that would --  
+
+MIKE CAVANAGH: No, no.  
+
+JOHN: -- make you go in that direction?  
+
+MIKE CAVANAGH: No, other than we expect less recovery than we had in the past. The same reason they just said nonperformance again.  
+
+JOHN: Okay. Thanks.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Jamie, if we look at the Investment Bank, fixed income revenues are about half of revenues and they were down about $1 billion year-over-year. Obviously, third quarter was pretty tough, but could you help us in terms of your thinking, the outlook for the fixed income businesses here?  
+
+JAMIE DIMON: Yeah, we expect the fixed income business to do well. They have had -- I'm just going to check the number real quickly here. You say down 1 billion year-over-year, if you look at fixed income markets, fourth quarter I have 1.5 billion and last year I have 1.5 billion. Oh, the full year.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Yes.  
+
+JAMIE DIMON: No, listen, obviously we've had a very volatile year and last quarter it was 1.1 billion, bounced back to 1.5 billion. We're optimistic we've got a very good franchise and obviously it's a more volatile earning stream, but we're not pessimistic as some other people out there about fixed income trading. I'm not going to give you a more specific number. Go ahead, yes.  
+
+UNIDENTIFIED AUDIENCE MEMBER: I think in your assumptions, at least as I interpreted it, you were forecasting, you said normal markets and a normal curve and by -- I didn't know if you meant by normal curve --  
+
+MIKE CAVANAGH: The implied yield curve.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Okay. So it's -- because we don't seem to have a particularly normal curve at this point.  
+
+MIKE CAVANAGH: I meant, I should have put the implied yield curve.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Okay.  
+
+MIKE CAVANAGH: Right. Sorry.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Still focusing on the line of business stuff in the Investment Bank, you had a negative trading number on the equity side this quarter, obviously an unusually tough result, but it kind of puts into perspective the fact that the equity franchise remains not nearly as profitable as it is at a lot of the other firms and I was just wondering if you could give us an update after your business review of what you're intending to do in order to try to put that business more on a more profitable footing.  
+
+JAMIE DIMON: Equity market is 243 of revenue versus last quarter of 455 and obviously it's been a little lumpy. There was some bad trades in there this quarter, so hopefully we don't expect those to recur. I think you got to look at the equity business, it is a tough business. You got to separate the 3 pieces, cash, underwriting and derivatives. In underwriting, I think we've done okay and where J.P. Morgan Chase was -- the way I'm going look at it, 5, 6 or 7 years ago it was nowhere and now it's somewhere. We will be a competitor in the equity underwriting business. We've always been good in equity derivatives and we'll continue to do that. It is where we had some of our issues this quarter. In the cash business, I think the Company's, you know, we've spent some time talking about it and I think we have grown in strength over years, probably not to where we want to be, but all 3 of those I just separate them and obviously work together as one business and we'll be a competitor in the equity business. It will be a lower margin, tougher business for a while, but it does not mean we're going to get out of it. It simply means we're going to get tougher about it.  
+
+UNIDENTIFIED AUDIENCE MEMBER: But can you give us an update on anything you may -- any decisions you may have made during the recent business reviews for a little bit more color on exactly what they are going try to do to try to reposition.  
+
+JAMIE DIMON: No, we're not trying to reposition at all. We're just building the business as best we can. It's just a tough business. We have made no major decisions or any business views about the equity business. I also think other companies have a lot of other stuff in there. Okay. So, you know, some companies have specialist operations. Some have private equity investments that show up in there. I don't know. We're going to build the business.  
+
+UNIDENTIFIED AUDIENCE MEMBER: In your--  
+
+JAMIE DIMON: Then after this one, we'll go to the phones, okay. Yeah.  
+
+UNIDENTIFIED AUDIENCE MEMBER: In your 2005 plans, you're talking about the prime brokerage and fixed income and foreign exchange.  
+
+JAMIE DIMON: Right.  
+
+UNIDENTIFIED AUDIENCE MEMBER: To build the equity business, you need an equity prime brokerage business and would this require us to wait until Bossel [ph] 2 comes out?  
+
+JAMIE DIMON: I don't know what it's got to do with Bossel 2.  
+
+UNIDENTIFIED AUDIENCE MEMBER: It lowers your capital charges against your margin lending.  
+
+JAMIE DIMON: You know, maybe I shouldn't make this statement. We're going make our own economic decisions about what businesses are worth, not because of regulatory capital. So Bossel 2 shouldn't affect those kind of decisions. I didn't get a day late a dollar short to build the equity prime brokerage business. Too hard to do. You won't catch up. I also think you don't have to be it to be a big winner. Obviously it's been driving a lot of the results today. That may not be true in a couple of years, so that does not mean that one day we may not change our mind and want to buy into that. Why don't we go to the phones and answer some of the questions there.  
+
+OPERATOR: We'll go to Glenn Shorr of UBS.  
+
+GLENN SCHORR, ANALYST, UBS: Thanks, Jamie. Just one follow-up on the Investment Bank. I did notice that adjusted assets and trading assets had, you know, pretty meaningful pick up, 8 or 9% just sequentially. And you had mentioned that the capital allocations for the businesses isn't expected to change much, so are we at your comfort range in terms of the leverage and amount of risk being taken, which, by the way, I did see that VAR fell during the quarter despite the pickup.  
+
+JAMIE DIMON: You know, the only way I would put is I think the guys run the Investment Banks, Steve Black and Bill Winters are very talented. The people in risk and trading are very talented and so I'm just going to know all the people, the situations there. I don't think the balance sheet bouncing up or down a little bit is that material a thing. Because a lot of that sometimes is just -- could be the [inaudible] book and trades and in process, et cetera. So, we're not -- those decisions on VAR were not made by me. They were really made by the folks who run that business and, you know, they would say the same thing I like to say, is we want to get paid more for the risk we're taking and that's their job and, so--  
+
+GLENN SCHORR: Understood. I guess I'm just comping the adjusted asset level and leverage implied on the equity allocated to other investment banks and it's higher, but I assume that's going to flush out and when you hold them up to returns on that equity.  
+
+JAMIE DIMON: Yeah, the $20 billion is kind of our estimate of what the Company would need as a kind of a separate stand-alone company. And like I said, capital, both what we use for public reporting and for the trading debt, that's kind of under continuing review and it should be, by the way. We may adjust that down the road if we have good reason to.  
+
+GLENN SCHORR: And then just for yucks [ph], slide 40 on your long-term financial aspirations.  
+
+JAMIE DIMON: Right.  
+
+GLENN SCHORR: If we were in the range of those aspirations, have you done the back of the envelope to see what the earnings power of J.P. Morgan you think is?  
+
+JAMIE DIMON: I did, but I'm not going tell you. That's what you're there for.  
+
+GLENN SCHORR: Okay.  
+
+JAMIE DIMON: It's obviously -- listen, if you look at the last 2 quarters and frankly, we would be disappointed with them, and, you know, it would be considerably better than that, but that's what we should do for you. It's going take a while. We've got a lot going on, but that's what we're aiming for.  
+
+GLENN SCHORR: Okay. Appreciate it, Jamie.  
+
+JAMIE DIMON: Next question -- call -- question on the phones.  
+
+OPERATOR: We'll go to Mike Mayo of Prudential.  
+
+JAMIE DIMON: Hey, Mike.  
+
+MIKE MAYO, ANALYST, PRUDENTIAL: Hi. I'm not sure I understand the source of the 600 million in additional technology spending. What have you discovered as you've gone deeper into the firm? I understand there's like, and correct me, 20 general ledgers at heritage J.P. Morgan. What are the issues that's causing that increase in tech spend.  
+
+JAMIE DIMON: If you go back to the page that shows all the stuff we're doing, we went business by business and think of global technology being almost a separate business, data centers, network, help desks, laptops, et cetera. But business by business about what we need to build the proper infrastructure of the business. So the big areas, the big areas are data center, getting our networks refreshed, which really means new routers and new systems in stock, inside the data centers, the TSYS conversion. We don't do those conversions for no cost. They take a lot of time. The second -- the last TSYS conversion -- the Investment Bank itself is doing -- we're building better credit portfolio management systems, better end to end securities processing, which I think we have to have, and there's a whole series of stuff and it's hard for me to break it apart. 100 major projects, a good chunk are merger-related. A good chunk have nothing do with that.  
+
+MIKE MAYO: Then one separate question.  
+
+JAMIE DIMON: Yes.  
+
+MIKE MAYO: As it relates to capital markets, what is your goal in equities? And then separately, do you feel good about the fixed income market? You had a great fixed income quarter, but with rates and whatever they might do, how do you feel about that going forward? Thanks.  
+
+JAMIE DIMON: I'll tell you a little bit about the goal of equities, but I think you're going to have to wait more when I have a chance to spend more time. At one point we should have Steve Black and Bill Winters come and talk to you about that. Obviously the Company's moved up in the underwriting tables and we obviously aspire to move up even more and we think it's reasonable with our clients, our clientele and our capabilities, I think that's reasonable. In derivatives, we've always had a good position, we intend to keep it. And I think the real issue for us is cash trading, sales and trading, and we're -- we would like to be stronger. That is probably the toughest and lowest margin business right now and I think Brad [ph] also mentioned, you know, something like prime brokerage, which we're not going do for now. I think that is obviously a very attractive area for people who are in that business today. I just think it's too late for us.  
+
+MIKE MAYO: And the outlook for fixed income?  
+
+JAMIE DIMON: Fixed income, I think it should be okay, even with the modestly rising interest rate environment. Remember, the Company has a lot of strains and some unique strains on fixed income and some areas that I think we should build over time. I think we should be a lot better in asset backs and mortgages.  
+
+MIKE MAYO: All right. Thanks.  
+
+JAMIE DIMON: You're welcome.  
+
+OPERATOR: We'll go to Betsy Graseck of Morgan Stanley.  
+
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Thanks. Hi, Jamie.  
+
+JAMIE DIMON: Hi, Betsy.  
+
+BETSY GRASECK: Two quick questions. One on the corporate line, you had mentioned that you're anticipating $1 billion in improvement over time in that line off of the '05 base. Is it fair to assume that that improvement comes primarily from the elimination of the near-term investment spending that you're doing?  
+
+JAMIE DIMON: Yeah. No, first of all, let's -- I use the word aspirational. I would be surprised I'm standing here in front you it's 3 years and we haven't gotten most of it. I'm using the word aspirational and that's why I was a little careful about investment spending. I do think that we have a little bit of a hump of spending in technology, and so it's not that we're going to stop investment spending. It's that the hump will go away. We can do so much all at once in 1 or 2 years and I do think that that's part of it. Same with some other areas and consolidation work. Some of it will just be the real efficiencies of the consolidations running through.  
+
+BETSY GRASECK: Right. Is there any benefit from treasury portfolio improving from here?  
+
+JAMIE DIMON: I think the treasury line should gradually improve from here, from the fourth quarter.  
+
+BETSY GRASECK: Right.  
+
+JAMIE DIMON: As we retain capital and make wiser decisions and very careful how we fund the balance sheet, I think it will improve a little bit from here.  
+
+BETSY GRASECK: Okay, but more than any change in impact or any change in expectations for --  
+
+JAMIE DIMON: Remember, we buy back stock.  
+
+BETSY GRASECK: Sure.  
+
+JAMIE DIMON: But what carries is going to end up in that line.  
+
+BETSY GRASECK: Sure.  
+
+JAMIE DIMON: So there's a lot of swings. We'll try to explain them as we go forward.  
+
+BETSY GRASECK: Then on the Investment Bank, you mentioned that there was this comp plan in place, obviously, that was driving some of the comp that was, you know, made during the quarter. I would think that those comp plans are always being reviewed, is that something that might be looked at in '05?  
+
+JAMIE DIMON: There is a -- it has been reviewed and there is a new comp plan in place for '05.  
+
+BETSY GRASECK: And then just finally on fixed income, it has been a little bit of a source of debate on the Street. You had a very nice uptick Q on Q. You mentioned what some of the drivers were to the equity change Q on Q. Could you go through that for fixed income?  
+
+JAMIE DIMON: I think the best way to look at fixed income is what happened last quarter, not this quarter. Last quarter, I think we thought that customer volumes were low, probably effected most people and a small recovery in that. We had a couple of trades that went against us and we didn't have them this quarter.  
+
+BETSY GRASECK: So elimination of loss.  
+
+JAMIE DIMON: Those 2 things probably were most of the difference here.  
+
+BETSY GRASECK: Got it. Okay. Thanks.  
+
+OPERATOR: We'll go to John McDonald of Banc of America Securities.  
+
+JOHN MCDONALD, ANALYST, BANC OF AMERICA SECURITIES: Jamie, looking for 1.5 billion in cost savings in '05, any thoughts on the timing of the ramp this year?  
+
+JAMIE DIMON: That's a good question. What you are going to see, and again, these are not forecasts. These are kind of levelized people thinking that expenses will be higher at the beginning of the year, lower at the end. There are a couple of things driving that. One is remember a lot of expenses, and this is true for all companies, that you have salaries and benefits. If you have hired people or new incentive plans to go higher, health and welfare benefits is up, pension costs could be up. A lot of costs actually jump pretty quickly. And a lot of the merger save costs come -- ramp -- they get stronger by quarter, so hopefully you'll see some of those costs, non-IC, some of those costs coming down during the course of the year.  
+
+JOHN MCDONALD: Could you comment on which businesses might see cost saves earlier in the year, credit card earlier than some others?  
+
+JAMIE DIMON: I'm not going take you through that because there's a lot of detail, but there is one slide in the back of your book which shows you by business, okay, and obviously these are very rough numbers, but we give them to you because you all ask all the time, but it shows you by business. And then you can take what I said about where we're growing expenses and by business and kind of see what each business might be doing next year.  
+
+JOHN MCDONALD: Okay, and in terms of reserve lease, your coverage ratio, is it still good, do you expect you might see some modest relief still in the first half of this year?  
+
+JAMIE DIMON: I think that some release in the first, second quarter is probably a good guess, but, you know, we don't really know and it depends on a lot of factors, but obviously that will eventually go away permanently or at least until the end of the next cycle.  
+
+JOHN MCDONALD: And on the mortgage MSR hedging, are you trying to take off the financial hedge that served you well while rates are declining so you can benefit from servicing as rates rise? Is that what you're considering doing?  
+
+JAMIE DIMON: I think, what I'm telling you is that we really spend a lot of time saying what we think we should do, we're still hedging the MSR the way we've hedged it before. I think there -- having looked at the business a little bit, there are reasons, they have what they call a natural hedge you can use. There are different ways to hedge and there are different risks to take. We should also look at that relative to the whole rest of the Company, and so we're going to be doing a little bit more of that.  
+
+JOHN MCDONALD: This quarter's impact, was that taking some of the hedge off what you experienced in losses?  
+
+JAMIE DIMON: Yeah, Mike mentioned the $90 million was rebalancing the AFS portfolio, which is hedge-related.  
+
+JOHN MCDONALD: Okay. Thanks.  
+
+JAMIE DIMON: Any other questions on the phone?  
+
+OPERATOR: There are no other phone questions at this time.  
+
+JAMIE DIMON: Okay. Take one more question and head on.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Kind of a follow-up. You said it was too late for prime brokerage, but you indicated you wanted to build up asset back, mortgage back trading.  
+
+JAMIE DIMON: Too late for equity prime brokerage.  
+
+UNIDENTIFIED AUDIENCE MEMBER: Right.  
+
+JAMIE DIMON: Right.  
+
+UNIDENTIFIED AUDIENCE MEMBER: I'm sorry, and energy trading. You know, wouldn't some of the same thinking apply in those areas as well?  
+
+JAMIE DIMON: No. I think --  
+
+UNIDENTIFIED AUDIENCE MEMBER: Why? If you could elaborate.  
+
+JAMIE DIMON: Because we are in asset backs and mortgage backs and we should be strong at it. In fact, if you look at our own issuance, our own capabilities, our own home finance companies, I would go the other way around and say we've got a good reason to be a winner in it and we already have a lot of the capability and capacity here and I think we should just focus on it and figure out where we need to add sales traders, research, et cetera, and we will gain share. Energy is different, it's a little bit new. We do a little bit of it. The question there is should we be in it, how should we be in it, how should we go about it? So we've got some plans to do it and maybe at one point we'll give you some more information on that.  
+
+We appreciate all comments. And we'll talk to you next quarter. Thank you.  
+
+[CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.  
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.  
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. ]  
+
+Document FNDW000020050202e11j000b8
+

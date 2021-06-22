@@ -1,0 +1,389 @@
+10,033 words
+20 April 2005
+FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+©oxant Inc. All rights reserved.    
+
+OPERATOR: Good morning, ladies and gentlemen. I'd like to welcome you to the JPMorgan Chase first quarter 2005 earnings call. Today's call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current beliefs and expectations of JPMorgan Chase's management and are subject to significant risks and uncertainties. Actual results can differ materially from those set forth in the forward-looking statements.  
+
+Factors that could cause actual results to differ from those set forth in the forward-looking statements are described in our 2004 annual report on Form 10-K filed with the Securities and Exchange Commission and available at the Securities and Exchange Commission's Internet website to which reference is hereby made.  
+
+All participants are in a listen-only mode at this time. Later we will conduct a question-and-answer session. [OPERATOR INSTRUCTIONS] Just as reminder, today's call is being recorded.  
+
+I would now like to turn the conference over to JPMorgan Chase's Chief Financial Officer, Mike Cavanagh. Please go ahead, sir.  
+
+MIKE CAVANAGH, CFO, JPMORGAN CHASE & CO.: [Audio difficulties] to let some others dial in. I will be referring to a presentation which is available on our website, so I hope you all have that in front of you. As the operator said, I'm going to cover the quarter then hand it over to Jamie for a few questions -- for some comments, and then we'll take a few questions.  
+
+So if you turn to Page 2, first quarter 2005 earnings. This is the highlights of what we think is in our first quarter numbers, and this is what I expect you'll take away from the call. I'm not going to go through these in detail here because we'll drill into them further on in the presentation.  
+
+But first, most of our businesses showed very good earnings momentum over the last year. The Investment Bank had great results on near record revenues with particular strength in trading and IB fees. We had good progress on the expense side. Also credit quality continued to be strong across the wholesale and consumer sides. And we ended with a very strong capital base also having settled our WorldCom litigation in the quarter.  
+
+If you turn down to Page 3, the first quarter GAAP comparison of earnings, I'll just point out here operating earnings of 2.9 billion or $0.81 per share. Not included in those numbers are $90 million of merger costs and 558 million of after tax of litigation related to the WorldCom, which brings us to 63% of reported EPS. I'm not going to spend time on the GAAP comparisons on either this Slide or Slide 4, which includes JPMorgan Chase only in the year-ago period.  
+
+Let's go straight to Slide 6 from here, where we begin pro forma comparisons, which include Bank One results in all prior periods. So on Page 6, this is some significant P&L items and a methodology item that I wanted to point out before we go any further, so I'll spend a little bit of time on this page.  
+
+So of the P&L items, first we had Private Equity gains of $789 million pretax or $0.14 a share. This appears in our corporate segment. Obviously these are very good results. Two gains together in particular total approximately $500 million pretax. And, obviously, Jamie will comment a little bit on the outlook, but this clearly front-end loads what we had expected in 2005, so he can comment later on where we see this going from here.  
+
+Second, we had a reduction in our wholesale loan loss allowance of 377 million pretax or $0.07 a share. This primarily appeared in our Investment Bank, but some pieces of it were in Commercial and Treasury Services. This is strictly based on improvement in the quality of our portfolio, which obviously we don't see continuing forever, but we're glad to have it in the quarter's results.  
+
+Third, MSR risk management, positive 106 million this quarter or $0.02 a share. This appears in the Home Finance segment of our Retail Financial Services business. Now this is another valuable item that we plan at zero and continue to think that's the best way to think about that number.  
+
+And last, the fourth P&L item was Treasury Securities losses of $918 million or $0.15 a share, and this appears in corporate. And here, this is -- we've repositioned the portfolio which is used to manage our exposure to interest rates. And to anticipate a few questions we might get later, what the effect of this will have on our earnings at risk to up 100 basis points shock, which is the number we report in our 10-Q, we'll bring that to about 50 million negative, which is an improvement from prior quarter, still very neutral on that metric.  
+
+Net interest margin, going to the return side of this repositioning, net interest margin give up over the remainder of the year given this trade and all other things being equal, is about $50 million reduction in NII, which will appear in our corporate segments. So that finishes the P&L items on the page.  
+
+So now shifting to one important methodology just to adjust in your models. I wanted to point out that we've changed the way we adjust for tax equivalent revenues to an approach that we think follows best practice. Now there's a slide in the appendix that illustrates exactly what's going on here, and I'll be glad to follow up after today's call if more explanation is needed. But there's three things that you need to know.  
+
+First, tax adjustments have been removed from the Corporate segments, which increases the Corporate segment tax rate, which then causes the operating basis tax rate to increase to 35% when previously it had been 33.  
+
+Secondly, the result of these changes leaves operating earnings and EPS themselves unchanged because this is strictly a matter of geography.  
+
+Third, our Corporate segment we hope becomes more transparent as a result of this. So again, just drawing that to your attention so you can adjust your models going forward.  
+
+Now, turning to Slide 7. You see the consolidated pro forma P&L, and again, it's 2.9 billion in operating earnings, up $596 million versus the fourth quarter or up 26%. That's on higher revenues as you can see, lower credit costs and flat expenses.  
+
+So if you turn now to Slide 8, I'll spend a minute just talking a little bit about what we saw in the expense side, which is a good story for the quarter. Top half of the page on 8, revenues were up quarter-over-quarter, yet expenses held flat. In that number of 8.9 billion or so, we had higher compensation expenses.  
+
+Driving that was obviously a bit of our performance, but also we had the effect of the in-sourcing, which moved non-comp expenses into the compensation line. And we also began, and both lines saw this, the comp and non-comp, the impact of consolidating Highbridge for a full quarter and a partial quarter worth of the Cazenove joint venture.  
+
+On the merger save front, I'll just comment there that we saw $150 million of incremental quarterly saves versus the fourth quarter, bringing total quarterly saves to $380 million, which annualizes to just over $1.5 billion, so we're halfway to our $3 billion merger save commitment and feel good about that.  
+
+Now looking ahead to the second quarter, just some directional thoughts here. Obviously, you're going to take account for whatever you think the performance does in the next quarter as will we. On the merger save side, we continue to be confident and on track to end 2005 with a fourth quarter exit rate for merger saves annualizing at $2.2 billion. That really means about $60 million of incremental saves quarter-over-quarter in the second versus the first to be on track to do that, so we see that coming next quarter.  
+
+We have the remaining impact of consolidation of the Cazenove joint venture and other acquisitions that have been done. And lastly, we didn't see much in the first quarter of the incremental investment spending that we talked about last time around, so we do expect to see some increase maybe to the tune of $200 to $250 million, and increment al spending of the sorts we talked about, particularly in marketing and technology and you'll see that across various businesses.  
+
+Now, turning to Slide 9, we shift to the lines of business, and here you just see the pro forma comparison of operating earnings for all the lines of business. And on the right, you see the percentage change in operating earnings year-over-year and quarter-over-quarter. And what it shows, and we've circled this for you, is greater earnings progress across the businesses. So, obviously, we feel very good about maintaining the Company-wide earnings momentum in what's been a very busy year for us.  
+
+Now, moving on to Slide 10, and from here on out I'll be talking in detail about each of the businesses. Each of these pages has a lot of information on it and a lot of commentary, more than I can talk to, so I'm just going to highlight a few things on each of these pages, but encourage you to read these at your leisure. So first with the Investment Bank, with 1 billion 325 in earnings on near-record revenue, these are great results and very satisfying to the team in the Investment Bank, which has been working very hard at demonstrating what we're capable of in this business.  
+
+Here, I'll just make three points. First, the $985 million of Investment Banking fees is another strong quarter, with particular strength coming out of Europe.  
+
+Secondly, we had quarter-over-quarter improvements of 759 million in Fixed Income Markets and 313 million in Equity's Markets, driven by excellent trading results. Now, if you look down to the bottom of the page, you see 70 million per day of value at risk, VAR, which makes these trading results all the more impressive given the VAR actually declined versus the prior quarter, which is in contrast to what we've been seeing at some of our competitors.  
+
+And the third and final point on the Investment Bank is expenses were up on better performance. I just want to point out to remind you that we will see the incremental expense related to Cazenove and increased technology spending next quarter in this business.  
+
+Now, turning to Retail on Slide 11, we're looking at the results of the total Retail Financial Services business. 988 million of earnings, up 43% year-over-year and 27% quarter-over-quarter. I'll just make two points on this slide and then move into detail on the branches and Home Finance. But first here, you see that we had 94 million of credit costs, which is low, on strong credit performance across the retail business. And I just wanted to point out we had allowance reductions in retail of about $60 million.  
+
+Secondly, you see a circled number on the page of $55 million which is the profit for the Auto & Education Finance business. I just want to point out that you see a box on the lower right side of the page that shows that there were $51 million after tax of items that were included in the 55 million of profit. So adjusting for those items, we saw some growth in the Auto & Education Finance business as well.  
+
+And just to point out what those were, we had a transfer to held for sale of some lower turn auto loans that we intend to securitize. We dissolved a joint venture in the Education Finance business, and we sold off our low return profile RV loan portfolio in the quarter.  
+
+Flipping to Slide 12, I'll dive in a little bit deeper onto the Consumer & Small Business side of retail. Here earnings of $477 million were up 64% year-over-year, so a couple of points here. First, if you look down to the bottom of the page, the growth drivers of this business continue to move higher. We had 149 billion of deposits, which is up 4% year-over-year. We had 8.4 million checking accounts in total, which is up 8% year-over-year. And the same follows for branches, ATMs and personal bankers so the progress that the team is making there to continue to improve the drivers of the business is very impressive.  
+
+Second for Retail, the result for that is you see revenues up 150 million year-over-year, while at the same time, you see expenses are down by 140 just driven by the improved efficiency in the business. And lastly, I'll just point out that in this business we saw the positive seasonal impact of the refund anticipation business.  
+
+Turning to Page 13, Home Finance. Home Finance had profits of 442 million in the quarter. 158 million of that coming from Prime Production & Servicing and 284 million from Consumer & Real Estate Lending, the two pieces of the business in Home Finance.  
+
+A couple of points here, first, I already pointed out in Prime Production & Servicing revenues you see the 106 million positive related to MSR risk management results. Second circled item there is 228 million of production revenue on the Prime Production & Servicing side. Now that number is up, while you see down at the bottom, mortgage originations of 26.6 billion are down, and that is due to exceptionally strong secondary marketing, which is really the activity around the sale and hedging of the Prime Production.  
+
+And third and final point here is that in Real Estate Lending, you see the 713 million in revenues are down slightly, but that is more than explained by the give-up of margin related to the sale of the $4 billion manufactured housing portfolio last quarter.  
+
+Turning to Page 14, we have Card Services where we really saw some great results in the quarter. We had 522 million in earnings, which is impressive because it's about flat to last quarter when you'd expect the seasonal decline, which is typical in the card business, not to mention that results are up very strongly versus prior year.  
+
+So again, a couple of thing, to point out here, first you had higher revenues driven by growth and outstandings to $134 billion, which is up 6% year-over-year. And you had 70 billion of charge volume, which is up 11% year-over-year.  
+
+Secondly, you see that credit remains very strong with the 483 charge-off ratio. And lastly, the return on outstandings pretax of 2.52% is up from 1.71 a year ago and moving nicely toward our long-term aspiration for this business. So we think results in Card has really stacked well -- stacked up well versus what we've seen from the competition this quarter.  
+
+Turning to Slide 15, Commercial Banking, earnings of $243 million. I think the bullets on this slide give good explanations to what's going on here, so I'm just going to touch on two things. First is that while overall revenues are relatively flat year-over-year up 2%, and that's largely due to slack loan demand in the Commercial space, Treasury Services revenues are up 14% year-over-year.  
+
+Secondly, just want to point out that we've added in our supplement some greater detail on the Commercial side of the businesses that make up Commercial on the revenue and loan side. And we take comfort in the fact that in the middle market we saw a 7% year-over-year increase in middle market loans, which we're, again, pleased to see just given how important that client base is to us and to this Commercial Banking segment.  
+
+Moving on to Treasury & Security Services on Slide 16. Here, earnings more than doubled year-over-year to $245 million. First point I'll make is that that's a 16% year-over-year revenue growth, which is on higher deposits, wider spreads, and higher fees for services.  
+
+Secondly, we saw better efficiencies on the expense side, which resulted in a pretax margin of 26% for the business, which is a great improvement. Now, that's in part due to some refinements in the way we allocate costs so it's into and out of the business, but it's also due to a lot of work around merger and achieving other saves in the businesses.  
+
+And third, it was announced earlier this week that we're going to combine the Investor Services and Institutional Trust Services into a single customer-facing business called Worldwide Security Services, which we think will position us well to serve this customer base and get greater efficiencies as well.  
+
+Now, on Page 17, we're on Asset & Wealth Management. Here we had earnings of 276 million, up 21% year-over-year. First point here is that we had 790 billion of Assets Under Management, which is up only 2% year-over-year, but we saw a shift in mix within those assets towards equity and alternative asset classes, which helps the P&L.  
+
+Second, we achieved a 32% pretax margin versus 30% in the prior year, and that's moving actually towards our long-term aspiration for the business.  
+
+And third, just want to note that we have fully reflected a full quarter's worth of Highbridge in the results for this business.  
+
+Last, but not my favorite, on Page 18 is Corporate. As I mentioned earlier, we made changes to the way we do tax equivalent revenue adjustments to give a little more transparency here. The Corporate had a loss of $687 million. I'll draw your attention to the middle of the page where we break that down by unit within Corporate.  
+
+I've already spoken about our results in Private Equity, which resulted in 437 million of profit. And the Treasury portfolio repositioning, which resulted in a net loss of $544 million, so that leaves two remaining pieces. First is ongoing going Treasury, which is just Treasury with the portfolio repositioning carved out. That had a loss of $284 million, which is essentially flat to last quarter as we expected. Again, with the repositioning of the portfolio, this will get about $0.01 worse over the remainder of the year, but over time we do expect this line to improve.  
+
+And the second piece is corporate net expenses, with a loss of 296 million. It's named this because it's largely made up of corporate staff expenses that remain unallocated, plus some various other items. And here, we do expect to see technology investment spending ramp up by some amount maybe $50 to $100 million representing our central technology spend in the next quarter and this is the line that you'll see that.  
+
+Now, moving on to my final page, Capital, the numbers kind of speak for themselves here, so it's a very simple one. We maintained a very strong 8.6% Tier 1 ratio, and that's an estimate, while we absorbed the WorldCom litigation charge and bought back $1.3 billion or 36 million shares of stock in the quarter. This makes us feel very good, both about the capital strength of the Company and the capital generation power of the Company.  
+
+So that's it for me on the quarter and I'll hand it over to Jamie for some further comments.  
+
+JAMIE DIMON, PRESIDENT, COO, JPMORGAN CHASE & CO.: Mike, thank you very much. I going to talk about three things, a couple minutes each. One is just merger milestone updates. The second is to give you a feel for our outlook for the next quarter or two. And then the third is just a kind of overview, how we feel about the quarter and how we think we're doing as a Company.  
+
+If you go quickly to Page 20, we've made tremendous progress on the systems and merger side, and while I won't go through all of them, since we actually last spoke or since last quarter, we consolidated our payroll systems, we've merged our mutual funds, we've consolidated our trade finance, a standby letter of credit systems. One of the next big ones coming, which is kind of mid next quarter, is the dollar clearing conversion, which we whereby remove $2 trillion a day over wire systems.  
+
+Some of these that we feel pretty good about is that one major part that already took place, which is the new code, which will accommodate Bank One and the Texas conversion has been installed and is working fine. So we look at these every day and all these milestones and we feel pretty good. We began to roll out of the new Chase brand to the Bank One markets, some in Kentucky.  
+
+I think on Monday we gave away free gas. I gather we blocked up a lot of Lexington, Kentucky and gave away -- I think the lines got to hours long. It was very successful, but we do have a few complaints today that we caused a lot of traffic jams, so we'll be a little more careful when we do that. But it was a very exciting roll out.  
+
+You'll be seeing down the road, and we have a whole schedule which I think we made public, kind of state by state changes in names, signs, re-upgrades as we go with the Chase brand. And remember that Chase brand will have eventually well over $1 billion of marketing behind it between Card and Retail.  
+
+The card conversion, the last piece, where we've converted 60 million accounts on the TSYS. The last 40 million accounts the Chase side, we're well on our way to convert that early in the third quarter. We built some new data centers. We're building new networks and data centers and they're doing fine. We do need this.  
+
+We put all the money necessary to make sure have the right back-up systems. And the Texas conversion we've done a lot of work. And, of course, Texas conversion late in the third quarter, again a lot of the code, and I think in this particular case took about a million hours of code across multiple systems. A lot of it has been written and some is in testing, so every day we're getting more comfortable we can deliver all of this.  
+
+Go to Page 21, give you an outlook for the second quarter. And I'll do it kind of by business right down this page, if you do have the page in front of you. IB fee pipeline, it continues to be strong and we would expect it, assuming the markets stay where they are, at levels fairly consistent -- in the future consistent with kind of this quarter.  
+
+Trading, first quarter has always been very strong for JPMorgan. We're going to try to one day give you far more reason for that. We expect that will also be true this time, so we had a very good quarter, I think it was very gratifying that we had such a terrific recovery in trading results. However, markets have gotten tougher, we start to see in late in March. We think they will continue to be tough. A lot of you have estimates which are substantially below the first quarter. We think your lower estimates are probably pretty good relative to a view of trading results for the second quarter.  
+
+We reported credit portfolio from this NII loans and gains from securities received in lieu of loans, up about $200 million. I think we reported that those loans are coming down substantially, so an outlook for this would be to bring that down quite a bit. There are not a lot of gains that we would expect we would be taking in the future. A good number might be about $200 million.  
+
+One of the things I should point out, is we took out loans in the Investment Bank of 47 billion. The actual loan side, traditional credit product is down $6 or $7 billion from prior -- from last year, and it was made up for by what we call capital markets loan-type products. That's assets, back securities, conduits, warehouses, bridge loans, et cetera, stuff we want to do. So the NII from the traditional credit portfolio will obviously come down a little bit.  
+
+And then credit, we had a very good -- we took reserves improved by 3 -- were taken down by 3 -- below the $200 million. That will disappear, and again, you should all do your own estimate, but there are really two key indicators that will tell you it's going to disappear possibly quicker than you think.  
+
+One is all the market indicators, like spreads, the environment, et cetera. And the second is that the underlying quality that's being written today, and I think this started a year ago in terms of a higher leverage ratios, weaker covenants, et cetera, they've all deteriorated, so as a lead indicator, I think you should expect that will have an impact down the road.  
+
+Obviously, Investment Bank, Mike mentioned that expenses are up, that was more than accounted for by performance basis and of comp, and obviously that will come down as results come down a little bit.  
+
+Retail Financial Services, Mike mentioned the MSR hedging gain, we kind of planned for zero. Obviously, it's a volatile number, but we still generally plan for zero. You should remember that the refund anticipation loans are a first quarter item. They disappear in the second quarter, I think that was a number $60 million of revenues, but I forgot the exact number.  
+
+We did sell -- remember the portfolio sales and auto lease reduction all delivered, manufactured housing, RV, auto lease, and we sold about $5 or $6 billion in 10-1 hybrid ARMs. That will hit NII by about $80 million a quarter. So just put that in your numbers. We think that's a good reduction revenue. It's revenue we did not want. And the credit outlook in retail should be pretty stable. We have had some reduction allowances, but we aren't really counting that going forward.  
+
+Credit card, you see in the margins improve over time. We think they will stay stable. That's probably pretty good in a rising straight volume with tough competition. We think that we still expect to see our margins stable as it gets stronger.  
+
+Credit, we expect to be stable also. There are two things looming in the background. One is the bankruptcy law change, which you could expect a timing impact on how people declare bankruptcy. You may have already seen a little bit of that. And we don't really know the number, but it can obviously swing it a little bit, and there's minimum payment rule.  
+
+How it gets adopted and when it gets adopted we think will have an impact on a part of the portfolio and will drive losses up. Again, we don't have a real good estimate for you now, but we want you to know that's hanging out there. That item will probably mostly be an '06 item.  
+
+Marketing, this is good news. We have increased our spend in the last couple years, we're going to continue to increase it as we see opportunity and as it works. Obviously, it's been working a little bit.  
+
+Commercial Bank, Mike mentioned loan growth like middle market I think we've seen it for the first time in a couple years. We feel very good about that. However, there's very good competition which we will meet and spread compression because we are going to win in that business. Credit costs also there will return to normal over time.  
+
+And Private Equity, we reported almost $800 million of gains. We had told you that a $300 million number give or take is something, and obviously we don't get to decide this, it's lumpy. We also have about $1 billion in marketable securities, which get marked up or down based on the market. So we think that a lot of the gains we might have thought was in the 1.2 billion for the year we booked some, so we think it's reasonable for people to reduce their expectations more to a range of 150 to 200 or something like that. And again, we don't know those numbers. Those are when things actually get sold and so we are in the same boat as you when it comes to what those are.  
+
+And overall in the Company, the risk posture you can see is down. And I'll talk about trading in a second, but borrowing is down. Credit portfolios are down. We sold a bunch of portfolios. Our interest rate exposure, which we do an extensive modeling on, is down, so we're positioned for rising rates if they happen. And we think the balance sheet itself is in very good position. And we are kind of conservative on our posture looking forward on credit extension.  
+
+I think the bottom line, I think to give you just an overview for the whole thing, I think we're very -- I know the second quarter gives you a lot of things which are down the second quarter, but in terms of building a great Company we are very gratified this quarter. The underlying results are pretty good.  
+
+I'm just going to tell you again, just highlight them, okay? In the Investment Bank and recovery and trading, I think the people, Bill Winters, Steve Black in the Investment Bank made some tough decisions. They streamlined management. We're going to help them streamline even more as it relate to staff functions working faster and better for them. They promoted some terrific young talent. They've hired some great talent in a bunch of areas, and they're doing more mortgages, assets backs, energy, so the mean kind of commitment to fill out those gaps that they had. VAR is way down.  
+
+I want to point out particularly those who are in the trading floor is listening to me, it has nothing to do with me, it's really the position of the people running the business and how they want to run the business, so we feel great about the Bank and we're going to just continue building it, non-stop, relentlessly every single time you talk to us. And yes, we know trading is going to be up and down and we're not going to worry much about it.  
+
+Retail. I mean, Retail, what a story, you had growth in home equity, I'm going to say balance of 11%, credit card 75%, branches, ATMs, investments, debit cards, number of bankers, small business loans, checking accounts, the Chase checking accounts of 38,000 this quarter, total checking accounts 180,000, so we feel very good about it.  
+
+You might notice that those of you in New York, we're getting much tougher in New York. We've added two hours per branch in New York, we have more merchandising advertising. We signed up Duane Reed [ph], we are going to be a very, very tough competitor. And for our competitors in New York, I just want -- if you want to learn a quick lesson, go find out what happened in Chicago.  
+
+TSS. You had deposit growth of 15 to 20%. They have a lot of merger work to do. Revenues were up. Their fee business were up. Their margins were up, so we feel very good about it.  
+
+Asset & Wealth Management, Mike did mention it so we've added some bankers. Loans were up 10%. Deposits were up 20%. Cards, 700,000 new accounts, so a lot of our marketing programs we're starting to feel more comfortable about. Our outstandings are up 6%. I think that's better than most people in the industry. Spend was up 11%. Again, those I think are very strong numbers.  
+
+Commercial, I mentioned we have some growth in middle market. One thing we didn't mention is -- and we're going to try to get some more information about this, is the amount of business that JPMorgan Investment Bank is bringing to Bank One Commercial Banking clients is pretty gratifying. And more important, at the clients' level, where we didn't -- we haven't kind of mucked up our client relationships, we're bringing the best of both companies to that set of clients.  
+
+And what's really gratifying about all this is it's in the middle -- we are doing multiple -- we have thousands of people deployed on conversions. We are pushing our staff people to both get the conversions done and become more efficient and do things faster and they are starting to do that. We've consolidated operating centers. And all of this, most important, is we are keeping our clients. We are keeping our clients happy and we're growing the client base. We're spending the money we need to spend in marketing and investments, and so we feel really good.  
+
+Bill Harrison and I sit through a lot of these business views. I think we feel very comfortable about the management teams coming together. Yes, we've had some bumps in the road. We know we're going to have some bumps in the road in the future, unfortunately we can't do things perfectly, but we really feel pretty good how this merger is coming together.  
+
+So I will stop there and open the floor to questions or comments.  
+
+OPERATOR: Thank you. [OPERATOR INSTRUCTIONS] We'll hear first from Guy Moszkowski of Merrill Lynch.  
+
+GUY MOSZKOWSKI, ANALYST, MERRILL LYNCH: Good morning. First question is just a clarification on the corporate and other. I think what I heard you say was that starting in the second quarter we were going to see a $50 to $100 million increase in some of the technology and other spending costs. Is that a number that we should reflect approximately equally through the final three quarters of the year? And is it something that then starts to fade as you get into '06, or is that just the number to use the entire, say, next seven or eight quarters?  
+
+JAMIE DIMON: I think that number is with the net expenses of corporate, we kind of thing they might go into next quarter as we ramp up some of this conversion work and then I think it kind of levels from there. We do expect to make corporate far more efficient, but you may not see a lot of that this year.  
+
+GUY MOSZKOWSKI: Okay. And then in terms of the net interest margin, further contraction from here again about 50 million, how much of the impact of that did we actually already see in [inaudible] quarter's number, or was a lot of that bond sale really right at the end of the quarter?  
+
+MIKE CAVANAGH: Very little, Guy, at the very tail end, so we didn't see much of it in the quarter.  
+
+JAMIE DIMON: The bond sale itself had very little impact at NII. And in the corporate -- the Investment Bank, the 350 million credit portfolio, you had some in there, but it is really offset by gains we had on the sale of securities and recoveries and stuff like that.  
+
+GUY MOSZKOWSKI: Okay. And with respect to then to Treasury & Security Services, the same question really with respect to spending. Obviously, we did see some cost reductions there net, but should we expect a ramp up in terms of their technology over the remainder of this year?  
+
+JAMIE DIMON: I think modestly, yes.  
+
+GUY MOSZKOWSKI: Okay. A little bit, not too much?  
+
+JAMIE DIMON: Not too much, no.  
+
+GUY MOSZKOWSKI: And then a question on the credit card side, are you still comfortable that you can achieve that 3% ROO given that it seems like the marketing spend is growing faster and getting bigger than what you might have expected. Is that not a fair assumption?  
+
+JAMIE DIMON: No, because we certainly look at markets better than investment, and we will make those decisions based upon the returns we get. But we still have that as a goal, we are driving towards it and we did incorporate when we said that we're spending the right amount of money in marketing. It would be very easy to get there without spending the right money in marketing.  
+
+GUY MOSZKOWSKI: You're not viewing some of that marketing spending as really being sort of maintenance spending in order to maintain the revenue as opposed to really being able to organically grow the business?  
+
+JAMIE DIMON: No, I'm sorry, absolutely. I'm saying we're spending -- we will spend the market and maintain and grow, we expect to get the room while doing that.  
+
+GUY MOSZKOWSKI: All right. That's fair. Thanks very much.  
+
+OPERATOR: We'll move next to John McDonald of Banc of America.  
+
+JOHN MCDONALD, ANALYST, BANC OF AMERICA SECURITIES: Hi, good morning. Could you give us some color on the stability of the net interest margin in cards? And maybe a feel for the type of pricing initiatives that you're doing?  
+
+JAMIE DIMON: Yes. Remember, I think we said way back that in card business, we put together these two card companies, we do what I call depricing and repricing, which is, you make it cheaper for good credits and more expensive for other credits. And it's kind of applying outwards to both sides and we feel good about the application of that being done properly.  
+
+Bank One hadn't been good at that and finally got good at it. And, obviously, there's a lot of competition out there, so when we talk about pricing, in pricing you have our own ability to price property or card, to create and generate accounts and to meet competitor prices in a rising environment. So we do feel comfortable that we are thinking through and managing that line pretty well. Does that answer your question?  
+
+JOHN MCDONALD: Yes. So these price initiatives are going to offset higher funding costs in competition and give you confidence that you can keep the margin flattish?  
+
+JAMIE DIMON: We think so. Yes.  
+
+JOHN MCDONALD: Okay. On the investment spending or incremental spending last quarter you said about 1.1 billion for the year. It sounds like 2 to 250 for second quarter. Can you tell us how much you did in the first?  
+
+JAMIE DIMON: Oh, boy. I think it was a little bit less. It's harder for us to tell. Remember that was not investment spending, that was -- we actually were spending much more than that on the quote investment. We just identified very, very specific clearly new investment spending-type things as opposed to all investment spending. And I think what Mike mentioned is that some of these expenses are ramping up are bringing us to that level in the second quarter, so maybe the level at 250.  
+
+JOHN MCDONALD: That's not incremental above first quarter, that's what you would spend --?  
+
+JAMIE DIMON: No, I'm just going to guess now, I'm going to say we probably did 150 of that in the first quarter or something like that. But don't double count what Mike said. Mike was saying the couple of areas you're going to see it go up a little bit as we increase both investment spending and merger-related spending.  
+
+JOHN MCDONALD: Okay. And last thing is on the buybacks, is this quarter a good representation of a healthy pace for you? Is tangible common equity a constraining factor on that, Jamie?  
+
+JAMIE DIMON: I think Mike said it well. It was pretty good to have these earnings, take the litigation charge, have the merger costs, buy back that much stock, it's still at 8.6% Tier 1. What we've told the world is all we're going to say is, I think the Board approved -- was it 6 billion -- a $6 billion buyback, and we wanted as a discipline buy back what we issue, which I think we told you was about 600 million a quarter. That's on measured options and restricted stock and stuff like that. But we will buy back less as the stock goes up and buy back more as the stock goes down, and we think we have plenty of capital to continue to buy back at a very healthy rate, if we want.  
+
+JOHN MCDONALD: Okay. Thanks.  
+
+OPERATOR: We'll move next to Glenn Schorr of UBS.  
+
+GLENN SCHORR, ANALYST, UBS: Thanks. Just two quick clarifications. One on the slide on the Investment Bank, you talked about the strong trading results and they were definitely strong, but you had a comment in there on portfolio management trading at the Investment Bank. Any color commentary you could give us on specific products and where we see the activity? We can guess, but kind of nice to hear it from you guys.  
+
+JAMIE DIMON: I think you're talking about the fixed income side, right?  
+
+GLENN SCHORR: Correct.  
+
+JAMIE DIMON: I think the fixed income side was in credit rates. It was in Europe, it was in North America, so it was really well spread and all over the place. And client flows were strong, portfolio management was obviously quite good. So there's no one item to identify in particular.  
+
+GLENN SCHORR: And back to your earlier comments, you feel like there's seasonality in your business but it's kind of hard to pinpoint, but that is a clear contributor in the first quarter?  
+
+JAMIE DIMON: Yes. Trading results have always been seasonal here, and I wish I can give you a wider reason why, but I haven't fully investigated it. But I'm also telling you -- that's one issue, and we expect that to continue. And the second one is, what we're seeing in late March, in April, we think it could be a much tougher environment.  
+
+GLENN SCHORR: Understood, unfortunately. Mike, one for you, just a clarification. You mentioned while we're talking through home finance with production revenues up yet origination is down in the 15 to 20% range, I would have thought that was a function of mix and type of products you're originating, but you alluded to a certain servicing or hedging. Can you give that to me one more time?  
+
+MIKE CAVANAGH: Yes. It's just there's two pieces that go through there, one is what you just described, the mix of kind of the stuff we're originating. But at the same time, there's activities that we call secondary marketing which is just the activity of managing the pipeline, selling it off to the agencies, hedging it and so forth that creates some P&L activity around that and that was particularly strong in the first quarter.  
+
+GLENN SCHORR: And is that something that you think of like the MSR hedge where you think of it as zero and it's great if you get some positive, but you don't manage towards that?  
+
+MIKE CAVANAGH: I think we expect to get some positive, but we got a little more positive than we would have expected.  
+
+GLENN SCHORR: All right. Thank you both.  
+
+MIKE CAVANAGH: Yes.  
+
+OPERATOR: We'll move next to Betsy Graseck with Morgan Stanley.  
+
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Thank you. Good morning. Just a question on the balance sheet repositioning that you did. You mentioned that as a result of this, in a 100 basis point interest rate rise that would impact you negatively by 50 million, did I hear that right?  
+
+MIKE CAVANAGH: Moves inside of 50 million negative to around 30, Betsy.  
+
+BETSY GRASECK: So then would you at all consider continuing this action if opportunities came up that would enable you to do that? To continue to shrink the portfolios there?  
+
+JAMIE DIMON: Probably not because at one point we're getting the portfolios very low relative to what they could be if you look at competitor banks. It's one way to manage interest rates, maximize tax position, et cetera. And obviously, it's a capital decision too versus your other capital decisions, but we have no real intent to reduce it.  
+
+BETSY GRASECK: Okay. So I guess I was a little surprised that you went further from your actions last quarter, so I was just wondering if you would consider going forward.  
+
+And then just on the trading side, I hear you that this quarter was extremely strong, and congratulations there, it was outstanding. But I'm sort of confused as to why we should be thinking to bring our numbers back down to as low as they have been prior to the release of the results. Because when we look at volatilities and client flows in some of your key product areas, they do seem to be running at a rate that's above what they had been, at least in fourth quarter and then January, February. So even though we've gotten into a weaker environment here relative to maybe the middle of March, I'm sort of wondering why we should be as conservative as we have been prior to the release of these results.  
+
+JAMIE DIMON: Well, the first is like I said, it's always been seasonal here. And they've always had a much stronger first quarter than second quarter. And the second is it is April -- what's today? 20th, right. So I don't know, forget markets and all the stuff like that, I think we've seen for us and maybe it's not everywhere, we don't know about other competitors, it's been very tough. And you're right, the environment itself may create opportunities to make that back, but it's been tough.  
+
+BETSY GRASECK: Okay. So you just don't want it in our base case?  
+
+JAMIE DIMON: Yes.  
+
+BETSY GRASECK: Thanks.  
+
+OPERATOR: Up next with Prudential Securities, we'll hear from Mike Mayo.  
+
+MIKE MAYO, ANALYST, PRUDENTIAL EQUITY GROUP: Hi. It's Prudential Equity Group.  
+
+JAMIE DIMON: Is it Prudential or Wachovia?  
+
+MIKE MAYO: Prudential Equity Group. In terms of the impact of higher interest rates, you made a general comment that your position for rising rates, and this comes right after a very good fixed income trading quarter, can you comment about the impact on your firm from the higher interest rates, especially with core CPI being higher today?  
+
+JAMIE DIMON: First of all, the trading, the Investment Bank manages its own interest rate exposure, and obviously is in and out of it in multiple ways and multiple ways around the world, so I'm really going to refer to the rest of the Company. When I say fill in neutral interest rates, we look at -- Mike mentioned the up 100 basis points, the whole curve moving up, and you can do a million different scenarios. Those scenarios include on our side is how we are going to reprice deposits, how we are going to re price credit cards.  
+
+We have to kind of think through the competitive pressures, but they don't include the impact interest rates in the general environment. So if the rates go up and you have a booming environment, that will probably actually dwarf the impact of interest rates themselves. Or if rates go up in a stack inflation environment that would be very negative towards the old camps. So what we do, we look at the exposures to say we can actually handle interest rate swings, not a big deal on the income statement of the Company, but we are also protected against really adverse environments.  
+
+MIKE MAYO: And did anything go wrong in April so far? I mean --  
+
+JAMIE DIMON: On interest rate exposure?  
+
+MIKE MAYO: Well, fixed income trading or otherwise in the month of April?  
+
+JAMIE DIMON: All I'm going to say is what I've told you, it's been tough for us. That may be different for other people.  
+
+MIKE MAYO: And just to reconcile a couple comments during this conference call, I thought you started off the conference call saying there will be a net incremental increase in the investment spending, 200 to 250 million, and later you seemed to imply it might only be 100 million. So starting the second quarter, the additional spending for marketing and technology will be how much higher and how long should we keep that in there?  
+
+MIKE CAVANAGH: Mike, it's Mike Cavanagh, so what I was saying is that from the levels we saw for those items in the first quarter, I would see us being up 200 to 250 in the second quarter. That's partly technology, partly marketing spend, and then I would see us holding at those levels for a while with the saves that I talked about also running through the line. So there's a lot of moving pieces, but the investment -- incremental spending is 200 to 250 versus the first quarter.  
+
+MIKE MAYO: Thank you.  
+
+JAMIE DIMON: Are you including credit card in that?  
+
+MIKE CAVANAGH: Yes, that's the whole Company.  
+
+JAMIE DIMON: So Mike is talking about [inaudible] different numbers, he's talking about the whole Company including -- I said we just might include increased marketing spend, and that wasn't in what we would call the investment spending we showed you last year.  
+
+MIKE MAYO: Thanks.  
+
+OPERATOR: Up next with NAB Research, we'll hear from Nancy Bush.  
+
+NANCY BUSH, ANALYST, NAB RESEARCH: Good morning, guys. Two questions for you. On Slide 8, Mike, you mentioned the lower non-compensation expenses and the higher comp expenses and in-sourcing as one of the sources of that change. Can you just quantify the headcounts that we're talking about there, and is that an ongoing trend?  
+
+MIKE CAVANAGH: I think we had an increase in the first quarter on the in-sourcing side of about 3,700. That's going to increase maybe by another thousand or so over the first half of the year and that's the effect of various in-sourcing efforts that we've got.  
+
+NANCY BUSH: Okay. And secondly, Jamie, this is probably for you. You mentioned that you were very gratified with the cross sell of JPMorgan Investment Banking products to the Bank One customer base. Can you just give us some color on that? I mean, was that a material number in the first quarter, and does it sort of get bigger from here? I mean, can you just add something to that?  
+
+JAMIE DIMON: I think the number -- the gross revenues, remember the Commercial Bank only gets a credit for a portion of them, and -- did we disclose that number in the -- so the gross revenues were about $100 million in the quarter, right? Is that correct?  
+
+MIKE CAVANAGH: It might be a little higher than that.  
+
+JAMIE DIMON: A little higher than that.  
+
+MIKE CAVANAGH: I think the net numbers on Commercial Bank was around $40 million, what you see in those numbers, depending on product it can be --  
+
+JAMIE DIMON: Right. So the Commercial Bank was 40 million, but 100 million gross revenues. And part of those revenues are revenues that our Investment Bank would never have had. So actually I've asked them to make a list of deals that was brought just to Bank One customers, equity, fixed income and advisory that Bank One obviously wouldn't have had that JPMorgan would have had. And I don't know the proportion of 100s, but they already sent me a list of like 10 or 15 deals. All I'm saying is that feels pretty good that we're actually successfully bringing that.  
+
+I've spoke with most of these clients, they're thrilled to keep their local banker in Indianapolis or Phoenix or Dallas and they are thrilled that they get the power of JPMorgan behind them. So we're adding incremental Investment Banking right into the Commercial Bank. In fact, the guy who runs the Investment Banking Group here, Doug Braunstein, he now thinks that the opportunity is much bigger than he would have thought before too. So hopefully, we'll build it over time.  
+
+NANCY BUSH: Jamie, can you just add anything as far as the segment of the Bank One client that you're getting here? Is there sort of a sales segment or anything that's uniform through the list?  
+
+JAMIE DIMON: No. It's across the Bank One customer base, but, for example, a lot of middle market and companies -- energy companies in Texas that know that Bank One has a great lending relationship with and that JPMorgan Investment Bank didn't have a relationship with.  
+
+NANCY BUSH: Thank you.  
+
+OPERATOR: Up next we have David Stumpf with A.G. Edwards.  
+
+DAVID STUMPF, ANALYST, A.G. EDWARDS: Good morning. Mark, could you provide a little insight into how the spin-off of the Private Equity operations will ultimately effect sort of reported results? Not necessarily the numbers obviously, but in a general sense, what line items will be affected and then the timing of that?  
+
+JAMIE DIMON: First of all, it almost has no real effect. So think of it as there's $7 billion of equity in the balance sheet, or 7.2 now, right is that the number -- of which JPMorgan Partners is a little over six. We're still going to get the same return of those assets over time. And over time, those assets will come down. JPMorgan Partners actually will invest some more, so until they're completely spun off, that number may stay 6 billion or bounce around, et cetera.  
+
+When the spin off is done, which I think is mid '06 or late '06 or something like that, then those assets will start to run down. We'll invest more money in JPMorgan Partners, we'll probably invest more money in our own equity ventures, but even -- so the total balance of Private Equity stuff will come down slowly over time. Whatever the returns are, that will be the same returns we got before. And if we don't put $1 billion into Private Equity, right? We will put the $1 billion into something else that will get a good return.  
+
+So it won't affect the Company at all, for example, we can buy back stock. So it wouldn't have any really long-term impact on the Company and you'll see the Private Equity balances just come down more over time.  
+
+DAVID STUMPF: That's great. Very helpful. And it will be a great opportunity, we're going to invest more money in JPMorgan Partners than somebody else. Thanks.  
+
+MIKE CAVANAGH: And, David, the term "spin off" is a little bit of a confusing thing there, which Jamie described. It is not really a spin off, but that's the term that confuses people.  
+
+DAVID STUMPF: Okay. That's helpful.  
+
+JAMIE DIMON: We'll take one more question, please.  
+
+OPERATOR: Thank you. And that question will come from Andy Collins of Piper Jaffray.  
+
+ANDY COLLINS, ANALYST, PIPER JAFFRAY: Good morning. Just on the Home Finance business. I was wondering if you could tell us what the production pipeline looks like and how we might want to model revenues there because they seem kind of volatile.  
+
+JAMIE DIMON: They are volatile, and we keep on telling you, there are two lines -- the line called MSR, which we say model at zero, we're making simple for you. We hope to do better than that, but those are very volatile asset and hedging assets and liabilities. The revenue line called "production servicing" which includes the origination and sale of loans, the warehousing of loans, the hedging of the loans in the warehouse, the kind of spread you get on that, there's been a tough market and it's also volatile because it's based not just on production like I said, it's based upon the spread on sale and your hedging. So we think it may be -- it obviously bounces all over the place. It's hard to give you real guidance on that one.  
+
+I do want to point out, by the way, one of the things we're doing more and more is a lot more of our production is going to the [inaudible] trading desk at JPMorgan to help build a world class MBS business here. So we are producing more old day loans, more prime reductions going here, more jumbos going here, and given the chance to build a business which is going great for Chase Home Finance and for JPMorgan mortgages.  
+
+ANDY COLLINS: Unrelated question on the TS&S business, just wondering if the reorganization will see the revenues and income jump around going forward on that business?  
+
+JAMIE DIMON: No. The reorganization itself should have no real impact on the trends in that business, and obviously, we think it's a better way to be organized, so hopefully we think over time it will strengthen the growth of that business and the margins.  
+
+ANDY COLLINS: So we're done there pretty much.  
+
+JAMIE DIMON: Yes. We thank you all for joining the call. We will talk to you soon. Thank you.  
+
+OPERATOR: And that concludes today's conference and we thank you all for joining us. Have a great day.  
+
+[CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.  
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.  
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. ]  
+
+Document FNDW000020050504e14k000gx
+

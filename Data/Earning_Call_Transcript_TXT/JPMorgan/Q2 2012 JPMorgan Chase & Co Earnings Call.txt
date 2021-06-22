@@ -1,0 +1,1328 @@
+Q2 2012 JPMorgan Chase & Co. Earnings Conference Call - Final
+22,475 words
+13 July 2012
+CQ FD Disclosure
+FNDW
+English
+©2012 by CQ Transcriptions, LLC. All rights reserved.
+Presentation
+SARAH YOUNGWOOD, HEAD, IR, JPMORGAN CHASE & CO: Thank you for joining us early in the morning. A
+few announcements. Please turn off your cell phones. All materials are now available on our website. We will
+open the floor to Q&A at the end of the presentation. During the Q&A sessions, a few things that will be important,
+because some of the people are in the room. Please wait for the microphone, and say your name to make sure
+that the people on the phone know who is speaking. For the convenience of others, in terms of follow-ups, if you
+have several follow-ups, we may have to come back to you towards the end, and then we'll go to questions to the
+telephones, and last point, we know that Wells Fargo is having their call at 10.00. We have set up a room. It's 207
+on this floor and a few break-out rooms for those who want to listen from here. With that, in terms of the audio.
+Please take a look at the forward-looking statements, and I'm going to turn it to Jamie.
+JAMIE DIMON, CHAIRMAN & CEO, JPMORGAN CHASE & CO: Sarah, thank you very much. I appreciate you
+all coming today. We have a whole bunch of presentations to take you through.
+I'll start with me. I'll try to cover some of the high points. Unfortunately, I think you might have see this morning,
+that we announced a restatement of the first quarter. Doug will describe it in detail, and Mike. We don't take it
+lightly. We talked to our best advisors, accounting and legal and tried to do what we thought was right, and the
+most conservative thing to do. Hopefully, this what is the SEC chairwoman herself would have done, if she had
+seen all the same facts at the same time.
+Today I'm going to cover, I'll just give you a quick overview. I'm going to talk about a whole bunch of significant
+events, items in the quarter, which we will break out for you right in the front of the press release, give you an
+update on the synthetic credit portfolio, talk a little bit about Treasury and CIO, there's some questions about it, so
+I'm going to try to answer some of those. Our capital plans. I'm going to turn it over to Doug, who is going to take
+you through the regular earnings presentation, though it's gotten slight more disclosures, and then Mike will give
+you an update on the CIO task force, kind of the anatomy of the problem, all the good, the bad, the ugly of it.
+The review is continuing, I should point out. It's being guided by the Board. If we find out more, it's always
+possible, or anything different or material, we'll let you know as appropriate. If we do find out more, we will do the
+right thing as we always try to do. One thing, which I would love people to focus on a little bit at one point, actually
+look at the businesses, the six businesses, they have really good underlying performance. That, to me, is why
+we're here, the main reason why we're here.
+We've significantly reduced the total synthetic credit risk in CIO. It's down substantially. I'm going to give you
+some real numbers and describe how we're going to manage that going forward, including the risks that are going
+there. We've substantially taken all of the remaining synthetic credit positions, translated them to the IB. We put
+them there because IB has the people, the expertise, the capacity, the trading platform, the market franchise to
+effectively trade and manage these positions, and importantly, they can do it within their historical VaR and stress
+risk limits levels. This is what they do, it's going to let the rest of the firm go back to do what it should be doing.
+We have closed down synthetic credit trading in CIO. We'll no longer be doing it. I'll tell you one exception of one
+short position we're keeping there. Our Fortress balance sheet remains completely intact. In fact, I would call it
+undented. An extensive review has been conducted. Mike will take you through that. Very importantly, all of CIO
+management has changed. Matt Zames is here. While you may know him professionally, but he also brought in a
+lot of additional risk people, traders, finance officers to help manage the CIO area. And they've been through top
+Page 1 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+to bottom, all the governance, reporting, limits, et cetera in CIO. We do believe these events are isolated to CIO,
+and Mike will talk about it a little bit more.
+These type of events are terrible, but there is one gratifying thing in them. As you find out that people come and
+bring their best every day, we've had hundreds of people kind of working around the clock now for three months
+to get this thing fixed, and wrestled down, and I think we've mostly accomplished that. And now we can focus on
+our energy on what we do best, which is growing our businesses and serving our clients and communities around
+the world. Hopefully after this is over, we will be a stronger Company for it. We did report net income of $5 billion
+for the second quarter, that would have been $4.6 billion had it not been the restatement. Earnings of $1.21. The
+first half, we'll earn $9.9 billion, that is not obviously unaffected by the restatements and the balance sheet and
+capital ratios are not affected either.
+In the second quarter, let me take you through each one of these items a little bit slowly. CIO trading losses, that's
+the synthetic credit book, $4.4 billion. But in the first quarter, it was about $1.6 billion. Not hiding that. We're not
+doing it, that's $1.6 billion in the first quarter which we moved $600 million by the restatement, $4.4 billion this
+quarter. Corporate CIO securities gains, we announced that actually when we told you the first time about this
+problem. We did not take additional securities gains.
+All I want to point out here, is these are always broken out in the P&L. You can never hide them. We take them
+generally for investment decisions, do you want to own or not own that security. We don't generally take them to
+offset something like that, and I pointed out before, that taking gains is generally tax inefficient. Doesn't mean you
+shouldn't do it, it's just generally tax inefficient.
+Loan loss reserves came down by $2.1 billion. That's mostly in mortgage and credit card. That's exactly the same
+conservative principles we used before. The good news is, charge-offs and delinquencies are coming down.
+Reserves had to come down, and Doug's going to give you a little bit more information on that.
+Investment bank had $750 million of DVA gains. We all know we don't consider that earnings. On corporate, we
+expect a full recovery in the Bear Stearns note. Some of you may remember when Maiden Lane was done, when
+the Fed took on $30 billion of Bear Stearns' assets we guaranteed the $30 billion of loss. Maiden Lane, they
+completely repaid the Federal Reserve. We've now been paid $200 million. I think we get another $300 million
+sometime in a couple weeks. We expect full recovery of the $1.2 billion plus interest, that's just writing the note
+back up to what we expect to get in cash, plus interest over a little bit of time. I won't go through the capital ratios
+here. I'm going to talk about them a little bit later.
+Moving to the synthetic credit portfolio, the only other thing I would mention too, of the losses in synthetic credit, it
+is kind of costly. The worst part of this whole thing, is when we started this thing, we knew we had these large
+illiquid type of things to manage down, and we had $2 billion plus at that time. We have been reducing the risk
+substantially, go through these numbers, but it's costly to do. It's costly to do. I'm going to give you the final
+ultimate risk. We did get it down a little bit faster than we thought we might be able to do.
+Number one, we're transferring about -- I'm going to give you rough, crude measures of risk here. They generally
+are accurate, but this is in the trading book, so we're not going to disclose specific positions. The risk weighted
+asset transfer to the IB, and this is a fairly decent measure of risk is about $30 billion. So their risk weighted asset
+is up by $30 billion. It's down substantially from the peak, and it's about probably where it was on December 30,
+so it went way up, it's come way down. We've significantly reduced net notionals and credit spread sensitivities.
+We show you, the credit spread sensitivity, CS01 is how much you would gain or lose if credit spreads widened
+by 1 basis point. You can see it's down from a peak of $51 billion to $7 billion. $7 billion is close to what I call a
+norm.
+We have a significant reduction in the on-the-run and the off-the-run basis, this is part of what we read about all
+the time about the IG9. The IG9 itself is down around 70%. We reduced the basis risk between high yield and
+high grade risk in Europe and the United States. These are the kind of risks that got built up, complex risk which
+we wish we didn't have when we realized it was there. They're down by 70%, and what remains is not, in my
+opinion, that big a deal. The residual portfolio that's transferred over to the IB is largely a delta-hedged tranche
+portfolio. It's stuff they know how to do. They're better at it than [SEFO] is. It's still large. We're not saying it's not
+large. It still could obviously could lose money or perhaps make money.
+Some of the positions are currently cheap to theoretical. That's how they were when we inherited them, when
+Matt Zames joined us, and I'm giving you within number here. Extreme simulated scenarios indicate a potential
+loss between $800 million and $1.7 billion. This portfolio could make money. The extreme simulated losses are
+things like a Euro zone crisis, a credit crunch and the 99.9% stress, statistical stress that have a loss about $1.4
+billion. We do things as a box. I hope we don't have these losses at all. To help us a little bit in the quarter, we will
+Page 2 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+have about a $900 million gain on swaps we have terminated against some of our TRuPS, but we think we're
+pretty much done with the financial loss of this, and we can look at that gain.
+I've already mentioned that we transferred to the IB and why. And there are already -- we're more actively trading
+it than we were. If you look at the combined IB and synthetic credit portfolio risk within the IB historical, RWA as I
+mentioned, went up by $30 billion, not that significant to them. Their VaR, I think it will be disclosed that the IB
+VaR at the end of the month was -- the spot VaR was $74 million. The next day when we transferred over, July 2,
+it went to $113 million. Well within the numbers we were used to, and comfortable. We've had as high as $200
+million.
+The remaining portfolio that we left at CIO is simple. It's an $11 billion short, basically liquidity indexes, it's
+identified to offset some potential losses in a much larger AFS portfolio, asymmetric, one is marked-to-market,
+one is not, so we're not worried about this. We getting one to far offset the loss of the other, and vice versa, but
+we need to make separate decisions, do you want to own those investments or not own those investments. We
+thought now was a rational time to keep a hedge on certain credit exposures around the world, particularly what
+you see going now with the Euro zone. This hedge will come down over time. We don't intend to keep it there
+necessarily forever. Obviously we'll make those decisions as we see fit. It will show a VaR, remember, it's $11
+billion, it will have its own VaR, it's not hedged against anything. It's asymmetric, it'll have a VaR of like $135
+million coming down over time. On it's own, it's about $34 billion of risk weighted assets.
+The next page, I'm talking about some Treasury and CIO activities, kind of go through this. I suppose I should
+point out, Treasury and CIO had been and always will be subordinated to the needs of the rest of the Company.
+They can only invest when, where, how, why, for the needs of the Company. That involves how the duration they
+invest in, involves the credit they invest in, involves what they invest in around the world. It's not the same
+portfolio. It's a logical portfolio.
+Why do we have it at all? We have $1.1 trillion in deposits. We've got $700 billion in loans. That would generally
+be considered fairly conservative. We like making loans by the way. Between our acquisitions and the fact we're a
+money centered bank, we get a lot of deposits in, we end up with a lot of extra deposits. The extra deposits are
+$423 billion, plus equity, plus some of the net liabilities, give us $522 billion, that's not being lent out, that we have
+to invest.
+We actually split it in two pieces. Some companies do it differently. Some combine Treasury and CIO, most have
+functions like this. The first piece is $199 billion, which we call Treasury deployment. We're going to make a
+disclosure. It's on the balance sheet. It shows up as cash due at banks and sometimes government repo. Most of
+that money is very short duration, most of it is in central banks around the world. Some of it is in government
+repo. We have it there just because of liquidity, because we have a lot of money that comes in and out of this
+Company every single day. We bank member nations, sovereign wealth funds, large companies, can easily
+swing, $5 billion, $10 billion, $20 billion a day.
+Treasury, CIO has $323 billion, it's down a little bit because we haven't been reinvesting the last -- we're waiting
+to give Matt a little bit of time to figure out what he's got before he starts reinvesting, but it has an average rating
+of AA and an average life of 3.7 years. I'm going to show you a little more detail on the next page. Post-transfer
+pricing. We take all the assets, all the liabilities generated by the Company, so take loans and deposits, they're
+constantly dynamically evaluated for their risk pricing, their duration and liquidity. And we generally then pay units,
+market prices on what they did. To pay market prices, they have the right kind of incentive to grow or not grow
+their balance sheet. They do not get gains, securities gains for excess returns and CIO. They get kind of market
+rates at steady income. If you go back in the years, you saw we had a lot of income in CIO. Back then, we told
+you that was going to get very high rates, we didn't pass on to the businesses because it wasn't going to
+continue.
+So CIO invests to achieve a desired asset liability duration. We obviously change this all the time. All the
+companies worry about this. I should point out our two biggest exposures are credit and interest rates, and this is
+the place we kind of manage the most part the interest rate exposure. Currently, if you ask to be duration neutral,
+to the best of our ability to offset all interest rate exposure, we would have to invest this portfolio in an average
+interest duration of 3.7 years. It is invested currently at an interest duration of 1.2 years. What that means is that
+our balance sheet will reprice quicker, the assets will reprice quicker than the liabilities. And that is disclosed in a
+statement called earnings risk, that says if interest rates go up 100 basis points, earnings would go up by $2.4
+billion. That's how you generate that kind of number. Obviously, you could change this over time, and I will put
+this in the conservative category.
+Obviously the composition of our balance sheet will change of time, loans will go up. We need to meet the new
+LCR and Basel III requirements, CIO has reinvestment here of $40 billion. They have to invest, every year,
+Page 3 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+probably, if you want to estimate it, an additional $20 billion to $30 billion of additional deposits. That flow will be
+invested in the things we think have the most logic for the Company in terms of liquid asset buffers, return of risk
+weighted assets, et cetera. Loans will be our priority, by the way. This is not our priority. We want to grow our
+businesses, but we do have this money to invest. Obviously, the more liquid assets we buy, we might reduce NII
+a little bit, but it also reduces RWA, and there's not a complete offset but it's close. Over time, there's a pretty
+good chance we'll increase duration. Rates are going to go up again, you'll probably see us go longer in the curve
+and earn back more NII. So this is where we try to manage that all the time, and do the right fairly conservative
+thing for the Company.
+Next page shows you the investments. I've already mentioned kind of the green line at the top, the Treasury
+deployment and the cash deposit with banks is mostly central banks, reverse repo, I told you, government
+securities, they do have some very short-term AFS securities and then you can see below how we break out this.
+I'm not going to go through the detail here. If you want, later, on you can call Investor Relations, get some more
+detail. I want to point out two things. 80% of it is either government backed, US government agency credit or
+better.
+The only other thing I want to point out is every investment has risk. This concept that somehow you can buy
+Treasuries and think you might not lose money, you can buy credit, you might not lose money. You can buy
+mortgages, you might not lose money. Any of them, you have to make a decision of where you want to put your
+Company in this, and the future's always different. Now that we have Basel III, you might know that Basel III
+accumulated OCI goes into your capital. So obviously you have to invest, being careful about how much capital
+might swing around. As time goes on, we will [move on] through this book a little bi We still think it's fairly
+conservative.
+On the capital planning side, the first comp shows you net income that was just reported, $4.96 billion. These are
+your analyst estimates now. I'm taking your estimates for the Company from third quarter and fourth quarter and
+you can see your estimates for the 2013 and 2014. I just want to point out, we hope to beat all of them. All those
+numbers on that page, can't promise that, but we hope to. The next line down, RWA is our estimate, we're
+constantly estimating Basel 2.5 with NPR, et cetera in there, and we have run-off and model mitigation, a whole
+bunch of things. That's our best estimate today.
+If you look at the bottom line, our Tier 1 common goes from $7.9 billion today, this is no stock buyback, $8.5
+billion the third quarter, $8.8 billion in the fourth quarter, $10.5 billion by the end of 2013, $12 billion by the end of
+2014. IE, we have a lot of capital generation. That's why we think it's a logical thing to buy back stock. You could
+buy back, if you said, if you were my Board of Directors, you would say, how much stock you want to buy back,
+we can get to 9% Basel III by the end of 2013 and buy $23 billion, we can get to 9.5% and buy $15 billion. So
+clearly, we have the ability.
+What are we going to do? We would like to buy back stock, but after discussions with the Federal Reserve, we
+need to work with the Federal Reserve, the Board has determined not to buy back stock until two things take
+place. We finish the Board review, I think it's a logical thing, so we come to the conclusion with the Board review
+and we find no other major stuff, which I don't expect to find, and we submit a new capital plan to the Fed, only as
+to repurchase, not to dividends. (inaudible) And hopefully, if all goes well, we can start buying back stocks early in
+the fourth quarter. The dividend will continue to be 30%. In the past, we've said to you all that we hope to have a
+30% pay-out ratio. It is possible when you look at these numbers, strategically, you might raise that ratio some
+years down the road, but we'll decide that when we get there. And we're in a strong trajectory to meet the 9.5%,
+we have plenty of capital and plenty of capital generation.
+In spite of this accident, this event does not change what I think has been a bedrock of JPMorgan Chase for the
+last five or six years. We believe in a Fortress balance sheet, and conservative balance sheet management. We
+always believe in high capital. Through this whole crisis, you never saw our capital go down. We believe in
+conservative funding, I won't go through detail there, a lot of liquidity. Strong reserves. I would tell you, we believe
+generally in conservative accounting principles. We don't like to deceive ourselves about whether they're earning
+money or not, and obviously, this thing is also a little bit of an exception there. I already mentioned the bond, we
+have fairly conservative balance sheet management and asset liability management.
+Our earnings, the real reason we're here is to grow our Company. We think we have a strong and diversified
+business model. It's been a source of strength to this company, not a source of weakness, particularly in the
+storm. We have great earnings power, we still think the earnings power, if you adjust for all kind of the ins and
+outs, about $24 billion a year. We think we have some of the best franchises in our businesses in the world,
+almost every single one of them. They may not be the best, but I think they're damn close, and we think we have
+Page 4 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+a very disciplined and detailed management team, all of whom are sorry that we missed this thing. The way we
+run our business day-to-day, we have pretty good businesses and management teams.
+This slide I like to look at because it just shows the buildup over the last six years on our book value, our tangible
+book value. I think our book value is clean, with strong reserves and strong accounting and good loans and good
+assets and things like that. You can see throughout this whole crisis, this never stops growing. So we were able
+to grow in difficult times and I think it's a sign of strength, not a sign of weakness. It was driven by diversified
+businesses, confident investing in businesses, building what we consider to be market leading franchises and
+maintain our conservative principles.
+So to wrap it up, we are not proud at this moment but we are proud of our company. We're not making light of this
+error, but we do think it's an isolated event. One of the reasons you do hold capital is for known and unknown
+events. Obviously this one we shot ourselves in the foot. That is one reason you have capital, for things you are
+surprised about. We learned a lot. I can tell you this has shaken our Company to the core, and what happened
+here is that most of the management team went back and said let's redouble our efforts to make sure we're
+running a great Company. We're granular, thoughtful, disciplined in every possible.
+We could never say that we won't make mistakes. We operate in a risk business. So say you're doing -- you think
+precisely that does not mean we make mistakes, hopefully they'll be small and few and far between. We have a
+great franchise which we never stopped growing in this crisis, serving our clients through tough times and we
+think we have great growth opportunities going forward. With that, I will turn it over to Doug Braunstein, who will
+take you through the regular earnings presentation. Thank you.
+DOUG BRAUNSTEIN, CFO, JPMORGAN CHASE & CO: Thanks, Jamie. So I'm going to go through the earnings
+deck, so if you turn to that. On page 1, Jamie really covered this page. Just to highlight, $5 billion of net income,
+$1.21 per share. We did announce this morning that we're restating our first-quarter earnings, as Jamie said. The
+restatement is really based upon recent facts that we've uncovered regarding the CIO trader's intent, as they
+were marking the book, and as a result, we questioned the integrity of those trader marks. We felt as a result of
+that, it was both prudent and a conservative approach to restate our first quarter.
+We've also as a result of that determined we had a material weakness in CIO's internal controls over the valuation
+of the synthetic credit portfolio, as of March 31. We believe, however, we've substantially remediated that
+weakness at the end of the second quarter. Mike's going to provide you the details on how we uncovered trader
+intent, but from a financial point of view let me give you four facts and then we're going to move on. The first is the
+loss of the portfolio prior to the restatement for this quarter would have been $5.1 billion. After the move to $4.4
+billion, in total, year-to-date $5.8 billion in losses. Second, we effectively moved $460 million after tax to the
+synthetic credit portfolio from the second quarter into the first. Third, year-to-date earnings, $2.41, unaffected by
+the restatement, restated earnings was $1.19 in the first quarter, $1.21 this quarter, effectively a move of $0.12
+approximately per quarter and then the last, as Jamie said, year-to-date revenues, year-to-date net income,
+year-to-date capital, year-to-date balance sheet are not impacted by the restatement.
+So with that, let me turn you to page 2. I want to focus on the $22.9 billion of revenue. If you excluded the
+significant items that impact revenue in the quarter, revenue would actually have been $25 billion for the quarter.
+That revenue strength really came from some strong performance across a number of our client-facing
+businesses, as Jamie talked about.
+Let me highlight a couple of factors. First is, we had positive loan growth again. We have added $40 billion in
+loans on an absolute basis in the last year, that's after almost $23 billion of run-off in our mortgage portfolio that
+we have told you we have intended to do and are doing every quarter. We had record commercial bank loan
+balances this quarter, up 17%. Business banking origination, up 14%. Small business loans, up 35%. Mortgage
+originations up 29%. Strong growth in AM, up 36% year over year. Trade finance loans and TSS up 28% year
+over year. So good underlying fundamental loan growth.
+We've also had some favorable franchise trends that continued. We continue to be the number one global IB fee
+provider this quarter. Deposit balances in CDB up 8% year-on-year. Sales volume in card up 12% year-on-year,
+so very good underlying fundamentals. Return on tangible common equity for the quarter was 15%.
+If you turn to page 3, the Investment Bank, we've circled net income of $1.9 billion for the second quarter. That's
+on $6.8 billion. As we've done the last couple of quarters, because we've had significant item related to DVA, I'm
+going to talk about it, excluding the $750 million gain in DVA. $6 billion in revenue for the quarter, $1.4 billion in
+net income. Return on equity of 15%. IB fees were $1.2 billion this quarter, down 35% year-on-year. That largely
+reflects declining transaction volume and activity in the quarter, but as I said, and you see in appendix page 23,
+we maintained our number-one share.
+Page 5 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+Markets revenue, $4.5 billion, down about 15% year-on-year, 30% quarter-on-quarter following what as you know
+was a very strong first quarter. Fixed income revenue of $3.5 billion. That largely reflected weaker market
+conditions, but we did have strong client flows in the quarter. Equity revenue of $1 billion, that reflects cash
+volumes that were weak. We had very strong results of our equity derivatives business and prime services,
+despite low spreads, had a good quarter. You look at the expense number, it's down, but it's primarily driven by
+compensation expense. Comp to revenue ratio is 35% year-to-date, which is consistent with the guidance we had
+given you at the start of the year. Just a reminder, as Jamie mentioned, Q3 will have the impact of the synthetic
+credit portfolio in VaR for the IB.
+If you turn to page 5, Consumer & Business Banking. Circled net income of $950 million, that's down about 14%
+year-on-year, flat essentially quarter-on-quarter. Net revenues of $4.3 billion. Revenues primarily were impacted
+by Durbin on a year over year basis but again, there were some very favorable business trends, so I said
+balances were up 8%. We believe that is significantly above the industry averages. Business Banking originations
+were up 14%, actually June, the month of June, we had our highest production month in a number of years in
+Business Banking. And our loan pipeline in Business Banking today is at its highest point in history.
+Client investment assets are up 5% in this business. We opened year over year 1 million more checking
+accounts, 2.5 million more active mobile customers, 45,000 new clients in CPC, so real strong underlying
+fundamental growth. Expenses continue to be impacted by all the investment spend we've been doing, and I think
+if you look forward to overhead ratio in Q3, we're likely to return to the ratio we had in Q1, rather than this quarter.
+Deposit margins were down this quarter, 6 basis points. We continue to see that margin pressure. We talked
+about it for a number of quarters. That's a function of the lower reinvestment environment opportunities that we
+have. It's consistent with the $400 million in net income guidance that we said for the full year related to this
+deposit margin pressure, but the aggregate NII was actually flat quarter-on-quarter, and that really reflects the
+margin decrease being offset by deposit growth.
+If you turn to page 6, Mortgage Production and Servicing, circled net income of $600 million. Production revenue,
+so three parts, production revenue of $1.6 billion. Volumes of $44 billion, up almost 30% year-on-year. Record
+retail originations, largely driven by refinancing activity, including HARP. Margins are down on a
+quarter-over-quarter basis. We expect them to continue to trend lower, could be another 25 to 50 basis points,
+really depending on the rate and refinancing environment.
+You'll see repurchase losses in the quarter of $10 million. Settlements were $225 million in the quarter. That's a
+function of reduced repurchase demands in mortgage, reduced pipeline of demands and improvement in the
+repurchase rates that we experienced this quarter. Based on this and our lifetime estimates for repurchases,
+which was $3.2 billion going into the quarter, we really believe we reached an inflection point that we had talked
+about and was inevitable over time, and as a result of that, we reduced our reserves for repurchases by about
+$215 million this quarter, and if these current trends and our estimates for projected repurchases continue, we
+would expect the net repurchase number to be approximately zero for the next several quarters.
+On the servicing side, you pretax income of $65 million. It continues to reflect very high levels of servicing costs.
+We've not seen the decline that we had expected in terms of default servicing expense for a number of reasons.
+That was offset this quarter by some favorable MSR risk management results.
+If you turn to page 7, the Real Estate portfolio. Net income of approximately $700 million for the quarter. Revenue
+was down 15% year over year. It's in line with the estimates that we had given you. It is a function of that run-off,
+the $23 billion year over year. Charge-offs circled number of about $700 million. The charge-off rate's down 28
+basis points quarter-on-quarter.
+Delinquencies continued to decline. A result of that is that we reduced our loss forecast going forward. We
+released a $1.250 billion in reserves this quarter. I'll talk about that in a little more detail in a couple of pages.
+We're also reducing our guidance for net charge-offs going forward to $750 million or below on a quarterly basis.
+Page 8. Card services and auto. Consolidated net income of $1 billion for the quarter. That's down about 7%
+year-on-year. It's on revenues of $4.5 billion in the quarter. We are continuing to see some positive underlying
+trends in this business. I said sales remain strong, up 12% year-on-year. On new product sales, so for Freedom,
+Sapphire and Ink, sales volume up 20% year-on-year, and we continue to believe we're gaining market share in
+the Card business.
+Auto originations up 7% year-on-year. And very strong merchant processing revenue growth, up 13%
+year-on-year. Credit costs for the quarter, $730 million. That reflects $750 million reserve release. That release
+incorporated a policy change for our troubled debt restructured loans, TDRs. And as a result of that, we moved
+forward our charge-off on the loans from 120 days from 180.
+Page 6 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+And that results in an acceleration of charge-offs of about $90 million in the quarter. No P&L impact, because we
+were fully reserved for those loans. But if you include that policy change, charge-off rates circled at the bottom is
+4.32%. If you exclude it, it was a little over 4%, 4.03%. Delinquencies also in that circled number on the quarter,
+2.13%, and I -- we went back as far as 2003. This is the lowest rate we've experienced in delinquencies during
+that period of time.
+So with that, I do want to take a moment on the next page, page 9, to talk about the credit trends. So we put here
+second quarter, first quarter, and a year ago. And then provided at the bottom trends around net charge-offs. So
+we continue to see positive trends. Charge-offs are down $260 million in Mortgage, $550 million in Card year over
+year, and those trends are demonstrated on the chart at the bottom, and delinquencies, as I said, are down. The
+reserve actions that we took, as Jamie said, were effectively necessary to remain neutral, given that improved
+credit environment, and the reduced expectations that we have for losses.
+And if you look at -- the one number I think is particularly interesting is loan loss reserves to annual net
+charge-offs. That's this quarter's charge-offs, multiplied by 4. And those essentially stayed flat quarter-on-quarter,
+even after the reserve releases. So we think we continue to be appropriately and conservatively reserved in these
+two portfolios, and across all of our portfolios, but if the current trends continued, we would expect to see further
+reductions in the Mortgage book reserves, and just remember, a normalized credit environment, you would
+expect to see about 12 months of charge-offs. You can do the math, and we are substantially in excess of that
+number today. As it relates to Card, I think, given where we are in the cycle, you can expect reserve releases to
+be at or near an end.
+Commercial Banking, we had net income of $670 million in the quarter. That's on record revenues of $1.7 billion.
+That's driven by those record loan balances that I talked about. Higher year over year deposits, and that's
+marginally offset by the spread compression we've experienced in our deposit taking businesses. Loan growth,
+we think continues to reflect both improvements in our customer base, as well as real market share gains.
+So our C&I loan growth year over year is up 24%. We think that's almost double the industry rate. Record middle
+market loan balances, I think the ninth quarter, consecutive quarter of growth, up 18%. And while utilization still
+remains modest, we actually saw this quarter a modest uptick in utilization, so a little bit of additional activity. The
+credit environment in the commercial bank remains benign. Excluding recoveries, net charge-offs in the quarter
+would have only been 13 basis points.
+Treasury & Security Services on page 11. Net income here of $460 million. That's up almost 40% year-on-year.
+32% quarter-on-quarter. Revenue's up 11%, from very positive underlying trends, liability balances year over year
+up 15%, assets under custody, up 4%. International revenue increased 12% and expenses were only up 3%
+year-on-year as we start to benefit from some of the technology and expense initiatives that we had been talking
+about in previous quarters. The result is fairly positive operating leverage for the quarter. Pretax margins of 34%
+for TSS this quarter. Do remember, we get a little positive impact of seasonality in our WSS business from our
+ADR business, so we have stronger second and fourth quarters on the revenue side.
+Asset Management on page 12. Circled net income of a little under $400 million. That's up slightly
+quarter-on-quarter on revenues of $2.4 billion. Assets under management were effectively flat year over year,
+down quarter-on-quarter as a function of markets. We continue actually see liquidity outflows this quarter in AUM
+but it was offset by our 13th consecutive quarter of long-term in-flows in AUM.
+If you go to page 13, Corporate and Private Equity. So we reported here as a result of the CIO activities, $1.8
+billion in losses for the quarter. Jamie walked you through the specifics of the portfolio. What we're going to do
+going forward is report this as three distinct items, Private Equity, a Treasury CIO line item, and then other
+Corporate. We're going to try to give you a little bit of incremental updated guidance.
+So for Treasury CIO, for the next quarter, you would expect to see us generate $200 million plus or minus in
+losses. And that's a function of the reinvestment opportunities, and our need to redeploy at this point. But it will
+also depend on our reinvestment strategies for that and the numb number can vary quite materially, up or down
+an additional $200 million. Other Corporate, we expect to be a positive $100 million on average, but it can be very
+volatile. And that's even before significant items. So you saw that this quarter, so tax runs through here, Real
+Estate, other small litigation can run through this line item, so there's a variety of items, but on average, it should
+be about $100 million for the next several quarters.
+On page 14, you see what will be now contained in the supplement of our additional disclosure on CIO and on
+Treasury, in a combined basis, so we'll have both a revenue and a net income line. I would draw your attention to
+the bottom right, which as Jamie talked about the VaR in the IB at the end of the quarter, the VaR in CIO was
+$180 million for this hedge position. It is now $123 million. So again, coming down over the last several weeks.
+Page 7 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+Page 15, Fortress balance sheet. Jamie talked a little bit about our coverage ratios, but let me just spend a
+moment more on the 7.9 that we recorded for the quarter, just to clarify. That is recorded with the full impact of
+Basel III, both the new 2.5 rules, as well as the published NPR as if it were adopted. That, however, is our best
+estimate at this point in time, and obviously things can change as we continue to refine and work with the
+regulators on the application of those rules. If you actually look on a comparable basis to how we reported our
+second quarter, our Basel III ratio was up modestly. We also, in the appendix, I'm not going to go through it, we
+added a walk for you on both Basel I and Basel III, so on Basel I, if you add the impact of 2.5 rules to Basel I, it
+would reduce our Basel I reported ratio by 160 basis points. If you took the NPR as written, it would add an
+additional reduction of 100 basis points. So we're obviously with the industry in discussions with the regulators
+around the interpretations of that NPR.
+We are going to continue to report Basel I as-is, until the first quarter of 2013, when the new rules take effect. The
+last thing I'd just remind you on this page, actually put it on, we're going to keep this on now, as you think about
+returns on balance sheets, given the different business mix, we internally looked at returns on RWA relative to our
+competitors, so to set different balance sheets on a comparable basis, RWA is only reported reliably on a Basel I
+basis, we're doing that comparison. We had a positive 1.6% return on our Risk Weighted Assets for the quarter,
+comparable to the first quarter and we think will compare very favorably to our peer group for the quarter.
+Outlook on page 16. I've covered most of the items here, but I really want to cover two in specific. The first is in
+Corporate Private Equity. Jamie mentioned it as a result of the TRuPS redemption, we are going to book in the
+third quarter about $900 million in gain associated with swap terminations that were related to the TRuPS that we
+are redeeming. In addition to that, you see the net income impact, NIE impact, from that redemption. That
+assumes no refinancing. Obviously that number would change, depending on how much incremental financing we
+do against those redemptions.
+The second is an update on expense. And if you look to the bottom right on firm-wide guidance. We expect our
+adjusted expense number for the second half of the year to be flat with the first half of the year, and if you
+compare that to what we said at Investor Day, that would be up somewhere in the order of $1.5 billion to $2
+billion, relative to that guidance. There's really two reasons for that it. About 75% of that difference is associated
+with Mortgage, and that gets broken down half and half.
+50% of the increase in expense in Mortgage is associated with incremental revenue and production, so it's good
+expense and it's made good profits, but we didn't anticipate that at the time of Investor Day. The other 50% is
+associated with those high elevated costs in servicing, related really to the consent order, the IFR, and a variety
+of other matters. We expected that to come down sooner. It has not. But you should think about this as timing, as
+opposed to absolute difference in expense. It will come down over time as we work through these issues. About
+25% of the expense is associated with the environment we're in, which is we've had higher legal, higher
+compliance, higher FDIC that we had anticipated, and that has run through a variety of the businesses.
+Page 17, the final sort of piece of Corporate in terms of guidance. We've added this core NIM page, as you know,
+a couple of quarters ago. Core NIM declined by 10 basis points this quarter. For someone who is going to, I
+figured, given other topics, no one's going to jump right in with the NIM question first off, so I figured I'd give you
+the answer right now. NIM is down 10 basis points, really on the lower rate environment, the mix change in our
+loan portfolio, and the important impact this quarter was actually accounting from FAS 133 hedge in
+effectiveness. That was really the primary driver both in our investment securities yield portfolio, as well as in our
+long-term debt portfolio. And if you just focused on the security sales that were associated with the $1 billion of
+gains, that actually did not have a material impact on the portfolio for the quarter.
+The last comment is really on page 18, which is our European disclosure as it relates to the periphery. $6.3 billion
+of total disclosure, of total exposure, rather at the end of June. That's down from $12.5 billion at the end of March.
+And what I want to caution everyone is, the significant portion of that is really a function of hedging activity on that
+exposure, which we may or may not do on a go-forward basis. And the net exposure I think you should expect to
+return to the levels more consistent with where we were at the end of the first quarter. We do continue to be
+active with our clients in the region, but we're clearly being more cautious given the environment today, and
+focused really on helping those clients do business in the markets. So with that, I'm going to stop, turn it over to
+Mike, and then after Mike, we'll be back for questions. Thanks.
+MIKE CAVANAGH, CEO, TREASURY & SECURITIES SERVICES, JPMORGAN CHASE & CO: Thanks, Doug.
+So I hope everybody's coffee has kicked in and mine as well. We're going to spend a little while here going
+through the task force update. So for those on the phone or on the web, if you go to the next section, is what it's
+called. So in the room here, I'll dive right in on slide number 1, which describes the management review that's
+been under way for the past two months. So my job has been to lead this firm-wide response, and conduct a
+Page 8 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+rigorous review of the events leading up to the losses, assess what went wrong, and mobilize the Company to
+make the necessary fixes happen. While some work remains, I'm glad to say that the scope and intensity of what
+we've already done allows me to give you today what I think is a very clear picture of what happened and what
+we've done about it.
+I have to say that it's been an incredible effort by many people, and I just want to thank everyone who's been
+involved in getting this work done to get us here. Now what I'm going to do, is go through this presentation in
+three sections. First, we're going to spend a bunch of time just walking through some facts. Then we'll go through
+observations and implications of those facts. And then finally, I'll bring it to a close with the remediation actions
+that we've taken in response to all this.
+So if you start, let's begin on slide 2. That is just a summary of the key findings of the review. There are five key
+observations. The first is the actual cause of the losses. And the other observations are things that, had we done
+them better, may have reduced the size of the losses, allowing us to detect issues earlier.
+The first one, which is the cause, is that CIO judgments, execution and escalation were poor in the first quarter.
+Second, the level of scrutiny of CIO did not evolve commensurate with its increased complexity. Third, the
+dedicated risk management team supporting CIO was ineffective in dealing with the challenges of this portfolio.
+Fourth, that risk limits in CIO were not granular enough, and fifth, that the model, the approval and
+implementation of synthetic credit VaR model that we'll talk about, that happened in the quarter, was poorly done.
+So with that overview of these observations, now let's slowly go through the pertinent facts that these support.
+So on slide 3 is some historical context on the synthetic credit portfolio itself. The portfolio's primary purpose had
+been to provide a partial offset to losses we would suffer elsewhere in CIO, and the Company, in a stressed credit
+environment. The portfolio got started about five years ago. It was generally short credit. But also included some
+long positions in order to reduce the cost of carrying credit protection. And consistent with its objective, the
+portfolio produced gains in the stressed period of 2008 to 2010, and was breakeven or positive from each year
+from 2007 to 2011, and all-in, it generated about $2 billion in gains during that period.
+So next on slide 4, now we get into a summary of the first-quarter 2012 transformation of the portfolio that led to
+the losses. In late 2011, CIO was directed to reduce the synthetic credit portfolio's risk and risk weighted assets.
+That direction came as part of the annual budgeting process, in which we develop the firm's capital plans
+including our glide path to Basel III. In the second bullet, I'll attempt to explain what it appears the synthetic credit
+team and CIO hoped to do. And that was, to move their portfolio's risk position from a net short position to a
+neutral one, while reducing risk weighted assets in the process. They also hoped to retain some protection
+against Corporate credit defaults which was a synthetic credit portfolio's historical mission. So a lot of things going
+on that they were trying to accomplish, and found it difficult to find a balance that they liked.
+To simplify what they did, it amounted to them going long investment grade indices while increasing short
+positions in junior tranches in high yield indices. And the size of the portfolio grew dramatically as they continued
+to add positions later in the quarter, when they were struggling to balance the portfolio, as the market began to
+move against them. So a question of why they didn't just pursue an outright reduction of the portfolio. And it
+appears, and that's all it is, an appearance, that they thought about it a bit but they believed that it would be more
+expensive than the approach they chose, which obviously proved to be wrong, and were focused on thinking
+about high execution costs to reduce the portfolio in size and the loss carry of a reduced portfolio, and so they
+went ahead with the approach they had. That's my best shot at describing what it seems they were trying to do.
+And now you move to the third bullet where you see what we now know, which is what they did do, was increase
+the size and complexity of the portfolio dramatically in the first quarter, and along with it, the sensitivity to a variety
+of risks which you can see listed there, all of which contributed in some part to the losses and Jamie touched on
+some of these earlier on.
+On slide 5, I just give a graphic representation of basically the same thing, which is the growth of the portfolio in
+the first quarter. On the left, you see the total notional size of the portfolio, with the red dots being the net of long
+and short notionals, which as you can see, tripled in the first quarter. You can't look at this slide and fully
+understand the risk of the portfolio. But what it does show is that the significantly increased size and complexity of
+the portfolio left little margin for error when the expected pricing relationships across the portfolio began to break
+down and generate losses. It was a very risky approach they took that should have been discussed and vetted at
+more senior levels but it was not.
+So now, for the next three slides, what I'm going to do is lay out some key events that happened during three
+sequential time periods. So the first one, slide 6, covers the first period, and that is from the beginning of 2012 to
+late March, March 23, by which point the cake was fully baked on this thing and essentially all of the loss-making
+positions were already on the books. So during this period, what you see on this slide is three key events I want
+Page 9 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+to talk about. The first one, was that certain CIO level risk limits got exceeded, and how those exceptions were
+handled.
+These types of business level limits are common across the Company, and when they are exceeded, the
+independent business unit risk managers are responsible for reviewing the reasons for the excess and either
+granting relief or ensuring that action is taken to get back inside the limits. Specifically, two CIO-level credit
+spread widening limits were exceeded over the course of the quarter. In January, a measurement of the impact of
+credit spread widening that ignored correlations across instruments exceeded its limits. This was reviewed by a
+CIO's market risk officer, who granted relief from the limit on the basis that the measure was an unsophisticated
+tool for measuring risk in the circumstances. Then secondly, the other one there was on March 23rd, the second
+CIO-level credit spread widening limit was exceeded, and this was obviously of little use as a control measure
+since it occurred after the positions were already put on.
+Now, the second event you see on the slide here in the middle bullet was the approval of a new synthetic credit
+VaR model in late January. This was approved by the independent model review group in corporate risk
+management. The week before the new model was implemented, John Hogan, the new Chief Risk Officer and
+Jamie were asked to sign off on a temporary increase of firm-wide VaR in an e-mail, which noted that a CIO VaR
+model was soon to be approved, which was expected to lower VaR, and they assented and went ahead with that
+approval. The problem with this second event here, which is why it's on this slide, relates to the model approval
+itself. Again, this was done by the model review group, despite reasons for concern about the weak operational
+environment supporting the model, which we'll come back to later on.
+And then the third event on this slide was the February 29 CIO business review with folks from Corporate, and the
+CIO attendees at that meeting indicated that the portfolio, the synthetic credit portfolio was well-positioned and
+that RWA reduction was on track and raised no other issues. That's it for the key events up to the period of March
+23, and that is a period by which all the positions were substantially on the books that led to the losses and the
+portfolio transformed.
+Now let's go on to slide 7, and move on to the next time period I want to talk about. This is the period from then,
+March 23 then to the April 13 earnings call. So first, the portfolio experiences losses in late March and early April.
+Around this time, market visibility of the synthetic credit positions becomes a concern, particularly after press
+reports on April 6. At that point, Doug and Jamie asked for a review of the portfolio in preparation for the earnings
+release a few days later. Ina spear-headed the review with engagement by John Hogan, Doug Braunstein, and
+others. The main output of that review was forward scenario analysis that produced a probable P&L range for the
+second quarter on the portfolio from positive $350 million to negative $250 million, with a bias to the positive end.
+So at that time, the group got comfortable that the portfolio's risk was manageable, though in need of heightened
+attention going forward, and assurances to that effect were provided to Jamie and Doug.
+Let me make a few additional points about this review. First, that analysis was led by Ina, which made sense, as
+she was very capable of driving a review of an activity in her area of responsibility. If there was a question about
+something like this in TSS for example, I'd fully expect to lead the charge on bottoming it out, as would other
+operating committee members for their businesses. The second point is that Ina, in turn, relied on the managers
+and traders responsible for the portfolio, and who knew it best to produce the supporting analysis at that stage
+over those few days, and hindsight obviously their views may have been unduly influenced that by their conviction
+that the market's awareness of their positions was causing aberrations in pricing that would reverse. I'll also just
+say here that the VaR model was not a focus during the pre-earnings release review, because there were no
+indication at that stage it wasn't working properly. It's a backward-looking indicator and actual losses had already
+prompted demands for the forward-looking scenario analysis that was being done. On April 13, this period ends
+and we announce our first-quarter results.
+Moving on to slide 8. This is the set of facts for the period between the earnings release and the launch of the
+management review. In late April, losses pick up and the heightened monitoring that followed the earnings call
+gets taken to another level, when a senior team from Corporate Risk is sent to examine the portfolio from the
+bottom up. They begin providing daily updates and constructing independent analysis of the portfolio that
+becomes the basis for risk measurements that the new CIO team picks up a few weeks later. It's during this
+period that problems with the new VaR model are discovered. We used the old model for the VaR number in the
+10-Q, and disclosed that we had used the new model on April 13.
+This event has caused us to tighten up our procedures around model changes and disclosures going forward, by
+the way. We filed the first quarter 10-Q on Thursday, May 10 and held the investor call that evening with an
+update on the synthetic credit portfolio, and finally on Monday, May 14, Matt Zames is announced as the new CIO
+and our management review is launched. That's it for the facts on slide 9, we transition from those facts which
+Page 10 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+you just see summarized on the left to the observations they support on the right, which is what I have covered at
+the beginning, and now let's spend a little time going through each one of those observations in a bit more detail.
+So on slide 10, is the first one which is the observation that CIO judgment, execution, and escalation were poor.
+So first, the trading approach itself was poorly conceived, reviewed and executed. As we saw in the facts, the
+portfolio grew to a perilous size, with numerous embedded risks that the team did not understand, and were not
+equipped to manage. The second bullet on the page is about insularity. Even within CIO, the discussion of the
+portfolio stayed in the chain of managers with direct responsibility for it. A robust review among peer leaders in
+CIO would have provided for a discussion and challenge on the business side, which is what I'm accustomed to
+seeing across the management teams in this company, and it didn't happen here. And this was again
+compounded by the failure to surface issues related to the synthetic credit portfolio in the February business
+review with Corporate. Finally, the CIO-led review and analysis of the portfolio in advance of the April 13 earnings
+call was poorly managed, resulting in the view that potential losses were manageable, that the portfolio was
+balanced, and would recover.
+Now, before leaving each of these findings I'm just going to comment quickly on the remediation actions that
+relate to it, that we'll get to later, and through this, one of those fixes are the people changes that have been made
+in all the relevant CIO roles and a complete revamping on the management processes in CIO. So the second
+observation is that the level of scrutiny that CIO faced did not evolve as the complexity of the synthetic credit
+portfolio increased. So some of the contributing factors here was the belief and experience that the core activities
+of CIO were managed appropriately, contributing to the unit's successful track record. Second was the capability
+of and experience of Ina herself, and third was the modest but positive results of the synthetic credit portfolio
+historically. So as a result, we collectively ended up with a level of scrutiny that fell short of the high standards we
+apply to our client businesses, especially as the complexity increased.
+Moving on to slide 12, the third observation is that CIO risk management was ineffective in its responsibility to the
+synthetic credit portfolio. I'd acknowledge some factors that presented challenges for the CIO risk management
+team including what in hindsight was the lack of quality resources and a less robust risk committee supporting the
+risk team. Nonetheless, the CIO risk team failed to meet reasonable expectations in my mind. First, a primary
+responsibility of the business level risk team is establishing adequate risk limits. In this case, tighter, more
+appropriate limits would have forced more discussion and debate about this portfolio, and if needed, would have
+prompted escalation to more senior levels. In fairness to the CIO risk team, they had an effort under way to
+improve the risk limit structure for CIO but it was too late to matter.
+Second, the CIO risk team did not perform adequately when it came to the VaR model approval and
+implementation. I'll cover that in a couple of slides. Third, CIO risk wasn't forceful enough in challenging the front
+office, and they never developed a sufficient understanding of the risk of the portfolio to escalate concerns to
+senior risk leaders outside CIO during the first quarter. Now to remediate this, we've added new people in key
+roles. We've also significantly strengthened the risk committee framework that covers CIO and other Corporate
+sector activities.
+So on slide 13, observations, number four, which is that risk limits in CIO were not sufficiently granular. So this is
+a critical one and we saw it in the facts on slide 6 that we gave ourselves too few opportunities to engage risk or
+other senior people as would have been the case if we had a well-designed limit structure around this portfolio.
+First, there were no risk limits specific to the synthetic credit portfolio. The limits applied to more aggregated
+portfolios, often at the level of CIO which was clearly inadequate. Obviously, though, what was needed was
+granular position level limits for the portfolio itself. And I'd just say that in our Investment Bank credit derivatives
+business, the limits are already very granular. I believe that had the synthetic credit portfolio been risk managed
+under equivalent standards, it would not have experienced the unchecked transformation and growth that led to
+the losses. As for remediation here, we now have granular risk limits for all CIO, and verified they are in place
+where needed across the firm.
+Moving to slide 14, is the final observation, is that the synthetic credit VaR model approval and implementation
+were inadequate. So there's been some speculation here that this model was approved abruptly and by CIO
+alone, but that's not true. The fact is that CIO began working in consultation with the independent model review
+group in Corporate risk in mid-2011 to upgrade the VaR model used for synthetic credit to a more accurate model
+that captured correlation risk as required for Basel 2.5 compliance, which we did not have with the old model, and
+we obviously wanted to get. The expectation of all parties involved in the model approval was that the new model
+would lower measured VaR on the basis of the improvement in the calculation methodology, together with the
+infrequent band breaks of the old model, which suggested that it produced conservative calculation of VAR.
+
+Page 11 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+So a fundamental problem with the VaR process was a lack of clarity on the roles and responsibilities for each
+element of the process across the model review group, the CIO risk group, and the CIO front office. And the
+primary problem in the end, though, was sloppiness and bad execution in implementing the new model,
+operational problems which included incorrect data feeds and certain calculation mistakes resulted in a VaR that
+was lower than what the approved model would have produced. A properly implemented model would still have
+lowered VaR compared to the old model but not by as much, so it would still have taken us a bit of time to catch
+the overall problems, but as we have said, it probably delayed us a little bit. To remediate here, we strengthened
+the procedures around significant model approval and implementations.
+So slide 15, another transition here, so now we've just finished up reviewing the observations on the left side of
+the slide. And now we'll touch in a little more detail on a couple of the major remediation actions that
+foreshadowed a bit. On slide 16, moving to that, first we have what is effectively a complete revamping of the CIO
+unit itself. On the people front, that includes new CIO management team members, including Matt himself, plus
+the head of CIO Europe, the Chief Risk Officer, and the Chief Financial Officer. All of them are very highly
+regarded, and have substantial experience at our Company.
+In terms of governance, the new team has instituted a robust committee structure, new review processes and
+better reporting, which will provide for better discussion and debate to ensure mistakes like this one that occurred
+here don't happen again. And in terms of CIOs mandates, matters refocusing on the core mission of managing
+the AFS investment portfolio. The synthetic credit activity has been shut down and liquidated portfolio transferred
+to the Investment Bank in order to be better managed.
+On slide 17, you see a summary of the risk management remediation actions both for CIO and the firm. For CIO,
+as I've mentioned, we have a new Chief Risk Officer, and have added resources to support his efforts. This new
+CIO will have responsibility for all the areas of the Corporate sector, not just CIO. As we learned from this event,
+all activities, outside our client businesses need robust risk management coverage, and by broadening the
+mandate of this new Chief Risk Officer, we've accomplished that.
+Next is risk governance. As I've said, we've created a much more robust risk committee for all activities in
+Corporate that is modeled after the committees in our client businesses. It includes significant representation by
+senior executives and subject matter experts from outside CIO. The committee has already met numerous times,
+and it's completed detailed reviews of the activities of CIO, ensuring risk parameters are consistent with the newly
+refocused mandate. And as for risk limits, we've introduced proper limits on all other CIO activities. Across the
+rest of the firm, we thoroughly reviewed the market risk limit structures to see if relaxed granularity elsewhere and
+found them to be in good shape. Finally we bolstered the policies for dealing with risk limit exceptions by requiring
+higher levels of escalation and more frequent reviews.
+Slide 18 summarizes the remediation of the model approval and implementation and monitoring processes. So
+here, we've clarified the roles and responsibilities between the firm-wide model review group, and the line of
+business risk management functions. For the model review group, which sits in Corporate, in addition to reviewing
+and approving the VaR calculation framework, which is their core activity, the group must also assess now the
+quality of the analytical testing and the soundness of the model operating environment, whoever it is that's
+responsible for that.
+We've also formed up a new team inside model review that will monitor model related responsibilities across the
+risk management function firm-wide. They've been under way, and they've already reviewed all market risk VaR
+models, and confirmed that data integrity and operating environments are sound. And then for the lines of
+business, we have clarified their responsibilities across all aspects of model governance, including post
+implementation monitoring, and we have heightened the expectations for model oversight through the line of
+business risk committees. So finally on remediation, I'd just say that I just reviewed the remediations that are the
+ones that directly address the observations from the management review of CIO. But I should add that we picked
+up a lot of other learnings along the way during this work, and that we're acting on those things as well to make
+the Company better.
+Now just to wrap it up, on slide 19, I'll wrap it up by saying that based on everything this team and I have
+examined and reviewed in the past two months, I believe that the synthetic credit event is an isolated failure.
+That's both because circumstances in CIO were unique but also because of the thorough shakedown of the whole
+Company that we did to be certain that we weren't making similar mistakes elsewhere. I'd say, in closing, that our
+management team has always been and continues to be very highly-focused on managing risk and this event has
+caused us to step up our game everywhere. Thanks for listening to this. We're going to move to Q&A now.
+And while Jamie and Doug rejoin for that, I'm just going to get us started with a couple of topics that you see to
+get Q&A going. To just pick up where Doug already covered a lot on the restatements. I just want to link it back to
+Page 12 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+the work that I've done. So this slide gives some supporting information on the restatements that Doug covered
+earlier. All his numbers are the ones that are in there. The context is, because it's really the management review
+effort that's created the highly unusual circumstances we were faced with, in making the decision to restate the
+first quarter.
+Remember, we started the management review on May 14, which was a couple of days after we -- all the work
+supporting the 10-Q filing on May 10 was completed. As I described, the management review fact finding has
+been very exhaustive. We've done obviously lots of e-mails being reviewed. But also, tens of thousands of voice
+tapes, many of them in foreign languages. And so it's taken time to work our way through, and work continues.
+But a broadest of determination in the past few days, that as Doug said, we don't have sufficient comfort that for
+the first quarter the trader marks met the requirements of being where the traders thought they could exit their
+positions. I'll just point out though, that's even though the marks were generally within the bid ask spread, which is
+what otherwise is acceptable for GAAP. Given the unusual circumstances we've taken the conservative approach
+to restate, bringing the marks to the VCG's midst of external mid-market benchmarks.
+Next, I just want to say a few things on the people side. First, on clawbacks. So employee-related actions for CIO
+managers here, slide 22. Now, Jamie's going to talk about Ina in a minute. I'll talk about the several other
+managers, all of the managers in London with direct responsibility for synthetic credit portfolio, are now separated
+from the firm. None are receiving severance. And no 2012 incentive compensation.
+We've made the decision to claw back compensation from each of these individuals, and that amount is the
+maximum permitted, we've invoked that. It represents approximately two years of total annual compensation for
+each individual, covering stock and options. We took into account, what's taken into account was a broad set of
+factors. I'll just make the point that the balance of factors for any individual in this balances differently but all
+ended up at the same result of a full clawback. The Board's reviewed all of these decisions. I'll just say further,
+because there may be questions on people actions, what's covered here is the three London managers with
+direct responsibility for synthetic credit, but there's several other changes in senior people in CIOs, some of whom
+have been reassigned to more appropriate roles, and others who will be leaving the firm. We believe we're taking
+all the appropriate people actions in a timely manner, but beyond what I've told you here, we're not going to be
+providing more details on people actions, and obviously not going to be talking about individuals.
+Then finally, on 23, I've got a Board statement to read on compensation determinations. And forget the three
+people I just covered. As I said, Jamie will cover Ina. Advancing the slide here. For all other individuals, and that
+includes Jamie, the 2012 performance year compensation and clawback, if appropriate, will be determined in the
+ordinary course, considering among other things the factors you see listed which is Company, unit and individual
+performance on a absolute and relative basis, the achievement of non-financial objectives which of course are the
+same things we would always consider in a total picture on compensation. Of course, involvement in and
+responsibility for the CIO matter will be included in that. Just an added point, we're only going to make public
+information about what we do on clawbacks if it's required. Let me hand it over to Jamie, who wants to make a
+comment about Ina, and then we'll go to Q&A.
+JAMIE DIMON: Thanks, Mike. Let me just say a word about Ina Drew. I have enormous respect for Ina as a
+professional and as a person. She has made some incredible contributions to this company. If she decided to
+retire, I got several letters from former Chairmen who talk about her contribution. One even said she saved the
+Company, in his judgment. In my experience, she has acted with integrity and tried to do what was right for the
+Company at all times, even though she was part of this mistake, and I believe that is true here, as well. In that
+spirit, Ina came forward and offered to give up a very significant amount of her past compensation, which is
+equivalent to the maximum clawback amount. With that, I'll turn it over to Q&A.
+Questions and Answers
+GLENN SCHORR, ANALYST, NOMURA ASSET MANAGEMENT: Glenn Schorr from Nomura. So, in the past
+couple of Investor Days, you've shown us a slide on the earning power of the Firm being in the range of $24
+billion, pre-buyback over the cycle earnings. Curious on post these CIO-related changes, how you think about
+that? I do appreciate that you showed us $2 billion over the last four years in the credit portfolio earnings. Is that
+it? Is that how we should think about it?
+JAMIE DIMON: This does not affect the earnings power of the Company at all. The $24 billion would still be
+accurate. We can probably show those numbers. We didn't put them up there, but we can probably show you the
+numbers -- almost the same we showed you last time. There are a lot of those where we are today minus the
+burden in Mortgage.
+GLENN SCHORR: Okay. So, no other big changes to the investment philosophy? Okay. Good, thanks.
+Page 13 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+On the European exposure slide that you have in one of the slides, I guess I'm looking for a net take-away. Has
+the situation in Europe gotten any better? Because it hasn't from a lot of people's view. And then maybe, your
+level of confidence around your exposures, hedges, and what you're doing behind the scenes to potentially
+prepare for the potential redenominations.
+JAMIE DIMON: We think -- we've been fairly consistent, we think we kind of have a roller coaster ride here. You
+see progress -- two steps forward, one step back. We still think they're going to muddle through, but it may not be
+in the form or fashion or timetable we all would prefer. The number's up there, we went from $12 billion to $6
+billion of net exposure. We think that's a rather good number. When we stress test, we think our risk is, we talk
+about a potential loss of $3 billion. In a bad scenario, it could be worse. In a complete extreme scenario, like a
+falling apart of the whole European Union, the important thing to us is we continue to conduct business there. We
+have a lot of clients. We've been in Italy and Spain for 100 years or so. We're going to do that carefully.
+Obviously, we've been doing more hedging of the exposures there. And that decision we make periodically over
+time.
+GLENN SCHORR: Last one. Maybe -- I don't know if there's a point of clarification. Because I think everyone
+appreciates the full run-through and disclosure on the CIO. Coming into today I was saying -- wow, it would be
+great if they could tell me what the loss was, what they think the expected loss is, and what percent is gone or
+left. You got us on the loss side, you got us on the full run-through. I'm not sure I'm clear on what's left, how much
+of it's gone, or how much of it's still with you?
+JAMIE DIMON: I think we showed a lot of numbers, showed the risk itself is down two-thirds, 70%, 80%.
+Depending how you measure it. [In the IB], it doesn't have to lose money at all. We said the extreme stress
+scenarios, simulated stress scenarios, which would be a Euro crisis, a credit crunch, a 99.9 statistical analysis
+could be as high as $1.6 billion or $1.7 billion. Does not mean we expect it. I would be surprised if it got that big.
+SARAH YOUNGWOOD: Matt O'Connor.
+MATT O'CONNOR, ANALYST, DEUTSCHE BANK: Matt O'Connor, Deutsche Bank. I'm going to ask the same
+question, Glenn, to start off, as we think about longer term earnings power, how can we completely ignore there
+was some profit from the macro hedges, there's going to be some derisking of the securities book. I kind of want
+to ask the same question again, and try to get some numbers around it.
+JAMIE DIMON: There was $2 billion of profit in this book over a four- or five-year period. We don't -- we didn't
+assume any of it going forward at all. It's not like we're taking a lot of risk and assuming big profits. We were not.
+That was not in our numbers. That doesn't change the $24 billion or anything like that. We're not derisking the
+AFS portfolio. When it's fully invested, about $250 billion; it has a 2.6% yield. You can go buy Ginnie Mae or
+Fannie Mae today at 3.25%, so, you can easily extend duration. We're at very short duration. Extend duration,
+earn more NII. I say, the portfolio's actually conservative. Will be a source of higher earnings, if and when rates go
+up. So, this will not affect the earnings power of the Company at all.
+MATT O'CONNOR: As we think about the core businesses, and specifically the Investment Bank, you've talked
+about looking through rechecking all the risk, bringing down some limits potentially. Will we see any of that impact
+going forward?
+JAMIE DIMON: The Investment Bank is doing what it's supposed to do. They were not asked to take down any
+other risk because they took in synthetic credit. They're going to manage synthetic credit, because that's what
+they do. But the rest of the business is running exactly the way it was before. They constantly manage their own
+risk exposures.
+MATT O'CONNOR: And separately, I don't know if this is -- if you can say anything specific to JPMorgan, or just
+overall, but LIBOR obviously has been in the news quite a bit, if there's anything that you can say. Or even when
+will we know what we don't know, if you have a sense of timing.
+JAMIE DIMON: All I can say, is like all of these things, a lot of people doing exams. We're totally open with
+regulators and investigators. The other thing, I'd be a little patient if I were you. Not everything is the same. It's
+going to take a while. Not all companies are in the same position. I just wouldn't make too many assumptions at
+this point.
+BETSY GRASECK, ANALYST, MORGAN STANLEY: Betsy Graseck, Morgan Stanley. Two questions. One on
+capital. You indicated that you think you've got a strong trajectory to 9.5%. We're getting two numbers for the
+starting point there. Either it's the starting point is 9.1% post mitigation, or 7.9%. Which one are you referring to?
+Page 14 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: The 7.9% is we fully phase in everything up front. What we're saying for the 9%, you actually fully
+phased in the run-off stuff in some of the models we know we're going to do. We would get another 1 point back
+within the next two years. I'm trying to show apples-to-apples.
+BETSY GRASECK: But your 9.5% that you're saying you have a strong trajectory to, is by what time frame?
+JAMIE DIMON: That 9.5% was the end of 2013. And was like 10.5% for 2014; if we don't buy back stock, it's like
+10.5% and 12.5%. Go right to that slide, and you can see it. That's without stock buyback. That's only taking
+advantage of mitigating items the year they actually happen.
+BETSY GRASECK: Separately, in a little bit of a follow-up on the LIBOR question -- so, one of the concerns that
+people have had is that, clearly with large London presence and with what had happened in the CIO, there was a
+question around controls in that region. And so, it begs -- it gets to people thinking about -- gee, if the CIO office
+didn't have the controls in that part of the world, why should we believe that the rest of the organization did? And
+so, I think that's what's on people's minds as they're hearing today the CIO trade all boxed and wrapped up, but
+looking forward, next six months, how do we know it's not going to come up in some other areas?
+JAMIE DIMON: I can never prove a negative. Mike went through what -- our expense controls and disciplines,
+which we feel pretty good about. We can't prove to you that, because you're not going to see it. We think this is
+isolated. We think the controls in Europe are just -- Mike was running through controls around the country, around
+the world. We think they're pretty good.
+SARAH YOUNGWOOD: Nancy Bush.
+NANCY BUSH, ANALYST, NAB RESEARCH: Yes, Nancy Bush, NAB Research. Jamie, two questions for you.
+Your underlying trends were very positive this quarter, and there just seems to be a disconnect between what
+you're seeing in your underlying trends, and what we're hearing about the economy, which seems to be softening,
+everybody's gloomy, things are terrible, et cetera, et cetera. Could you just flesh that out a little bit?
+JAMIE DIMON: You're making a good point. Doug showed the numbers, like eight quarters of continuous middle
+market loan growth. Anecdotally, I hear that from other companies too, not all other banks but a lot of the banks. I
+hear from a lot of the banks small business loan growth. The fact is, the underpinnings of the American economy
+aren't that bad. Corporate America, middle market companies, small business are okay -- there's a lot of liquidity.
+There's not a huge order book, so sales aren't growing dramatically. We have slow, modest growth, and we are
+starting to see it in our calculations.
+Some of what we're getting is market share gains. Remember, we did middle market -- we weren't doing middle
+market banking in California and now we do. We weren't doing small business in California, now we do because
+[of our position]. We are gaining share in some of our businesses -- credit card, middle market, small business,
+IB's holding share.
+NANCY BUSH: Second question. Not a lot of discussion about litigation reserves in your commentary today.
+Could you just comment broadly about, with the CIO matter, with upcoming whatever may happen with LIBOR, et
+cetera, what you guys think about your litigation reserves at this point?
+JAMIE DIMON: So, I think, last time we spoke about mortgage, we think it's kind of well -- we've really done a
+good job there, and that could change over time. We put a lot away from mortgage over time. This quarter, you
+see the 10-Q, you get to see the 10-Q will now show litigation expense is like $300 million. We try to keep up with
+reserving for things we know about. This quarter, we had some big ins and outs. It isn't like just one thing that
+happens.
+SARAH YOUNGWOOD: Richard Ramsden.
+RICHARD RAMSDEN, ANALYST, GOLDMAN SACHS: Jamie, could you just take us through what the process is
+for reapplication for the buyback; do you have to resubmit a full CCAR? Are the assumptions going to be the
+same as what they were for the first one, and what a reasonable timetable for that is going to be?
+JAMIE DIMON: We're going to be resubmitting in a week or two.
+DOUG BRAUNSTEIN: Yes.
+JAMIE DIMON: And we're getting our instructions about what that process is going to be.
+DOUG BRAUNSTEIN: Monday.
+Page 15 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: Whatever it is, we think we can accommodate and get it done and resubmit it. Like I said, I hope
+both the Board governance -- the Board is doing its review, so I can't say when the Board is going to end its
+review, but I'm hopeful that the Board review and the capital plan are done in such a way that by early in the
+fourth quarter, we can buy back stock if we want.
+RICHARD RAMSDEN: With the stock trading where it is, does this change your waterfall in terms of buyback
+versus dividend, dividend increase next year versus buyback?
+JAMIE DIMON: I wrote in my Chairman's Letter that at tangible book value, I think our stock is a great buy.
+RICHARD RAMSDEN: Thanks.
+SARAH YOUNGWOOD: Ed Najarian.
+ED NAJARIAN, ANALYST, ISI CAPITAL: Richard's question was my question. So, you've got it. Thank you.
+SARAH YOUNGWOOD: Andrew Marquardt.
+ANDREW MARQUARDT, ANALYST, EVERCORE PARTNERS: Thanks. Just on the [GIPS] exposure again, you
+previously talked about max losses, if all things fail, $3 billion after tax. Is that still valid, or is there a new number
+we should be thinking of?
+JAMIE DIMON: The $3 billion was my estimate after tax. It was $5 billion pretax. I did it with my own
+methodologies. I said it was a bad outcome; it's not the worst outcome. If you said that Europe unraveled, the
+Euro falls apart, I think it could be worse than that.
+The IB just recently, the IB is constantly looking at these -- for the Company. TSS does it. Their number recently
+would be more like $3 billion. We have a Euro command center. We know exactly what we're doing; if something
+goes wrong, we're prepared to deal with it. We don't have to necessarily have losses at all. The issue with
+Europe, and the complexes with Europe are what contracts apply, how they apply, who leaves the Euro, what
+currencies you're paid in, what does that do for losses in the country? So, there are these complex things, but
+those numbers would still be rough estimates of a bad outcome, but not the worst outcome.
+ANDREW MARQUARDT: Thank you. And then separately, in terms of your outlook slide, something that wasn't
+there was the Real Estate Portfolio. Is it still coming down, 10% to 15% you said in the past, a $500 million drag
+NIIs on a year-over-year basis. Is that still valid for this year, and maybe a similar amount next year, is that an
+ongoing issue?
+DOUG BRAUNSTEIN: You could assume at this pace, same assumptions.
+ANDREW MARQUARDT: Thank you.
+SARAH YOUNGWOOD: Mike Mayo.
+MIKE MAYO, ANALYST, CREDIT AGRICOLE SECURITIES: Mike Cavanagh had a statement saying -- the level
+of scrutiny did not evolve commensurate with the increased complexity. He was referring to CIO. But I wonder if
+that statement could apply to the Firm as a whole. February 28 we were all here, eight hours of presentations,
+over 200 slides, no mention of CIO. And then we have the CIO event, a risk model that didn't capture the risk, a
+new risk model that wasn't accurately tested before, some checks and balances that might have been possible
+with the investment bank. It seemed a little siloed. So, I'm wondering if the Firm as a whole has reached some
+sort of tipping point when it comes to bigness or complexity that makes it more difficult to manage than in the
+past?
+JAMIE DIMON: No.
+MIKE MAYO: Okay. What can you say to further reassure us? You're here in person. Have you lost a step? Has
+the focus gone off?
+JAMIE DIMON: Mike, this Company is the same Company that went through 2006, 2007, 2008, 2009, 2010,
+2011. Similarly to Bear Stearns and WaMu, and we had record earnings the last year. We had record earnings
+the year before. It's likely, if you look to your own estimates, we're going to have record earnings this year. We
+have gained market share at investment banking, and TSS and asset management. Our commercial bank and
+small business and middle market. We're just not doing a great job marketing the Company. We're going to sit
+back and try to make this a more attractive Company for you all.
+Page 16 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+We made a mistake. We completely disclosed the mistake. We've denuded ourselves in front of you. We're in
+better shape than we were before. CIO was not a place we expected a mistake. We made the mistake. I can't
+prove a negative. So, you all can ask me all day long, I can not prove a negative. We believe we've got very good
+controls, and very good people in place. Look at the results, by the way.
+MIKE MAYO: The results are -- if we didn't have the details here, it would be okay. But we saw how the sausage
+is made. It makes me wonder if I might get food poisoning sometime in the future. What would you say if you're
+talking to a portfolio manager, and you have 20 seconds to say why it won't happen again, what would you say to
+that portfolio manager?
+JAMIE DIMON: Because we have very granular limits. We've got risk committees, credit committees, audit
+committees. We try to do a very good job. I think it's silly for anyone in the business world to think you're not going
+to make mistakes. It is not possible in the real world. That's only possible in a fictional world. I just think the
+mistakes should be smaller, fewer and far between -- this being an exception.
+SARAH YOUNGWOOD: Chris Whalen.
+CHRIS WHALEN, ANALYST, TANGENT CAPITAL PARTNERS: Chris Whalen from Tangent Capital Partners.
+First, just quickly on the CIO. Does the nature of these instruments, these over-the-counter instruments, make
+you reconsider whether or not all of the controls and risk management and everything else you're putting in place
+can be effective?
+JAMIE DIMON: It's not the nature of the instruments. A lot of these things are traded on exchanges. Most of the
+indexes, you can go buy and sell in the marketplace easily. Most of them are on clearing houses, and if you want
+to see, you can see them. I think this portfolio became very big and very complex. That is true. It should never,
+ever, ever have gotten that big and that complex. And at May 10, the first thing I said -- it was too big, it was
+un-vetted, it shouldn't have been done, it was illiquid. It was bad. We should have caught it earlier.
+CHRIS WHALEN: But that's my point. When you have an instrument that doesn't have a clear basis, and the
+basis may shift, the correlations may shift very quickly, can you manage that risk?
+JAMIE DIMON: That's true for all financial instruments.
+CHRIS WHALEN: Three quick regulatory questions. On Basel, to what extent does the Volcker rule
+implementation limit your ability to manage the AFS portfolio?
+JAMIE DIMON: Not at all. The AFS portfolio is held for sale, so, it's marked to market in the equity account, but
+not marked-to-market. We think you should be allowed to portfolio hedge. We're not going to do something like
+this again. But we think a pure portfolio hedge is not necessarily a bad thing. So, we all talk about Europe. One of
+the quick ways, you want to go hedge Europe, right now you get on the phone, you can buy $1 billion of
+[protection] on European, or 120 European credit names. That is a good thing if you want to protect yourselves in
+Europe. Not that complex. So, if Volcker changes the future for a whole bunch of things, we'll adapt to that,
+whatever that is.
+CHRIS WHALEN: On Basel III, how do you expect Basel III implementation to affect your mortgage business?
+DOUG BRAUNSTEIN: On a Basel III basis, it's not material. The real issue is the NPR on Basel I, and that's a
+work in progress. But all the numbers that you see there in the projections we have, just assume continued
+growth in the mortgage business. So, we will get some benefit that run-off portfolio is going to liberate a
+substantial amount of Basel III capital, and as a result, RWA as a result free up some capital.
+JAMIE DIMON: As a business matter, we'll be fine with whatever the Basel III numbers are. It is a little complex. It
+does create all these things about mezzanine pieces, how securitization is going to work with the FICO score.
+Like FICO at a 660 would be very bad under Basel III. So, everyone would have to modify their business plan
+because of Basel III. It won't change the Mortgage, our ability to be in the Mortgage business.
+CHRIS WHALEN: Last question, how do you feel about extension of the FDIC transaction account guarantee
+program?
+JAMIE DIMON: I'm not sure what you're talking about. (multiple speakers) I'm not going to comment on that.
+SARAH YOUNGWOOD: Moshe Orenbuch.
+
+Page 17 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+MOSHE ORENBUCH, ANALYST, CREDIT SUISSE: Doug had mentioned about the material weakness related to
+the CIO office. The comments about the resubmission of the CCAR, and the time frame into the early fourth
+quarter, does that contemplate resolving all of the regulatory inquiries that are ongoing, in addition to the Board,
+and do you anticipate orders coming out? How should we think about the news flow from that standpoint?
+JAMIE DIMON: We're hopeful that when the Board finishes its review, the regulators get to look at everything that
+Mike has said and done, ask their questions, file the CCAR, we're hopeful that by the first quarter, we'll be able to
+buy back stock. We think the numbers justify it, we think the performance of the Company justifies it, but we want
+to go through that process, it's a prudent thing to do, and if something stops that from happening, then so be it.
+MOSHE ORENBUCH: Thank you very much.
+SARAH YOUNGWOOD: Brennan Hawken.
+BRENNAN HAWKEN, ANALYST, UBS: Brennan Hawken, UBS. So, just -- and I appreciate that maybe you guys
+didn't include some of the synthetic gains in your estimates of earnings power, but it might help if, when we're
+looking at these past CIO gains and net income, if we can know how much of that was attributed to the synthetic?
+So, you've got $2 billion over 2007 to 2011, including a portion of that's in that [$9.2 billion] from 2009 to 2011. Is
+most of that $2 billion there in the 2009 to 2011; can you give us an idea there?
+DOUG BRAUNSTEIN: Figure was about $1.4 billion of the $2 billion was in 2008 to 2010.
+JAMIE DIMON: Was that pretax?
+DOUG BRAUNSTEIN: Pretax.
+JAMIE DIMON: Those numbers are after tax.
+BRENNAN HAWKEN: Okay, so, that's (inaudible). Great. And then, do you know if, with the CCAR resubmission,
+is the scenario going to change, or is it going to be the same?
+MIKE CAVANAGH: They are refreshing and updating their scenario. We're going to run a new scenario pursuant
+to their guidelines.
+BRENNAN HAWKEN: And the discussions, I would assume, Jamie, your confidence that 4Q could get it started,
+that is reflective of what you've heard back from the Fed as well?
+JAMIE DIMON: What I said is we're hopeful. And I've been wrong before.
+BRENNAN HAWKEN: Fair enough. And then my last one, I don't know if you can comment on this, but it would
+be helpful to know -- do you guys have specific controls that separate communications between derivatives
+traders and the LIBOR rate submission employees?
+JAMIE DIMON: We're not going to comment on anything like that right now.
+BRENNAN HAWKEN: Okay. Thanks.
+SARAH YOUNGWOOD: Ed Najarian.
+ED NAJARIAN: Yes, question for Doug. You talked about some of the net interest margin pressure coming from
+hedging effectiveness. Could you quantify, of the 10 basis points, how much you think that is, and do you expect
+that to revert in the third quarter? And then just generally, given the really oppressively low interest rate
+environment that we're in right now, maybe some sense of your view on the net interest income trajectory of the
+Company?
+DOUG BRAUNSTEIN: So, on the first, it was several basis points of the impact. It's going to vary
+quarter-on-quarter. And it has varied quarter-on-quarter. So, part of the difference this quarter is we had some
+positive results last quarter, and negative results and swing is what's important from a NIM standpoint. On NII, in
+aggregate, we have some portfolio run-offs and we've been -- we provided you some guidance around that. We
+continue to build our balances and build our loan portfolios, so, the question's going to be -- which exceeds the
+other here.
+
+Page 18 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JAMIE DIMON: One disclosure you're going to see is this AFS portfolio's yielding 2.6%, but this quarter it's going
+to be 2.47%, that is hedging effectiveness. It's really still [using] 2.6%. So, (inaudible) just a few hedging
+effectiveness went in, and it goes against the asset.
+ED NAJARIAN: As a quick follow-up, you talked about potentially being close to zero in terms of mortgage
+repurchase costs, at least through the income statement over the next several quarters. Can you give us maybe a
+little more commentary around that? Are you seeing a significant decline in claims starting to come in? And then
+secondarily, can you make any comments in terms of your sense of what's going on in the private label side of
+Mortgage repurchases, either in terms of claims or with respect to litigation?
+DOUG BRAUNSTEIN: So, the real differential there has been a modest decline, the real differential is our cure
+rates. Because as these demands go deeper into the securities, they're taking more mortgages that have been
+paying for longer, and the result of that is we've been decreasing the amount of demands we actually have to
+repurchase. That's really been driving in part the analysis. On the private label side, you'll see in our supplement,
+we had a modest increase in demands, but much of that is going to make its way through litigation.
+ED NAJARIAN: So, your statement about zero really excludes any thoughts about that litigation?
+DOUG BRAUNSTEIN: That's separate. Separate and distinct.
+ED NAJARIAN: Okay. Thanks.
+SARAH YOUNGWOOD: Chris Kotowski.
+CHRIS KOTOWSKI, ANALYST, OPPENHEIMER & CO.: Yes, also for Doug. I wonder if you could walk us
+through a little bit on the changes in the Basel III ratio. At the end of March, you reported 8.4%. This is 7.9%.
+Obviously, the NPR must have had an impact there. I was wondering if you could break down what the bigger
+chunks of that impact are. Is it the treatment of home equity loans or --?
+DOUG BRAUNSTEIN: Sure. Actually, 20 basis points was refinement of our earnings as a function of the
+restatement, so, there was some move from the restatement. Actually, about 10 basis points. The remaining 30
+basis points, you can think about that principally as the CRM minimum that was added to the Basel 2.5 rules.
+That's the bulk of the RWA. It's an increase of about $40 billion for our portfolio. We would estimate, because that
+is subject to model approval, and you need at least 12 months of operation model approval from the first quarter
+of 2013. So, we're hopeful that $40 billion comes back into, and it's included in some of those projections that
+Jamie showed you come back as a reduction. So, we were pretty close on our Basel III estimates.
+CHRIS KOTOWSKI: Now, the way I read it though, in home equity loans in particular, it looked like for over 80%
+loan to values that you were going to have a 1.5 times capital charge?
+DOUG BRAUNSTEIN: That's Basel I.
+CHRIS KOTOWSKI: Okay.
+DOUG BRAUNSTEIN: That's Basel I. Basel III rules didn't really change very much for the Mortgage portfolio.
+CHRIS KOTOWSKI: Okay. Great. Thank you.
+SARAH YOUNGWOOD: [Vin Freudenlich].
+VIN FREUDENLICH, ANALYST: Thank you. I understand from your information that one of the reasons for the
+losses here was that perhaps the success of the unit led to some complacency in overall governance of the unit.
+Yet, as I look through some of the discovery information, it seems that the risk management profile here was one
+that excluded certain basic tenets of risk management -- granular levels of asset concentration risk, et cetera.
+That begs the question -- was this unit ill-conceived from a risk management perspective from day one, and it
+took five years to reach the end result? Were there perhaps some small successive lapses in credit management
+over time that ultimately, and perhaps we can look at the new VaR model as inadvertently being one of those that
+ultimately led to this result?
+MIKE CAVANAGH: I would say it's something that the complexity of synthetic credit was there over five years,
+and there were things that obviously we could have caught it sooner, but it didn't until the circumstances of the
+first quarter get us. But the overall mistake was allowing something that wasn't like the rest of the ALM type of
+activities to get housed inside CIO. That had one form of risk management structure, and then put something new
+in that required a whole different type of risk wrapped around it, and didn't do it at the time.
+Page 19 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+SARAH YOUNGWOOD: Todd Hagerman.
+TODD HAGERMAN, ANALYST, STERNE, AGEE & LEACH: Mike and Jamie -- Mike, you talked a lot about the
+VaR model, some of the changes. Jamie, you've talked in the past about your feelings one way or the other, in
+terms of the usefulness of VaR, if you will. And what I'm curious about is, with all the discussion on VaR if you will,
+what changes have been made in terms of the dependence on the models themselves, and how that relates back
+to the risk management and the model group? And what other controls, tools you may have put in place, to again
+make this a more robust process, if you will?
+JAMIE DIMON: First of all, we don't run a business in models. And if you do run a business in models, you will be
+dead. It doesn't work. VaR is one model. We use tons of other models, and I think Mike pointed out, the right way
+to do it is have lots of other granular limits -- notional amount limits, credit spread limits, single name limits, all
+these things. VaR is just one. VaR does not capture underlying changes in underwriting, it doesn't capture
+changes in correlations, it's only backward looking. It's a data point that helps you manage your business. That's
+all it is.
+Now, having said that, Mike, we've got to do a better job implementing some of these models.
+MIKE CAVANAGH: It's the process of (inaudible) models, not the models themselves. That's the finding there.
+The granularity risk, those are the two big take-aways, if you look at the findings, that I would say, is get the right
+limits around the activity, one. That's not necessarily a VaR model or any one given type of activity, but if we're
+going to put things in, we've got to have belt and suspenders to make sure we approve it for the right reasons,
+and have the right operational support around it.
+TODD HAGERMAN: Just as a follow-up, my understanding as an example with the CCAR process and the
+review of the trading operations specifically, a lot of dependence was placed on the models in terms of that
+review. What are you sensing now in terms of, given the event that's transpired, how that evaluation is going to
+change on a go-forward basis, particularly as we think about next year's CCAR process in light of this event?
+MIKE CAVANAGH: I think we've brought, certainly put a lot of attention on it ourselves, and I think the take-aways
+that we saw was this just bolstering all processes around model governance, implementation approval, a new
+team. We took 25-year veteran risk manager in charge of a new group that's really going to lead up, watching
+model activities, all parts of process, because really the mistake we made here was roles and responsibilities. So,
+whereas, I would say we're very good in particularly our Investment Bank, which the heaviest user of models;
+we've got very robust in-business market risk teams, that have the handoff of dealing with parallel testing, back
+testing, running the operational model themselves. CIO was weaker in that regard. So, when you have the
+interaction between the independent model of review group, and the market risk teams in the business, again, a
+particular mistake here. That's a policy and procedure thing that we've tightened up, and John Hogan's done a lot
+in the past month.
+JAMIE DIMON: CCAR is not VaR dependent. Stress testing is more important. We do extensive stress testing.
+And so, to me, you've got to get that right. So, CCAR has embedded in it, is one test. We do hundreds of stress
+tests, and obviously we should have done stress test in this particular portfolio better, too.
+SARAH YOUNGWOOD: Paul Miller.
+PAUL MILLER, ANALYST, FBR & CO.: Thanks. Jamie, I think the 10-year today is right around 1.5%. We keep
+on hoping, as banking analysts, that it keeps on going up, but every quarter it goes down. The 10-year, the flat
+year curve, which is starting to really weigh on a lot of people's net interest margins. Your net interest margin was
+down like 13, 14 basis points. It really feels like this 10-year is not going to move, and we're going to live with a
+flat yield curve longer than anybody wished, maybe even 2014, 2015. How does you, as a bank, position yourself
+for that environment, even if it goes down, but a lot of people are thinking at 1% at this point.
+JAMIE DIMON: I'm not talking about going down to 1%, but we're getting near the end of the margin compression
+from the yield curve. If I remember correctly, about a year or two ago, we might lose another $400 million or $500
+million, and then it flattens out. If the 10 goes down more, it's even more. We're short -- most banks have much
+longer duration than we do. We could easily today put on -- change what we're doing, and put on $50 billion in
+mortgage at 3% and earn a lot more. If you really believe that, we could change our structure to earn back some
+of that income, in fact, far more than what you might lose from --.
+PAUL MILLER: Take a bigger step back. If we're going to be living with this flat yield curve, banks like to live with
+a steep yield curve. That's what we've all been raised on for the last three or four decades, but if we're going to
+live in this environment, how do banks operate? How are you positioning your institution to go forward with a
+Page 20 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+continued flat yield curve? Yes, you can adjust the balance sheet. That's a one-time issue. But going forward,
+how would you run this institution?
+JAMIE DIMON: I don't think -- most of the effect of a yield curve has gone away. If it stays like this forever, we're
+still going to earn about what we're earning. It isn't like you have to deal with a negative every year after every
+year. How you do your loans and your deposits and a lot of things on our balance sheet, which earn very little,
+because we're almost doing them as a service for clients, you might do less of that. But you still have $200 billion
+of Treasury assets we have. We're earning 5 basis points on that. We don't need to keep those deposits. We may
+modify that. But you'll change your pricing, your products, your services, to try to earn a fair return on capital.
+SARAH YOUNGWOOD: Gerard Cassidy.
+GERARD CASSIDY, ANALYST, RBC CAPITAL MARKETS: Gerard Cassidy, RBC Capital Markets. Doug, you
+touched on the LCR ratio in the Basel III. Do you guys have an estimate of where that is today? The liquidity
+ratio?
+JAMIE DIMON: So, basically, if you did the number today, you might show a gap, but that gap is easy for us to fix
+by just changing our asset mix. We will be LCR-compliant by reinvesting the AFS portfolio or doing their slight
+different things. We want to see the final rules before we start swinging the balance sheets all over the place.
+We'll be fine. We're a very liquid Company.
+GERARD CASSIDY: Following up on the yield curve commentary that you just made, Jamie, are the returns
+acceptable? As you pointed out, there is not any incremental negative impact for you guys if the yield curve stays
+this way. Are the returns on equity acceptable, or would you try some other strategy, possibly shrinking the
+balance sheet, and buying back even more stock?
+JAMIE DIMON: We ask that question all the time, but we're actually, believe it or not, getting good returns right
+now. When you look at the returns in our businesses, a 15% return on tangible equity, the record earnings. So,
+could you do more? What we like to do is build the business -- bankers, services, clients, execution services, to
+grow our business over time, and we've been doing that. That's what we focus on, and we'll modify pricing,
+products and balance sheet to get a fair return.
+GERARD CASSIDY: Finally, maybe your comments on what you're seeing in Europe, how they're progressing on
+solving some of those problems, you want to add any color to that?
+JAMIE DIMON: It's very hard to add to the debate you read about every day. You're now reading about what they
+kind of need to do, and they need to do kind of all of them. Have a European bank regulator, a European bank
+scheme to stop bank runs, have some facility that could finance the Italian and Spanish sovereign debt in the
+meantime, and then fiscal union that people believe in. And we think you're going to see that kind of in fits and
+starts over time. Just be prepared for the roller coaster.
+SARAH YOUNGWOOD: Michael Lipper.
+MICHAEL LIPPER, ANALYST, LIPPER ADVISORY SERVICES: Good morning, Jamie.
+OPERATOR: (Operator Instructions)
+MICHAEL LIPPER: -- as assets, and 76 as liabilities. Two questions. Can you tell us how much of those are
+netted from the same counterparty? And second, how much of those numbers was the CIO numbers in that at the
+end of that quarter?
+JAMIE DIMON: I'm going to do the second one first. I think it's a very small -- CIO is a very small part of that
+number. That's number one.
+Number two, there are very complex lending rules, which I don't want to go through here about derivatives, but we
+did do a presentation at one point showing exactly how derivatives net by counterparty. We would be happy to
+share that with you and take you through it.
+MICHAEL LIPPER: Thank you.
+SARAH YOUNGWOOD: Make an announcement for the phone. If you're on the phone, please put yourself in the
+queue at this point. We're going to take a few more questions in the room, then we're going to move to the phone.
+OPERATOR: (Operator Instructions) There are no questions via the phone line.
+Page 21 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+SARAH YOUNGWOOD: Okay. So, then let's continue. Nancy again.
+NANCY BUSH: Nancy Bush again. Mike, a question for you. Looking at your slide number 8, the events in late
+April, you say senior corporate risk management team began on-site bottom-up engagement on April 27. Had a
+senior risk management team done an on-site bottom-up engagement in the CIO before, and is that now sort of
+an established part of risk management?
+MIKE CAVANAGH: It's a good question, Nancy. What we referred to there is, in late April, that's the stage at
+which John Hogan over there and a team of folks from outside CIO and across business went in to really sit
+on-site and pick the book apart. Prior to that, there was obviously work being done with senior risk folks, but
+looking through the lens of the CIO risk team. So, it took it to a different level of intrusion.
+JAMIE DIMON: The CIO risk team did an inadequate job.
+SARAH YOUNGWOOD: [Chris Lafayette]
+CHRIS LAFAYETTE, ANALYST: One critique of the industry has always been the incentive structure. I'm just
+wondering if, in the CIO review, there was any conclusions based on, if incentives were aligned with long-term
+shareholder interest?
+MIKE CAVANAGH: Sure. We obviously looked at all that. None of the people in CIO are on any form of formulas;
+the business is not on a formula. We obviously looked at compensation for what we were doing in CIO, relative to
+what you would see pay related to running a $350 billion fixed income portfolio. Can't obviously get in the minds
+of the individuals that -- in making individual decisions, but we look for evidence of particular things that were
+problematic around our compensation schemes, and found no particular issues.
+SARAH YOUNGWOOD: Matt Burnell.
+MATT BURNELL, ANALYST, WELLS FARGO SECURITIES, LLC: Matt Burnell from Wells Fargo Securities. A
+couple quick questions for you, Doug. You mentioned that the net interest margin effect of the AFS gain, or the
+securities that were sold to generate the gains this quarter had no effect on this quarter's NIM. Does that imply
+any effect on future quarters' NIM as well?
+DOUG BRAUNSTEIN: No.
+MATT BURNELL: Depending on when the sales were done?
+DOUG BRAUNSTEIN: No. More a function of reinvestment.
+MATT BURNELL: Fair enough. Okay. And then in terms of the investment banking, and sales and trading results,
+those appear to be, even if you strip out the DVA, reasonably strong. Could you give us a sense as to what your
+outlook is for those numbers, to the extent you can guess it, and what the drag from Europe is on your outlook
+there for the next quarter or two?
+JAMIE DIMON: First of all, as you know, Investment Banking revenues are unpredictable by their nature.
+Whenever they come in with a low number, I would say -- well, it could be much higher. Right now, it looks similar
+to what it was last quarter. That can change at any one point in time. I think you see everywhere, business in Asia
+and Europe are down. America remains to be seen.
+MATT BURNELL: One final question. Given all the information that Mike provided to us, how much of that
+information, or will there be more information, not only provided to the regulators, but some of your friends on
+Capitol Hill?
+JAMIE DIMON: We share a lot of information with people who ask. The regulators are completely up-to-date on
+all of Mike's information. Right? They've been through this several --?
+MIKE CAVANAGH: Absolutely. More than absolutely.
+SARAH YOUNGWOOD: David Sochol.
+DAVID SOCHOL, ANALYST, LEVIN CAPITAL: Thank you. [Dave Sochol, Levin Capital]. Maybe from a
+perspective of a buy-sider and a long-suffering shareholder and my clients, I'd like to follow up on Mike Mayo's
+question and also reference a KBW report that looked at the potential of splitting off the Chase Consumer bank
+with Auto and Credit, and having a standalone JPMorgan Commercial Bank, Investment Bank, Trust, and TSS.
+Page 22 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+And the point being, not just the tipping point or actual dis-economies of scale, and even if there are economies of
+scale, the stock market refuses to acknowledge it, in terms of the multiple continuing to come down. I look at the
+track record over the past year or so, and notwithstanding the great performance relative to a pretty low bar, but
+still a good performance.
+But we've had the mortgage servicing issues, mortgage foreclosure issues, military veteran issues, energy,
+commodities, sales practices, now this inexcusable just unbelievable CIO debacle, now potential LIBOR. And I
+think about what has to happen for either you as a management team or you as a Board to finally say -- we are a
+great institution and we own a lot of great businesses, but we have reached that point where we are too big to
+manage, and in the interest of our shareholders, there's a different corporate structure that would better serve
+your owners? Thank you.
+JAMIE DIMON: I beg to differ, okay? And there's huge strength in this Company that the units get from each
+other. We don't have the strategy of we're guessing at things. The Investment Bank serves the commercial bank.
+The TSS gets huge order flow to the Investment Bank. We think there's enormous amount of cross-sell. And we
+do it just as much as anybody else out there between the Consumer Bank, Small Business, Private Wealth
+Management, Credit Card, Mortgage, and our job is to do a great job serving clients, grow the business, and
+eventually the stock will reflect it.
+And so, I think also, people splitting off companies -- my whole life, is people splitting off the higher P, lower P.
+That's very short-term stuff. Have a strategy, execute on it, and build the business, that's how you build value. We
+don't feel great that we haven't done a great job for shareholders recently, that we completely acknowledge, but
+we're going to keep on building the Company, and one day the stock will reflect it. If the Board ever thought there
+were better strategies, that will be considered at the time.
+DAVID SOCHOL: I would respectfully say that certainly the cross-sell is very obvious, and that's why I would not
+look at separating it into numerous companies, but I'm just wondering at what point it does become more
+apparent that there are dis-economies, and is a potential that -- is it possible that had CIO been part of a smaller
+institution, it would have gotten the management look that it required?
+JAMIE DIMON: Hundreds of small banks have gone bankrupt. Okay? Mono lines went bankrupt. (multiple
+speakers) You could argue the other way. There's a huge source of strength in how strong this Company is
+through all these storms, can do Bear Stearns and WaMu, do all these wonderful things. CIO was a mistake, and
+we're sorry.
+SARAH YOUNGWOOD: Glenn Schorr.
+GLENN SCHORR: Two very quick follow-ups. One, I want to make sure on the LIBOR issue, I understand all the
+things that you can't talk about mid-investigation, but I'm assuming this has been going on for a while, that you've
+had three, six, maybe more months of internal investigations. Is there anything you can tell us, comment on?
+JAMIE DIMON: No.
+GLENN SCHORR: All right. One last try. Okay. Doug, on the commentary --?
+DOUG BRAUNSTEIN: No.
+GLENN SCHORR: All right, Mike. On the expense commentary, second half from first half, just technical
+question. Does that exclude the $3 billion or so of litigation reserve build in the first half, or is it all inclusive?
+DOUG BRAUNSTEIN: We talk about the adjusted expense excludes that.
+GLENN SCHORR: Okay. Thanks.
+SARAH YOUNGWOOD: Operator, I think we have a question from John McDonald.
+JOHN MCDONALD, ANALYST, SANFORD C. BERNSTEIN & COMPANY, INC.: I actually had two. Glenn just
+stole them both. But I guess just one more slight attempt on the LIBOR. Do you have any sense of how long the
+issue will overhang on the industry, and whether we'll get some kind of clarity about the investigations over the
+Summer, or if this is something that could drag on for a long time. Any insight on when we're going to get some
+more information on it?
+JAMIE DIMON: We have no special insight, okay?
+Page 23 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+JOHN MCDONALD: Okay. Thanks.
+SARAH YOUNGWOOD: Richard Ramsden.
+RICHARD RAMSDEN: Just a quick follow-up either for Jamie or Mike. Was the process of valuing positions in the
+CIO book different to the Investment Bank, or was it just the application of the valuation technique, and I'm
+referring specifically to the Q1 restatement? Thanks.
+MIKE CAVANAGH: It's the application of policies are the same across businesses, different applications.
+SARAH YOUNGWOOD: Ed Najarian.
+ED NAJARIAN: Jamie, quick follow-up on sort of your perspective on capital. So, since Investor Day in February,
+seems like the world's gotten a little bit to be a scarier place in terms of, we're more concerned about Europe, we
+have the LIBOR thing has cropped up, we're talking more about global economic slowdown. I know you
+mentioned you would love to buy back stock at 1 times tangible book, but is there anything about the last several
+months of events, just from a macro standpoint, that make you want to drive to higher capital ratios, or get to
+9.5% on Basel III Tier 1 common equity faster than you might have thought you wanted to back in February?
+JAMIE DIMON: A little bit. And you know what those things are. It's Europe, fiscal cliff in the United States. It's all
+those things would make you be a little more cautious. Again, I think we're going to earn money next year
+regardless of those things, whatever happens.
+SARAH YOUNGWOOD: Gerard Cassidy.
+GERARD CASSIDY: Mike, you gave us a very thorough detailed disclosure how you attacked this problem with
+the CIO. You're very confident that you have your arms around it. Do the regulators have that same confidence?
+Have they shared that with you that they feel very good that you guys have licked this problem?
+MIKE CAVANAGH: I can't speak for the regulators, but certainly they have been -- we have spent a lot of time
+with them to keep them informed, and obviously wanted to guide our work from the get-go in a way that was
+going to satisfy a lot of different constituencies.
+JAMIE DIMON: They're going to do their own work as they should, and come to their own conclusions. The Board
+has an independent group which is still guiding the task force, and will come to its own conclusions, too.
+SARAH YOUNGWOOD: Brennan Hawken.
+BRENNAN HAWKEN: Mike, when you went through your review, do you think that maybe the idea that there was
+no formula for comp in CIO might have led to some of the trouble, and the stretching? And then on a go-forward
+basis, as the follow-up, which is probably more important, how are you guys thinking about structuring comp in
+the CIO office over the next few years?
+MIKE CAVANAGH: No, I mean, I don't think -- when we talk about formulas, individuals getting a cut of revenue,
+none of that existed, and I don't think that's a good thing. I think the kind of practices that are common in CIO are
+the same as what we do on our Investment Bank, is taking the totality of managers' subjective judgment of
+performance and a multi-year view of how good a person is doing their job over multiple years. All of that together
+with the pay practices of how we defer compensation, all are sound policies, and it's the application obviously that
+you have to get right. Matt, who is now running CIO, I'm sure will bring his own individual management style to
+doing that, but we didn't walk away with a feeling that there's anything different about that unit of the Company, or
+that the Company broadly should be doing differently around administering compensation.
+BRENNAN HAWKEN: And the idea now that we don't have synthetic in CIO, clearly that's going to mean we
+should probably just assume more volatile results out of that business, particularly in times when credit's getting a
+little funky?
+JAMIE DIMON: No, no.
+BRENNAN HAWKEN: Obviously with the recent portfolio as an exception.
+JAMIE DIMON: Double A plus, it's an AFS portfolio, it's not marked-to-market in the P&L. It's got a 3.7-year
+average life, it's 80% government guaranteed or government type of entity guaranteed. You're not going to have
+more volatility in it. If we have a small hedge there, and you see we hedge more in Europe, that's why we need
+the ability to hedge. Very little to do with AFS. The AFS subordinates the rest of the Company. Nothing would
+Page 24 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+please us more than to reduce AFS and make some more great loans. They can't say --be paid just on the
+revenues of their profit, because they're not there for that. They're in the management of this portfolio. We need
+some very good people, there's $350 billion, it operates, I forget out of how many countries, and multiple
+currencies. We need some very good people managing that book, just like you would with PIMCO or Black Rock,
+big fixed income portfolio.
+SARAH YOUNGWOOD: [Eric Veiel]
+ERIC VEIEL, ANALYST: Doug, can you just help us understand why the default servicing expenses aren't coming
+through as fast as you thought, and when they might start coming through?
+DOUG BRAUNSTEIN: I mentioned three things. Obviously the operation of the consent order; second is this
+independent foreclosure review. Those costs are larger, and are going on longer than we expected. Third is, we
+just continue to have a lot of default properties that we're processing through. Those will come down over time,
+but they haven't. They remain at a level. So, our expectation is -- we had thought we would see more movement
+in the second, third and fourth quarter. It's more likely that's a 2013 event.
+SARAH YOUNGWOOD: Do we have any additional questions on the phone?
+OPERATOR: We do from the line of Jim Mitchell with Buckingham Research.
+JIM MITCHELL, ANALYST, BUCKINGHAM RESEARCH GROUP: Doug, just a question for you on the margin.
+Just wanted to help, if you could flush out why we saw a decline? It seemed like in the trading assets you had
+securities borrow turn negative in terms of the yield. Other trading assets understood that you have a lower rate
+environment. But on the flip side, the cost of the trading assets on the liability side seemed to go up. Is that the
+hedging impact, or could you kind of explain a little bit more detail on why we're seeing this dynamic of a negative
+spread and securities borrowed and other issues.
+DOUG BRAUNSTEIN: I'll get back to you on that.
+JIM MITCHELL: Okay. I'll follow up, thanks.
+DOUG BRAUNSTEIN: Thanks.
+SARAH YOUNGWOOD: Any other questions on the phone?
+OPERATOR: No, ma'am, not at this time.
+SARAH YOUNGWOOD: Any questions in the room?
+JAMIE DIMON: Folks, thank you very much for spending some time with us. Better news next time.
+OPERATOR: This does conclude today's conference call. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web
+site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other
+forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current
+expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any
+forward-looking statement based on a number of important factors and risks, which are more specifically identified
+in the companies' most recent SEC filings. Although the companies may indicate and believe that the
+assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove
+inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the
+forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE
+APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN
+ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN
+THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON
+FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE
+INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO
+Page 25 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S
+SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+Document FNDW000020120727e87d000ul
+
+Page 26 of 26 © 2020 Factiva, Inc. All rights reserved.
+
+

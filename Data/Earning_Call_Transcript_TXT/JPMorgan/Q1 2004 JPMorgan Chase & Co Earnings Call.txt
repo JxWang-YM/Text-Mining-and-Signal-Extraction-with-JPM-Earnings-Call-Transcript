@@ -1,0 +1,659 @@
+16,008 words
+21 April 2004
+FD (FAIR DISCLOSURE) WIRE
+FNDW
+English
+(c) Copyright 2004 CCBN and FDCH e-Media.   
+
+OPERATOR: This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based upon the current beliefs and expectations of JPMorgan Chase's management and are subject to significant risks and uncertainties. Actual results could differ materially from those as set forth in the forward-looking statements.   
+
+The following factors, among others, could cause actual results to differ from those set forth in the forward-looking statements: the ability to obtain governmental approvals of the merger on the proposed terms and schedule; the failure of JPMorgan Chase and Bank One stockholders to approve the merger; the risk that the businesses will not be integrated successfully; the risk that the cost savings and any other synergies from the merger may not be fully realized or may take longer to realize than expected; the risk that excess capital is not generated in the merger as anticipated or not utilized in an accretive manner; and the risk that disruption from the merger may make it more difficult to maintain relationships with our clients, employees, or suppliers.   
+
+Additional risks and uncertainties are described in our 2003 Annual Report on Form 10-K filed with the Securities and Exchange Commission and available at the Securities and Exchange Commission's internet site to which reference is hereby made. Stockholders are urged to read the definitive joint proxy statement prospectus regarding the proposed merger, because it contains important information, including information regarding the participants and the proxy solicitation. Stockholders may obtain a free copy of the definitive joint proxy statement prospectus, as well as other filings containing information about JPMorgan Chase, without charge, at the SEC's internet site   http://www.sec.gov .   
+
+I would like to remind all participants that the press is on the call today on a listen-only mode. You will hear music until the call is ready to begin.   
+
+DINA DUBLON, CFO, JPMORGAN CHASE & CO.: Members of senior management, I'm going to start with what we need to start, which is a statement regarding possible risks and uncertainties in accordance with the Private Securities Litigation Reform Act. And I'm going to leave it on the screen for a few more seconds.   
+
+And I will take you through first quarter financial results this morning, and take questions related to the results. Bill and Jamie will then give you an update on our merger and take additional questions.   
+
+Our earnings for the quarter were at the highest level since the first quarter of 2000, which is not a bad way to start the year. Improvement in capital markets drove net income in the Investment Bank and investment management and private banking to the highest level in over three years. It also provided opportunities to realize gains in private equity. These businesses were more than offset, the anticipated decline in Chase Financial Services, our retail business, due to the slow down in the mortgage market.   
+
+We continue to benefit from very low credit costs. We've seen dramatic improvement in the quality of the commercial portfolio, but also better delinquencies and charge-off rates in consumer. Total Tier 1 capital is $7 billion higher than a year ago, while the capital that is allocated to our businesses, based on risk, is $5 billion lower.   
+
+I'm on slide four, for those of you on the phone, beginning on the left side of the slide, the picture, earnings for the quarter of $1.9 billion were up almost 40% compared to the first quarter last year, and were up about $70 million over last quarter. Earnings per share, 92 cents. And return on equity was 17%.   
+
+We had good growth in revenues. 11% from the fourth quarter and 7% from the first quarter last year. Relative to both periods, expense growth rates were higher.   
+
+The sharp expense increase, up 16% from the fourth quarter, reflected below incentives in the fourth quarter from true-ups, as is common in other broker/dealers. What I mean by that is that the base in the fourth quarter was unusually low. It was also driven by higher incentives in the first quarter from the significantly higher revenues. Credit costs were lower than both periods, contributing to an increase in earnings.   
+
+I'm moving to slide five. And I want to give you a little bit more perspective on the revenue expense growth rate. Revenues, as I said, were up 7% from the first quarter and expenses were up 9%. The larger expense increase were in Retail and in Treasury and Security Services. The lesser from acquisitions.   
+
+Expenses in both groups will moderate in future quarters. The imbalance in growth rates for the firm got exacerbated by businesses that had large swings in revenue with little impact on expenses. I referred to it in January as being the headwinds and tailwinds for 2004.   
+
+Global Treasury and JPMorgan Partners each have small expense bases, so the revenue swings go to the bottom line without much of an offset. Home Finance benefited last year from the unprecedented refinancing boom and had to ramp up expenses throughout the year. Basically to keep up with the volumes. The volumes have dropped in the first quarter dramatically, but the expenses have not yet.   
+
+If we remove the impact of the large swings in these three businesses, we show 10% revenue growth and the same, 9%, expense growth. Not making any excuses, there is room for improvement. Only explaining the story behind the numbers, and we don't manage just for one quarter results.   
+
+Moving to Credit, slide six, another good quarter. Credit costs declined $700 million from the first quarter last year. Commercial and residual credit costs accounted for almost $600 million of that decline, swinging from cost of $330 million, to a benefit of $250 million.   
+
+Commercial net charge-offs in the first quarter were $100 million, or 50 basis points on loans. Significantly down from last year. Consumer credit costs of $735 million were down $130 million from the first quarter. Delinquencies, as I mentioned, were lower, and charge-offs were at the lowest level in over a year. The credit card charge-off rate shown was just under 5.8%, versus 5.95% first quarter last year.   
+
+Total credit costs for the quarter were over $400 million lower than net charge-offs. Most of the reduction in the reserves came from improvement in the quality of the commercial portfolio, as well as subdued loan demand. Nonperforming assets of $2.9 billion were down $1.5 billion from March last year. Commercial criticized exposures were half last year's levels.   
+
+We expect the firm's credit costs to increase from here, as improvement in the quality of the portfolio bottom out, and demand for loans pick up. Reduction in commercial reserves will taper off. And we should expect, therefore, credit costs to be close to the level of charge-offs.   
+
+I'm moving on to the Investment Bank, slide seven. The Investment Bank earnings at $1.1 billion were the highest since the first quarter of 2000. They were up 29%, and 24% from prior periods. We had record trading revenues and the benefit from recovery of loss reserves. Return on equity of 28% was also a record, reflecting a $5 billion reduction in allocated capital, due to lower credit risk.   
+
+Total Investment Bank revenues of $4 billion increased 30% from the fourth quarter and decreased slightly from last year. Excluding Global Treasury, revenues were up 10%. The $400 million decline in Global Treasury revenue, mostly securities gains, masks the growth in client businesses.   
+
+Global Treasury is managing this trustful risk of the firm, not that of the Investment Bank. When we merge with Bank One, Global Treasury results will be excluded from the Investment Bank.   
+
+Trading revenues of $2.3 billion doubled from fourth quarter and were up 18% from the first quarter, driven by record client revenues, up 20% to $1.4 billion. Value at risk, or VaR was $106 million in the quarter, up from both prior periods.   
+
+Fixed income and equities VaR were higher than the first quarter last year, higher risk taking and higher correlation among our fixed income positions contributed to the higher VaR. The increase in equities VaR had a smaller impact, since it contributes to diversification benefit.   
+
+Investment Banking fees of $680 million were up 10% from a year ago, down from a very strong fourth quarter. December was a great month for us. Our calendar quarter is not comparable to most broker/dealers.   
+
+Significant deals in the quarter: We were the co-advisor for Comcast on their $66 billion for Disney. We were joint book runner for G.E.'s $3.8 billion accelerated one-day stock offering. We were joint book runner on $1 billion secondary offering of Telecom Austria for Telecom Italia. We improved our share and rank in announced M&A, even excluding our own deals.   
+
+Our position in the equity and equity-related league table fell because of a drop in converts and some business we chose not to compete on. We moved from number 14 to number 4 in U.S. IPO league table, and we have the largest backlog of IPOs on the street.   
+
+First quarter is a seasonally strong quarter for trading revenues. We would not multiply it by four. Our Investment Banking fee pipeline is up significantly, about 50% from year-end, and strong across all products. It won't all come through at once, but we see much upside from here. Credit costs should increase going forward, as well.   
+
+Chase Financial Services, I'm going to slide eight. The earnings were $430 million. They were down $220 million, or 34%, from the first quarter last year, $200 million of that reduction came from Home Finance earnings.   
+
+Card income was up 11% but was offset by declining deposit spreads and weak auto leasing results. Revenues were down 8% from the first quarter.   
+
+Expenses were up 11%, including $60 million of severance and related charges in the group. That's four times the level we had last year. Higher costs in Home Finance and higher marketing costs in Cards. Depending on mortgage volume, Home Finance expenses should decline later this year.   
+
+Morning originations were down almost 60% as the re-fis slowed. Home equity originations, an area of strategic growth, were up significantly, and applications increased about 40% to $66 billion in the quarter. That's obviously good news for the second quarter.   
+
+We had strong purchase volume in Card, up 15%. Payments were up, balance transfers were down, and average managed receivables, at $62 billion, remained flat.   
+
+Regional banking and middle market deposits were up 10%. Core deposits, which excludes time deposits, were actually up 14% from the first quarter last year. Production metrics in the branches were dramatically better. We had net accretion in checking accounts versus attrition for the prior period. Investment sales increased. Cross-sell of home equity doubled, and new card accounts coming through the branches increased 35%.   
+
+So if all is so well, how come the business lost money in the quarter, and does look worse than the prior year? Deposit spreads were down. They are down now to 180 basis points which doesn't cover the costs. The credit for cross-sell is minimal in our internal MIF. Expenses are up, reflecting restructuring and severance, and credit costs are up as well.   
+
+Compared to Bank One, Chase's Card business has a lower internal funding rate, but the consumer deposit has lower funding credit. We also have different expense allocation policies, and we will be aligning those as we merge.   
+
+Home Finance results for the remainder of '04 may be comparable to the level this quarter, though much lower than last year. We should see improvement in the other businesses.   
+
+Return on equity for the quarter was 18%. It did reflect several unusual items. With the merger, we will have a much stronger platform for growth across all of the retail businesses.   
+
+For those on the phone, I'm on slide 9. Treasury and Security Services earnings of $120 million were up 6% from the first quarter but down from the fourth quarter, which included a $40 million gain on the sale of the business.   
+
+Records revenue of $1.1 billion for the quarter. They were up 19%. Expenses were up 20%. Excluding the acquisitions, whether it is Bank One's Trust business, or Citi's Electronic Financial Services revenues, and expenses were up about 11%.   
+
+Deposits for the group were up 30%, to almost $100 billion. Spreads, though, are much lower.   
+
+Investor services, or cost of the business, had higher asset-based fees viewed to better market conditions. Return on equity for the group is 16%. Under our current approach, the allocated capital includes 100% of the goodwill from the acquisitions.   
+
+We expect a better balance between revenue and expense growth, improved overhead ratios, and higher bottom line, as the synergies from the acquisition materialize. Investor Services should stay on the right side of the V.   
+
+Investment Management and Private Banking earnings, $115 million. They were the highest in over three years. They were up over -- about 15% from the fourth quarter. Pretax margin was 22%. Return on tangible equity was 36%. Return on equity was about 8%. Revenues were up 29% from the first quarter because of market depreciation, as well as increased investor activity.   
+
+Expenses were up 9%, and revenues and expenses were flat to the fourth quarter. Assets under supervision at quarter end were almost $800 billion, up 5% from the fourth quarter and almost 30% up from last year.   
+
+We have net inflows in the quarter that were the highest in over two years. Strong inflows from retail and also net positive institutional inflows in assets under management for the first time in over a year, which is a reflection of improved investment performance. We expect positive operating leverage to continue here as long as the markets cooperate.   
+
+JPMorgan Partners, I'm on slide 11. For the third straight quarter, JPMorgan Partners had private equity gains and a positive bottom line. I guess you just had to keep the faith to get there. Private equity gains of $300 million were at the highest level. The highest level since 2000, with Kinko's providing about half of the gains. We have positive mark-to-market on the public portfolio, offset by net write-downs.   
+
+We continue to reduce the size of the portfolio. The book value for common equity is just about 14%. The investment pace for the quarter was $160 million. It is flow. We generally plan to harvest more than we invest.   
+
+Visibility for company sales is improving. Pipeline looks good for the second quarter. And that's obviously as long as market conditions stay favorable. We will be looking for positive, though single digit, return on equity for that business for the year.   
+
+For those on the phone, I'm on slide 12. Tier 1 capital, as I mentioned, is up $7 billion since last March. The equity allocated to the businesses is actually down $5 billion. The decrease in economic risk is not reflected in the Tier 1 ratio, which is flat at 8.4% to the level last March.   
+
+The risk weighted asset calculation does not factor in the risk ratings of exposure. For example, all loans and commitments, regardless of the rating, as well as private equity investment, get equal weight in the calculation.   
+
+In certain cases, the calculation for risk-weighted assets will also use notionals on derivatives to calculate the risk-weighted assets. We will accelerate our discussions with the regulators for use of economic risk models. These are the foundation for [INAUDIBLE] 2. For the same Tier 1 ratio, the firm has a much stronger capital position.   
+
+And now in summary, for the second consecutive quarter, we had earnings at the highest level since the merger. We increased capital while reducing risk. The economic recovery has helped. We were exposed on the way down and have seen a significant turnaround.   
+
+Our Investment Bank is floating it's very strong pipeline. Investment Management and Private Banking had the benefits of very strong revenue and positive operating leverage, and JPMorgan Partners has opportunities to realize the value it has built in the portfolio.   
+
+Countering these are lower revenues from our Treasury activities and a slowdown in the mortgage market. Credit costs are at unsustainabley low levels, as portfolio improvements have bottomed out. We should see low charge-offs continuing, but generally very low or no further reduction in the reserves from here on.   
+
+We cannot afford to take our eye off the ball during the merger integration. We must focus on what we can control, thus providing superior service and managing expenses.   
+
+Bill and Jamie will comment on the merger in a few minutes, but I would like to take questions about earnings now. I will -- Ron, please.   
+
+UNKNOWN, ANALYST, UNKNOWN: Thanks. And in regard to your comments on the outlook for Chase Home Finance, I think you thought that earnings were going to be flattish from here. And I guess my question is, if production is going to be up and costs are going to be down, why we wouldn't see earnings in that segment rise in coming quarters?   
+
+DINA DUBLON: Don, I will give you the benefit of responding to the question.   
+
+DON LAYTON, CHASE FINANCIAL SERVICE, TREASURY & SECURITIES SERVICES, JPMORGAN CHASE & CO.: If there is one characteristic of the mortgage business is there's a lot of volatile components moving around at all times and you see the net.   
+
+Production volume moved up in the first quarter for a short while before rates backed up, like a little bit of a mini boom. That will work through in the quarter as the timing of that in income is a little bit up front and a little bit back loaded, and the expenses tend to be more back loaded from that.   
+
+You then have the risk management revenue from MSRs which bounce around. Dina did not go over it, but we disclosed it, right?   
+
+DINA DUBLON: Sure, absolutely.   
+
+DON LAYTON: It was $86 million a year ago. This quarter it was a small loss of $8 million, so that will bounce around.   
+
+So we're just feeling cautious about predicting trends in this business. At a strategic level, you're seeing this come down to a normal --   
+
+OPERATOR: Ladies and gentlemen, if you have a question on the phone lines, please press star one at this time.   
+
+UNKNOWN: [INAUDIBLE]   
+
+DON LAYTON: Yeah, costs will come down. And things like mortgage warehouse will come down, where you earn money on the inventory in the warehouse, and things will come down with that. So production doesn't mechanistically equal revenue in that sense.   
+
+DINA DUBLON: Let me just add to that that we are calling for increasing rates for the remainder of the year. And in that sense, would expect revenues to come down, as well. Maybe not in the second quarter, as I mentioned just a moment ago, applications were up, late in the quarter, but otherwise, we are looking for higher rates, and therefore, higher, -- you know, lower production statistics and somewhat lower revenues, with a decline in expenses accompanying it.   
+
+Another question here in the room, and then I'll take questions from the phone.   
+
+UNKNOWN: Can you give us a sense of where you expect the run rate for the provision to end up, you know, given the charge-offs that stayed up as you brought the provision down?   
+
+DINA DUBLON: I would expect commercial charge-offs to remain at very low levels. They are at low levels now. They're at 60 basis points on the commercial side.   
+
+The consumer charge-offs are stable, and actually on the margin, potentially improving, since we see better delinquencies than we have seen in a while. I generally would expect the credit costs to be much closer to the level of charge-offs than what you have seen in the last couple of quarters where we have obviously dipped into reserves or reversed the fact that the reserve buildup that we had in the prior year. So I will leave it at that.   
+
+If I may, open it up for questions on the phone -- any questions on the phone?   
+
+OPERATOR: Yes, ma'am. Our first question is coming from Andy Collins with Piper Jaffray.   
+
+ANDY COLLINS, ANALYST, PIPER JAFFRAY: Good morning. Just wondering about the severance costs. You talked a little bit about them being higher than expected in Cards and Retail. How much of that really hit the first quarter, and what can we expect, kind of in the second quarter?   
+
+DINA DUBLON: We had severance costs in the consumer bank of $60 million. A large portion, though not all of it, was in our Branch Banking business. The Branch Banking business has been restructuring for a while. So you saw some severance costs late last year, as well.   
+
+Having said that, there is probably some acceleration on the margin that is related to the merger. We have not separated that number out in the overall severance costs. Our estimate is that there may be about $25 to $30 million of the severance incurred this quarter that could be associated with the merger. As we go forward, we will begin separating merger costs from overall operating earnings. In this quarter we felt it was too small a number to separate out.   
+
+ANDY COLLINS: Okay. And just one detail question. I don't know if you can provide it. But how many employees are there currently in the credit card operation?   
+
+DINA DUBLON: I don't remember it off the top of my head, but I suggest that you call Investor Relations and follow-up to get the employee count, you know, our Card Operations.   
+
+ANDY COLLINS: Thank you.   
+
+DINA DUBLON: It is not a secret.   
+
+ANDY COLLINS: Okay. Thank you.   
+
+DINA DUBLON: I'll take a question in the room and then go back to the phone.   
+
+UNKNOWN: Thanks, Dina. Question on the Investment Bank. One is the comp ratio year-over-year ticked up a few hundred basis points. I'm assuming it's a function of revenue mix, but if you could comment on that, and given your commentary on pipeline, if it stays there?   
+
+And it probably goes hand-in-hand, but where's the 2% headcount rise in Investment Bank, where are you adding headcount?   
+
+DINA DUBLON: I will let Steve or Bill, one of them to comment in a moment. So let me just comment on the comp to revenue ratio in the Investment Bank. It is absolutely impacted by the mix of revenues. We had very large Global Treasury revenues in the first quarter last year which impacted the comp to revenue ratio.   
+
+It looked lower than the run rate. If you adjust, just for that, the Global Treasury number, you will see that actually the comp to revenue ratio this quarter is lower than it was last year. So again, it's a mixed question. At the very top level, it's a question of -- what's impacting it is Global Treasury this quarter.   
+
+The question on the pipeline, can you just repeat for a moment the question on the pipeline?   
+
+UNKNOWN: It was related towards comp ratio. Given your commentary about how strong the pipeline is across the board from year end, comp ratio then adjusted for the Treasury activity year-over-year, right now is a good run rate on the comp ratio, and then where is headcount being added in the Investment Bank?   
+
+DINA DUBLON: Okay. You want to comment on the headcount in the Investment Bank, too, and anything else on the pipeline you want to add, Steve?   
+
+STEVE BLACK, MANAGING DIRECTOR, INVESTMENT BANK EQUITIES, JPMORGAN CHASE & CO.: Dina spoke earlier about the pipeline. And the percentage raises from both the fourth quarter of '03 and back to the first quarter of '03, and we feel very good about the pipeline.   
+
+In terms of the -- we're adding investments, we had an investment plan coming out of the end of last year of moving a little bit more from a defensive posture into an offensive posture. It was part of the plan going into '04. It was baked in the plan going into '04. And we do not anticipate a significant amount of change around comp ratios or anything other than what we talked about to take advantage of what we thought was going to be a little bit friendlier environment.   
+
+So I think the issue, as always, is can you turn your pipeline into -- and execute it and turn it into revenue. And if we do that, we're not terribly worried about the comp ratio.   
+
+DAVE COULTER, CHAIRMAN INVESTMENT BANK, JPMORGAN FLEMING ASSET MANAGEMENT, JPMORGAN PRIVATE BANK, JPMORGAN CHASE & CO.: Dina, could I add one thing?   
+
+DINA DUBLON: Yes.   
+
+DAVE COULTER: This is Dave Coulter.   
+
+I think on part of the headcount adds is we've been doing a lot in the operations and tech side in terms of shifting people to low-cost locations. And part of what you're seeing in terms of the headcount, in addition to what Steve described, are some of the overlaps. As we move people into cheaper locations, there's a period of time where we double-up a bit.   
+
+DINA DUBLON: Okay. Thank you, David.   
+
+Another question from the phone, if I may.   
+
+OPERATOR: Your next question is coming from David Stumpf of A.G. Edwards. Please go ahead.   
+
+DAVID STUMPF, ANALYST, A.G. EDWARDS & SONS, INC.: Good morning, Dina.   
+
+Two questions. One in the Treasury and Security Services business, you mentioned that the revenue and growth -- revenue growth and expense growth rates were partly related to the acquisitions. But it looks as if those acquisitions came on at a much lower operating margin, if you will. Those revenues came on at a much lower operating margin. Is some of that possibly related to merger-related costs that could have been embedded in the quarter? That's my first question.   
+
+And then secondly, if you look at trading revenue on the fixed income side in the Investment Bank, obviously it was a great quarter. You look back over the last eight quarters, there does appear to be at least some correlation with the direction of interest rates during the quarter in that line item. Obviously, activity has a lot to do with it, too. But could you provide some thoughts on what a normalized run rate might be for that line item now that interest rates do appear to be headed up, at least for the time being?   
+
+DINA DUBLON: Okay. I'm going to ask Don Layton to comment first on Treasury and Security Services, and then Bill Winters to comment on the fixed income.   
+
+DAVID STUMPF: Thank you.   
+
+DON LAYTON: Yes, the acquisitions come in in their initial period at a lower operating margin than the average of TSS. Partly because TSS has some businesses that are a bit more capital intensive, and so they have higher margins to offset that. But basically, what you get is front end costs associated with these, and you haven't yet gotten the value of the synergies which will tend to put them back down to the normal range.   
+
+DAVID STUMPF: Okay.   
+
+DON LAYTON: Okay?   
+
+DAVID STUMPF: Yeah.   
+
+DON LAYTON: While I have you, for the answer to the question, credit card has 11,185 people.   
+
+DINA DUBLON: Okay. Bill?   
+
+BILL WINTERS, MANAGING DIRECTOR, INVESTMENT BANK CREDIT & RATE MARKET, JPMORGAN CHASE & CO.: For the income side, it was a very strong first quarter. As we've described each time, we tried to get some color on the trading income. It's really broke into two piece, client revenue and nonclient revenue.   
+
+DAVID STUMPF: Right.   
+
+BILL WINTERS: The client revenue was particularly strong. It was a record quarter. For us, certainly since the Morgan Chase merger. And that, we think, is largely interest rate independent. And we've seen our client revenue pretty steadily grow. There's a seasonality to our client revenue and trading income, particularly in fixed income. But very little correlation with directional interest rate trends.   
+
+The nonclient portion of the trading income was also very strong in the first quarter. Although it was closer to what we would consider to be normal, in the middle of our range. And that is -- will be correlated with interest rates to some degree, although what we've seen consistently over the past two years is a broader diversification of our nonclient revenue across interest rate, currencies, equities importantly, credit, and to a lesser extent commodities. And we continue to invest to build the diversification into our nonclient revenues, recognizing that we're somewhat concentrated in interest rates today, and there is some correlation. Thankfully, is a lower proportion of the overall than client, which is the majority.   
+
+DAVID STUMPF: Okay.   
+
+DINA DUBLON: Thanks, Bill.   
+
+DAVID STUMPF: That's helpful, thanks.   
+
+DINA DUBLON: Okay. Another question from the phone?   
+
+OPERATOR: Our next question is coming from Frank [Glugori], an individual investor. Please ask your question.   
+
+FRANK GLUGORI (ph), PRIVATE INVESTOR, PRIVATE INVESTOR: Yeah, good morning. Nice quarter. My question is twofold.   
+
+Is there seasonality in an improving economic environment? Will there be seasonality to your earnings? I noticed last year you had a pretty good second quarter, and you kind of dropped off in the third, and you picked up in the fourth quarter. Could we expect the same seasonality this year, you know, given an improving economic environment?   
+
+And what will be the effect of the combination with Bank One? Overall for '04, would it be dilutive or would it be accretive?   
+
+DINA DUBLON: Okay. Thank you very much for the question.   
+
+On the seasonality, we do have seasonality in our earnings. Particularly -- although somewhat countering each other. We have seasonality in trading, we tend to have particularly stronger trading revenues in the first quarter than we tend to have in the summer quarter, which is the third quarter. Or, for that matter, the fourth quarter, which has a very slow December.   
+
+On the other hand, we have offsetting seasonality in the consumer businesses, where we tend to see a significant pick-up in revenues and profits. For example, in the Card business, towards the holiday season. So there are elements of seasonality, they are there, in a way, almost irrespective of the economic recovery. So that's on your seasonality.   
+
+With respect to overall the combination and the impact of the combination on earnings in the fourth quarter, we will have some more of that in a -- in the year, not in the fourth quarter, I'm sorry. Up front, for the first six months of the combination, if you are looking at it in the context of '04, we will have the issuance of shares associated with the transaction. And it is dilutive up front. So for the first half of the merger, which is the second half of '04, you would have some dilutive impact from bringing the two companies together.   
+
+What we have discussed with investors is the cumulative effect of savings that we have in putting the two companies together. There are going to be revenue synergies, and you will be hearing the two CEOs discuss it in a moment. And we will have excess capital and therefore the ability to repurchase shares or invest in the business. The combined effect of that over time is very much accretive to shareholders.   
+
+I will take a question from the room. Guy?   
+
+UNKNOWN: Thank you. If I could revisit the issue of the expense structure in the Chase Home Finance business? There was some discussion in the release of investment in the Home Equity business, which is, as you pointed out, sort of a strategic growth area.   
+
+Is there some way you can parse for us what the level of investment was there, and what the first mortgage expense base might have looked like X that investment so we can get a sense for as the origination business is winding down how you take down that expense structure?   
+
+DINA DUBLON: Well, we will be -- we generally do not break the inside the Mortgage Bank into the lines of business between Home Equity and Mortgage, so I will stay away from giving you an exact number of spending against the Home Equity. It is driving a portion of the expense increase. Most of the expense increase that you see is expense that was associated with the build-up in capacity to handle a significantly higher volume throughout the year in the Mortgage business.   
+
+That's the context in which we are looking for the expense decline for the remainder of the year. Essentially, we -- you know, the $100 million increase in expenses that you see early in the year versus the first quarter should go away.   
+
+UNKNOWN: That's fair. If I could just follow-up, then. Could you just give us a little bit of color on the nature of the insurance swing in that auto business, that $40 million or so? That's something that I don't understand.   
+
+DINA DUBLON: Sure. We have a prepaid insurance policy that we entered into three years ago. We were amortizing that policy over the life of the leases on a straight line basis. We did a review in the first quarter, and we had an accelerated pace of lease prepayments. And in that context, took a $40 million catch up charge on the amortization of the insurance premium.   
+
+Yes?   
+
+UNKNOWN: If I could go back to the picture of revenue outlook for the Retail Bank and Middle Market Banking. I take your point on expenses, but is the base quote just that interest rates are so low right now that you're getting squeezed?   
+
+DINA DUBLON: On the deposit side, is your question?   
+
+UNKNOWN: On the revenue side, in general. If we look at the Retail Bank --   
+
+DINA DUBLON: Absolutely. That is -- low interest rates help the mortgage business. By definition they help as well the card business. In certain -- you know, in the funding. On the other hand, they hurt significantly in the deposit business, in the way in which we transfer price in the institution.   
+
+UNKNOWN: Great. Thanks.   
+
+DINA DUBLON: Okay. One more question on the phones.   
+
+OPERATOR: Your next question is coming from Don Jones of Credit Suisse First Boston. Please ask your question.   
+
+DON JONES, ANALYST, CREDIT SUISSE FIRST BOSTON: Good morning. Thank you. What generally can JPMorgan do to improve its overall net interest margin as it lags considerably behind peer group average?   
+
+DINA DUBLON: We have a very different business mix than what you are comparing us to. So what you are doing is you are comparing us to a commercial bank and saying that, relative to a commercial bank, our net interest margin looks very low. We have a significant proportion of our balance sheet invested essentially in trading assets, liquid securities, which we don't hold for the purposes of interest income.   
+
+So our net interest margin tends to be, in total for the firm, significantly lower than you would find in a commercial bank. We generally, when we are looking at business revenues, et cetera, are looking at the combined impact of total revenues, not separating net interest margin from the noninterest revenue in the evaluation. That's very different in the retail businesses, and if were you comparing the net interest margin in that part of our business, it's significantly higher.   
+
+I would like to bring to a close this part of our earnings call. And invite, if I can, Bill Harrison and Jamie Dimon to join me here to really provide you an update on the merger .   
+
+They are just getting wired, for those of you on the phone who cannot see them .   
+
+BILL HARRISON, CHAIRMAN, CEO, JPMORGAN CHASE & CO.: Well welcome, everyone. Very nice to see you. Jamie and I promised to come back after the first quarter earnings and give you an update on how the merger is going, and we're very pleased to do that. We've made significant progress, and he and I will take you through sort of our observations, and where we see where we are.   
+
+Let me just give you a quick view of the deal rationale, just to remind everybody. It was to create a better mix of businesses, a better balance between some of our volatile, less volatile revenue streams, a better balance of retail, and wholesale. It was to create market leadership positions in all of our businesses, and, as you know, at JPMorgan Chase, we were -- we didn't have the scale in retail. This deal really makes us a real leader in that space. Enables us to look at continuing to play smartly in a shareholder-driven way to the continued consolidation of a very fragmented U.S. consumer market still.   
+
+The second issue of mine, leadership positions, is we know that leadership positions in any business create that incremental value. So you look at our business mix now, we have real leadership positions in almost everything we do. We're not number one at everything we do, but we really have leadership characteristics and that's where you get the incremental returns.   
+
+In terms of scale and financial strength, we've been a great believer in this for a long time. Scale is where you get the operating efficiencies. An example of that would be credit cards. We believe that, you know, if you're not in the top two or three credit card players in the next three to five years in this industry, you're going to have a tough time making the kind of returns you want, and that's where scale really comes into play. And that's true with a lot of our businesses. That scale really does matter. It creates an operating leverage.   
+
+The other question you get on scale is, have you gotten to be so big that you can't manage it? And I will just say, having gone through all these mergers, and I asked that question in every one. And I have no reason to believe thus far that we are not much better able to create value if we manage it well with the scale we have. Because you have better people, you have better operating leverage. You just have to get the culture right and you have to execute. But I have no reason to believe we can't keep doing that with this combination of Bank One and JPMorgan Chase.   
+
+The scale also, of course, leads to financial strength in terms of earnings. And, as you know, our pro forma earnings for the last year were over $10 billion, and the pro forma market cap is around $140 billion. That matters, okay? It just matters. All of this leading to, hopefully, more consistent earnings growth. Which gets a higher valuation in the marketplace.   
+
+Let me just take you through quickly the -- what we're going to cover today. We want to review the legal and regulatory time line. We want to give you an update on the merger integration, and "how we're doing" with this from a lot of different perspectives. We want to talk about some specific areas around people, technology, and financial management. Provide an update on cost saves and a review of some of the enhanced business opportunities, the synergies that we see on the revenue side coming together.   
+
+In terms of the merger integration time line, we've accomplished a lot in the last three months in terms of legal and regulatory filings. We're happy to report that the proxy statement was declared effective the day before yesterday. That gives us comfort that we are heading towards a mid-year holding company merger. We plan to have -- we've announced a shareholder meeting on May 25. And so we're looking at a mid-year closing. Assuming all of the other regulatory approvals come into place, we don't anticipate any significant problems there.   
+
+After the holding company merger mid-year, then two to three months after that, you'll have the broker/dealer merger. Two to three months after the holding company merger as well, you're going to have the bank card merger. And then the big bank merger will be later this year, or early next year. So that's sort of the time frame that we're looking at.   
+
+Now, let me talk about the merger integration process. I'll just start with the comment that, you know, if you look at a lot of these deals, I would argue look at most deals that are announced, they all look good on paper. So the concern in the marketplace is, did you pay too much and/or can you get the cultures right and execute?   
+
+I think as a price matter, we did a deal that was fair to both shareholders. Assuming that's true, then it's going to be up to us to execute this. And that gets down to how the people come together and work together. And what I will tell you there, and Jamie will I'm sure talk about this as well, is that we are doing really well. And I say that with a lot of benchmarking capabilities since I've been through so many mergers. This merger is going extremely well from all perspectives.   
+
+And, you know, the thing that's also important to understand is that when you have been through a lot of mergers, and this is true on both sides, both management teams have, as soon as the deal is announced, which was three months ago, you come together very quickly. Any issue that either firm has becomes an issue for the new firm to deal with it.   
+
+So we might want to make sure you aren't under the impression that we're saying things are going great, but what happens on mid-year when you actually close it and have to start working on it. We are working very closely together now, and that's been true since we announced the deal. And I would argue that you get a very good feel in the first two or three months as to how people are working together. And that's what we feel very good about.   
+
+One of the questions is, why do we think this is going well? And if you remember, on the day that we announced this, I made the comment that the odds were that we would have a very good merger integration here. And the reason I said that was that the -- the reason it's happening, I think, is that first of all, the strategic rationale has been accepted by almost everyone. People like it. Whether they're employees, clients, or investors, they understand it, and they did that very quickly.   
+
+Secondly, it is very complimentary. It is not an end market merger. All of our other market deals were basically end market mergers. They had a lot of overlap, and they're just much harder.   
+
+Thirdly it is not an investment banking merger, by and large. And I would argue they are much harder to do and much more risky because of the people involved.   
+
+The management experience on both sides is hugely important. And you have significant management experience with both teams. They've just been through a lot of this. You kind of know what to expect. You roll with the punches. And you get on with it.   
+
+The cultures. That's a huge deal. You know, how you operate, how you get things done. It's a huge deal in these things. And that usually creates problems in most mergers. I have been -- you know, we make a judgment as to how good or bad that's going to be, and if you really think it's bad, you don't do a deal, and it's always been a very important consideration. I thought the mergers would work well here. I think it's working even better than I think. We do things in a lot of similar ways, and that's a very, very good sign.   
+
+People see the employees like this deal because they see an opportunity to win. They really see that we can be a great, great financial institution, and that is hugely important right out of the box. They see that very clear.   
+
+Another very important point is, Jamie and I have a very good relationship. As we talked the day we rolled this out, we talked about the fact that we knew each other, have known each other for a long time. But you really don't know somebody until you start working with them. We have worked closely together for three months now. And I respect Jamie even more in terms of his talent, in terms of his values, in terms of the relationship that we have. And that's hugely important, because I would argue that the majority of mergers, that doesn't happen with the two CEOs who come together. It just doesn't.   
+
+But it is happening here. And you can count on that continuing. We will have a good relationship. And that will be very important because it does cascade down from there and throughout the company.   
+
+So another thing that's happening that is really important is, while this is a financial acquisition of JPMorgan and Bank One, we call it a merger, and we operate it as a merger, meaning that you try to get at the best of. And if you do that, you will get a lot more value out of these deals, without question. And I think that is probably happening at a pretty high level around the firm where we're going for best practice, best people, best systems, whatever, and we're doing it efficiently, and people see it as a fair process.   
+
+And I can just tell you, having been through a lot of these, as soon one side, whoever they happen to be in a particular area, sees the process not being fair, they don't want to be part of that organization. So that's all happening, and when you add it all up, it is going about as well, so far, as we could possibly hope.   
+
+Now our merger philosophy in trying to execute all of this is to make sure that the primary responsibility to do this is with the line of businesses, the staff groups, whomever they are, they have the responsibility to execute their merger plan. Overlaying all of that, we have a merger integration office that Don Layton and Heidi Miller run that keeps track of what's going on. It looks at inter-independences, if something happens here, what's the impact on another area of the bank? So we're good at that. We track that, we manage it. And then Jamie is very hands-on in all of his stuff. So the process, I think, is working about as well as we could hope.   
+
+On the organizational side, as you know, on day one we announced a lot of jobs. The announcement date three months ago, we announced an executive committee of 27 people. Now, by now, we've made business decisions, people decisions, three to four levels down in the company, over 600 jobs announced.   
+
+And our number in terms of headcount reductions is still 10,000. That's 6% of our total work force. We're working hard to redeploy people as we lay people off, but we will achieve these numbers. And the leadership of the firm, beyond just Jamie and me and a few other senior people, is working well, as I said.   
+
+And the next slide is just a cut of the Executive Committee which we announced on day one. Just to give you sort of a feel for how we're getting this group involved. We've probably had five, at least five meetings of this group. Half day kind of meetings. One whole day and a dinner. And got into a lot of stuff. And you can get a feel right there how a senior management team is probably going to work together.   
+
+We did some cultural exercises early on. The JPMorgan people on one side of the room. The Bank One people on the other side of the room. You know, what do you like or dislike about your own culture, what do you like or dislike about the other guys culture, and then you share that. And it's good stuff because you're talking about it and you need to get it out on the table and it was -- there were no major surprises there, and it's just -- it was a very healthy kind of exercise.   
+
+The other thing we did, I think is a good indicator, is every time you go through a merger you need to come up with what's your mission statement or purpose, and what are your values, and how do you behave and operate the place? Usually, that's painful. It takes a long time to do. We had a meeting, and probably in less than 2 1/2 hours generally got agreement on what we want to do around those subjects. It's very unusual. This is a good sign. So I feel good about how all that's coming together.   
+
+A few other anecdotes. We travel around a lot. A week and a half ago Jamie and I were in Texas. That's a market where everything came together in a very interesting -- in a very leadership kind of way. There's no business in Texas now that we're not really good at and really big at. Boy, you feel it. It was exciting. Town Hall meetings, we go to all the time, a good indicator of that.   
+
+I've never seen a Town Hall meeting. I had this big Town Hall meeting in Houston, 600, 700 people from both firms. There was a level of excitement that was really kind of different than most mergers. You know, you walk into most merger's Town Halls, and it's a bit of downer, because people are worried about everything and where it's going. And that's not happening. Jamie was in Europe last week seeing the people there. So it's all -- it's all good stuff, so far.   
+
+So with that, let me turn it over to Jamie.   
+
+JAMIE DIMON, CHAIRMAN, CEO, BANK ONE CORPORATION: Okay, Bill. Thank you very much.   
+
+I just want to reiterate, you know, with the opening theme that the merger is going fabulously well. I think the management teams getting along -- much is going on, but all the management teams are getting along very well. And some of the stuff I'm going to take you through, I think will demonstrate that by decisions that we've actually been making. Remember it's only 100 days in. So I think this is, at least as fast as I've ever seen it done.   
+
+On Technology/Systems the teams are working great. We've actually already decided pretty much 90% to 95% of all the major systems platforms. Some of you may know that this often becomes a battle ground for how you're going run a future company. The importance of that is not only -- we've been able to take thousands of people, programmers for example, and they're already starting to work on the actual conversions and not just making the decisions.   
+
+There's - some of the decisions were easy. Like we will be using the Bank One's retail platform, for the most part. We'll be using JPMorgan's wholesale platform, for the most part. We've also pretty much gotten very close to identifying how we're going to do the DDA system, general ledgers, data centers, et cetera. So, we have a -- we just have -- they gave a war room upstairs in 37 and the beginnings of a real calendar. So when we're going to actually do some of these conversions, so we will meet all those things. We've got some great people.   
+
+We have a few big decisions remaining. But at the end of the day, and this last point is important, we will build some of the best systems operations in the business. We have to do it. It's too critical to our company. And so we're going to put a lot of resources and do it right, not just to get it done.   
+
+And I think, if you go to the next page, on the Financial side. Again, this is an area where it -- some of it takes a long time to get it exactly right. Some might tell you, just make a bunch of statements and show you something.   
+
+Number one, we pretty much come down to how we want to report the company internally and externally. It'll be the same, which makes it a lot easier for us. It puts a lot of pressure on our management team, by the way, because there'll be six business segments. They're going to have to report them to you the same way they report internally.   
+
+We're going through all the capital allocation. Obviously, both coming to it a little different. And so we're just going to modify some a little bit. Allocate capital of six business lines. Again, what we do internally and externally will be the same for this matter.   
+
+We're doing revenue sharing. Here it says revenue sharing/expense allocation. It kind of goes a little bit beyond that. We are going to, as we go through thousands of P&Ls, have proper revenue sharing, single set of accounting, and really do expenses on a realtime basis to allocate to the businesses on what I would call an effective basis. So if we have a very ineffective data center, for example, we're only going to charge the businesses as if we were running a really good data center. We're not going to blame them for mistakes that take place.   
+
+The important part of that is they know what their economics are as they make decisions, and we get to go find out why our costs are too high in other parts of the company. It'll be very detailed. It means that there will be a large unallocated expense at Corporate, a little bit different than JPMorgan had, and we had it. And so you'll see a little bit of that and, obviously, be moving around a little bit at the beginning.   
+
+As far as transfer pricing, I think a bunch of you asked a question on interest rate exposures and what happens to narrow margins. Again, this is by product, it's not by business. So that we -- the businesses know what they're responsible for in managing, kind of, unstructural interest rate risk. And then, obviously, Global Treasury will continue to be managed pretty much on the same basis as JPMorgan does it. We want to get the incentives right, and we want the management team to know what they're going to do by product if interest rates go up, as we fully expect them to do.   
+
+We're doing all these conforming accounting policies and purchase accounting. All the goodwill will be kept with the parent. All the purchase accounting like deposits and PCs here all push down to the business units. So we'll have a real simple set of accounting which is the same. We're not done there yet. There's a lot to do.   
+
+And obviously, reserving methodology, you know, this is not an accounting statement I'm about to make, it's just simply we like to have strong reserves and we're going to make sure that we have a very strong balance sheet going forward.   
+
+And obviously, financial operating metrics, and operating, to me, is I think, very important in a business with customer service, attrition, you know, client volumes, et cetera. So that we know whenever you go somewhere, exactly how the business is performing, how much capital you have at risk, what the returns are.   
+
+SVA will be used in the Investment Bank but probably not in any other business. The Investment Bank is really a way to manage trading risks, kind of by desk. But I think in Card, I'm not sure it adds relevant value anywhere else. And the disclosures you should expect to see will start -- will start at the end of the third quarter, and hopefully get better over time, because we've got a lot of things to put together here.   
+
+The next page actually shows you what those segments are going to be. I'll just take a minute to describe them each. I don't know if you can see that. It's kind of small.   
+
+Investment Bank is the Investment Bank that JPMorgan has today, plus part of our large Corporate. In effect, some of that will be moved into the Investment Bank, but not all of it. A lot of it will be moved down to another segment called Commercial Banking.   
+
+Global Treasury, which JPMorgan had in the Investment Bank, will now go into Corporate. So there will be a separate line for it. So Corporate will include Global Treasury, and it will not be in the Investment Bank.   
+
+Card Services is the business you already know. It'll be broken out separately. And, you know, all these businesses, by the way, you'll be able to compare to the best in the business. So Investment Banking you can compare to Investment, Goldman Sachs and Morgan Stanley. And Card, you can compare to Citi and MBNA, and Commercial Banking and Retail you can compare to Fells Fargo. So Card will include merchant processing, which I think is a very good business, and we're going to spend a lot of time on.   
+
+Retail will be the branches Consumer Lending and Mortgage. Here we probably will continue to break out a lot of information on Mortgage because it's large, it's volatile, and it's much easier to show it to you than have to explain it to you every quarter. And obviously, it is a very large segment.   
+
+Commercial Banking is new. It's really our Middle Market, plus Chase's Middle Market, plus Chase's Mid Corporate, plus we are adding about half of our Large Corporate, plus all of our Real Estate. So you now have a very large segment called Commercial Banking. It's traditional Commercial Banking done in the regions. We do hope it will generate hundreds of millions of dollars of Investment Banking product, and other product.   
+
+A gentleman from JPMorgan Chase is going to run it, Todd [Maclund] out of Chicago. And all these business segments probably will be earning somewhere around -- some a lot more, but almost all of them will be earning at least a billion dollars, all in.   
+
+Asset and Wealth Management is basically the same segment you have today at JPMorgan, plus our Private Client business, which Jes Staley will be running.   
+
+Treasury and Security Services, three businesses. Heidi will be running it. It's Custody, Cash Management and Trust. And the cash management business will include Bank One's Cash Management business. In setting up this segment, there will be a little bit of to-ing and fro-ing about how we split revenues and profits between some of the segments. The disclosure will get better over time.   
+
+What we hope to do is a lot of this in the third quarter. So it will be kind of sloppy, but I think it's more important we start now and then perfect it later than wait for perfection and never quite get there. So -- and then we had plan '05 we can do a much more detailed and diligent basis.   
+
+Next page just shows you the remaining segments, in which they are -- I think I've already mentioned everything else on this page.   
+
+If you going to page 12. Cost saves, we mentioned $2.2 billion. We are still comfortable and confident in the $2.2 billion. Obviously, a lot more work has been done. Next week we're spending time with all the business units and a couple weeks after with all the staff units to make sure it's achievable. Both Bill and I are very comfortable that'll happened. I want to note the point at the -- we don't know the exact timing yet. We're going to do it right. I'm just less concerned about the timing than I am about the doing it right.   
+
+But the bottom point is the most important. We are going to do it after making all the right decisions. We're not going to make any dumb decisions to accomplish $2.2 billion, and we're completely comfortable we'll get to $2.2 billion after making the right investments in systems, which we do need to do.   
+
+Some of these jobs, as Bill mentioned, you know, the Company in total is already, you know, a couple thousand below budgeted headcount. So we are going to use attrition as our friend and do as much as possible, both cheap and the right way to treat our own people.   
+
+Next page shows you the merger, what it's going to cost to get there. The $3 billion that saves. Remember cost, remember those costs, some will be purchase accounted, some of these go through the expense statement. We'll kind of break it out for you. You know, we don't really know that number yet, and to me, the more the merrier. You know, we find a lot of stuff that we can get out, like Real Estate, we're going to do it. And if that costs us $5 billion, so be it. We have plenty of capital.   
+
+We will be generating a lot of capital. Current estimates are, you know, when we did pro formas to buy back three and a half billion of stock.   
+
+I think the really important thing is we will have a lot of excess capital. It'll either be deployed in buying back stock or in reinvesting our businesses, and we're pretty comfortable to be able to generate that. I think we showed you, your Tier 1 was 8.4, ours was -- Bank One's was 10.2 and the combined will be something under 9. And maybe next time we'll be talking a little bit about financial targets, which we haven't done yet.   
+
+Purchase accounting is also going to be moving around a bit. A lot of little items and little decisions are going to be made. Again, we don't think it's going to materially change what we told you, but now we're getting into -- the devil's in the details, here. It won't change the economics of the deal at all.   
+
+So, we've made a tremendous amount of progress in the infrastructure issues, and hopefully we're going to continue there, and when we see you in three months we'll give you a lot more update on some of those issues. And with that, I'll turn it over, back to Bill.   
+
+BILL HARRISON: So Jamie and I are going to take you through some of the businesses, just to talk about some of the potential opportunities on enhanced revenue synergies. As we said on the announcement date, we weren't going to try to define these soon. We're not going to give you a number today, but we do think that there is significant opportunities here, and we'll give you just a general feel for what we've seen.   
+
+On the Investment Banking side, while this was not an Investment Banking merger per se, it is very value-added to the Investment Bank from several perspectives. First of all, we'll have a lot more capital and a lot more clients, because Bank One did have a lot of good client relationships. And I want to come back to that.   
+
+As a perception matter by our own clients, and the rest of the world, we are just a bigger player because of this, they see. I was in Europe two months ago, just -- this deal is a big deal in Europe, because I think the firms there, the clients there see two or three big firms emerging in the United States and really having an opportunity to be the real leaders globally, and we're one of those. And when that happens, people have a tendency to notice you more and want to do more business with you. And that's what we're going to try to take advantage of. So it is very positive from an overall Investment Banking perspective.   
+
+In terms of the Bank One clients, that Jamie talked about a little bit, they should be tremendous cross-sell opportunities, not only with the large corporate client base they had, but with their middle market client base, with our product set. We have made a lot of joint pitches already. We've gotten a bunch of mandates on IPOs to bonds to whatever. And I think we are going to have some significant opportunities there.   
+
+On the negative side, we do have some concentrations that come out of some of these client relationships that we will manage. The good news is, we have a lot less than we did in say the Morgan Chase merger just because of the respective size in that business. But where we do have them, we will thoughtfully manage them down. We've got a great process going on internally. We had one before the merger. We will continue that. And we have a good economy. So we don't have to do this tomorrow. We'll do it in a thoughtful way so we don't damage the client relationships. And the bottom line is, even with these combinations, we have more diversity.   
+
+On the Asset and Wealth Management side, as we've talked to you before, the combined business will have over a trillion dollars in client assets. It expands our investment offering in the United States, especially in mutual funds. And by combining the strong performance of Bank One's income, fixed income mutual funds, with JPM's product range, we create the fourth largest mutual fund complex in the U.S. And this strength and breadth should help us retain and attract more clients in the future.   
+
+We also see some significant opportunities with our retirement plan services, and defined contribution products that came out of JPM, with One's corporate clients, as a cross-sell matter. The Asset and Wealth Management business has also identified best practices, and one of the great things with mergers, you do see best practices. You tend to think you're doing something really well, and you sit down with your counterpart and you say, wow, they're doing it better.   
+
+So one of the things here is growing -- is using mutual funds, using our distribution in the retail branches with our mutual fund product. Bank One in the first quarter distributed roughly $527 million of their own mutual funds through their consumer network, branch system. At Chase, we distributed $64 million. A big opportunity. A big opportunity. And you see that it can be done.   
+
+And lastly, the firm will have no gaps in coverage in the Private Banking space. JPMorgan is very upscale, $25 million and above kind of client relationships we're after. Bank One tended to be between 2 and that number. And so -- and that's a huge market. That is a much bigger market than the pure upscale market. Both of them are very attractive markets. And then we have the whole range covered, and then with the branch system, you've got the real low range of wealth management opportunity coverage. So, I'm very excited about that long term.   
+
+The key to this business is making sure during this merger process you keep the service levels up, and we're working hard on that. We've been through it before. We kind of know what we need to do.   
+
+So with that, over to you, Jamie.   
+
+JAMIE DIMON: Thank you. Page 17, Treasury and Security Services. To just give you some quick examples, we sold our Trust business to JPMorgan. When we did that, we had an internal number that we were eventually going to lose $10 million of net profit because we no longer offered from the cash management loss and losing the trust business. Well obviously we're going to keep that between the consolidated company.   
+
+In Trust Services, Investor Services, Custody, we simply lost business because we didn't have the same global capability. We didn't have custody at all in our product set. So you can see right off the bat there should be multiple cross-selling opportunities. Obviously, this business has to go through fairly complex conversions, and that will take a little bit of time, so.   
+
+On Commercial Banking, you know, this is an example, I think where Bill and I kind of changed midstream, and we decided that this segment, we actually should beef up and add coverage, so that the Middle -- the Commercial Banking will be covering just something like 750 or 1,000 clients today. It's a lot more than either company alone, in the regions. They hope to generate Investment Banking product. Remember, the 500 clients are those who come out of Bank One, we did not have most Investment Banking products that JPMorgan has to offer.   
+
+We had debt and asset back to conduit. We did not have equity. We didn't have most of the derivatives, didn't have a lot of the FX, and we think that should be very beneficial. And the trick here is to cover the client properly, as we make, you know, certain migrations of products and platforms and bankers.   
+
+The third, Retail. You know, we think the opportunities are very large in retail. And you're going to end up with a very good systems and marketing platform. Both companies have very good product sets. You know, in one case the product set in the small business was better at Chase than at Bank One. That's been adopted.   
+
+We're going to have a method -- if you see the papers today, you see there's now free checking at Chase, which they didn't have. We're just starting to do with direct deposit. We have some established management people, and I think you're going to see a lot of cross-selling between insurance, asset management product, with some of the best systems and training.   
+
+So we're pretty comfortable we'll get these done. Again, these one will be Chase platform. We'll have to go through a major conversion. Both companies have done that before, and we hope to do that sometime mid year next year.   
+
+So with that, I will turn it back to -- Oh, I'm sorry, Card Services. Card, by the way, we never really talked about revenue enhancements and stuff, we talked about mostly cost saves. There are clearly opportunities on how we price credit, offer credit, we do young --   
+
+OPERATOR: Once again, to ask a question, please press star one on your touchtone telephone at this time.   
+
+JAMIE DIMON: -- marketing, create more cards, and create a deeper product set. So in this business, we do fully expect we'll both get a good solid round of cost savings and some real margin and revenue enhancement as we kind of cross-market our product set over time.   
+
+And one was on the slide, the incremental interchange revenue. Read that as Visa and Master Card both want our business. We do expect that we will be successful in negotiating a more attractive deal.   
+
+So, with that, I'll turn it over to Bill.   
+
+BILL HARRISON: So, just to summarize, I think we've accomplished a great deal over the first 100 days. The merger integration from a cultural perspective is going as well as we could possibly hope, and that's very important the first couple years of these deals, increased conviction on cost saves, and enhanced opportunities on the revenue synergies --   
+
+OPERATOR: Once again to ask question, that is star followed by one on your touchtone telephone.   
+
+BILL HARRISON: -- so we're off to a very good start. We've got a lot of hard work to do. We're not declaring victory. But I think we feel good about it.   
+
+So we'd love to take some questions. There's not a whole lot of more detail we're going to be able to give you, but we'll take a shot at anything. Yes?   
+
+UNKNOWN: Yeah, the high level as you think about capital deployment. As we forecast the share issuance, capital issuance, and then the returns on that, the ROE drops down to something like 11%. How do you think about capital? Some of the responses that I have heard from Investor Relations have been, well, just look at what Banc of America and Fleet are going to do, watch that one. The other responses, look at return on tangible capital. But as shareholders, if you're investing capital for us, how would you have us think about it? Shouldn't we expect a return on that capital, on the intangibles?   
+
+JAMIE DIMON: Jamie, Dina, why don't you take a shot at that? If you listen -- if you're getting goodwill, we are going to include intangibles in how we look at returns, but not goodwill. In goodwill, I can go through different arguments why it doesn't really make any difference at all. The Investment Bank, if you go business by business, each of those businesses you've code numbered yourself what they should be earning to be a good competitor.   
+
+So Investment Banking, it should be 20% to 25% through a cycle. Commercial banking 20% to 25% through a cycle. Credit card, you know, 15% to 25% through a cycle. Retail, which should be 30%, in my opinion. And what -- Asset Management, I'm not sure it's the proper way to look at it. We look more at margins in TSS. We look more at margins. That's how you should look at it. If we really perform. Now, all our businesses aren't there, but that's how we should be looking at it.   
+
+DINA DUBLON: If I may just add a comment, we will earn a return on total shareholders equity for the firm. So whether we allocate goodwill to the line of business or don't allocate goodwill to the line of business, we will earn a return on the total shareholders equity.   
+
+Having said that, the equity that we now have is an equity that the book value of it has been marked up to market value, right? So if I -- we earn exactly the same dollar amount at Bank One, just earning the first quarter annualized, we will still have a lower book equity return. Just because the equity has been marked up. We will target a return for the firm that is higher than the cost of equity. On the overall equity of the firm. Even though at the line of business level, we are not allocated the goodwill. In part, not to mask the performance across different businesses that have different levels of goodwill. Kind of MIS.   
+
+So you know, the Investment Bank, the JPMorgan Chase acquisition was a pooling. The accounting is such that you didn't mark up the equity level. It doesn't mean, right, that you are not going to be looking for very high returns on both, even though the accounting is going to look very different.   
+
+BILL HARRISON: Another question? Yes. There's a mic coming.   
+
+UNKNOWN: I was wondering if you could give us a little bit more of a feel as to exactly how you're going to bring the credit card business and, separately, the investment management businesses together in order to capture some of those synergies? How many of the decisions, at least, have you made already as to, for example, which operating centers you'll retain, which ones you'll be moving away from on the credit card side?   
+
+And on the investment management side, my thought is, it would seem that you would want to move very quickly to identify what you want to keep and where you want to put things together so that you can retain the people that you want to. So those are the two areas that I'm interested in your comments.   
+
+BILL HARRISON: The bottom line, and we can get Jamie to comment on this, we're moving very fast on all of this, I mean remarkably fast. So -- and you do that for a lot of reasons. First of all organizations want to move fast. And secondly, you need to do it to stabilize your people so you don't create problems. But in cards --   
+
+JAMIE DIMON: In credit cards, the big platform decision will be FDR [Tesis], remember we were moving to [Tesis]. Either way, we're going to save a lot of money. We're going to convert to just one. Either way have you duplicate corporate staff overheads. So we do know those.   
+
+We have identified a lot of operating sites. I'm not going to go through that here for obvious reasons. But we do have in mind which ones will stay and which ones won't. And mostly based on cost effectiveness, how big they are, 24/7, locations to time zones, and stuff like that.   
+
+And we have -- and on the marketing kind of pricing side and credit side, you know, we are, matter of fact, meeting next week on it. There are clear opportunities -- Sure, Bank One, for example, we had a lot of margin compression sometime last year and now you see margin expansion. We weren't doing enough repricing and depricing. We're going to be doing a little bit of that on ours, based upon the knowledge that Chase has, and visa versa. We think it's a real opportunity. So, yes, we've made some of them, and others we're just still analyzing.   
+
+BILL HARRISON: At Input Management, in an announcement date, we named Paul [Baitman] who is on the JPMorgan Fleming side, came out of Fleming, as head of Global Asset Management. So right off the bat, Paul was getting involved with Jes and helping make those decisions. And Jes, we've made a lot of them. You might just comment on that.   
+
+JES STALEY, ASSET & WEALTH MANAGEMENT, JPMORGAN CHASE & CO.: Yeah, I think the critical thing on the Asset Management side was on the fixed income side, and we announced very early on that we're going to keep both fixed income engines. Gary Maddox will be the CIO for the Heritage One platform in Columbus, which will be maintained. Patty Cook will be the CIO in New York for the Heritage Morgan platform, both reporting to Seth Bernstein. The response back from institutional clients' consultants has already been very, very positive.   
+
+To Bill's point, I think we were very quick out of the box. And the critical thing for us in bringing these businesses together is to preserve the high quality investment engines that you have. So you sort of want to do the opposite of what a merger thinks or might drive you to. It's not to get synergies by putting people together. It's really preserving the investment engines that you have that clients have entrusted the money with.   
+
+BILL HARRISON: Let's take a question on the phone.   
+
+OPERATOR: We do have a question coming from Andy Collins of Piper Jaffray. Please pose your question.   
+
+BILL HARRISON: Hello, Andy.   
+
+ANDY COLLINS: Good afternoon. Just a couple of questions on the time line for cost savings recognition. I wonder if there's been any change there?   
+
+And second, kind of a related question. Have you -- you know, there's been a quarter now, and I was wondering if you could sort through your cost savings goals, if there is upside to, you know, wholesale Card Or Corporate, where it might be?   
+
+JAMIE DIMON: You know, I think I -- I don't know if you just joined the call, but $2.2 billion, we still confirm. We're very comfortable that Jes is making the right investments, and we don't really know the timetable until we do a bottoms up. So we have the same model in there. We will probably know more in the next quarter. We'll tell you then. It shouldn't be that materially different.   
+
+ANDY COLLINS: Okay.   
+
+JAMIE DIMON: And we'll update if the 2.2 changes dramatically, but I I think you -- hopefully you sense that there's confidence in the 2.2.   
+
+ANDY COLLINS: Definitely do.   
+
+JAMIE DIMON: Let me put it this way. It won't be less.   
+
+ANDY COLLINS: Okay. Thank you.   
+
+BILL HARRISON: Another question from the phone?   
+
+OPERATOR: There are no further questions at this time on the phone line.   
+
+BILL HARRISON: Yes?   
+
+UNKNOWN: Is it on? You moved the Treasury Management out of the Investment Bank. Does this reflect any changes in how you're thinking about managing the interest rate risk in the combined company? And are there any benefits with the combined companies put together in terms of, you know, facing up to potentially rising rates?   
+
+JAMIE DIMON: You know, the issue, number one, is it really -- it doesn't really belong in the Investment Bank. It's a much bigger company today. And there's interest rate exposures in all of these businesses. You're really taking the best of both worlds. JPMorgan does a great job of managing structural interest rate risk. And Global Treasury Management will continue the same way. Just the location on how it rolls up will be different.   
+
+I think Bank One did a very good job of managing interest rate exposure in the business unit, nonstructural. Like, how are you going to reprice this kind of deposit and reprice that kind of deposit and reprice credit card marketing when your cost of 12-month zero teasers changes, which obviously will change as the interest rates change.   
+
+So, it'll be the best of both worlds, and we're going to have a very diligent team. They've met. They've all been working on it to make sure we really understand it , both at the business level and then what resides at corporate.   
+
+BILL HARRISON: This is an example in prior merges where that subject took over a year to sort of debate and decide on, and we have a lot of experience on both sides. We've got a group of six or seven people. Had some two or three very thoughtful meetings and made a decision everybody was totally comfortable with.   
+
+UNKNOWN: Second one, a related question which is, the Bank One's traditionally run with a fortress balance sheet with a high Tier 1 capital, those are very high equity to assets, high leverage ratio. JPMorgan Chase is run with a high Tier 1 but a low leverage ratio. Occasionally flirting with, sort of, the 5%.   
+
+How are you going to sort of reconcile those two approaches? How are you thinking about capital? Have you reconciled differences, which is really trying to manage risk fundamentally, you know, away from those, you know, ratios? Are you fairly much now in sync on those kinds of issues as well?   
+
+JAMIE DIMON: Yeah, I'll answer the first one. You know, Bank One had too -- we had too much excess capital, so we were sitting there buying back stock and we were probably raising the dividend a couple of times, and we were looking for acquisitions, made a bunch. So there was no reason to run with capital way in excess of what you need, particularly when you have constant sources to get it if you need it.   
+
+I think both of us say we want a really strong fortress balance sheet type concept, and when we finish going through capital and risk and how much we can bear and going through really bad environments, we're going to try to be much more specific with you in that number. But it should be a healthy Tier 1 number and a very strong balance sheet at the end of the day.   
+
+BILL HARRISON: Yes?   
+
+UNKNOWN: Can you talk about overlaps of some corporate customers? And I'm curious as you look at that, first of all, has there been any leakage here post-merger of clients just, some slipping out? And as you look at it, can you sort of guesstimate what the revenues or you know, give us some more color on that?   
+
+BILL HARRISON: We don't have a lot of overlap that should be significant from a revenue perspective. The comment I made was you have some when you have a credit concentration that's more than we want. But what we'll do with those clients is go to them and say we want to get it down from A to B, we'll do it over time, we'll still be a major credit -- maybe you're still your largest credit provider. If you do that smartly, they're fine with it. We don't lose a lot of revenue in that piece.   
+
+Where you have the other client overlaps, in terms of both firms having a relationship, well, what I was saying is that in a lot of the One clients, particularly the middle market clients and some of the corporate clients, we bring a much broader product set. So we should be enhancing revenue from that.   
+
+UNKNOWN: You're not assuming any revenue attrition?   
+
+BILL HARRISON: You'll have -- I'm saying it's not material. The net net effect of that will be much more positive on revenue synergy than a loss of revenue.   
+
+Yes?   
+
+UNKNOWN: Are you open to looking at credit card portfolio acquisitions during the integration period? Are you more biased towards getting the platforms together before you look at that whether private label or bank card?   
+
+JAMIE DIMON: Are you asking to hear from JPMorgan Chase or somebody else you're covering?   
+
+UNKNOWN: No, for you guys.   
+
+JAMIE DIMON: We -- no -- I mean, I would say the answer is yes, because we, you know, we just did -- we just closed Circuit City, literally, as we're doing this deal. You know, if it's -- high hurdles to do it, because of conversions, consolidation, what platform they're on, but we wouldn't absolutely rule it out.   
+
+BILL HARRISON: Question on the phone?   
+
+OPERATOR: We do have a question coming from Nancy Bush of NAB Research. Place pose your question.   
+
+NANCY BUSH, ANALYST, NAB RESEARCH: Hi, Jamie. Just a quick question on the retail branding issue. How -- when do you expect that, you know, you will have made the decision about Bank One versus JPMorgan Chase at the retail level?   
+
+JAMIE DIMON: I hope that when we all talk to you at the end of next quarter we'll give you the complete run-down in branding. That's what we're aiming for. And it would be nice to get that behind us so we can all move on.   
+
+NANCY BUSH: Is there some sort of, you know, research that's being done at this point, some firm out there?   
+
+JAMIE DIMON: Oh yeah, we're doing extensive research. Remember the Retail/Commercial Bank will either be Bank One or Chase. We're doing extensive research. A lot of sub issues about what you call certain products and product lines, and hopefully that will all be done by the next time we talk to you. I don't think it will affect the deal in any way, shape, or form.   
+
+NANCY BUSH: Okay. And also on the credit card, the FDR versus [Tesis] platform, is there sort of a timeframe in mind, right now?   
+
+JAMIE DIMON: Yeah, very soon. Like in the next two weeks.   
+
+NANCY BUSH: Thank you.   
+
+JAMIE DIMON: I mean, we're very close, as we speak. And you can tell those guy, 'cause they have to come back one more round of bids, too.   
+
+UNKNOWN: Jamie, if I heard you correctly when we were talking about disclosure, I think you said that SBA was only going to be disclosed for the Investment Bank.   
+
+JAMIE DIMON: Right.   
+
+UNKNOWN: It makes sense for some of the other businesses, for example, Cards. Could you expand on that? Because obviously there are certain risk profiles that both use the balance sheet.   
+
+JAMIE DIMON: You know, we will use risk based stuff in pricing card portfolios and prime equity and stuff like that. But I think, as a public shareholder, and, you know, for the most part, JPMorgan used 12% in capital. And you know, if we earned 20% in the Card business, we're up 8% over 12% SBA. I just -- to me it's the same number, and I don't want to -- I want our business people to talk about one number.   
+
+Because, you know, they tend to talk about SBA. If that's modestly positive, then I look at a 14% return as being too little. So I think it is effective in certain businesses. And so it's a different thing. I don't think it adds a lot of quality to reporting in Retail Or Credit Card Or Commercial Banking.   
+
+Yes?   
+
+UNKNOWN: Jamie, with Bank One, you sort of gradually, over time, moved a fair amount of business into kind of a -- either a discontinued portfolio, or somehow ran off or sold businesses that you didn't really think met sort of the appropriate risk and reward characteristics for the company. As you look at JPMorgan's business mix, are there significant pools of assets or revenues where you feel that same issue exists, where over time, from a risk characteristic standpoint, you would look to identify with JPMorgan management, sort of those areas that you feel less comfortable with?   
+
+JAMIE DIMON: I think, you know, one of the things that Bill mentioned when we did the first analyst thing was that the equity, you know, One Equity Partner, JPMorgan Partner, should be less than 10% of the combined equity.   
+
+And I forgot to mention, that's -- JPMorgan Partners will not be a segment, it'll be in Corporate, as will One Equity Partners We'll still disclose what you need to see, but it's not a business line on the same nature as other ones.   
+
+I think that both companies -- I think that if we feel that there are assets we want to get out of the businesses, we will be aggressive in getting it out of them. Whatever the cost. Because, you know, problems like that don't age well. We might as well just take the hit and move on. But I don't think there are massive things you should expect to see that happen to.   
+
+BILL HARRISON: Any other questions? One last question on the phone?   
+
+OPERATOR: Our last question is coming from Danny Hassan of North Sound. Please pose your question.   
+
+DANNY HASSAN, ANALYST, NORTH SOUND: Yeah, Hi, guys. Thanks for taking the question. Two questions. One, Jamie, on the last call or the merger call, you talked about potentially a JPMorgan branded card. I was wondering if you could elaborate a little bit on that?   
+
+And then the second question is, in your presentation here, you say that those opportunities have transformed the merchant acquiring business, and I was wondering if you could talk about, you know some of the ideas behind doing that.   
+
+JAMIE DIMON: Yeah. Merchant processing we don't know the answer to yet. And actually, we're spending time on it next week sometime. We have -- we own 52 -- payment tax, Chase merchant services, it's a 50/50 joint venture with FDR. I'd be surprised if there're not opportunities, I couldn't identify them for you. So it won't be worse.   
+
+And the other question is about the JPMorgan card is wrong. Someone pointed it out to Donnelly, who pointed it out to me five minutes after the analyst call, that there is in fact a JPMorgan card. But that doesn't mean there won't be opportunities to market and figure out what to do with it. I certainly think we have a card that can, you know, that little black card that some people spend $2,000 dollars for an American Express, we may want to try to outdo that at one point.   
+
+DANNY HASSAN: Is this the kind of card where you could have the --   
+
+BILL HARRISON: In summary, I think both of us are pleased with our respective earnings in the first quarter, that we stayed focused on the business. That's our intent. And we're also pleased that we're off to a very good start in terms of merger integration. So thanks for being with us today.   
+
+DINA DUBLON: Thank you.   
+
+OPERATOR: Thank you for your participation. That does conclude this afternoon's teleconference.   
+
+[CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.   
+
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.   
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. ]   
+
+Document FNDW000020040505e04l000v7
+
