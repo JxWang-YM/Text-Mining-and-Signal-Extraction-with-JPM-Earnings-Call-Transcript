@@ -1,1 +1,2 @@
-# Text-Mining-and-Signal-Extraction-with-JPM-Earnings-Call-Transcript
+# Text Mining and Signal Extraction with JPM Earnings Call Transcript
+
