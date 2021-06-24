@@ -23,6 +23,7 @@ The other predicting feature, EPS spread, was created by subtracting the realize
 Methodology
 ------------
 Text Statistical Analysis
+------------------------
 In order to get a better sense of the contents of EC transcripts we performed a textual statistical analysis. More specifically, we examined the frequency of words that appear in the JP Morgan transcripts and used word cloud and Zipf’s curve as visualization.
 As the first step, we did a preliminary cleaning to the text in order to remove high frequency words with no particular meaning such as stopwords and the names of the speakers. We then displayed the text frequency using the Zipf’s curve.
 As Zipf’s Law stated, the frequency of any word is inversely proportional to its rank in the frequency table. In other words, the occurrence of the most frequent word should be approximately twice as often as that of the second most frequent word. In the graph presented below, the red line in the plot shows the expected word frequency and the blue bar shows the actual word frequency, which indicates that several actual occurrences of words did not strictly follow Zipf’s distribution in our case.
